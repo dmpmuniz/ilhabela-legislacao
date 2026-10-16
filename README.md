@@ -1,11 +1,11 @@
 # Legislação Municipal de Ilhabela/SP — em Markdown
 
-**10.539 normas materiais do município de Ilhabela/SP** — leis, decretos,
-portarias, resoluções e afins — convertidas para arquivos Markdown organizados
-e prontos para:
+**18.045 normas do município de Ilhabela/SP** — leis, decretos, portarias,
+resoluções, e também os atos de pessoal (nomeações, exonerações, aposentadorias,
+pensões) — convertidas para arquivos Markdown organizados e prontos para:
 
 - 🔎 **pesquisar** — busca por texto em qualquer editor ou ferramenta, sem portal lento no caminho
-- 🤖 **usar com IA** — os arquivos funcionam em qualquer assistente/RAG; inclui um pacote pronto para o Google NotebookLM, com arquivo de instruções/persona
+- 🤖 **usar com IA** — pacote pronto para o Google NotebookLM em **duas categorias** (com ou sem atos de pessoal), cada uma com arquivo de instruções/persona
 - 📚 **estudar e reaproveitar** — domínio público, use à vontade, sem pedir permissão
 
 Cada norma traz metadados (ano, tipo, status, ementa) e o link da fonte original.
@@ -22,22 +22,24 @@ organização é oferecida sob [CC0 1.0](LICENSE).
 
 | Pasta | Conteúdo |
 |---|---|
-| `leis/` | 10.539 arquivos `.md` — uma norma por arquivo, com metadados no cabeçalho |
-| `notebooklm/` | **9 partes** prontas para o Google NotebookLM + `00-INSTRUCOES.md` (persona e regras para a IA) |
+| `leis/` | **18.045 arquivos** `.md` — uma norma por arquivo, com metadados no cabeçalho (tudo: leis, decretos, portarias e atos de pessoal) |
+| `notebooklm/` | Pacote para o Google NotebookLM em duas categorias — veja o [`notebooklm/LEIA-ME.md`](notebooklm/LEIA-ME.md) |
 
-## O que NÃO está aqui (e por quê)
+## As duas categorias do pacote NotebookLM
 
-**Atos de pessoal individual** não entram neste acervo: nomeações, exonerações,
-aposentadorias, pensões e afins (~7.5 mil atos no total). Motivos:
+São dois recortes diferentes do mesmo acervo — **nenhum é "incompleto"**:
 
-- **sem valor normativo** — um ato que nomeia ou exonera um servidor específico
-  não fundamenta pesquisa jurídica; o que fundamenta são as normas que regem o
-  instituto (o Estatuto dos Servidores está aqui, o decreto que nomeia fulano não)
-- **respeito a pessoas** — evita transformar o acervo num diretório de nomes de
-  servidores, mesmo sendo dados públicos
+| Categoria | O que tem | Para quem |
+|---|---|---|
+| **todas-as-normas** (18.045) | Tudo, incluindo atos de pessoal | Provar nomeação/exoneração, histórico funcional, posse |
+| **sem-atos-pessoal** (10.539) | As mesmas normas, menos os atos de pessoal individual | **Recomendada para pesquisa jurídica com IA**: menos ruído e sem diretório de nomes |
 
-Na dúvida, o ato **fica** — o filtro é conservador. Se precisar de um ato de
-pessoal, ele existe no [portal da fonte](https://www.cespro.com.br/visualizarLegislacao.php?cdMunicipio=8969).
+Cada categoria traz: arquivo **único** (uso local), **partes** prontas para
+upload (arquivo único não sobe: passa do limite de 500 mil palavras por fonte)
+e **instruções próprias** para a IA (`00-INSTRUCOES-…`). Os nomes das partes
+levam a categoria no início — para ninguém misturar os conjuntos num mesmo
+notebook sem perceber. Detalhes e passo a passo no
+[`notebooklm/LEIA-ME.md`](notebooklm/LEIA-ME.md).
 
 ## Formato de cada norma
 
@@ -78,7 +80,7 @@ DECRETO MUNICIPAL Nº 001, DE 01/01/2001
 
 ### Busca local
 
-Qualquer editor busca em 10 mil arquivos. Exemplos:
+Qualquer editor busca em 18 mil arquivos. Exemplos:
 
 ```bash
 # quem fala de poda/corte de árvores?
@@ -91,26 +93,18 @@ cat leis/LEI_MUNICIPAL_466_2007.md
 ### Google NotebookLM
 
 1. Crie um notebook em [notebooklm.google.com](https://notebooklm.google.com)
-2. Adicione `00-INSTRUCOES.md` e as 9 partes como fontes
+2. Escolha UMA categoria (veja a tabela acima) — um notebook por categoria
+3. Adicione o `00-INSTRUCOES-…` da categoria e as partes `…-01.md` a `…-NN.md`
 
 Detalhes que valem saber:
 
-- **Por que 9 arquivos:** o NotebookLM limita cada fonte em **500.000 palavras
-  ou 200 MB** (o que vier primeiro, em todos os planos). A compilação tem ~3,7
-  milhões de palavras, dividida em partes de ≤450 mil — todas cabem num único
-  notebook (o plano gratuito aceita 50 fontes).
 - **Ordem de upload não importa:** o NotebookLM recupera trechos relevantes de
-  todas as fontes a cada pergunta. O que faz o `00-INSTRUCOES.md` funcionar é o
-  **conteúdo** (regras explícitas cuja linguagem casa com as perguntas), não a
-  posição na fila.
-- **O nome do arquivo vira o nome da fonte** no notebook (na lista de fontes e
-  nas citações) — por isso os nomes são explícitos. O que a IA lê é o conteúdo,
-  com os títulos como cabeçalhos.
+  todas as fontes a cada pergunta. O que faz o `00-INSTRUCOES` funcionar é o
+  **conteúdo** (regras explícitas), não a posição na fila.
+- **O nome do arquivo vira o nome da fonte** no notebook — por isso cada parte
+  leva a categoria no nome.
 - Se o seu notebook oferecer configuração nativa de instruções/respostas, cole
-  lá também o conteúdo do `00-INSTRUCOES.md` — cinto e suspensório.
-
-As partes estão em ordem cronológica e cada norma mantém título como cabeçalho
-e metadados — as citações do NotebookLM apontam a norma certa.
+  lá também o conteúdo do `00-INSTRUCOES` — cinto e suspensório.
 
 ### Antes de usar em algo sério, três cuidados
 

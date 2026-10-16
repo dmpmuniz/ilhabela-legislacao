@@ -1,0 +1,44 @@
+---
+id: 200501015
+ref: ilh-2005-dec-1015
+tipo: decreto
+numero: 1015
+ano: 2005
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+data_vigencia: "2005-03-01"
+titulo: "DECRETO MUNICIPAL Nº 1.015, DE 10/05/2005"
+ementa: "DISPÕE SOBRE A NOMEAÇÃO DA SENHORA LEILA FERREIRA DOS SANTOS, PARA EXERCER, EM COMISSÃO, O CARGO DE ASSISTENTE DE SECRETARIA II."
+aliases:
+  - Decreto 1015/2005
+  - Decreto nº 1015/2005
+  - Decreto 1015
+  - Decreto nº 1015
+  - Decreto Municipal nº 1015
+  - Decreto Municipal 1015
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200501015&NroLei=1.015&Word=&Word2="
+coletado_em: "2026-10-11"
+sha256_raw: "4ec2615fa1005b458969cc64cb17c514b7629451031c4f1134a3b98836b5a14d"
+versao_formato: "1.1"
+---
+DECRETO MUNICIPAL Nº 1.015, DE 10/05/2005
+DISPÕE SOBRE A NOMEAÇÃO DA SENHORA LEILA FERREIRA DOS SANTOS, PARA EXERCER, EM COMISSÃO, O CARGO DE ASSISTENTE DE SECRETARIA II.
+MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica nomeada a Senhora LEILA FERREIRA DOS SANTOS, brasileira, solteira, portadora da Cédula de Identidade RG nº 33.599.176-2, do CPF/MF nº 299.518.248-70, para exercer em comissão nos termos da
+Lei Municipal 318
+, datada de 29 de dezembro de 2004 e o
+Decreto Municipal nº 935
+, datado de 15 de março de 2005, lotada na Secretaria Municipal de Educação, o cargo de Assistente de Secretaria II, referência 10.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos a 01 de março de 2005.
+##### Art. 3º
+Revogadas as disposições em contrário.
+Ilhabela, 10 de maio de 2005.
+MANOEL MARCOS DE JESUS FERREIRA
+Prefeito Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+SAJ/rcm

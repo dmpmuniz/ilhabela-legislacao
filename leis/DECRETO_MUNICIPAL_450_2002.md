@@ -1,0 +1,41 @@
+---
+id: 200200450
+ref: ilh-2002-dec-450
+tipo: decreto
+numero: 450
+ano: 2002
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "DECRETO MUNICIPAL Nº 450, DE 16/09/2002"
+ementa: "DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MIGUEL AZEVEDO DE OLIVEIRA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS CAT. I."
+aliases:
+  - Decreto 450/2002
+  - Decreto nº 450/2002
+  - Decreto 450
+  - Decreto nº 450
+  - Decreto Municipal nº 450
+  - Decreto Municipal 450
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200450&NroLei=450&Word=&Word2="
+coletado_em: "2026-10-11"
+sha256_raw: b70e75c84003414d2d751e07fb2a8ace576e7e24873e0ef4bce7f95696426fbe
+versao_formato: "1.1"
+---
+DECRETO MUNICIPAL Nº 450, DE 16/09/2002
+DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MIGUEL AZEVEDO DE OLIVEIRA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS CAT. I.
+MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Fica nomeado o Senhor MIGUEL AZEVEDO DE OLIVEIRA, brasileiro, solteiro, portador da Carteira de Identidade RG: 47.019.291-4 e do CPF: 222.145.368-92, para exercer, no quadro de funcionários permanente, a função de Auxiliar de Serviços Gerais Cat. I, nos termos da
+Lei Municipal nº 649
+, de 29 de julho de 1997, com alterações da
+Lei Municipal nº 884
+de 05 de janeiro de 2000, referência 01.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, operando seus efeitos a partir de 30 de setembro do corrente exercício.
+Ilhabela, 16 de setembro de 2002.
+MANOEL MARCOS DE JESUS FERREIRA
+Prefeito Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/dabsj
