@@ -1,0 +1,36 @@
+---
+id: 20201432
+ref: ilh-2020-lei-1432
+tipo: lei
+numero: 1432
+ano: 2020
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "LEI MUNICIPAL Nº 1.432, DE 27/08/2020"
+ementa: "ACRESCE DISPOSITIVOS NA LEI MUNICIPAL Nº 1.415/2020, QUE DISPÕE, EM ATENDIMENTO À EMENDA CONSTITUCIONAL Nº 103/2019 , SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO (PLANO DE CUSTEIO), BEM COMO SOBRE O PLANO DE AMORTIZAÇÃO E RESPECTIVOS APORTES PARA O EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - ILHABELAPREV E DÁ OUTRAS PROVIDÊNCIAS."
+aliases:
+  - Lei 1432/2020
+  - Lei nº 1432/2020
+  - Lei 1432
+  - Lei nº 1432
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20201432"
+coletado_em: "2026-10-11"
+sha256_raw: "4a7569e4d0ca55219f3b624f538488cb73d462a83e19957f35a63d3bf4e98f6a"
+versao_formato: "1.1"
+---
+LEI MUNICIPAL Nº 1.432, DE 27/08/2020
+ACRESCE DISPOSITIVOS NA LEI MUNICIPAL Nº 1.415/2020, QUE DISPÕE, EM ATENDIMENTO À
+EMENDA CONSTITUCIONAL Nº 103/2019
+, SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO (PLANO DE CUSTEIO), BEM COMO SOBRE O PLANO DE AMORTIZAÇÃO E RESPECTIVOS APORTES PARA O EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - ILHABELAPREV E DÁ OUTRAS PROVIDÊNCIAS.
+A PREFEITA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:
+##### Art. 1º
+Insere os
+arts. 3º-A ao 3º-D na Lei Municipal nº 1.415/2020
+, com a seguinte redação:
+##### Art. 3º-A.
+Fica instituído, após estudo específico realizado pela Autarquia Municipal Previdenciária, o Plano de Amortização destinado ao equacionamento do Déficit Técnico Atuarial, definido da seguinte maneira:
+Ano
+Aportes
+2020

@@ -1,0 +1,64 @@
+---
+id: 20141033
+ref: ilh-2014-lei-1033
+tipo: lei
+numero: 1033
+ano: 2014
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "LEI MUNICIPAL Nº 1.033, DE 14/04/2014"
+ementa: "DISPÕE SOBRE A DESINCORPORAÇÃO DA CLASSE DE BENS DE USO PÚBLICO E TRANSFERÊNCIA PARA A DE BENS PATRIMONIAIS, TERRENOS MUNICIPAIS, E AUTORIZA A DOAÇÃO AO GOVERNO DO ESTADO DE SÃO PAULO."
+aliases:
+  - Lei 1033/2014
+  - Lei nº 1033/2014
+  - Lei 1033
+  - Lei nº 1033
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141033&NroLei=1.033&Word=&Word2="
+coletado_em: "2026-10-11"
+sha256_raw: "476397bd4946ac3d1b77f992565c3af899e5c88b685b5b067887ac22079c9013"
+versao_formato: "1.1"
+---
+Versionamento:
+Clique abaixo, e tenha acesso aos textos atualizados
+conforme as datas e leis de referência:
+Versão Original
+Versão COMPILADA
+Versão CONSOLIDADA
+LEI MUNICIPAL Nº 1.033, DE 14/04/2014
+DISPÕE SOBRE A DESINCORPORAÇÃO DA CLASSE DE BENS DE USO PÚBLICO E TRANSFERÊNCIA PARA A DE BENS PATRIMONIAIS, TERRENOS MUNICIPAIS, E AUTORIZA A DOAÇÃO AO GOVERNO DO ESTADO DE SÃO PAULO.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+Faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+##### Art. 1º
+Ficam desincorporadas da classe de bens de uso público e transferidas para a de bens de uso patrimonial as áreas de terrenos a seguir descritas, de propriedade da Prefeitura Municipal, neste Município de Ilhabela, Estado de São Paulo, a saber:
+Matrícula: 29.737 - Área total do terreno: 360,00m². Descrição: Um terreno constituído pelo lote nº onze (11), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 12,00m (doze metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 360,00m² (trezentos e sessenta metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com a Viela quadra "G", do lado esquerdo com o lote nº dez (10) e nos fundos com o lote nº trinta (30); cadastrado sob o nº 8950.0700.0110.
+Matrícula: 29.738 - Área total do terreno: 360,00m². Descrição: Um terreno constituído pelo lote nº doze (12), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 12,00m (doze metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 360,00m² (trezentos e sessenta metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com o lote nº (13), do lado esquerdo com a viela quadra "G" e nos fundos com o lote nº vinte e nove (29); cadastrado sob o nº 8950.0700.0120.
+Matrícula: 29.739 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº treze (13), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com o lote nº quatorze (14), do lado esquerdo com o lote nº doze (12) e nos fundos com o lote nº vinte e oito (28); cadastrado sob o nº 8950.0700.0130.
+Matrícula: 29.740 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº quatorze (14), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com o lote nº quinze (15), do lado esquerdo com o lote nº treze (13) e nos fundos com o lote nº vinte e sete (27); cadastrado sob o nº 8950.0700.0140.
+Matrícula: 29.741 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº quinze (15), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com o lote nº dezesseis (16), do lado esquerdo com o lote nº quatorze (14) e nos fundos com o lote nº vinte e seis (26); cadastrado sob o nº 8950.0700.0150.
+Matrícula: 29.742 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº dezesseis (16), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com o lote nº dezessete (17), do lado esquerdo com o lote nº quinze (15) e nos fundos com o lote nº vinte e cinco (25); cadastrado sob o nº 8950.0700.0160.
+Matrícula: 29.743 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº dezessete (17), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua Três (3), do lado direito de quem desta Rua olha para o imóvel, com o lote nº dezoito (18), do lado esquerdo com o lote nº dezesseis (16) e nos fundos com o lote nº vinte e quatro (24); cadastrado sob o nº 8950.0700.0170.
+Matrícula: 29.750 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº vinte e quatro (24), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com o lote nº vinte e cinco (25), do lado esquerdo com o lote nº vinte e três (23) e nos fundos com o lote nº dezessete (17); cadastrado sob o nº 8950.0700.0240.
+Matrícula: 29.751 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº vinte e cinco (25), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com o lote nº vinte e seis (26), do lado esquerdo com o lote nº vinte e quatro (24) e nos fundos com o lote nº dezesseis (16); cadastrado sob o nº 8950.0700.0250.
+Matrícula: 29.752 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº vinte e seis (26), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com o lote nº vinte e sete (27), do lado esquerdo com o lote nº vinte e cinco (25) e nos fundos com o lote nº quinze (15); cadastrado sob o nº 8950.0700.0260.
+Matrícula: 29.753 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº vinte e sete (27), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com o lote nº vinte e oito (28), do lado esquerdo com o lote nº vinte e seis (26) e nos fundos com o lote nº quatorze (14); cadastrado sob o nº 8950.0700.0270.
+Matrícula: 29.754 - Área total do terreno: 300,00m². Descrição: Um terreno constituído pelo lote nº vinte e oito (28), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 10,00m (dez metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 300,00m² (trezentos metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com o lote nº vinte e nove (29), do lado esquerdo com o lote nº vinte e sete (27) e nos fundos com o lote nº treze (13); cadastrado sob o nº 8950.0700.0280.
+Matrícula: 29.755 - Área total do terreno a ser desapropriada: 360,00m². Descrição: Um terreno constituído pelo lote nº vinte e nove (29), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 12,00m (doze metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 360,00m² (trezentos e sessenta metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com a viela quadra "G", do lado esquerdo com o lote nº vinte e oito (28) e nos fundos com o lote nº doze (12); cadastrado sob o nº 8950.0700.0290.
+Matrícula: 29.756 - Área total do terreno: 360,00m². Descrição: Um terreno constituído pelo lote nº trinta (30), da quadra "G", do desmembramento denominado "Vila São José", situado no Bairro do Perequê, no Distrito e Município de Ilhabela, nesta comarca, medindo 12,00m (doze metros) de frente, igual medida nos fundos, por 30,00m (trinta metros) da frente aos fundos, de ambos os lados, encerrando uma área de 360,00m² (trezentos e sessenta metros quadrados), confinando pela frente com a Rua São José, do lado direito de quem desta Rua olha para o imóvel, com o lote nº trinta e um (31), do lado esquerdo com a viela quadra "G" e nos fundos com o lote nº onze (11); cadastrado sob o nº 8950.0700.0300.
+##### Art. 2º
+Fica a Prefeitura Municipal autorizada a doar as áreas de terrenos mencionadas no artigo anterior ao Governo do Estado de São Paulo, para a construção de uma Escola de Ensino Médio.
+##### Art. 3º
+O Governo do Estado de São Paulo fica obrigado a iniciar e a terminar a construção da Escola mencionada no artigo anterior, no prazo de 3 (três) anos, contados da data da lavratura da escritura de doação.
+§ 1º
+Na hipótese de o Governo do Estado de São Paulo não atender às condições deste artigo e findo prazo nele estipulado, as áreas de terrenos objeto desta Lei reverterão ao Patrimônio Municipal, sem qualquer ônus para a Prefeitura Municipal de Ilhabela.
+§ 2º
+Da mesma forma reverterão para o Patrimônio Municipal, as edificações e as benfeitorias realizadas nos terrenos doados, caso seja desvirtuada a finalidade ou descumpridas as condições da doação, independentemente de qualquer ressarcimento de valores ou pagamento de indenização pela Municipalidade.
+##### Art. 4º
+Esta Lei entra em vigor na data de sua publicação.
+Ilhabela, 14 de abril de 2014.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Projeto de Lei nº 014/2014
+Autoria: Executivo Municipal
+Registrada em Livro próprio e afixada na data supra no lugar de costume.

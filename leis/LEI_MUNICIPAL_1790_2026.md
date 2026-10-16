@@ -1,0 +1,288 @@
+---
+id: 20261790
+ref: ilh-2026-lei-1790
+tipo: lei
+numero: 1790
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "LEI MUNICIPAL Nº 1.790, DE 29/05/2026"
+ementa: "ALTERA OS ARTS. 1.º E 2.º DA LEI MUNICIPAL N.º 1.783, DE 19 DE MAIO DE 2026, E DÁ OUTRAS PROVIDÊNCIAS."
+aliases:
+  - Lei 1790/2026
+  - Lei nº 1790/2026
+  - Lei 1790
+  - Lei nº 1790
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20261790"
+coletado_em: "2026-10-11"
+sha256_raw: "80a5c36d691e5ded93721edb79518e949f66f1347d4fa5bdeda7d76c180c5664"
+versao_formato: "1.1"
+---
+LEI MUNICIPAL Nº 1.790, DE 29/05/2026
+ALTERA OS ARTS. 1.º E 2.º DA LEI MUNICIPAL N.º 1.783, DE 19 DE MAIO DE 2026, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+##### Art. 1º
+Fica alterado o
+##### art. 1º da Lei Municipal nº 1.783/2026
+, que passará a vigorar com a seguinte redação:
+"Art. 1º Fica autorizada a abertura de créditos adicionais especiais no orçamento do Município da Estância Balneária de Ilhabela, no valor global de R$ 119.785.649,56 (cento e dezenove milhões, setecentos e oitenta e cinco mil, seiscentos e quarenta e nove reais e cinquenta e seis centavos), com recursos provenientes do superávit financeiro do exercício anterior obtido junto ao Fundo Soberano do Município da Estância Balneária de Ilhabela - FSMI, em conformidade com o
+##### art. 5º, § 1º, I, e § 2º da Lei Complementar nº nº 1.333
+, de 21 de novembro de 2018, suplementando os seguintes órgãos municipais e dotações, a saber:
+I - Órgão 01 - GABINETE DO PREFEITO:
+a) Unidade 01 - GABINETE DO PREFEITO - Proj./Ativ. 2010 - GESTÃO ADMINISTRATIVA - GABINETE:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 01.01.04.122.1010.2.010.339039.93.1400000 - Valor: R$ 2.610.000,00;
+b) Unidade 01 - GABINETE DO PREFEITO - Proj./Ativ. 2013 - MOMENTO CÍVICO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 01.01.04.813.1010.2.013.339039.93.1400000 - Valor: R$ 1.500.000,00.
+II - Órgão 02 - GOVERNO:
+a) Unidade 01 - GESTÃO ESTRATÉGICA - Proj./Ativ. 2020 - GESTÃO ADMINISTRATIVA - GOVERNO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 02.01.04.122.1020.2.020.339039.93.1400000 - Valor: R$ 200.000,00;
+b) Unidade 01 - GESTÃO ESTRATÉGICA - Proj./Ativ. 2022 - PUBLICIDADE INSTITUCIONAL:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 02.01.04.131.1020.2.022.339039.93.1400000 - Valor: R$ 2.300.000,00;
+c) Unidade 01 - GESTÃO ESTRATÉGICA - Proj./Ativ. 2024 - S.O.S TRABALHO, QUALIFICAÇÃO PROFISSIONAL E ALFABETIZAÇÃO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 02.01.04.334.1020.2.024.339036.93.1400000 - Valor: R$ 1.226.649,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 02.01.04.334.1020.2.024.339039.93.1400000 - Valor: R$ 1.832.000,00;
+d) Unidade 02 - FUNDO SOCIAL DE SOLIDARIEDADE - Proj./Ativ. 2025 - APRIMORAMENTO, CAPACITAÇÃO E QUALIFICAÇÃO PARA O DESENVOLVIMENTO DA CIDADANIA:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 02.02.04.333.1021.2.025.339036.93.1400000 - Valor: R$ 50.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 02.02.04.333.1021.2.025.339039.93.1400000 - Valor: R$ 100.000,00.
+III - Órgão 04 - GESTÃO FINANCEIRA:
+a) Unidade 01 - FAZENDA - Proj./Ativ. 2043 - GESTÃO TRIBUTÁRIA:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 04.01.04.129.1040.2.043.339039.93.1400000 - Valor: R$ 2.000.000,00.
+IV - Órgão 05 - ADMINISTRAÇÃO:
+a) Unidade 01 - ADMINISTRAÇÃO - Proj./Ativ. 2052 - GESTÃO INTEGRADA DE RECURSOS E SERVIÇOS:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 05.01.04.121.1050.2.052.339030.93.1400000 - Valor: R$ 763.076,67;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 05.01.04.121.1050.2.052.339036.93.1400000 - Valor: R$ 950.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 05.01.04.121.1050.2.052.339039.93.1400000 - Valor: R$ 7.471.255,73;
+Elemento de Despesa: AUXÍLIO ALIMENTAÇÃO;
+Dotação (criar) - 05.01.04.121.1050.2.052.339046.93.1400000 - Valor: R$ 4.248.866,68;
+Elemento de Despesa: AUXÍLIO TRANSPORTE;
+Dotação (criar) - 05.01.04.121.1050.2.052.339049.93.1400000 - Valor: R$ 940.000,00;
+b) Unidade 01 - ADMINISTRAÇÃO - Proj./Ativ. 2054 - TECNOLOGIA DA INFORMAÇÃO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 05.01.04.126.1050.2.054.339039.93.1400000 - Valor: R$ 623.801,48;
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 05.01.04.126.1050.2.054.449052.93.1400000 - Valor: R$ 1.000.000,00.
+V - Órgão 06 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL:
+a) Unidade 01 - GESTÃO DE APOIO AO SUAS - Proj./Ativ. 1060 - EQUIPAMENTOS E INSTALAÇÕES:
+Elemento de Despesa: EQUIPAMENTO E MATERIAL PERMANENTE;
+Dotação (criar) - 06.01.08.122.1060.1.060.449052.93.1400000 - Valor: R$ 16.000,00;
+b) Unidade 01 - GESTÃO DE APOIO AO SUAS - Proj./Ativ. 2060 - GESTÃO ADMINISTRATIVA - SOCIAL:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 06.01.08.122.1060.2.060.339039.93.1400000 - Valor: R$ 550.000,00;
+c) Unidade 01 - GESTÃO DE APOIO AO SUAS - Proj./Ativ. 2061 - REGIME DE ADIANTAMENTO - SOCIAL:
+Elemento de Despesa: DIÁRIAS - PESSOAL CIVIL;
+Dotação (criar) - 06.01.08.122.1060.2.061.339014.93.1400000 - Valor: R$ 20.000,00;
+d) Unidade 01 - GESTÃO DE APOIO AO SUAS - Proj./Ativ. 2063 - BENEFÍCIOS SOCIOASSISTENCIAIS:
+Elemento de Despesa: PASSAGENS E DESPESAS COM LOCOMOÇÃO;
+Dotação (criar) - 06.01.08.244.1060.2.063.339033.93.1400000 - Valor: R$ 10.000,00;
+e) Unidade 02 - PROTEÇÃO SOCIAL BÁSICA - Proj./Ativ. 2066 - SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS - SCFV:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 06.02.08.245.1061.2.066.335039.93.1400000 - Valor: R$ 611.000,00;
+f) Unidade 03 - PROTEÇÃO SOCIAL ESPECIAL - Proj./Ativ. 2069 - SERVIÇO DE ACOLHIMENTOS DA PROTEÇÃO SOCIAL ESPECIAL DE ALTA COMPLEXIDADE:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA - TC;
+Dotação (criar) - 06.03.08.245.1062.2.069.335039.93.1400000 - Valor: R$ 2.661.600,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 06.03.08.245.1062.2.069.339039.93.1400000 - Valor: R$ 1.081.400,00.
+VI - Órgão 07 - EDUCAÇÃO:
+a) Unidade 01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - Proj./Ativ. 1070 - INFRAESTRUTURA E INSTALAÇÕES:
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 07.01.12.122.1070.1.070.449052.93.1400000 - Valor: R$ 1.000.000,00;
+b) Unidade 01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - Proj./Ativ. 2071 - OPERAÇÃO, MANUTENÇÃO E APOIO ADMINISTRATIVO:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 07.01.12.122.1070.2.071.339030.93.1400000 - Valor: R$ 500.000,00;
+c) Unidade 02 - ENSINO INFANTIL - CRECHE 0 A 03 ANOS - Proj./Ativ. 1071 - INFRAESTRUTURA E INSTALAÇÕES - CRECHE:
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 07.02.12.365.1070.1.071.449052.93.2040000 - Valor: R$ 600.000,00;
+d) Unidade 03 - ENSINO INFANTIL - PRÉ-ESCOLA 03 A 05 ANOS - Proj./Ativ. 1072 - INFRAESTRUTURA E INSTALAÇÕES - PRÉ ESCOLAS:
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 07.03.12.365.1070.1.072.449052.93.2050000 - Valor: R$ 500.000,00;
+e) Unidade 03 - ENSINO INFANTIL - PRÉ-ESCOLA 03 A 05 ANOS - Proj./Ativ. 2075 - OPERAÇÃO, MANUTENÇÃO E APOIO ADMINISTRATIVO DO ENSINO INFANTIL:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 07.03.12.365.1070.2.075.339030.93.2050000 - Valor: R$ 1.000.000,00;
+f) Unidade 04 - ENSINO FUNDAMENTAL - Proj./Ativ. 1073 - INFRAESTRUTURA E INSTALAÇÕES - ENSINO FUNDAMENTAL:
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 07.04.12.361.1070.1.073.449052.93.2060000 - Valor: R$ 4.000.000,00;
+g) Unidade 04 - ENSINO FUNDAMENTAL - Proj./Ativ. 2076 - OPERAÇÃO, MANUTENÇÃO E APOIO ADMINISTRATIVO DO ENSINO FUNDAMENTAL:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 07.04.12.361.1070.2.076.339030.93.2060000 - Valor: R$ 2.500.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 07.04.12.361.1070.2.076.339039.93.2060000 - Valor: R$ 13.700.000,00;
+h) Unidade 06 - MERENDA ESCOLAR - Proj./Ativ. 2077 - MERENDA ESCOLAR NO ENSINO INFANTIL:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 07.06.12.365.1070.2.077.339030.93.2040000 - Valor: R$ 1.075.284,06;
+i) Unidade 06 - MERENDA ESCOLAR - Proj./Ativ. 2078 - MERENDA ESCOLAR NO ENSINO FUNDAMENTAL:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 07.06.12.361.1070.2.078.339030.93.2060000 - Valor: R$ 1.027.315,94;
+j) Unidade 07 - MAIS EDUCAÇÃO - Proj./Ativ. 2271 - TRANSPORTE ESCOLAR:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 07.07.12.361.1070.2.271.339039.93.2060000 - Valor: R$ 500.000,00;
+Dotação (criar) - 07.07.12.365.1070.2.271.339039.93.2060000 - Valor: R$ 400.000,00;
+k) Unidade 09 - EDUCAÇÃO ESPECIAL - Proj./Ativ. 2276 - APOIO A ENTIDADES DE TERCEIRO SETOR:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 07.09.12.367.1070.2.276.335039.93.1400000 - Valor: R$ 197.400,00.
+VII - Órgão 09 - CULTURA:
+a) Unidade 01 - GESTÃO ADMINISTRATIVA - Proj./Ativ. 2092 - CAPACITAÇÃO DE SERVIDORES:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.01.13.122.1090.2.092.339039.93.1400000 - Valor: R$ 40.000,00;
+b) Unidade 01 - GESTÃO ADMINISTRATIVA - Proj./Ativ. 2093 - PUBLICIDADE INSTITUCIONAL - CULTURA:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.01.13.131.1090.2.093.339039.93.1400000 - Valor: R$ 200.000,00;
+c) Unidade 02 - INCENTIVO À LEITURA - Proj./Ativ. 2094 - GESTÃO DE BIBLIOTECAS:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.02.13.392.1091.2.094.339039.93.1400000 - Valor: R$ 100.000,00;
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 09.02.13.392.1091.2.094.449052.93.1400000 - Valor: R$ 30.000,00;
+d) Unidade 02 - INCENTIVO À LEITURA - Proj./Ativ. 2096 - FLAI - FEIRA LITERÁRIA DO ARQUIPÉLAGO DE ILHABELA:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 09.02.13.392.1091.2.096.339030.93.1400000 - Valor: R$ 50.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 09.02.13.392.1091.2.096.339036.93.1400000 - Valor: R$ 30.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.02.13.392.1091.2.096.339039.93.1400000 - Valor: R$ 300.000,00;
+e) Unidade 03 - EQUIPAMENTOS CULTURAIS - Proj./Ativ. 2097 - GESTÃO DE EQUIPAMENTOS HISTÓRICOS CULTURAIS:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.03.13.392.1092.2.097.339039.93.1400000 - Valor: R$ 470.000,00;
+f) Unidade 03 - EQUIPAMENTOS CULTURAIS - Proj./Ativ. 2098 - GESTÃO DE CENTROS CULTURAIS:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.03.13.392.1092.2.098.339039.93.1400000 - Valor: R$ 340.000,00;
+g) Unidade 04 - INCENTIVO À CULTURA LOCAL - Proj./Ativ. 2291 - ESTÍMULO AO MÚSICO LOCAL:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 09.04.13.392.1093.2.291.339036.93.1400000 - Valor: R$ 200.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.04.13.392.1093.2.291.339039.93.1400000 - Valor: R$ 100.000,00;
+h) Unidade 04 - INCENTIVO À CULTURA LOCAL - Proj./Ativ. 2292 - ESTÍMULO AO ARTISTA LOCAL:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 09.04.13.392.1093.2.292.339036.93.1400000 - Valor: R$ 100.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.04.13.392.1093.2.292.339039.93.1400000 - Valor: R$ 150.000,00;
+i) Unidade 04 - INCENTIVO À CULTURA LOCAL - Proj./Ativ. 2293 - PARCERIAS CULTURAIS:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 09.04.13.392.1093.2.293.339030.93.1400000 - Valor: R$ 50.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.04.13.392.1093.2.293.335039.93.1400000 - Valor: R$ 150.000,00;
+j) Unidade 05 - DIFUSÃO CULTURAL - Proj./Ativ. 2295 - INCENTIVO À CULTURA TRADICIONAL POPULAR:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 09.05.13.392.1093.2.295.339030.93.1400000 - Valor: R$ 50.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.05.13.392.1093.2.295.339039.93.1400000 - Valor: R$ 500.000,00;
+k) Unidade 05 - DIFUSÃO CULTURAL - Proj./Ativ. 2296 - FESTIVAIS CULTURAIS:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 09.05.13.392.1093.2.296.339030.93.1400000 - Valor: R$ 40.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.05.13.392.1093.2.296.339039.93.1400000 - Valor: R$ 300.000,00;
+l) Unidade 05 - DIFUSÃO CULTURAL - Proj./Ativ. 2298 - APOIO ÀS ATIVIDADES CULTURAIS:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.05.13.392.1093.2.298.339039.93.1400000 - Valor: R$ 400.000,00;
+m) Unidade 05 - DIFUSÃO CULTURAL - Proj./Ativ. 2299 - EQUIPAMENTOS E ESTRUTURAS NÃO PERMANENTES:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 09.05.13.392.1093.2.299.339039.93.1400000 - Valor: R$ 400.000,00.
+VIII - Órgão 10 - ESPORTE:
+a) Unidade 01 - GESTÃO ADMINISTRATIVA - Proj./Ativ. 2100 - GESTÃO ADMINISTRATIVA - ESPORTE:
+Elemento de Despesa: VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL;
+Dotação (criar) - 10.01.04.122.1100.2.100.319011.93.1400000 - Valor: R$ 500.000,00;
+Elemento de Despesa: OBRIGAÇÕES PATRONAIS;
+Dotação (criar) - 10.01.04.122.1100.2.100.319013.93.1400000 - Valor: R$ 120.000,00;
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 10.01.04.122.1100.2.100.449052.93.1400000 - Valor: R$ 360.000,00;
+b) Unidade 02 - MUITO MAIS ESPORTES - Proj./Ativ. 2102 - DESPORTO COMUNITÁRIO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 10.02.27.812.1101.2.102.339039.93.1400000 - Valor: R$ 705.000,00;
+c) Unidade 02 - MUITO MAIS ESPORTES - Proj./Ativ. 2103 - PROMOÇÕES DESPORTIVAS:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 10.02.27.813.1101.2.103.339030.93.1400000 - Valor: R$ 360.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 10.02.27.813.1101.2.103.339039.93.1400000 - Valor: R$ 545.000,00;
+d) Unidade 03 - ESPORTE PARA TODOS - Proj./Ativ. 2106 - ESPORTES NÁUTICOS:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 10.03.27.812.1102.2.106.339030.93.1400000 - Valor: R$ 250.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 10.03.27.812.1102.2.106.339039.93.1400000 - Valor: R$ 100.000,00;
+e) Unidade 03 - ESPORTE PARA TODOS - Proj./Ativ. 2107 - AJUDA DE CUSTO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 10.03.27.811.1102.2.107.339036.93.1400000 - Valor: R$ 20.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 10.03.27.811.1102.2.107.339039.93.1400000 - Valor: R$ 40.000,00;
+f) Unidade 03 - ESPORTE PARA TODOS - Proj./Ativ. 2109 - PROJETO MELHOR IDADE EM AÇÃO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 10.03.27.812.1102.2.109.339039.93.1400000 - Valor: R$ 100.000,00.
+IX - Órgão 13 - OBRAS E PLANEJAMENTO URBANO:
+a) Unidade 02 - INFRAESTRUTURA URBANA - Proj./Ativ. 1304 - REVITALIZAÇÃO DE ESPAÇOS PÚBLICOS:
+Elemento de Despesa: OBRAS E INSTALAÇÕES;
+Dotação (criar) - 13.02.15.451.1132.1.304.449051.93.1400000 - Valor: R$ 36.320.000,00.
+X - Órgão 14 - SERVIÇOS URBANOS:
+a) Unidade 01 - GESTÃO DOS SERVIÇOS URBANOS - Proj./Ativ. 2146 - MANUTENÇÃO DE ESPAÇOS PÚBLICOS:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 14.01.15.452.1141.2.146.339039.93.1400000 - Valor: R$ 8.500.000,00.
+XI - Órgão 15 - MOBILIDADE E SEGURANÇA:
+a) Unidade 01 - MOBILIDADE E SEGURANÇA URBANA - Proj./Ativ. 2173 - DEMOLIÇÃO DE OBRAS IRREGULARES:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 15.01.16.127.1131.2.173.339039.93.1400000 - Valor: R$ 500.000,00;
+b) Unidade 01 - MOBILIDADE E SEGURANÇA URBANA - Proj./Ativ. 2150 - GESTÃO ADMINISTRATIVA - MOBILIDADE:
+Elemento de Despesa: VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL;
+Dotação (criar) - 15.01.04.122.1150.2.150.319011.93.1400000 - Valor: R$ 400.000,00;
+Elemento de Despesa: OBRIGAÇÕES PATRONAIS;
+Dotação (criar) - 15.01.04.122.1150.2.150.319013.93.1400000 - Valor: R$ 145.000,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 15.01.04.122.1150.2.150.339039.93.1400000 - Valor: R$ 800.000,00;
+Elemento de Despesa: EQUIPAMENTOS E MATERIAL PERMANENTE;
+Dotação (criar) - 15.01.04.122.1150.2.150.449052.93.1400000 - Valor: R$ 200.000,00;
+c) Unidade 01 - MOBILIDADE E SEGURANÇA URBANA - Proj./Ativ. 2151 - REGIME DE ADIANTAMENTO - MOBILIDADE:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 15.01.04.122.1150.2.151.339039.93.1400000 - Valor: R$ 2.000,00;
+d) Unidade 01 - MOBILIDADE E SEGURANÇA URBANA - Proj./Ativ. 2152 - SERVIÇOS DE SEGURANÇA:
+Elemento de Despesa: OUTRAS DESPESAS DE PESSOAL DECORRENTES DE CONTRATOS DE TERCEIRIZAÇÃO;
+Dotação (criar) - 15.01.04.181.1151.2.152.339034.93.1400000 - Valor: R$ 500.000,00;
+Elemento de Despesa: AUXÍLIO ALIMENTAÇÃO;
+Dotação (criar) - 15.01.04.181.1151.2.152.339046.93.1400000 - Valor: R$ 500.000,00;
+e) Unidade 01 - MOBILIDADE E SEGURANÇA URBANA - Proj./Ativ. 2158 - OPERAÇÃO DE TRANSPORTE AQUAVIÁRIO:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 15.01.26.784.1153.2.158.339039.93.1400000 - Valor: R$ 4.253.000,00.
+XII - Órgão 22 - FUNDACI:
+a) Unidade 01 - FUNDACI - Proj./Ativ. 2470 - GESTÃO INSTITUCIONAL DA FUNDACI:
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 22.01.13.122.3003.2.470.339039.93.1100000 - Valor: R$ 11.928,00;
+b) Unidade 01 - FUNDACI - Proj./Ativ. 2472 - OFICINA DE CULTURA:
+Elemento de Despesa: MATERIAL DE CONSUMO;
+Dotação (criar) - 22.01.13.392.3003.2.472.339030.93.1100000 - Valor: R$ 20.323,84;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA;
+Dotação (criar) - 22.01.13.392.3003.2.472.339036.93.1100000 - Valor: R$ 220.500,00;
+Elemento de Despesa: OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA;
+Dotação (criar) - 22.01.13.392.3003.2.472.339039.93.1100000 - Valor: R$ 375.288,16;
+c) Unidade 01 - FUNDACI - Proj./Ativ. 2473 - AUXÍLIO BOLSA ORQUESTRA:
+Elemento de Despesa: OUTROS AUXÍLIOS FINANCEIROS A PESSOA FÍSICA;
+Dotação (criar) - 22.01.13.392.3003.2.473.339048.93.1100000 - Valor: R$ 171.960,00.
+TOTAL A SUPLEMENTAR: R$ 119.785.649,56"
+##### Art. 2º
+Fica alterado o
+##### art. 2º da Lei Municipal nº 1.783/2026
+, que passará a vigorar com a seguinte redação:
+"Art. 2º Para atender a abertura dos créditos adicionais especiais de que trata o artigo anterior, e conforme o disposto nos
+arts. 40
+,
+41
+,
+42
+,
+43, § 1º, I e seguintes da Lei Federal nº 4.320
+, de 17 de março de 1964, os recursos serão oriundos de superávit financeiro do exercício anterior, na fonte 93 - Recursos Próprios de Fundos Especiais de Despesa - Vinculados - Exercícios Anteriores, depositados nas contas correntes junto ao Banco do Brasil S/A, Agência 4694/Ilhabela-SP, sob nº 012324-2 e Caixa Econômica Federal, Agência 3334/Ilhabela-SP, sob nº Conta: 575229662-1."
+##### Art. 3º
+Esta Lei entrará em vigor na data de sua publicação.
+Ilhabela, 29 de maio de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Projeto de Lei n° 060/2026
+Autoria: Executivo Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.

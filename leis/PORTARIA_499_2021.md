@@ -1,0 +1,37 @@
+---
+id: 20210499
+ref: ilh-2021-port-499
+tipo: portaria
+numero: 499
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 499, DE 28/06/2021"
+ementa: DESIGNA O SENHOR CLOVIS CLEMENCIO DE MOURA PARA SUBSTITUIR O CARGO DE SUPERVISOR DE CONTROLE E OPERAÇÃO.
+aliases:
+  - Portaria 499/2021
+  - Portaria nº 499/2021
+  - Portaria 499
+  - Portaria nº 499
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210499"
+coletado_em: "2026-10-11"
+sha256_raw: "49d1532c1fc8a3586d175b41dea5300b5741031758374d9da1c0833c14c598de"
+versao_formato: "1.1"
+---
+PORTARIA Nº 499, DE 28/06/2021
+DESIGNA O SENHOR CLOVIS CLEMENCIO DE MOURA PARA SUBSTITUIR O CARGO DE SUPERVISOR DE CONTROLE E OPERAÇÃO.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:-
+##### Art. 1º
+Designa o Senhor CLOVIS CLEMENCIO DE MOURA, Servidor Público Municipal, portador do RG: 32.094.072- X, para substituir o cargo de Supervisor de Controle e Operação, com direito à percepção da diferença dos vencimentos do seu cargo para a ref. 14, o servidor NELSON CARLOS DA SILVA, ao período de 07/06/2021 a 26/06/2021, por motivos de Férias.
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 07 de junho de 2021.
+Ilhabela, 28 de junho de 2021.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+BERNADETE DE LOURDES RIBEIRO
+Coordenador de Processos Administrativos de Pessoas
+Registrado em livro próprio e afixado na data supra, no lugar de costume.
+DRH/blr/2020.
