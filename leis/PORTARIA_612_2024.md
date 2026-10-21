@@ -1,0 +1,118 @@
+---
+id: 2024612
+ref: ilh-2024-port-612
+tipo: portaria
+numero: 612
+ano: 2024
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 612, DE 16/05/2024"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 612/2024
+  - Portaria nº 612/2024
+  - Portaria 612
+  - Portaria nº 612
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024612"
+coletado_em: "2026-10-21"
+sha256_raw: "93e5e12de695b89c113a78f3b952dee5b5ea3b5b40f9c91f6ab6c35f121eec74"
+versao_formato: "1.1"
+---
+PORTARIA Nº 612, DE 16/05/2024
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+9115
+DEUSDIANE TEIXEIRA COELHO
+22/07/2021 A 21/07/2022
+20
+12/01/2024 A 31/01/2024
+9081
+DIEGO PEREIRA DA CUNHA
+03/10/2022 A 02/10/2023
+20
+12/01/2024 A 31/01/2024
+1902
+LENICE FELIX GARCEZ SILVA
+28/07/2022 A 27/07/2023
+20
+12/01/2024 A 31/01/2024
+7884
+LIDIA ANITA DORIA GOEDERT
+01/04/2021 A 31/03/2022
+10
+12/01/2024 A 21/01/2024
+9760
+LIDIA ANITA DORIA GOEDERT
+18/05/2021 A 17/05/2022
+10
+12/01/2024 A 21/01/2024
+4094
+LISIE CRISOSTOMO DA SILVA
+23/02/2022 A 22/02/2023
+20
+12/01/2024 A 31/01/2024
+1722
+MARIE ZEITLER
+01/10/2022 A 30/09/2023
+10
+12/01/2024 A 21/01/2024
+1962
+MARIE ZEITLER
+01/06/2022 A 31/05/2023
+10
+12/01/2024 A 21/01/2024
+10286
+MARINALVA VIEIRA SILVA
+19/10/2022 A 18/10/2023
+20
+12/01/2024 A 31/01/2024
+1965
+MONICA SILVIA SIQUEIRA
+02/03/2022 A 01/03/2023
+10
+12/01/2024 A 21/01/2024
+10556
+SORAYA CRISTINA RODRIGUES
+25/03/2022 A 24/03/2023
+20
+12/01/2024 A 31/01/2024
+8965
+THAIS STEPHANY COSTA COTTA GRAN
+08/07/2022 A 07/07/2023
+20
+12/01/2024 A 31/01/2024
+15033
+THALITA NAYARA NAPOLITANO DOS S
+23/06/2022 A 08/08/2023
+10
+12/01/2024 A 21/01/2024
+2439
+VILMA BARRETO DOS SANTOS SOUZA
+12/11/202 A 11/11/2023
+20
+12/01/2024 A 31/01/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em
+12/01/2024
+.
+Ilhabela, 16 de maio de 2024.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos
+Registrado em livro próprio e publicado na data supra, no lugar de costume.
+DGP/ijsd/2024.

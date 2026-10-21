@@ -1,0 +1,107 @@
+---
+id: 2026050
+ref: ilh-2026-port-050
+tipo: portaria
+numero: 50
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 050, DE 13/01/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 50/2026
+  - Portaria nº 50/2026
+  - Portaria nº 050/2026
+  - Portaria 50
+  - Portaria 050
+  - Portaria nº 50
+  - Portaria nº 050
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026050"
+coletado_em: "2026-10-21"
+sha256_raw: bba42d708fdf45186882de14ff3881350d809bfd7df9f043d847c9745864249d
+versao_formato: "1.1"
+---
+PORTARIA Nº 050, DE 13/01/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário Adjunto de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+3853
+ALESSANDRO ROBERTO GONÇALVES
+25/08/2022 A 24/08/2023
+20
+20/10/2025 A 08/11/2025
+10503
+ELAINE DOS SANTOS
+07/02/2024 A 06/02/2025
+20
+20/10/2025 A 08/11/2025
+12326
+ELOISA GOMES MARIANO
+04/02/2024 A 03/02/2025
+10
+20/10/2025 A 29/10/2025
+4896
+GEISLA DOS SANTOS MORAES
+25/12/2022 A 24/12/2023
+20
+20/10/2025 A 08/11/2025
+12817
+GILBERTO MEDEIROS GONCALVES
+03/07/2022 A 02/07/2023
+15
+20/10/2025 A 03/11/2025
+7800
+GISELE CRISTINA SENA DE OLIVEIRA
+29/04/2024 A 05/06/2025
+30
+20/10/2025 A 18/11/2025
+8871
+JOSE PAULO DA SILVA
+31/03/2023 A 30/03/2024
+30
+20/10/2025 A 18/11/2025
+4043
+LILIAN DE MAGALHAES SOARES CUNHA
+07/03/2024 A 06/03/2025
+30
+20/10/2025 A 18/11/2025
+9083
+NATALIANE SILVA REBOUCAS
+22/06/2024 A 21/06/2025
+30
+20/10/2025 A 18/11/2025
+106106
+NEIF ELIAS AZAR
+27/03/2022 A 26/03/2023
+10
+20/10/2025 A 29/10/2025
+4605
+RAFAEL ALVES SIMEAO
+05/04/2022 A 04/04/2023
+20
+20/10/2025 A 08/11/2025
+8856
+VINICIUS FERREIRA DE CARVALHO
+13/04/2023 A 12/04/2024
+10
+20/10/2025 A 29/10/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 20/10/2025.
+Ilhabela, 13 de janeiro de 2026.
+JOSE CARLOS MACEDO
+Secretário Adjunto de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos

@@ -1,0 +1,37 @@
+---
+id: 201504325
+ref: ilh-2015-dec-4325
+tipo: decreto
+numero: 4325
+ano: 2015
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "DECRETO MUNICIPAL Nº 4.325, DE 24/02/2015"
+ementa: "DISPÕE SOBRE A NOMEAÇÃO DA SENHORA DARLEY OLIVEIRA PENHA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS."
+aliases:
+  - Decreto 4325/2015
+  - Decreto nº 4325/2015
+  - Decreto 4325
+  - Decreto nº 4325
+  - Decreto Municipal nº 4325
+  - Decreto Municipal 4325
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504325&NroLei=4.325&Word=&Word2="
+coletado_em: "2026-10-11"
+sha256_raw: a84fadbc1c96be19368fc682c8466c83eb815c6752c698266f4999554d4621ba
+versao_formato: "1.1"
+---
+DECRETO MUNICIPAL Nº 4.325, DE 24/02/2015
+DISPÕE SOBRE A NOMEAÇÃO DA SENHORA DARLEY OLIVEIRA PENHA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica nomeada a Senhora DARLEY OLIVEIRA PENHA, brasileira, portadora da Cédula de Identidade RG nº 40.566.527-1 SSP/MG e do CPF/MF nº 435.738.308-03, para ocupar no quadro de funcionários permanentes a função de Auxiliar de Serviços Gerais, referência 01, devido a aprovação no Concurso Público nº 006/2014.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no átrio do Paço Municipal.
+Ilhabela, 24 de fevereiro de 2015.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+SAJ/LHHA/dabsj.

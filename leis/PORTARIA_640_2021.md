@@ -1,0 +1,103 @@
+---
+id: 20210640
+ref: ilh-2021-port-640
+tipo: portaria
+numero: 640
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: expirada
+titulo: "PORTARIA Nº 640, DE 25/08/2021"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 640/2021
+  - Portaria nº 640/2021
+  - Portaria 640
+  - Portaria nº 640
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210640"
+coletado_em: "2026-10-21"
+sha256_raw: "81b06761df821c492be393dd692bf661612a055934ace650fa0425628a991986"
+versao_formato: "1.1"
+---
+PORTARIA Nº 640, DE 25/08/2021
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+(vigência esgotada)
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas FÉRIAS aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+1823
+AIRTON DE JESUS LEANDRO
+05/05/2020 A 04/05/2021
+20
+01/07/2021 A 20/07/2021
+1905
+ANDREA BATTESINI
+15/09/2019 A 14/09/2020
+20
+01/07/2021 A 20/07/2021
+8331
+ANDREA BATTESINI
+11/03/2019 A 10/03/2020
+20
+01/07/2021 A 20/07/2021
+8789
+EDSON DE SOUZA JUNIOR
+18/03/2020 A 17/03/2021
+10
+01/07/2021 A 10/07/2021
+3958
+IZAQUEU DOS SANTOS GOES
+01/11/2018 A 31/12/2019
+30
+01/07/2021 A 30/07/2021
+9047
+LEANDRO SOUZA DA LUZ
+18/06/2020 A 17/06/2021
+15
+01/07/2021 A 15/07/2021
+1745
+LEONAM BRASILINO DA SILVA
+01/07/2020 A 30/06/2021
+20
+01/07/2021 A 20/07/2021
+2007
+MARCOS FERNANDES MARCONDES
+30/05/2017 A 20/09/2018
+10
+01/07/2021 A 10/07/2021
+8288
+MIRIAM RODRIGUES DA SILVA
+09/02/2020 A 08/02/2021
+20
+01/07/2021 A 20/07/2021
+8788
+NELSON DA SILVA CARVALHO
+16/04/2020 A 15/04/2021
+30
+01/07/2021 A 30/07/2021
+1435
+PAULO AFONSO CRUZ
+06/11/2019 A 05/11/2020
+30
+01/07/2021 A 30/07/2021
+12793
+VANDRESSA MOREIRA DA SILVA
+06/05/2020 A 05/05/2021
+10
+01/07/2021 A 10/07/2021
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 01/07/2021.
+Ilhabela, 25 de agosto de 2021.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+BARBARA SANTANA DO VALE
+Coordenador de Controle de Folha de Pagamento

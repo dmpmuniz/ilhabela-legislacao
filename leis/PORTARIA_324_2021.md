@@ -1,0 +1,87 @@
+---
+id: 20210324
+ref: ilh-2021-port-324
+tipo: portaria
+numero: 324
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 324, DE 19/04/2021"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DO MUNICÍPIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 324/2021
+  - Portaria nº 324/2021
+  - Portaria 324
+  - Portaria nº 324
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210324"
+coletado_em: "2026-10-21"
+sha256_raw: "6baa3f9bac465f5e89a06b6bd2acfa5a32254b320ad6ed42f4c3221ebc7635d8"
+versao_formato: "1.1"
+---
+PORTARIA Nº 324, DE 19/04/2021
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DO MUNICÍPIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PERÍODO DE GOZO
+838
+CARLOS HENRIQUE DE ALMEIDA
+07/08/2018 A 06/08/2019
+16/03/2021 A 04/04/2021
+5032
+EDNA SANTANA PEREIRA
+12/03/2019 A 11/03/2020
+16/03/2021 A 04/04/2021
+1899
+ELIANE BEATRIZ VELOSO LOPES
+07/08/2019 A 06/08/2020
+16/03/2021 A 25/03/2021
+5658
+FABIANA DE PAULA SANTOS OLIVEIRA
+28/06/2019 A 13/07/2020
+16/03/2021 A 04/04/2021
+5660
+HELANE SANTOS NETO MOURA
+28/05/2019 A 27/05/2020
+16/03/2021 A 04/04/2021
+3961
+JOSIENE SILVA SOUZA
+18/11/2018 A 17/11/2019
+16/03/2021 A 04/04/2021
+4946
+MANOEL SALVADOR GONÇALVES BATISTA
+01/12/2018 A 30/11/2019
+16/03/2021 A 04/04/2021
+8529
+MARIA DE FATIMA DOS SANTOS
+24/02/2019 A 23/02/2020
+16/03/2021 A 25/03/2021
+1755
+MARILZA PEREIRA DE SOUSA BISERRA
+26/09/2018 A 25/09/2019
+16/03/2021 A 04/04/2021
+11054
+PRISCILA NUNES LOURENCO DE FREI
+02/10/2019 A 01/10/2020
+16/03/2021 A 04/04/2021
+5038
+ROSA PIRES DE OLIVEIRA
+10/03/2019 A 09/03/2020
+16/03/2021 A 30/03/2021
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 15/03/2021.
+Ilhabela, 19 de abril de 2021.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+BARBARA SANTANA DO VALE
+Coordenador de Controle de Folha de Pagamento

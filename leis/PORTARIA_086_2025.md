@@ -1,0 +1,113 @@
+---
+id: 2025086
+ref: ilh-2025-port-086
+tipo: portaria
+numero: 86
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 086, DE 13/01/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 86/2025
+  - Portaria nº 86/2025
+  - Portaria nº 086/2025
+  - Portaria 86
+  - Portaria 086
+  - Portaria nº 86
+  - Portaria nº 086
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025086"
+coletado_em: "2026-10-21"
+sha256_raw: ff4f0a431a7fbd962954bef542b4b88834e0944a49b2e372af8fb9e40371519f
+versao_formato: "1.1"
+---
+PORTARIA Nº 086, DE 13/01/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+1096
+ANDERSON LUIS DOS SANTOS
+05/06/2023 A 04/06/2024
+10
+05/11/2024 A 14/11/2024
+70
+CARLOS JOSE DOS SANTOS
+03/10/2022 A 02/10/2023
+10
+05/11/2024 A 14/11/2024
+9241
+CLOVIS AMARAL DOS SANTOS
+21/09/2022 A 20/09/2023
+10
+05/11/2024 a 14/11/2024
+8307
+EVERTON LUCAS TUPINAMBA REZENDE
+23/02/2022 A 22/02/2023
+10
+05/11/2024 A 14/11/2024
+12853
+HUGO GOMES DE SOUZA
+29/08/2023 A 28/08/2024
+10
+05/11/2024 A 14/11/2024
+10786
+JOAO CARLOS EMIDIO DOS SANTOS MORAIS
+14/06/2023 A 13/06/2024
+10
+05/11/2024 A 14/11/2024
+5722
+LUCIANA PEREIRA FERREIRA ALVES
+03/08/2023 A 02/08/2024
+10
+05/11/2024 A 14/11/2024
+11237
+LUIZ CLAIR DE OLIVEIRA JUNIOR
+08/02/2023 A 07/02/2024
+10
+05/11/2024 A 14/11/2024
+9394
+MAIARA MARIA BARROS GUSMAO
+11/02/2022 A 10/02/2023
+10
+05/11/2024 A 14/11/2024
+16095
+PAULO HONDA OTA
+03/11/2022 A 02/11/2023
+10
+05/11/2024 A 14/11/2024
+12793
+VANDRESSA MOREIRA DA SILVA
+15/07/2023 A 14/07/2024
+10
+05/11/2024 A 14/11/2024
+10261
+VICTORIA DI FLORA E SOUZA
+17/12/2021 A 19/04/2024
+10
+05/11/2024 A 14/11/2024
+15797
+WILTA SALES E SILVA
+14/03/2023 A 13/03/2024
+10
+05/11/2024 A 14/11/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 05/11/2024
+.
+Ilhabela, 13 de janeiro de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processo

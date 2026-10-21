@@ -1,0 +1,89 @@
+---
+id: 2026408
+ref: ilh-2026-port-408
+tipo: portaria
+numero: 408
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 408, DE 19/05/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 408/2026
+  - Portaria nº 408/2026
+  - Portaria 408
+  - Portaria nº 408
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026408"
+coletado_em: "2026-10-21"
+sha256_raw: "3d7c457e9453471e3794669da89a5459fb20b109f3bf1aa9f6496fb7ed4f3660"
+versao_formato: "1.1"
+---
+PORTARIA Nº 408, DE 19/05/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+1743
+ADNAYRAN ADILUEDRIGINA H. PEREIRA NASCIMENTO
+01/07/2024 A 30/06/2025
+10
+23/03/2026 A 01/04/2026
+10857
+ALESSANDRA DE OLIVEIRA PINTO
+26/04/2023 a 25/04/2024
+10
+23/03/2026 A 01/04/2026
+8591
+ANA PAULA DA SILVA NASCIMENTO
+12/03/2023 A 11/03/2024
+10
+23/03/2026 A 01/04/2026
+5759
+ANDRE LUIZ GONCALVES
+22/03/2025 A 21/03/2026
+30
+23/03/2026 A 21/04/2026
+11996
+BARBARA MARES JANUARIO
+09/11/2021 A 08/11/2022
+10
+23/03/2026 A 01/04/2026
+3294
+ESTEVAO FENZ NETO
+17/02/2025 A 16/02/2026
+10
+23/03/2026 A 01/04/2026
+14617
+KARINA PATRICIA DE OLIVEIRA
+09/09/2024 A 08/09/2025
+10
+23/03/2026 A 01/04/2026
+16284
+RENATA YUMY KIMURA
+06/04/2024 A 05/04/2025
+10
+23/03/2026 A 01/04/2026
+3671
+WLADIMIR DAMASCHI
+07/04/2024 A 06/04/2025
+10
+23/03/2026 A 01/04/2026
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 23/03/2026.
+Ilhabela, 19 de maio de 2026.
+JOSE CARLOS MACEDO
+Secretário de Administração
+ALINE DE MATOS NAKA
+Supervisora de Controle de Processos Funcionais

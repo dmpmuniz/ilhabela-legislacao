@@ -1,0 +1,97 @@
+---
+id: 20210396
+ref: ilh-2021-port-396
+tipo: portaria
+numero: 396
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 396, DE 12/05/2021"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DO MUNICÍPIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 396/2021
+  - Portaria nº 396/2021
+  - Portaria 396
+  - Portaria nº 396
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210396"
+coletado_em: "2026-10-21"
+sha256_raw: "34b914d05941c2614380cf80de205bb33eb37ea95c00963525e7b02fad0b8f74"
+versao_formato: "1.1"
+---
+PORTARIA Nº 396, DE 12/05/2021
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DO MUNICÍPIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas FÉRIAS aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE GOZO
+8608
+AMANDA BASTOS DOS SANTOS ALBOLEIA
+20/07/2019 A 19/07/2020
+10
+12/04/2021 A 21/04/2021
+4896
+GEISLA DOS SANTOS MORAES
+24/12/2016 A 23/12/2017
+20
+12/04/2021 A 01/05/2021
+8871
+JOSE PAULO DA SILVA
+31/03/2019 A 30/03/2020
+20
+12/04/2021 A 01/05/2021
+8970
+MARCELA ELIANA DE FARIA GOMES
+09/08/2019 A 08/08/2020
+20
+12/04/2021 A 01/05/2021
+10575
+MARCIO ANTONIO DOS SANTOS
+13/03/2019 A 12/03/2020
+20
+12/04/2021 A 01/05/2021
+1960
+MARIA MARLI CORITYAC
+16/02/2018 a 20/03/2019
+15
+12/04/2021 A 26/04/2021
+2433
+MARIA MARLI CORITYAC
+26/09/2018 A 13/11/2019
+15
+12/04/2021 A 26/04/2021
+609
+MARILENE RIBEIRO DOS SANTOS SENA
+15/09/2019 A 14/09/2020
+20
+12/04/2021 A 01/05/2021
+12254
+REGIANE MENDES SOUZA
+16/01/2019 A 15/01/2020
+10
+12/04/2021 A 21/04/2021
+1548
+ROGERIO MARIANO LEITE
+20/01/2020 A 19/01/2021
+20
+12/04/2021 A 01/05/2021
+4394
+UALAS BORGES RODRIGUES DE OLIVE
+01/03/2015 A 28/02/2016
+20
+12/04/2021 A 01/05/2021
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 12/04/2021.
+Ilhabela, 12 de maio de 2021.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenador de Benefícios e Contratos

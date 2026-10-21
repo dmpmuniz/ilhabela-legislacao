@@ -1,0 +1,112 @@
+---
+id: 2024677
+ref: ilh-2024-port-677
+tipo: portaria
+numero: 677
+ano: 2024
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 677, DE 17/05/2024"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 677/2024
+  - Portaria nº 677/2024
+  - Portaria 677
+  - Portaria nº 677
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024677"
+coletado_em: "2026-10-21"
+sha256_raw: aee8d4d6c3ed231717c5eaebf8fd24830727e4efc600df697459840c9c34d004
+versao_formato: "1.1"
+---
+PORTARIA Nº 677, DE 17/05/2024
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+12301
+ALEX SILVA TAVARES
+23/01/2023 A 22/01/2024
+30
+15/04/2024 A 14/05/2024
+9069
+BIANCA MIRANDA DA SILVA
+18/06/2022 A 17/06/2023
+10
+15/04/2024 A 24/04/2024
+11073
+CAMILA DOS REIS SILVA
+02/10/2022 A 01/10/2023
+20
+15/04/2024 A 04/05/2024
+8759
+CARLOS ALVES DE CAMPOS FILHO
+23/03/2023 A 22/03/2024
+10
+15/04/2024 A 24/04/2024
+8857
+EDUARDO ALVES CORTES DA FONSECA
+10/02/2022 A 09/02/2023
+10
+15/04/2024 A 24/04/2024
+4896
+GEISLA DOS SANTOS MORAES
+25/12/2021 A 24/12/2022
+10
+15/04/2024 A 24/04/2024
+9134
+JOSIANE DOS SANTOS VIANA
+29/10/2021 A 28/10/2022
+20
+15/04/2024 A 04/05/2024
+8529
+MARIA DE FATIMA DOS SANTOS
+24/02/2023 A 23/02/2024
+10
+15/04/2024 A 24/04/2024
+8788
+NELSON DA SILVA CARVALHO
+16/04/2023 A 15/04/2024
+10
+15/04/2024 A 24/04/2024
+9872
+PAULO HENRIQUE AMARO DE OLIVEIRA
+14/04/2021 A 13/04/2022
+10
+15/04/2024 A 24/04/2024
+8602
+PRISCILA AMANDA RODRIGUES DE SO
+24/02/2021 A 23/02/2022
+10
+15/04/2024 A 24/04/2024
+1949
+SELMA FELIX GARCEZ SILVA
+18/03/2022 A 17/03/2023
+10
+15/04/2024 A 24/04/2024
+8773
+VALDEMIR OLIVEIRA ALMEIDA
+08/04/2022 A 07/04/2023
+10
+15/04/2024 A 24/04/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em
+15/04/2024.
+Ilhabela, 17 de maio de 2024.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos
+Registrado em livro próprio e publicado na data supra, no lugar de costume.
+DGP/ijsd/2024.

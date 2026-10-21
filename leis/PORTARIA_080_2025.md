@@ -1,0 +1,108 @@
+---
+id: 2025080
+ref: ilh-2025-port-080
+tipo: portaria
+numero: 80
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 080, DE 13/01/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 80/2025
+  - Portaria nº 80/2025
+  - Portaria nº 080/2025
+  - Portaria 80
+  - Portaria 080
+  - Portaria nº 80
+  - Portaria nº 080
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025080"
+coletado_em: "2026-10-21"
+sha256_raw: c24b2044479197251103f672091f8d98e77c562ac195701d95a9cbe0f2836a0d
+versao_formato: "1.1"
+---
+PORTARIA Nº 080, DE 13/01/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+12661
+ALINE DE MATOS NAKA
+07/03/2022 A 06/03/2023
+20
+29/10/2024 A 17/11/2024
+9215
+AMANDA FERREIRA LOPES ROCHA
+08/09/2023 A 07/09/2024
+10
+29/10/2024 A 07/11/2024
+9727
+CAMILA SILVANA MIGLIORINI
+27/07/2022 A 26/07/2023
+10
+29/10/2024 A 07/11/2024
+9362
+FELIPE TALES GOMES DA SILVA
+21/01/2023 A 20/01/2024
+10
+29/10/2024 A 07/11/2024
+1730
+FERNANDO CRESIO DA SILVA
+25/06/2021 A 24/06/2022
+10
+29/10/2024 A 07/11/2024
+14617
+KARINA PATRICIA DE OLIVEIRA
+09/09/2022 A 08/09/2023
+10
+29/102024 A 07/11/2024
+13117
+MICHELE DA FONSECA
+26/11/2022 A 25/11/2023
+15
+29/10/2024 A 12/11/2024
+8772
+PATRICIA APARECIDA DOS SANTOS DE OLIVEIRA
+12/03/2022 A 11/03/2023
+10
+29/10/2024 A 07/11/2024
+12365
+ROSANGELA LUIZA DAS CHAGAS VILL
+01/02/2022 A 31/01/2023
+10
+29/10/2024 A 07/11/2024
+770
+SILVIA CRISTINA BENEDICTO CALDEIRA
+23/06/2019 A 22/06/2020
+10
+29/10/2024 A 07/11/2024
+9466
+SIMONE EVELYN VERZEGNASSI
+01/02/2023 A 31/01/2024
+15
+29/10/2024 A 12/11/2024
+11235
+WESLEY SALLES DOS SANTOS
+06/02/2023 A 05/02/2024
+10
+29/10/2024 A 07/11/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 29/10/2024
+.
+Ilhabela, 13 de janeiro de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processo

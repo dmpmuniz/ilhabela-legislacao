@@ -1,0 +1,102 @@
+---
+id: 2026039
+ref: ilh-2026-port-039
+tipo: portaria
+numero: 39
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 039, DE 13/01/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 39/2026
+  - Portaria nº 39/2026
+  - Portaria nº 039/2026
+  - Portaria 39
+  - Portaria 039
+  - Portaria nº 39
+  - Portaria nº 039
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026039"
+coletado_em: "2026-10-21"
+sha256_raw: "4c398241980397c023c9bf6402a126a41024054693e99449c0400219373f3c3a"
+versao_formato: "1.1"
+---
+PORTARIA Nº 039, DE 13/01/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO , Secretário Adjunto de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+16520
+ALESSANDRA ROMEIRA GINES
+03/08/2023 A 02/08/2024
+10
+01/10/2025 A 10/10/2025
+12838
+ANA FERRI DE BARROS
+17/08/2024 A 16/08/2025
+30
+01/10/2025 A 30/10/2025
+7780
+ANA LUCIA WASCHINSKI
+05/05/2023 A 04/05/2024
+10
+01/10/2025 A 10/10/2025
+9158
+EDSON BENATTI TRIPOLI
+12/04/2024 A 11/04/2025
+30
+01/10/2025 A 30/10/2025
+1094
+FELIPE DO VALE OLIVEIRA
+22/06/2024 A 21/06/2025
+10
+01/10/2025 A 10/10/2025
+8795
+LIZ MARILYN GERMANO DOS ANJOS ALVES
+26/03/2024 A 25/03/2025
+10
+01/10/2025 A 10/10/2025
+8514
+MARIA ROSA DA SILVA FERREIRA
+02/03/2024 A 29/03/2025
+10
+01/10/2025 A 10/10/2025
+6426
+MATEUS DE SOUZA
+02/06/2021 A 01/06/2022
+15
+01/10/2025 A 15/10/2025
+15320
+MILLY PEREIRA CARVALHO
+29/02/2024 A 28/02/2025
+10
+01/10/2025 A 10/10/2025
+2443
+RAMIRO RAMOS DE OLIVEIRA FILHO
+18/10/2023 A 17/10/2024
+10
+01/10/2025 A 10/10/2025
+16709
+RODE SOUZA MARTINS DIAS
+13/08/2024 A 12/08/2025
+20
+01/10/2025 A 20/10/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 01/10/2025.
+Ilhabela, 13 de janeiro de 2026.
+JOSE CARLOS MACEDO
+Secretário Adjunto de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos

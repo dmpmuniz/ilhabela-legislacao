@@ -1,0 +1,104 @@
+---
+id: 2026200
+ref: ilh-2026-port-200
+tipo: portaria
+numero: 200
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 200, DE 10/03/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 200/2026
+  - Portaria nº 200/2026
+  - Portaria 200
+  - Portaria nº 200
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026200"
+coletado_em: "2026-10-21"
+sha256_raw: "05270d09345ec1d1b8bda3a5c526acfbace425c88c08645c1f9eef4e419f44d3"
+versao_formato: "1.1"
+---
+PORTARIA Nº 200, DE 10/03/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário Adjunto de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+2042
+ALEXANDRE LUIS DORIA
+04/06/2023 A 03/06/2024
+10
+10/12/2025 A 19/12/2025
+8842
+ELEN MAIARA ISSE PENHAFIEL LIMA
+01/04/2021 A 30/03/3024
+10
+10/12/2025 A 19/12/2025
+7794
+ELIETE GONCALVES DE OLIVEIRA
+02/02/2024 A 01/02/2025
+10
+10/12/2025 A 19/12/2025
+8834
+JESUS DE ARAUJO FILHO
+19/03/2021 A 18/03/2022
+10
+10/12/2025 A 19/12/2025
+106757
+LUIZ GUSTAVO BATISTA BEQUI
+21/05/2023 A 20/05/2024
+10
+10/12/2025 A 19/12/2025
+8908
+PAOLA SOARES DE JESUS GOMES
+16/04/2024 A 15/04/2025
+10
+10/12/2025 A 19/12/2025
+9396
+PAULA ANASTACIO RIBEIRO
+26/02/2022 A 25/02/2023
+14
+10/12/2025 A 23/12/2025
+7797
+RAQUEL RODRIGUES LEAL
+19/01/2024 A 18/01/2025
+15
+10/12/2025 A 24/12/2025
+4401
+RENATA FLAVIA DE SOUZA
+08/10/2022 A 07/10/2023
+10
+10/12/2025 A 19/12/2025
+4410
+SHIRLEY DE MATOS LOPES
+04/03/2023 A 03/03/2024
+15
+10/12/2025 A 24/12/2025
+1084
+WAGNER ANTONIO GONCALVES
+05/06/2021 A 04/06/2022
+10
+10/12/2025 A 19/12/2025
+2316
+WANDERLEIA GARCIA DE SOUZA
+25/05/2023 A 24/05/2024
+10
+10/12/2025 A 19/12/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 10/12/2025.
+Ilhabela, 10 de março de 2026.
+JOSE CARLOS MACEDO
+Secretário Adjunto de Administração
+ALINE DE MATOS NAKA
+Supervisora de Controle de Processos Funcionais

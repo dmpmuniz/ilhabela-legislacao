@@ -1,0 +1,109 @@
+---
+id: 2025538
+ref: ilh-2025-port-538
+tipo: portaria
+numero: 538
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 538, DE 30/04/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 538/2025
+  - Portaria nº 538/2025
+  - Portaria 538
+  - Portaria nº 538
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025538"
+coletado_em: "2026-10-21"
+sha256_raw: e931586ff79142d7f5a9a54db278adb9833bb928f9a52e8d0a835201d0655e7b
+versao_formato: "1.1"
+---
+PORTARIA Nº 538, DE 30/04/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS
+,
+Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+9362
+FELIPE TALES GOMES DA SILVA
+21/01/2024 A 20/01/2025
+10
+17/02/2025 A 26/02/2025
+8967
+FERNANDA PRISCILA CAPRA BARBOSA
+20/08/2023 A 19/08/2024
+10
+17/02/2025 A 26/02/2025
+16297
+FRANCISCO CARLOS RIBEIRO
+06/04/2023 A 05/04/2024
+10
+17/02/2025 A 26/02/2025
+10388
+IZAIRA BARROS SILVA
+02/01/2023 A 01/01/2024
+10
+17/02/2025 A 26/02/2025
+1731
+JULIANA LUCIA DE SOUZA SANTOS
+22/07/2023 A 21/07/2024
+10
+17/02/2025 A 26/02/2025
+8308
+LIANE LINDEMBERG CUNICO
+09/02/2023 A 08/02/2024
+10
+17/02/2025 A 26/02/2025
+7868
+LUCIARA DE SOUZA AQUINO
+09/02/2023 A 08/02/2024
+30
+17/02/2025 A 18/03/2025
+7869
+MAIRA BARRETO DE OLIVEIRA COSTA
+25/02/2023 A 24/02/2024
+30
+17/02/2025 A 18/03/2025
+642
+MOACIR PINTO MORAES JUNIOR
+17/05/2021 A 16/05/2022
+20
+17/02/2025 A 08/03/2025
+12523
+PATRICIA MARIA FREITAS
+18/02/2023 A 17/02/2024
+10
+17/02/2025 A 26/02/2025
+9371
+ROBSON DOMINGUES MARTINS
+12/12/2023 A 11/12/2024
+10
+17/02/2025 A 26/02/2025
+8862
+WILLIAM VIEIRA
+04/05/2023 A 03/05/2024
+10
+17/02/2025 A 26/02/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 17/02/2025.
+Ilhabela, 30 de abril de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos
+Registrado em livro próprio
+e publicado na data supra, no lugar de costume.
+DGP/ijsd/2025.

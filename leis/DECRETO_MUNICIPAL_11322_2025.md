@@ -1,0 +1,329 @@
+---
+id: 202511322
+ref: ilh-2025-dec-11322
+tipo: decreto
+numero: 11322
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "DECRETO MUNICIPAL Nº 11.322, DE 20/05/2025"
+ementa: "PROMOVE A REPROGRAMAÇÃO DE EMENDAS IMPOSITIVAS LEGISLATIVAS COM A REALOCAÇÃO DE RECURSOS ATRAVÉS DE TRANSPOSIÇÃO, TRANSFERÊNCIA E REALOCAÇÃO DE RECURSOS ENTRE UNIDADES ORÇAMENTÁRIAS E ÓRGÃOS DO PODER EXECUTIVO, AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E ESPECIAL, AUTORIZADO PELA LEI MUNICIPAL Nº 1.698 DE 16 DE MAIO DE 2025, E DÁ OUTRAS PROVIDÊNCIAS."
+aliases:
+  - Decreto 11322/2025
+  - Decreto nº 11322/2025
+  - Decreto 11322
+  - Decreto nº 11322
+  - Decreto Municipal nº 11322
+  - Decreto Municipal 11322
+palavras_chave_auto:
+  - orçamento municipal
+  - receita
+  - despesa
+  - plano plurianual
+  - diretrizes orçamentárias
+  - crédito adicional
+tags_auto:
+  - orcamento
+  - financas
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511322"
+coletado_em: "2026-10-11"
+sha256_raw: "823fb61a3820410ae0bc06044fbb8cd9d9d5b7502b92bba95ef2bf83b985834f"
+versao_formato: "1.1"
+---
+Versionamento:
+Clique abaixo, e tenha acesso aos textos atualizados
+conforme as datas e leis de referência:
+Versão Original
+Versão COMPILADA
+Versão CONSOLIDADA
+DECRETO MUNICIPAL Nº 11.322, DE 20/05/2025
+PROMOVE A REPROGRAMAÇÃO DE EMENDAS IMPOSITIVAS LEGISLATIVAS COM A REALOCAÇÃO DE RECURSOS ATRAVÉS DE TRANSPOSIÇÃO, TRANSFERÊNCIA E REALOCAÇÃO DE RECURSOS ENTRE UNIDADES ORÇAMENTÁRIAS E ÓRGÃOS DO PODER EXECUTIVO, AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E ESPECIAL, AUTORIZADO PELA LEI MUNICIPAL Nº 1.698 DE 16 DE MAIO DE 2025, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;
+CONSIDERANDO ao que dispõe o
+##### art. 167, inciso V, da Constituição Federal
+de 1988;
+CONSIDERANDO o que dispõem os
+artigos 40
+e
+41, inciso I e II,e seguintes,da Lei Federal nº 4.320
+de 17 de março de 1964;
+CONSIDERANDO os dispostos nos
+§§ 5º e 6º do artigo 25
+e do
+##### artigo 26, da Lei Municipal nº 1.655
+, de 04 de julho de 2024 - LDO 2025 e dos artigos 9º ao 12, da Lei Orçamentária Anual para 2025,
+Lei Municipal nº 1.684
+de 20 de dezembro de 2024; e
+CONSIDERANDO ainda, as autorizações dadas pela
+Lei Municipal nº 1.698
+de 16 de maio de 2025;
+DECRETA:
+##### Art. 1º
+Fica o orçamento municipal vigente alterado no valor de
+R$ 11.075.600,45
+(onze milhões, setenta e cinco mil, seiscentos reais e quarenta e cinco centavos), para atender reprogramações orçamentárias das emendas impositivas legislativas autorizadas pela
+Lei Municipal nº 1.698
+de 16 de maio de 2025,
+SUPLEMENTANDO
+as seguintes dotações abaixo especificadas:
+Órgão: 8 - FUNDO MUNICIPAL DE SAÚDE
+Unidade: 01 - GESTÃO DO SISTEMA
+Proj. /Ativ.:
+2088 - GESTÃO TÉCNICA, ADMINISTRATIVA E DE RECURSOS HUMANOS DO SUS
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1182 - 08.01.10.301.1080.2088.339039.08.1400000 -
+Valor:
+150.000,00
+Unidade: 02 - ATENÇÃO BÁSICA/PRIMÁRIA
+Proj. /Ativ.:
+1081 - CONSTRUÇÃO, MANUTENÇÃO, REFORMA E AMPLIAÇÃO DAS UNIDADES BÁSICAS DE SAÚDE
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1187 - 08.02.10.301.1080.1.081.449052.08.1400000 -
+Valor:
+200.000,00
+Proj. /Ativ.:
+2089 - OPERAÇÃO E MANUTENÇÃO DOS SERVIÇOS DE ATENÇÃO PRIMÁRIA À SAÚDE
+Elemento de Despesa:
+MATERIAL DE CONSUMO
+Dotação:
+1179 - 08.02.10.301.1080.2089.339030.08.1400000 -
+Valor:
+270.000,00
+Unidade: 03 - ATENÇÃO SECUNDÁRIA/MÉDIA COMPLEXIDADE
+Proj. /Ativ.:
+1083 - AMPLIAÇÃO E QUALIFICAÇÃO DA ESTRUTURA HOSPITALAR E DE URGÊNCIA/EMERGÊNCIA
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1180 - 08.03.10.302.1080.1.083.449052.08.1400000 -
+Valor:
+640.000,00
+Órgão: 13 - OBRAS E PLANEJAMENTO URBANO
+Unidade: 02 - INFRAESTRUTURA URBANA
+Proj. /Ativ.:
+1130 - CONSTRUÇÃO E AMPLIAÇÃO DE PRÉDIOS MUNICIPAIS
+Elemento de Despesa:
+OBRAS E INSTALAÇÕES
+Dotação:
+1194 - 13.02.15.451.1135.1.130.449051.08.1400000 -
+Valor:
+450.000,00
+Órgão: 14 - SERVIÇOS URBANOS
+Unidade: 01 - SERVIÇOS URBANOS
+Proj. /Ativ.:
+2141 - LIMPEZA E CONSERVAÇÃO DE VIAS
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1169 - 14.01.15.451.1140.2.141.339039.08.1400000 -
+Valor:
+263.418,00
+Órgão: 19 - MOBILIDADE E SEGURANÇA
+Unidade: 01 - MOBILIDADE E SEGURANÇA URBANA
+Proj. /Ativ.:
+2015 - DEFESA CIVIL
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1195 - 19.01.06.182.1011.2015.449052.08.1400000 -
+Valor:
+226.836,45
+Órgão: 20 - COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA
+Unidade: 01 - COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA
+Proj. /Ativ.:
+2147 - FOMENTO A PESCA E AQUICULTURA
+Elemento de Despesa:
+OBRAS E INSTALAÇÕES
+Dotação:
+1196 - 20.01.20.244.1123.2.147.449051.08.1400000
+- Valor:
+330.000,00
+Órgão: 04 - GESTÃO FINANCEIRA
+Unidade: 01 - FAZENDA
+Proj. /Ativ.:
+9990 - RESERVA DE CONTINGÊNCIA
+Elemento de Despesa:
+RESERVA DE CONTINGÊNCIA
+Dotação:
+118 - 04.01.99.999.9999.9.990.999999.01.1410000 -
+Valor:
+8.545.346,00
+TOTAL DA SUPLEMENTAÇÃO ................. R$ 11.075.600,45
+##### Art. 2º
+Os recursos para atendimento as reprogramações orçamentárias destinadas a atender a execução de Emendas Impositivas Legislativas aprovadas no orçamento de 2025, autorizados pela
+Lei Municipal nº 1.698
+, de 16 maio de 2025, serão provenientes das
+ANULAÇÕES
+das seguintes dotações:
+Órgão: 02 - GOVERNO
+Unidade: 02 - FUNDO SOCIAL DE SOLIDARIEDADE
+Proj. /Ativ.:
+2023 - AÇÕES SOLIDÁRIAS
+Elemento de Despesa:
+MATERIAL DE CONSUMO
+Dotação:
+1176 - 1176 02.02.08.244.1021.2023.339030.08.1400000 -
+Valor:
+300.000,00
+Órgão: 04 - GESTÃO FINANCEIRA
+Unidade: 01 - FAZENDA
+Proj. /Ativ.:
+9992 - RESERVA ESPECÍFICA PARA EMENDAS IMPOSITIVAS DO LEGISLATIVO MUNICIPAL
+Elemento de Despesa:
+RESERVA DE CONTINGÊNCIA
+Dotação:
+119 - 04.01.99.999.9999.9.992.999999.08.1400000 -
+Valor:
+1.180.183,19
+Órgão: 8 - FUNDO MUNICIPAL DE SAÚDE
+Unidade: 01 - GESTÃO DO SISTEMA
+Proj. /Ativ.:
+1080 - MANUTENÇÃO E AMPLIAÇÃO DAS UNIDADES DE GESTÃO
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1186 - 08.01.10.301.1080.1.080.449052.08.1400000 -
+Valor:
+150.000,00
+Proj. /Ativ.:
+2088 - GESTÃO TÉCNICA, ADMINISTRATIVA E DE RECURSOS HUMANOS DO SUS
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1182 - 08.01.10.301.1080.2088.339039.08.1400000
+- Valor:
+2003.673,00
+Unidade: 02 - ATENÇÃO BÁSICA/PRIMÁRIA
+Proj. /Ativ.:
+1081 - CONSTRUÇÃO, MANUTENÇÃO, REFORMA E AMPLIAÇÃO DAS UNIDADES BÁSICAS DE SAÚDE
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1187 - 08.02.10.301.1080.1.081.449052.08.1400000 -
+Valor:
+987.890,96
+Proj. /Ativ.:
+2089 - OPERAÇÃO E MANUTENÇÃO DOS SERVIÇOS DE ATENÇÃO PRIMÁRIA À SAÚDE
+Elemento de Despesa:
+MATERIAL DE CONSUMO
+Dotação:
+1179 - 08.02.10.301.1080.2089.339030.08.1400000 -
+Valor:
+10.000,00
+Unidade: 03 - ATENÇÃO SECUNDÁRIA/MÉDIA COMPLEXIDADE
+Proj. /Ativ.:
+1083 - AMPLIAÇÃO E QUALIFICAÇÃO DA ESTRUTURA HOSPITALAR E DE URGÊNCIA/EMERGÊNCIA
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1180 - 08.03.10.302.1080.1.083.449052.08.1400000 -
+Valor:
+506.000,00
+Unidade: 05 - VIGILÂNCIA EPIDEMIOLÓGICA - VE
+Proj. /Ativ.:
+1084 - AMPLIAÇÃO E QUALIFICAÇÃO DA ESTRUTURA DE VIGILÂNCIA E PROMOÇÃO DA SAÚDE
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1183 - 08.05.10.305.1080.1.084.449052.08.1400000 -
+Valor:
+300.000,00
+Proj. /Ativ.:
+2086 - PROGRAMA MUNICIPAL DE RESPEITO ANIMAL
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1178 - 08.05.10.305.1080.2086.449052.08.1400000 -
+Valor:
+640.000,00
+Órgão: 09 - CULTURA
+Unidade: 06 - FOMENTO A CULTURA POPULAR
+Proj. /Ativ.:
+2381 - INCENTIVO AS ARTES
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1175 - 09.06.13.392.1096.2.381.339039.08.1400000 -
+Valor:
+200.000,00
+Órgão: 10 - ESPORTE E LAZER
+Unidade: 03 - ESPORTE PARA TODOS
+Proj. /Ativ.:
+2106 - PROJETO MELHOR IDADE EM AÇÃO
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1177 - 10.03.27.812.1101.2.106.339039.08.1400000 -
+Valor:
+538.418,22
+Órgão: 12 - MEIO AMBIENTE
+Unidade: 03 - SANEAMENTO - ÁGUA E ESGOTO
+Proj. /Ativ.:
+1125 - SANEAMENTO - COMUNIDADES TRADICIONAIS
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1174 - 12.03.17.511.1121.1.125.449052.08.1400000 -
+Valor:
+500.000,00
+Órgão: 13 - OBRAS E PLANEJAMENTO URBANO
+Unidade: 02 - INFRAESTRUTURA URBANA
+Proj. /Ativ.:
+1134 - REURBANIZAÇÃO DE VIAS
+Elemento de Despesa:
+OBRAS E INSTALAÇÕES
+Dotação:
+1168 - 13.02.15.451.1135.1.134.449051.08.1400000 -
+Valor:
+313.418,00
+Órgão: 14 - SERVIÇOS URBANOS
+Unidade: 01 - SERVIÇOS URBANOS
+Proj. /Ativ.:
+1140 - AMPLIAÇÃO DA FROTA
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1173 - 14.01.15.122.1000.1.140.449052.08.1400000 -
+Valor:
+788.418,22
+Proj. /Ativ.:
+2141 - LIMPEZA E CONSERVAÇÃO DE VIAS
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1169 - 14.01.15.451.1140.2.141.339039.08.1400000 -
+Valor:
+2.100.762,41
+Órgão: 19 - MOBILIDADE E SEGURANÇA
+Unidade: 01 - MOBILIDADE E SEGURANÇA URBANA
+Proj. /Ativ.:
+2000 - GESTÃO ADMINISTRATIVA
+Elemento de Despesa:
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Dotação:
+1166 - 19.01.04.122.1010.2000.449052.08.1400000 -
+Valor:
+226.836,45
+Órgão: 20 - COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA
+Unidade: 01 - COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA
+Proj. /Ativ.:
+2147 - FOMENTO A PESCA E AQUICULTURA
+Elemento de Despesa:
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Dotação:
+1167 - 20.01.20.244.1123.2.147.339039.08.1400000 -
+Valor:
+330.000,00
+TOTAL DA ANULAÇÃO ................. R$ 11.075.600,45
+##### Art. 3º
+Este Decreto entra em vigor na data de sua publicação.
+Ilhabela, 20 de maio de 2025.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.

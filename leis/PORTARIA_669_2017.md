@@ -1,0 +1,61 @@
+---
+id: 2017669
+ref: ilh-2017-port-669
+tipo: portaria
+numero: 669
+ano: 2017
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 669, DE 20/02/2017"
+ementa: CONCEDE LICENÇA PRÊMIO AO(A) SENHOR(A)APARECIDA REGINA DOS SANTOS SILVA - SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 669/2017
+  - Portaria nº 669/2017
+  - Portaria 669
+  - Portaria nº 669
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2017669"
+coletado_em: "2026-10-21"
+sha256_raw: cfda9b4172f7fb10a8c1a12590f4a2164cbe2381f96fce26fd6763579c7908a2
+versao_formato: "1.1"
+---
+PORTARIA Nº 669, DE 20/02/2017
+CONCEDE LICENÇA PRÊMIO AO(A) SENHOR(A)APARECIDA REGINA DOS SANTOS SILVA - SERVIDOR(A) MUNICIPAL.
+LUIZ ANTONIO DOS SANTOS, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 92, parágrafo V
+,
+##### artigo 99 da Lei Municipal 649
+, datada em 29 de Julho de 1997, alterada pela
+Lei 884/00
+e regido pelo
+Decreto 460/02
+, concede Licença Prêmio de
+30 (trinta)dias
+ao (a)senhor(a)
+APARECIDA REGINA DOS SANTOS SILVA
+, servidor(a)municipal na
+matrícula 6435
+, no período de
+01/12/2016 A 30/12/2016
+, referente ao
+1º período aquisitivo
+de
+28/03/2011 A 27/03/2016
+, conforme processo administrativo nº
+4756/16 de 05/04/2016
+, restando ao (a) servidor(a)
+15 (quinze) dias
+referentes a esse período aquisitivo.
+##### Art. 2º
+Registre-se, publique-se e cumpra-se, retroagindo seus efeitos a partir de
+01/12/2016
+.
+Ilhabela, 20 de fevereiro de 2017.
+LUIZ ANTONIO DOS SANTOS
+Secretário Municipal de Administração
+JOSE MESSIAS DOS SANTOS
+Diretor do Departamento de Recursos Humanos

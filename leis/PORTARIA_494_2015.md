@@ -1,0 +1,46 @@
+---
+id: 201500494
+ref: ilh-2015-port-494
+tipo: portaria
+numero: 494
+ano: 2015
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 494, DE 17/04/2015"
+ementa: CONCEDE FÉRIAS AO(A) SENHOR(A) JOSÉ COSTA FILHO - SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 494/2015
+  - Portaria nº 494/2015
+  - Portaria 494
+  - Portaria nº 494
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201500494"
+coletado_em: "2026-10-21"
+sha256_raw: d03446b4912c90fdbb26e64b49cf26a3ccac9a1e769bf6e295aba659888a41e6
+versao_formato: "1.1"
+---
+PORTARIA Nº 494, DE 17/04/2015
+CONCEDE FÉRIAS AO(A) SENHOR(A) JOSÉ COSTA FILHO - SERVIDOR(A) MUNICIPAL.
+LUIZ CARLOS BIONDI,
+Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos Termos do
+##### artigo 88, da Lei Municipal 649
+, datada em 31 de julho de 1997
+.
+Serão concedidas férias a(o) Senhor(a)
+JOSÉ COSTA FILHO.
+Servidor(a) Municipal, no período de
+06/02/2014 a 07/03/2014 (30 dias)
+referente ao período aquisitivo de
+30/06/2011 a 19/06/2012 (matrícula: 002).
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de
+06/02/2014.
+Ilhabela, 17 de abril de 2015.
+LUIZ CARLOS BIONDI
+Secretário Municipal de Administração
+JOSÉ MESSIAS DOS SANTOS
+Diretor de Divisão de Recursos Humanos

@@ -1,0 +1,114 @@
+---
+id: 2023056
+ref: ilh-2023-port-056
+tipo: portaria
+numero: 56
+ano: 2023
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 056, DE 19/01/2023"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 56/2023
+  - Portaria nº 56/2023
+  - Portaria nº 056/2023
+  - Portaria 56
+  - Portaria 056
+  - Portaria nº 56
+  - Portaria nº 056
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023056"
+coletado_em: "2026-10-21"
+sha256_raw: d984df090b9882ae64cb75c3af1c811153e411e3678d6fa48fad7057ca99c7f7
+versao_formato: "1.1"
+---
+PORTARIA Nº 056, DE 19/01/2023
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de Outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+7780
+ANA LUCIA WASCHINSKI
+05/05/2020 A 04/05/2021
+30
+07/11/2022 A 06/12/2022
+1549
+BENEDITO AMARILDO DA SILVA
+20/02/2019 A 19/02/2020
+15
+07/11/2022 A 21/11/2022
+1132
+CARLOS ALBERTO VIEIRA SILVA
+11/08/2019 A 10/08/2020
+20
+07/11/2022 A 26/11/2022
+1123
+EDNA VEIGA DOS SANTOS
+06/09/2021 A 05/09/2022
+10
+07/11/2022 A 16/11/2022
+8857
+EDUARDO ALVES CORTES DA FONSECA
+13/04/2018 A 09/02/2021
+20
+07/11/2022 A 26/11/2022
+12117
+ELESSANDRO DE JESUS SANTOS
+24/09/2020 A 23/09/2021
+10
+07/11/2022 A 16/11/2022
+1626
+EVERALDO DA SILVA
+06/05/2021 A 05/05/2022
+8
+07/11/2022 A 14/11/2022
+9102
+MARIA JOSE DA CONCEICAO CABRAL
+31/08/2020 A 30/08/2021
+20
+07/11/2022 A 26/11/2022
+8788
+NELSON DA SILVA CARVALHO
+16/04/2021 A 15/04/2022
+10
+07/11/2022 A 16/11/2022
+7731
+RUBIA SANTANA DE OLIVEIRA REIS
+09/09/2020 a 30/09/2021
+10
+07/11/2022 A 16/11/2022
+12123
+TAMIRES SILVA BOTELHO
+01/10/2020 A 30/09/2021
+30
+07/11/2022 A 06/12/2022
+9041
+WALKIRIA BATISTA DA SILVA
+15/06/2021 A 14/06/2022
+30
+07/11/2022 A 06/12/2022
+9107
+WELITON MATTOS DE OLIVEIRA
+13/07/2020 A 12/07/2021
+30
+07/11/2022 A 06/12/2022
+##### Art. 2º
+Registre-se, publique-se e cumpra-se, retroagindo seus efeitos a partir de
+07/11/2022
+.
+Ilhabela, 19 de janeiro de 2023.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenadora de Planejamento e Recursos Humanos

@@ -1,0 +1,118 @@
+---
+id: 2024610
+ref: ilh-2024-port-610
+tipo: portaria
+numero: 610
+ano: 2024
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 610, DE 16/05/2024"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 610/2024
+  - Portaria nº 610/2024
+  - Portaria 610
+  - Portaria nº 610
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024610"
+coletado_em: "2026-10-21"
+sha256_raw: "4377fc9cc32635a64abdb6f4b17de390470acd8351d32786a477fbae9c12eedc"
+versao_formato: "1.1"
+---
+PORTARIA Nº 610, DE 16/05/2024
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+11053
+JOSEFA MARIA DOS SANTOS SOUZA
+03/10/2022 A 11/12/2023
+30
+10/01/2024 A 08/02/2024
+8781
+MATHEUS AMARAL FREITAS
+13/03/2022 A 12/03/2023
+30
+10/01/2024 A 08/02/2024
+9051
+NATALIA CRISTINA DA SILVA SANTO
+21/12/2022 A 20/12/2023
+30
+10/01/2024 A 08/02/2024
+8635
+PHILLIPE AUGUSTO COSTA
+03/03/2022 A 02/03/2023
+30
+10/01/2024 A 08/02/2024
+106120
+ANDRE LUIZ DOS SANTOS
+24/04/2020 A 23/04/2021
+10
+10/01/2024 A 19/01/2024
+7833
+NATALIA LUISA RUIZ
+19/02/2021 A 18/02/2022
+10
+10/01/2024 A 19/01/2024
+5745
+MARIA ROSA SIMOES SILVA
+26/09/2022 A 25/09/2023
+15
+10/01/2024 A 24/01/2024
+10574
+AUGUSTO PEREIRA SWAID
+29/03/2021 A 28/03/2022
+20
+10/01/2024 A 29/01/2024
+12664
+CARLUCIA MADALENA DE OLIVEIRA
+07/03/2022 A 06/03/2023
+20
+10/01/2024 A 29/01/2024
+10623
+CAROLINA PAIXAO VOTO
+11/04/2021 A 10/04/2022
+20
+10/01/2024 A 29/01/2024
+242
+EURIDES PAULA GARCEZ
+04/03/2022 A 03/03/2023
+20
+10/01/2024 A 29/01/2024
+103321
+FERNANDA SCARAMELLI
+03/09/2022 A 02/09/2023
+20
+10/01/2024 A 29/01/2024
+10856
+MARCELO BALBINO DOS SANTOS
+13/07/2021 A 12/07/2022
+20
+10/01/2024 A 29/01/2024
+12299
+RAMON BARCELLOS CAVALCANTE SILV
+23/01/2022 A 22/01/2023
+20
+10/01/2024 A 29/01/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em
+10/01/2024
+.
+Ilhabela, 16 de maio de 2024.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos
+Registrado em livro próprio e publicado na data supra, no lugar de costume.
+DGP/ijsd/2024.

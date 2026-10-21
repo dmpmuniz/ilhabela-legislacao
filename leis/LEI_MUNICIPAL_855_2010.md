@@ -1,0 +1,3896 @@
+---
+id: 20100855
+ref: ilh-2010-lei-855
+tipo: lei
+numero: 855
+ano: 2010
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: expirada
+titulo: "LEI MUNICIPAL Nº 855, DE 22/11/2010"
+ementa: "INSTITUI A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 2011 E DÁ OUTRAS PROVIDÊNCIAS."
+aliases:
+  - Lei 855/2010
+  - Lei nº 855/2010
+  - Lei 855
+  - Lei nº 855
+palavras_chave_auto:
+  - tributo municipal
+  - IPTU
+  - ISS
+  - alíquota
+  - isenção fiscal
+  - lançamento tributário
+tags_auto:
+  - tributos
+  - fiscalizacao
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100855"
+coletado_em: "2026-10-21"
+sha256_raw: "633f27273ecf2a64670edae411ddb95a9a0652ec36bab372446188657136aa56"
+versao_formato: "1.1"
+---
+LEI MUNICIPAL Nº 855, DE 22/11/2010
+INSTITUI A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 2011 E DÁ OUTRAS PROVIDÊNCIAS.
+(vigência esgotada)
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são conferidas por Lei,
+Faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+##### Art. 1º
+A apuração do valor venal para efeito de lançamento do Imposto Predial e Territorial Urbano para o exercício de 2011 será feita de acordo com a planta genérica de valores e suas tabelas, integrante da presente Lei e de acordo com as normas e métodos nela fixados.
+Parágrafo único.
+A planta genérica de valores compõe-se de logradouros públicos integrantes de determinada região do Município, nela constando os valores atribuídos ao metro quadrado dos terrenos neles localizados e explicitados na TABELA I que acompanha a presente Lei.
+##### Art. 2º
+Para efeito de lançamento do Imposto Predial e Territorial Urbano para o exercício de 2011, considerar-se-á ocorrido o seu fato gerador no dia primeiro de janeiro do referido ano.
+##### Art. 3º
+A apuração do valor venal dos terrenos será feita mediante a multiplicação de sua área pelo valor unitário do metro quadrado constante da TABELA I, aplicados, em ocorrendo à hipótese, os fatores de correção previstos nas TABELAS II e III que acompanham a presente Lei.
+§ 1º
+Nos casos singulares de lotes particularmente desvalorizados em virtude de formas extravagantes, de conformações topográficas muito desfavoráveis ou pela passagem de córregos, ou ainda pela sua sujeição a inundações periódicas, bem como fatores inesperados, onde a aplicação das normas instituídas nesta Lei possa conduzir à avaliação injusta terão seus valores recalculados observadas as características do imóvel.
+§ 2º
+Nos casos singulares de glebas indivisas corretamente cadastradas e que tenham características ambientais merecedoras de estímulo à sua preservação, estas poderão ter seus valores venais recalculados, mediante requerimento fundamentado em laudo técnico convalidado pelos órgãos competentes da Prefeitura.
+##### Art. 4º
+Os valores unitários para o metro quadrado de terrenos explicitados na TABELA I, correspondem, em Reais ao metro quadrado do lote padrão adotado a profundidade mínima de 30 (trinta) metros.
+§ 1º
+A influência do fator profundidade será obtida mediante a aplicação da TABELA II.
+§ 2º
+Para apuração da profundidade equivalente dos terrenos de esquina, será adotada a testada que possibilite o melhor aproveitamento da área, exceção feita àqueles ocupados por construção, para os quais a profundidade equivalente do lote de esquina será encontrada em função da testada que constitua a frente efetiva do imóvel.
+##### Art. 5º
+Para os efeitos de avaliação consideram-se de esquina os lotes que tenham frente para duas ou mais vias públicas.
+Parágrafo único.
+Consideram-se também de esquina os lotes que tenham duas faces voltadas para a mesma via pública, desde que 35% (trinta e cinco por cento) do somatório do perímetro do lote estejam voltados para a via pública.
+##### Art. 6º
+Os terrenos com acesso inferior a três metros, terão o seu valor calculado pelo logradouro que lhe dá acesso, com desconto de trinta por cento.
+Parágrafo único.
+O disposto neste artigo não se aplica aos condomínios, conjuntos residenciais ou loteamentos fechados.
+##### Art. 7º
+O FATOR GLEBA será apurado aplicando-se ao valor do metro quadrado estabelecido pelo CÓDIGO do logradouro público para o qual o imóvel faz frente, os fatores constantes da TABELA III que acompanha a presente Lei.
+##### Art. 8º
+Os terrenos localizados em logradouro que não conste da TABELA I, terão seus valores fixados de acordo com o valor nela estabelecido para o logradouro dele mais próximo.
+##### Art. 9º
+O valor venal do imóvel em que haja construção será obtido pela conjunção do valor do terreno constante da TABELA I, com os padrões obtidos pelas características da construção, explicitados nas tabelas VI, VII e VIII.
+##### Art. 10.
+O montante da área construída será encontrado pela medição da projeção do pavimento superior ou cobertura de cada pavimento, dos contornos externos das paredes ou pilares, computadas também as superfícies denominadas terraços cobertos.
+§ 1º
+Para a obtenção da área construída serão consideradas todas as construções nos terrenos existentes como pavimento inferior, pavimento superior, porões, jiraus, terraços, mezaninos, classificados conforme as características nas tabelas que acompanham a presente Lei.
+§ 2º
+O imóvel que possua equipamentos de lazer, piscinas, quiosques, píeres, atracadouros, helipontos e equivalentes terá seu valor venal acrescido das porcentagens estabelecidas na tabela IV.
+##### Art. 11.
+Para a determinação do valor unitário do metro quadrado das construções, aplicar-se-á o padrão da Tabela na qual estejam presentes a maioria de suas características.
+Parágrafo único.
+Quando o imóvel se enquadrar em mais de um padrão, será apurado o preço médio que prevalecerá para fixação do valor venal do metro quadrado.
+##### Art. 12.
+Os imóveis que contarem dez ou mais anos de idade terão seus valores depreciados pela aplicação dos fatores consignados na TABELA V, com base na data em que o mesmo passou a ser tributado.
+Parágrafo único.
+O disposto no "caput" deste artigo não se aplica aos prédios que tiverem as suas características originais alteradas em virtude de melhoria ou reforma.
+##### Art. 13.
+Das notificações do Imposto Predial e Territorial Urbano, deverá constar obrigatoriamente além da individualização do imóvel, os valores expressos em Reais do terreno, do prédio, das taxas, acréscimos, depreciação, descontos: valor para pagamento integral e das parcelas, data de vencimento e o enquadramento do imóvel no Código, valor do metro quadrado do prédio e do terreno e Tabela respectiva, vedada qualquer outra inserção não relacionada ao imóvel, expressando-se o valor venal em moeda corrente nacional, na data da ocorrência do fato gerador que corresponde a 1º de janeiro de 2011.
+Parágrafo único.
+Constará também da notificação do Imposto Predial e Territorial Urbano, o nome do Compromissário, quando houver.
+##### Art. 14.
+O Contribuinte que não receber o carnê do IPTU deverá retirá-lo na Prefeitura Municipal antes do vencimento da primeira parcela e, caso não o faça, pagará o tributo com os acréscimos legais.
+##### Art. 15.
+A arrecadação do imposto será efetuada em um só pagamento com 6% (seis por cento) de desconto se efetuado até 11 de março de 2011 ou parcelado em até 12 (doze) prestações, sempre consideradas as parcelas de no mínimo R$ 25,00 (vinte e cinco reais).
+Parágrafo único.
+Nos casos de parcelas mínimas de R$ 25,00 (vinte e cinco reais), o pagamento delas poderá ser efetuado trimestralmente.
+##### Art. 16.
+Nos casos em que os custos operacionais de lançamento superarem a receita a ser arrecadada, fica o Poder Executivo autorizado a não efetuar o respectivo lançamento.
+##### Art. 17.
+Não poderá ser efetuada nenhuma transferência de nome quando da existência de débitos ou parcelamento que não estejam em dia.
+§ 1º
+Não poderá ser efetuado nenhum desdobro, unificação ou aprovação de projeto quando da existência de débitos nos termos do
+caput
+deste artigo.
+§ 2º
+Assim como não será permitido nenhum cadastramento sem que antes seja efetuado o recolhimento do ITBI (Imposto de Transmissão de Bens Imóveis e Direitos a eles relativos), seja através de Contrato Particular com firma reconhecida e em cópia autenticada, ou Escritura Pública.
+##### Art. 18.
+A presente Lei entrará em vigor em 1º de janeiro de 2011.
+##### Art. 19.
+Revogam-se as disposições em contrário, especialmente a Lei 763/2009.
+Ilhabela, 22 de novembro de 2010.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Projeto de Lei nº 095/2010
+Autoria: Executivo Municipal
+Registrada em Livro próprio e afixado na data supra no lugar de costume.
+TABELA I
+CÓDIGO DE VALORES DE TERRENOS
+(por metro quadrado) calculado para 01/01/2011
+CÓDIGOS
+VALORES EM REAIS
+01
+R$ 14,37
+02
+R$ 16,15
+03
+R$ 17,96
+04
+R$ 19,76
+05
+R$ 21,55
+06
+R$ 25,15
+07
+R$ 26,93
+08
+R$ 30,55
+09
+R$ 31,36
+10
+R$ 35,91
+11
+R$ 39,51
+12
+R$ 43,11
+13
+R$ 44,91
+14
+R$ 53,90
+15
+R$ 59,30
+16
+R$ 64,70
+17
+R$ 71,88
+18
+R$ 79,05
+19
+R$ 86,27
+20
+R$ 95,22
+21
+R$ 106,01
+22
+R$ 116,80
+23
+R$ 127,61
+24
+R$ 141,97
+25
+R$ 156,34
+26
+R$ 172,53
+27
+R$ 190,52
+28
+R$ 210,27
+29
+R$ 231,84
+30
+R$ 255,21
+BAIRRO
+LOGRADOURO
+COD.
+ÁGUA BRANCA
+DOMINGAS FIDELIS PEREIRA, RUA.
+10
+ÁGUA BRANCA
+MANOEL MARCOS DE JESUS FERREIRA ENG, PRAÇA DE ESPORTE.
+10
+ÁGUA BRANCA
+POÇO DA JAQUEIRA, SERVIDÃO.
+10
+ÁGUA BRANCA
+RENATO PINTO DE OLIVEIRA, RUA.
+8
+ÁGUA BRANCA
+MESSIAS MARGARIDO DOS SANTOS, RUA (antiga rua projetada 49)
+9
+ÁGUA BRANCA
+A., RUA
+7
+ÁGUA BRANCA
+ÁGUA BRANCA, RECANTO.
+8
+ÁGUA BRANCA
+ÁGUA BRANCA, RUA.
+8
+ÁGUA BRANCA
+ANA ASCENÇÃO DE JESUS, RUA.
+8
+ÁGUA BRANCA
+ANGELINA PINTO DE OLIVEIRA, RUA.
+10
+ÁGUA BRANCA
+ANTONIO BERNARDO DE MOURA, RUA.
+9
+ÁGUA BRANCA
+ASSIS LÍDIO DO NASCIMENTO, RUA.
+9
+ÁGUA BRANCA
+BENEDITA PINTO, RUA DONA.
+8
+ÁGUA BRANCA
+BENEDITO BENTO DE SOUZA, RUA.
+8
+ÁGUA BRANCA
+BENEDITO GARCEZ, RUA.
+8
+ÁGUA BRANCA
+BENEDITO MARZAGÃO, RUA.
+9
+ÁGUA BRANCA
+BENEDITO PASSOS DE FREITAS, RUA (início nº 238 da Rua Crispim Dias Pinto)
+8
+ÁGUA BRANCA
+BENEDITO PEDRO DOS SANTOS, RUA.
+9
+ÁGUA BRANCA
+BENEDITO SAMPAIO DE OLIVEIRA, RUA.
+10
+ÁGUA BRANCA
+BENEDITO WENCESLAU DE JESUS, RUA.
+10
+ÁGUA BRANCA
+CINCO, RUA - VILA SÃO JOSÉ.
+8
+ÁGUA BRANCA
+CRISPIM DIAS PINTO, RUA.
+8
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, AV (da Av. Faria Lima até a R. Marcelino R. dos Santos)
+13
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, AV (da R. Crispim Dias Pinto até a R. Gérson Peres de Araújo)
+14
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, AV. (da R. Marcelino R. Santos até a R. Crispim Dias Pinto)
+14
+ÁGUA BRANCA
+EUCLIDES JOSÉ DOS SANTOS, RUA. VEREADOR
+12
+ÁGUA BRANCA
+EXCETO LOGRADOUROS
+8
+ÁGUA BRANCA
+FABIANA DE ANDRADE, RUA.
+9
+ÁGUA BRANCA
+FRANCISCO ALVES DOS SANTOS, RUA - (antiga Rua José Esteves Rodrigues)
+10
+ÁGUA BRANCA
+FRANCISCO DOS SANTOS (antiga Projetada 51)
+9
+ÁGUA BRANCA
+FRANCISCO MIGUEL DOS SANTOS, TRAV.
+10
+ÁGUA BRANCA
+IRINEU CARUSO, PRAÇA.
+8
+ÁGUA BRANCA
+JOÃO CORREIA, RUA.
+8
+ÁGUA BRANCA
+JOSÉ BONIFÁCIO, RUA.
+11
+ÁGUA BRANCA
+JUNDIÁ, RUA
+10
+ÁGUA BRANCA
+LEOLINO CLEMENTINO BARBOSA, RUA
+10
+ÁGUA BRANCA
+LEOVALDO BARBOSA DOS SANTOS, RUA
+8
+ÁGUA BRANCA
+LUIZ AGOSTINHO SAMPAIO GARCIA, RUA
+11
+ÁGUA BRANCA
+MANOEL CLEMENTINO BARBOSA, RUA
+10
+ÁGUA BRANCA
+MARCELINO RODRIGUES DOS SANTOS, RUA
+10
+ÁGUA BRANCA
+MARIA APARECIDA DE MOURA, RUA (Antiga PROJETADA 45)
+10
+ÁGUA BRANCA
+MARIA RITA FRANCO DA FONSECA, RUA
+10
+ÁGUA BRANCA
+MARIO FRANÇA, RUA CEL.
+9
+ÁGUA BRANCA
+MARISIA ANNA VIOLANTE, TRAV.
+9
+ÁGUA BRANCA
+OLINDA DIAS BARBOSA, RUA
+8
+ÁGUA BRANCA
+PARQUE DA CACHOEIRA, JARDIM
+9
+ÁGUA BRANCA
+PEDRO RODRIGUES DOS SANTOS, RUA (inicia no nº 430 da Rua Leolino C. Barbosa)
+10
+ÁGUA BRANCA
+PEDRO VIEIRA, RUA (antiga Projetada 44)
+10
+ÁGUA BRANCA
+PROJETADA 027, RUA
+11
+ÁGUA BRANCA
+PROJETADA 048, TRAVESSA
+10
+ÁGUA BRANCA
+PROJETADA 050, RUA
+9
+ÁGUA BRANCA
+PROJETADA 161, RUA
+11
+ÁGUA BRANCA
+RICARDO WENCESLAU DE JESUS, RUA
+10
+ÁGUA BRANCA
+SÃO JOSÉ, RUA (do início até o nº 175)
+11
+ÁGUA BRANCA
+SÃO JOSÉ, RUA (do nº 175 até o final)
+10
+ÁGUA BRANCA
+SÃO JOSÉ, VILA (Loteamentos)
+9
+ANTÔNIOS
+PERIMETRAL NORTE (da Estrada para o mar)
+13
+ANTÔNIOS
+PERIMETRAL NORTE, (da Estrada para as Vertentes)
+7
+AREADO
+FAZENDA DO AREADO
+2
+ARMAÇÃO
+ESTRADA DA TORRE
+14
+ARMAÇÃO
+EXCETO LOGRADOUROS
+7
+ARMAÇÃO
+MANOEL REGINALDO - TRAVESSA
+11
+ARMAÇÃO
+PROJETADA 155, RUA
+23
+ARMAÇÃO
+PROJETADA 156, RUA
+11
+ARMAÇÃO
+SEBASTIÃO LEITE DA SILVA, Rua
+13
+ARMAÇÃO
+SP-131 (lado mar quando não confrontar com a faixa de Marinha)
+20
+ARMAÇÃO
+SP-131 (para o Centro da Ilha)
+13
+ARMAÇÃO
+SP-131 (quando confrontar com a faixa de marinha)
+26
+ARROZAL
+ALBERTINA BARROS SILVA, AV. DONA
+14
+ARROZAL
+EXCETO LOGRADOUROS
+10
+ARROZAL
+LEONARDO REALE, AV (lado mar quando não confrontar com a faixa de Marinha)
+13
+ARROZAL
+LEONARDO REALE, AV (para as vertentes)
+13
+ARROZAL
+LEONARDO REALE, AV (quando confrontar com a faixa de marinha)
+25
+ARROZAL
+PROJETADA 149, RUA
+10
+ARROZAL
+PROJETADA 150, RUA
+10
+BALEIA
+EXCETO LOGRADOUROS
+2
+BARRA VELHA
+25 DE JUNHO, Rua
+8
+BARRA VELHA
+ACRE, RUA
+6
+BARRA VELHA
+AÇUDE, RUA DO
+7
+BARRA VELHA
+ALAGOAS, RUA
+11
+BARRA VELHA
+ALAN KARDEC, PRAÇA
+13
+BARRA VELHA
+AMAZONAS, RUA
+10
+BARRA VELHA
+ANALIA SILVANA DE ALMEIDA COSTA, RUA
+8
+BARRA VELHA
+ANDRÉ DOS ANJOS SILVA, RUA (inicio altura do nº 39 da Rua Maria dos Anjos Brandão Rodrigues e término na Rua Aurentino Guimarães da Silva)
+7
+BARRA VELHA
+ANDRE LUIZ GIL COSTA, RUA;
+8
+BARRA VELHA
+ANTONIO AMORIM ANACLETO, RUA (antiga PROJETADA 69)
+9
+BARRA VELHA
+ANTONIO CALIL, RUA (inicia na altura do nº 250 da rua do Zabumba)
+9
+BARRA VELHA
+ANTONIO CARLOS AIRES DA FÉ, RUA (da R. Benedito Manoel Garcez até o final)
+7
+BARRA VELHA
+ANTONIO CARLOS AIRES DA FÉ, RUA (da R. Ceará até a Rua Benedito M. Garcez)
+8
+BARRA VELHA
+ANTONIO FELIPE GOMES, SERVIDÃO DE PASSAGEM
+7
+BARRA VELHA
+APARECIDA ANILDA DA SILVA PASSOS, VIELA (inicia na altura do nº 620 da Rua Benedito Mariano Leite)
+10
+BARRA VELHA
+ARAGUACEMA, TRAVESSA (início na altura do nº 839 da Rua dos Carijós)
+9
+BARRA VELHA
+ARARA AZUL, RUA
+10
+BARRA VELHA
+AURENTINO GUIMARÃES DA SILVA, RUA (antiga Rua 34)
+7
+BARRA VELHA
+BAHIA, RUA
+8
+BARRA VELHA
+BAIRRO - GLEBA I
+10
+BARRA VELHA
+BAIRRO - GLEBA II
+8
+BARRA VELHA
+BALBINO PEREIRA BRANDÃO, RUA (antiga PROJETADA 62)
+7
+BARRA VELHA
+BARRA VELHA, BALNEÁRIO 792 LANÇAMENTOS - OBS CÓDIGOS DIVERSOS
+10
+BARRA VELHA
+BARRA VELHA, JARDIM
+8
+BARRA VELHA
+BARRA VELHA, RUA
+9
+BARRA VELHA
+BENEDITO DOS ANJOS SAMPAIO, RUA
+10
+BARRA VELHA
+BENEDITO MANOEL GARCEZ, RUA
+9
+BARRA VELHA
+BENEDITO MARIANO LEITE, RUA
+10
+BARRA VELHA
+BENEDITO PEDRO DEMÉTRIO, RUA (antiga Projetada 73)
+10
+BARRA VELHA
+CRISTINO FERREIRA BRANT, SERVIDÃO DE PASSAGEM
+7
+BARRA VELHA
+LEANDRO, VIELA DO
+6
+BARRA VELHA
+MANGUEIRAS, RUA DAS
+8
+BARRA VELHA
+BOA VISTA, RUA
+8
+BARRA VELHA
+BRASIL, AV. - (da Rotatória até Av. Riachuelo - lado Mar)
+23
+BARRA VELHA
+BRASIL, AV. - (da Rotatória até Av. Riachuelo - lado Vertente)
+17
+BARRA VELHA
+BRASÍLIA, RUA
+9
+BARRA VELHA
+BROMÉLIAS DAS RUA
+8
+BARRA VELHA
+CACHOEIRA, RUA DA (início no nº 408 da R. Zabumba e término na Cach. Do Zabumba)
+6
+BARRA VELHA
+CAMARÃO, ESTRADA DO (Do início até o nº 275)
+8
+BARRA VELHA
+CAMARÃO, ESTRADA DO (Do nº 275 até o final)
+7
+BARRA VELHA
+CAMARÃO, TRAVESSA DO
+7
+BARRA VELHA
+CAMINHO DO PEREQUÊ/CAMINHO DA PRAIA **********
+14
+BARRA VELHA
+CAMINHONEIROS, DOS PRAÇA
+19
+BARRA VELHA
+CAMPO, VIELA DO (início na altura do nº 454 da Rua João Leite dos Santos Julião)
+5
+BARRA VELHA
+CAPITÃO CAVENDISH, Rua
+8
+BARRA VELHA
+CARIJÓS, RUA (do início até o numero 1.026)
+10
+BARRA VELHA
+CARIJÓS, RUA (do nº 1.026 até final)
+8
+BARRA VELHA
+CARIJÓS, RUA COLINA DOS
+8
+BARRA VELHA
+CARLOS ALBERTO DOS SANTOS "CARLÃO", TRAV. (início na altura do nº 184 da rua Piauí)
+8
+BARRA VELHA
+CARLOS ANDRADE RIZZINI, RUA
+15
+BARRA VELHA
+CARLOS ROBERTO CORREA DA SILVA, RUA
+8
+BARRA VELHA
+CEARÁ, RUA
+8
+BARRA VELHA
+CORSÁRIO BARBA RUIVA, RUA
+9
+BARRA VELHA
+DEOLINO MARIANO LEITE, RUA
+7
+BARRA VELHA
+DIMAS BERALDO DA SILVA, RUA
+8
+BARRA VELHA
+ELIANA DE JESUS LEANDRO, VIELA
+8
+BARRA VELHA
+ENCONTRO COM A NATUREZA, RUA
+7
+BARRA VELHA
+ESPÍRITO SANTO, RUA
+15
+BARRA VELHA
+EUGENIO ASTORGA GALLEGO, RUA
+8
+BARRA VELHA
+FERNANDO DE NORONHA, RUA
+9
+BARRA VELHA
+FERNANDO FRANCISCO DA SILVA, RUA
+7
+BARRA VELHA
+FIDELCINIO RODRIGUES DE SOUZA, RUA
+7
+BARRA VELHA
+FLORENTINO GARCIA VIEIRA NETO, RUA
+11
+BARRA VELHA
+FRANCISCA MARIA DE JESUS, SERVIDÃO DE PASSAGEM.
+6
+BARRA VELHA
+GARCIA, RUA DO.
+6
+BARRA VELHA
+GERSON PERES DE ARAÚJO, RUA.
+14
+BARRA VELHA
+GIRASSÓIS, RUA DOS.
+10
+BARRA VELHA
+GOIÁS, RUA
+12
+BARRA VELHA
+HILDA DE JESUS, RUA (antiga Trav. Dois da rua do Leandro)
+7
+BARRA VELHA
+HORTÊNCIAS, RUA DAS.
+10
+BARRA VELHA
+IDALINA MARIA DE JESUE, TRAVESSA.
+8
+BARRA VELHA
+IDALINA RODRIGUES CARVALHO, RUA.
+6
+BARRA VELHA
+IMPERADOR, RUA - (Tesouro da Colina)*************
+10
+BARRA VELHA
+ISABEL, AV PRINCESA - (do Córrego ÁGUA Branca até o Ferry Boat)
+19
+BARRA VELHA
+ISAIAS COELHO DA SILVA, RUA.
+6
+BARRA VELHA
+IZIDRO LEANDRO, VIELA (antiga Viela 2)
+8
+BARRA VELHA
+J, RUA - JARDIM BARRA VELHA - LOTEAMENTO.
+10
+BARRA VELHA
+JACARACI, RUA (antiga Projetada 46)
+9
+BARRA VELHA
+JOÃO FRANCISCO DOS SANTOS, RUA.
+8
+BARRA VELHA
+JOÃO LEITE JULIÃO DOS SANTOS, RUA.
+6
+BARRA VELHA
+JOÃO MAIETTINE, RUA.
+12
+BARRA VELHA
+JOAQUIM SAMPAIO DE OLIVEIRA (do nº 164 ate o final)
+11
+BARRA VELHA
+JOSÉ CARLOS SIQUEIRA, RUA.
+11
+BARRA VELHA
+JOSE DA LUZ, RUA (INICIO NA ALTURA DO Nº 44 da Rua do Camarão)
+7
+BARRA VELHA
+JOSE LEITE DOS PASSOS, PRAÇA.
+19
+BARRA VELHA
+LEANDRO, RUA DO.
+8
+BARRA VELHA
+LEANDRO, TRAVESSA DO.
+6
+BARRA VELHA
+LIBERTADOR, RUA
+10
+BARRA VELHA
+LIBERTADOR, TRAVESSA (Tesouro da Colina)
+10
+BARRA VELHA
+LIILIAN DE MAGALHAES GRAAF, RUA.
+7
+BARRA VELHA
+MACAPÁ, RUA.
+7
+BARRA VELHA
+MALAQUIAS OLIVEIRA FREITAS, RUA PROF.
+12
+BARRA VELHA
+MANOEL MACÁRIO DA SILVA, RUA - (antiga PROJETADA 58)
+7
+BARRA VELHA
+MARANHÃO, RUA
+11
+BARRA VELHA
+MARIA DAS DORES ROCHA PERES, RUA (Ant. PROJ. 52)
+10
+BARRA VELHA
+MARIA DOS ANJOS BRANDÃO, RUA (Antiga PROJET. 169)
+8
+BARRA VELHA
+MARIA ROSA P. DE OLIVEIRA, RUA (trav. Que tem início na altura do nº 125 da rua do Leandro)
+7
+BARRA VELHA
+MARITACA DAS, RUA
+8
+BARRA VELHA
+MARTINS FERREIRA DE MEDEIROS, RUA.
+8
+BARRA VELHA
+MATO GROSSO DO SUL, RUA.
+9
+BARRA VELHA
+MATO GROSSO, RUA.
+10
+BARRA VELHA
+MINAS GERAIS, RUA.
+10
+BARRA VELHA
+MONTEIRO LOBATO, RUA.
+9
+BARRA VELHA
+NAPOLEÃO LEITE DE SIQUEIRA, RUA
+8
+BARRA VELHA
+OLGA HENRIQUE DE SOUZA, RUA (início na altura do nº 49 da Estrada do Camarão)
+6
+BARRA VELHA
+OLYMPIA GARCIA DE SANTANA MARTINS, RUA - (antiga PROJETADA 68 e Trav. 309).
+8
+BARRA VELHA
+ORQUÍDEAS, RUA DAS
+10
+BARRA VELHA
+PARÁ, RUA.
+10
+BARRA VELHA
+PARAÍBA, RUA
+15
+BARRA VELHA
+PARANÁ, RUA
+16
+BARRA VELHA
+PAULO DOMINGOS DE CARVALHO, RUA
+8
+BARRA VELHA
+PEDRO GARCIA, RUA
+7
+BARRA VELHA
+PEDRO GARCIA, TRAVESSA
+5
+BARRA VELHA
+PEDRO LUCIANO PINHO (Rua)
+8
+BARRA VELHA
+PERNAMBUCO, RUA
+12
+BARRA VELHA
+PETRONILIO DA SILVA REIS, RUA
+6
+BARRA VELHA
+PIAUÍ, RUA
+10
+BARRA VELHA
+PORTAL DO TESOURO, RUA
+8
+BARRA VELHA
+PRIMAVERA, RUA DAS
+10
+BARRA VELHA
+PROJETADA 019, RUA
+8
+BARRA VELHA
+PROJETADA 054, RUA
+7
+BARRA VELHA
+PROJETADA 055, TRAVESSA
+7
+BARRA VELHA
+PROJETADA 056, RUA
+7
+BARRA VELHA
+PROJETADA 057, VIELA
+7
+BARRA VELHA
+PROJETADA 072, RUA
+7
+BARRA VELHA
+PROJETADA 166, RUA
+6
+BARRA VELHA
+PROJETADA 168, RUA
+8
+BARRA VELHA
+RAPOSA, TRAVESSA DA (Tesouro da Colina)
+10
+BARRA VELHA
+RIO BRANCO, RUA
+7
+BARRA VELHA
+RIO DE JANEIRO, RUA
+9
+BARRA VELHA
+RIO GRANDE DO NORTE, RUA
+8
+BARRA VELHA
+RIO GRANDE DO SUL, RUA (do início até o nº 476).
+9
+BARRA VELHA
+RIO GRANDE DO SUL, RUA (do nº 476 até o final).
+8
+BARRA VELHA
+RITA PEREZ DE AGUIAR, RUA
+8
+BARRA VELHA
+RONDÔNIA, RUA
+9
+BARRA VELHA
+RORAIMA, RUA
+7
+BARRA VELHA
+SALVADOR ARENA, RUA (início na altura do nº 881 da rua Benedito Mariano Leite)
+7
+BARRA VELHA
+SAMAMBAIAS, RUA DAS
+10
+BARRA VELHA
+SANTA CATARINA, RUA
+8
+BARRA VELHA
+SANTA CATARINA, RUA. (do início até o nº 327)
+9
+BARRA VELHA
+SANTA CATARINA, RUA. (do nº 327 até o final)
+8
+BARRA VELHA
+SÃO PAULO, AV.
+10
+BARRA VELHA
+SENZALA, RUA
+9
+BARRA VELHA
+SERGIPE, RUA - Costeira
+21
+BARRA VELHA
+SERGIPE, RUA - Vertentes
+16
+BARRA VELHA
+SILOÉ BEZERRA, RUA
+8
+BARRA VELHA
+TESOURO DA COLINA, RUA
+10
+BARRA VELHA
+TIRADENTES, AV.
+19
+BARRA VELHA
+TOCA DA RAPOSA, RUA - (Tesouro da Colina)
+10
+BARRA VELHA
+TREZENTOS E QUATRO, TRAVESSA. - (Servidão)
+7
+BARRA VELHA
+TREZENTOS E VINTE, RUA
+6
+BARRA VELHA
+VEREDA PAU BRASIL, RUA
+6
+BARRA VELHA
+VERGILIO BASÍLIO DA SILVA, RUA (Antiga PROJETADA 63)
+9
+BARRA VELHA
+VISTA ALEGRE, RUA
+7
+BARRA VELHA
+ZABUMBA, RUA (do inicio até o nº 527)
+10
+BARRA VELHA
+ZABUMBA, RUA (do nº 527 até o final)
+8
+BARREIROS
+LEONARDO REALE, AV - Para as Vertentes
+11
+BARREIROS
+LEONARDO REALE, AV - Praia
+23
+BARREIROS
+PROJETADA 138, RUA
+11
+BARREIROS
+PROJETADA 139, AVENIDA
+12
+BEXIGA
+ALISON CHRISTIAN, RUA
+7
+BEXIGA
+AIMORÉ, RUA
+18
+BEXIGA
+ANNA LEITE JULIÃO TORRES - TRAVESSA
+7
+BEXIGA
+ANNA LEITE JULIÃO TORRES, RUA - (até a Rua Manoel Pombo)
+9
+BEXIGA
+ANTONIO ROSA DA SILVA, RUA (da Rua Manoel Pombo até o final)
+8
+BEXIGA
+ARCO-ÍRIS, JARDIM
+14
+BEXIGA
+AVELÓZ DO, VIELA
+6
+BEXIGA
+BAIRRO - EXCETO LOGRADOURO
+6
+BEXIGA
+BENEDITO JOSÉ LOURENÇO, RUA
+8
+BEXIGA
+BENEDITO LEITE DA SILVA JR, RUA
+8
+BEXIGA
+CONDE D’EU, RUA
+14
+BEXIGA
+EUCALIPTOS, RUA DOS
+8
+BEXIGA
+EUCALIPTOS, TRAVESSA DOS
+8
+BEXIGA
+FRANCISCO POMBO, RUA.
+8
+BEXIGA
+GETÚLIO DOMINGOS SANTANA, RUA (antiga Travessa 101)
+9
+BEXIGA
+II, TRAVESSA - JARDIM ARCO ÍRIS
+14
+BEXIGA
+III, TRAVESSA - CONDE D’EU
+14
+BEXIGA
+JOÃO DE OLIVEIRA PEREIRA, RUA
+8
+BEXIGA
+JOÃO JOSÉ DE SANTANA, RUA (inicia na Rua Ver. Manoel Pombo, altura do nº 476)
+8
+BEXIGA
+JOÃO LEITE DOS SANTOS, RUA
+11
+BEXIGA
+JOAQUIM JOSÉ LOURENÇO, RUA
+11
+BEXIGA
+JOSÉ PACHECO DO NASCIMENTO, AV - Lado Vertentes.
+16
+BEXIGA
+JOSÉ PACHECO DO NASCIMENTO, AV. - Lado Mar
+16
+BEXIGA
+JOSÉ VALERO SANTOS, RUA - (antiga PROJETADA 95)
+14
+BEXIGA
+JOVINO MATHIAS CLEMENCIO, RUA
+9
+BEXIGA
+MANOEL DA SILVA TORRES, RUA
+10
+BEXIGA
+MANOEL INDALÉCIO DA SILVA, RUA
+8
+BEXIGA
+MANOEL POMBO, RUA VEREADOR
+10
+BEXIGA
+NAGIBE POMBO, RUA
+9
+BEXIGA
+NAGIBE POMBO, TRAVESSA
+8
+BEXIGA
+NICE CINTRA RIBEIRO, RUA
+8
+BEXIGA
+PAULINA SERAFIM DOS SANTOS, RUA (do início até o nº 436)
+9
+BEXIGA
+PAULINA SERAFIM DOS SANTOS, RUA (do nº 436 até o final)
+8
+BEXIGA
+PEDRO ADVINCO SANTANA, RUA
+8
+BEXIGA
+PESCADORES, RECANTO DOS
+8
+BEXIGA
+PROJETADA 096, RUA (Jardim Arco Íris)
+14
+BEXIGA
+PROJETADA 097, RUA (Jardim Arco Íris)
+14
+BEXIGA
+PROJETADA 098, RUA (Jardim Arco Íris)
+14
+BEXIGA
+PROJETADA 099, RUA (Jardim Arco Íris)
+14
+BEXIGA
+PROJETADA 100, RUA (Jardim Arco Íris)
+14
+BEXIGA
+PROJETADA 103, RUA
+8
+BEXIGA
+RAYMUNDO BENEDITO DOS SANTOS, RUA
+8
+BEXIGA
+RIACHUELO, AV. (Costeira)
+15
+BEXIGA
+RIACHUELO, AV. (Vertentes)
+13
+BEXIGA
+ROSA RODRIGUES DA SILVA (início no nº 197 da R.Nagib Pombo)
+7
+BEXIGA
+SALVADOR RODRIGUES, VIELA
+8
+BEXIGA
+SEBASTIÃO DA SILVA TORRES, RUA
+11
+BEXIGA
+SEBASTIÃO LEITE DA SILVA, RUA
+9
+BEXIGA
+SEBASTIÃO LEITE DA SILVA, TRAVESSA
+8
+BEXIGA
+SEVERINO MATHIAS DE SANTANA, RUA - (antiga Travessa 102)
+8
+BEXIGA
+VISTA BELA, RUA
+8
+BONETE
+BAIRRO
+2
+BONETE
+LAGE CASCATA - FAZENDA
+2
+BONETE
+LAGE CASCATA VELHA - FAZENDA
+2
+BONETE
+LAGE CASCATA VERDE MAR - FAZENDA
+2
+BONETE
+LAGE GAIVOTAS, FAZENDA
+2
+BONETE
+SOLEMAR, BALNEÁRIO
+2
+BONETE
+VERDE MAR, CHÁCARA
+2
+BORIFFOS
+AROEIRAS, RUAS DAS
+9
+BORRIFOS
+MARIA DAS DORES ALVES DA SILVA, SERV. DE PASSAGEM (Trav. Das Vielas dos Coqueiros)
+8
+BORRIFOS
+ACÁCIAS, RUAS DAS
+9
+BORRIFOS
+AROEIRAS, RUA DAS
+9
+BORRIFOS
+BAIRRO
+4
+BORRIFOS
+BORRIFOS, CONDOMÍNIO
+8
+BORRIFOS
+CAJUEIRO, RUA DOS
+8
+BORRIFOS
+COQUEIROS, VIELA DOS
+9
+BORRIFOS
+JOAÕ ANTONIO DE JESUS, RUA
+8
+BORRIFOS
+JOSE JUSTINIANO DE CARVALHO, RUA
+8
+BORRIFOS
+JOSE LEITE DE SANTANA, RUA
+8
+BORRIFOS
+MANGUEIRA RUA DAS
+10
+BORRIFOS
+MARIO COVAS JUNIOR GOV - AV. (Lado das Vertentes) - antiga SP-131
+6
+BORRIFOS
+MARIO COVAS JUNIOR GOV. - AV. (Lado Mar) - antiga SP-131
+14
+CABARAHÚ
+BAIRRO
+9
+CABARAHÚ
+JOSÉ BALTAZAR DE LORENA, RUA - (Antiga PROJETADA 109)
+7
+CABARAHÚ
+JOSÉ PACHECO DO NASCIMENTO, AV. - Lado Mar
+20
+CABARAHÚ
+JOSÉ PACHECO DO NASCIMENTO, AV. - Lado Vertentes
+11
+CABEÇUDA
+BAIRRO
+1
+CAMBAQUARA
+JOSÉ PACHECO DO NASCIMENTO, AV. - Lado Vertentes
+11
+CAMBAQUARA
+ARNOLDAS STAREIKAS, RUA
+8
+CAMBAQUARA
+BAIRRO
+7
+CAMBAQUARA
+JOSÉ PACHECO DO NASCIMENTO, AV. - Lado Mar
+20
+CASTELHANOS
+BAIRRO
+3
+CATUNI
+BAIRRO
+1
+CAVEIRAS
+CAVEIRAS (EXCETO LOGRADOUROS)
+2
+CAVEIRAS
+CONDOMÍNIO PRAIA DAS CAVEIRAS
+2
+CENTRO
+ALFREDO OLIANI, PRAÇA PROF.
+24
+CENTRO
+ALZIRA SIQUEIRA REALE, RUA DONA - (até o nº 50)
+21
+CENTRO
+ALZIRA SIQUEIRA REALE, RUA DONA (do nº 51 até o final)
+17
+CENTRO
+ANACLETO JOSÉ DE SOUZA, PRAÇA
+23
+CENTRO
+ANÍBAL TELLES CORREA, RUA
+16
+CENTRO
+ANTONIO CARLOS DOS REIS, R. (inicia nº 656 da R. Antonio L.A.- (do nº 95 até o final)
+12
+CENTRO
+ANTONIO CARLOS DOS REIS, R. (inicia no nº 656 da R. Antonio L. Alvs até o nº 95)
+13
+CENTRO
+ANTONIO CARLOS DOS REIS, TRAVESSA
+8
+CENTRO
+ANTONIO LISBOA ALVES, RUA (até o nº 553). Lado esquerdo
+13
+CENTRO
+ANTONIO LISBOA ALVES, RUA (do numero 553 ao final) lado direito
+18
+CENTRO
+BAIRRO
+18
+CENTRO
+BANANEIRAS, RUA DAS
+11
+CENTRO
+BANDEIRA, PRAÇA DA
+24
+CENTRO
+BENEDITO CARDEAL SOBRINHO, RUA
+20
+CENTRO
+BENEDITO, RUA SÃO - (até o nº 68)
+24
+CENTRO
+BENEDITO, RUA SÃO - (do nº 69 ao final)
+21
+CENTRO
+BRONISLAU, RUA PADRE.
+18
+CENTRO
+CARVALHO, RUA DOUTOR.
+26
+CENTRO
+CASTELO-BAIRRO
+11
+CENTRO
+CASTELO-SÍTIO
+14
+CENTRO
+FORÇA EXPEDICIONÁRIA BRASILEIRA, AV (Lado Mar)
+27
+CENTRO
+FORÇA EXPEDICIONÁRIA BRASILEIRA, AV. (Lado Vertente)
+22
+CENTRO
+FRANCISCO EDUARDO CLEMENTE, RUA - (Antiga projetada 115)
+10
+CENTRO
+GERMANA, AV DONA
+24
+CENTRO
+JOÃO LEITE DA SILVA, RUA
+10
+CENTRO
+JULIÃO, PRAÇA CEL.
+25
+CENTRO
+LUIZ BARRETO BARBOSA, RUA - (do início até o nº 201)
+17
+CENTRO
+LUIZ BARRETO BARBOSA, RUA - (do nº 201 até o final)
+19
+CENTRO
+NATALE JOSÉ DE ALICE, RUA.
+24
+CENTRO
+PADROEIRA, RUA DA.
+23
+CENTRO
+PEDRAS, VIELA DAS (inicia na altura do nº 167 da Rua Antonio Carlos Dos Reis)
+8
+CENTRO
+PEDRO CAMILO DOS SANTOS, RUA.
+10
+CENTRO
+PROJETADA 117, RUA
+10
+CENTRO
+PROJETADA 118, RUA
+10
+CENTRO
+PROJETADA 119, RUA
+10
+CENTRO
+PROJETADA 143, RUA
+17
+CENTRO
+PROJETADA 151, RUA
+21
+CENTRO
+SANTA TEREZA, RUA.
+22
+CENTRO
+SETE DE SETEMBRO, RUA.
+21
+CENTRO
+WASHINGTON LUIZ, RUA.
+23
+COCAIA
+VIVALDO BONIN, RUA (antiga rua um do Cond. Costa Bela I)
+9
+COCAIA
+ALÍPIO DE GÓES, RUA.
+9
+COCAIA
+ALZIRA SAMPAIO, RUA.
+8
+COCAIA
+ANTENOR CUSTÓDIO DA SILVA, RUA.
+9
+COCAIA
+ANTONIO LOURENÇO DE FREITAS, RUA VEREADOR.
+10
+COCAIA
+ANTONIO VITORINO DE OLIVEIRA, RUA.
+9
+COCAIA
+BAIRRO
+7
+COCAIA
+BELA VISTA, JARDIM.
+8
+COCAIA
+BENEDITO RODRIGUES DOS SANTOS, RUA.
+10
+COCAIA
+CACHOEIRA GRANDE, RUA DA.
+8
+COCAIA
+CLAUDIA SILVA GOMES DE ALBUQUERQUE SANTOS, RUA - (antiga projetada 24)
+8
+COCAIA
+COCAIA, RUA DA (do início até a Rua Rio Vermelho) - antes do nº 1.053
+10
+COCAIA
+COCAIA, RUA DA (do início até a Rua Rio Vermelho) - do nº 1.053 até o final
+9
+COCAIA
+COLINAS, JARDIM
+8
+COCAIA
+COQUEIRAL, JARDIM
+9
+COCAIA
+DOIS, RUA (Desmembramento Ademar Rodrigues Sampaio)
+9
+COCAIA
+ELIAS VIEIRA DO NASCIMENTO, RUA
+9
+COCAIA
+FRANCISCO PINHEIRO, RUA
+9
+COCAIA
+ITAOCA - LOTEAMENTO
+9
+COCAIA
+JACIRO OLIVEIRA DOS SANTOS, RUA
+7
+COCAIA
+MANOEL DA SILVA JUNIOR, RUA
+8
+COCAIA
+MANOEL GUERRA DO AMARAL, RUA (início no nº 214 da R. Benedito Rodrigues)
+10
+COCAIA
+MANOEL SERAFIM DOS ANJOS, RUA
+8
+COCAIA
+MARIA ÂNGELA DO AMARAL, RUA
+9
+COCAIA
+MARIA CATARINA SAMPAIO, RUA
+8
+COCAIA
+MORRO DO ESPINHO - BAIRRO
+6
+COCAIA
+PALMINA DE MORAES DE JESUS, RUA
+9
+COCAIA
+PARANÁ, JARDIM
+9
+COCAIA
+PROJETADA 016, RUA
+8
+COCAIA
+RAFAEL PINTO DA ROCHA, RUA
+9
+COCAIA
+RETIRO - TRAVESSA II
+8
+COCAIA
+RETIRO, RUA DO
+8
+COCAIA
+RETIRO, TRAVESSA I
+8
+COCAIA
+RIO VERMELHO, RUA
+10
+COCAIA
+RODRIGO EUGÊNIO SOARES GOLVEA, RUA
+9
+COCAIA
+ROYAL - PRAÇA
+8
+COCAIA
+ROYAL, RUA DO
+8
+COCAIA
+SANTO MOR CLEMENTE PAES PEREIRA, RUA
+8
+COCAIA
+SANTO MOR MANOEL DIAS BARBOSA, RUA
+8
+COCAIA
+SANTO MOR MANOEL GOUVEIA, RUA
+8
+COCAIA
+SEBASTIÃO JOSÉ ESPÍNDOLA, RUA
+9
+COCAIA
+ULISSES LOPES DOS SANTOS, RUA (antiga Projetada 18)
+8
+COCAIA
+VERÔNICA NATALINA DE ANDRADE GÓES, RUA (travessa que tem início na altura do nº 212 da rua do Retiro)
+8
+COSTA BELA II
+AGENOR DA SILVA, RUA. (antiga Projetada 26)
+9
+COSTA BELA II
+AUGUSTO CARDEAL SOBRINHO, RUA (antiga Projetada 25)
+8
+COSTA BELA II
+CREUSA DE LIMA SANTANA, RUA (inicia no nº 315 da Rua Marina de Oliveira Vieira)
+9
+COSTA BELA II
+MARINA DE OLIVEIRA VIEIRA, RUA
+11
+CURRAL
+ALCEU PUPO LEME SILVA, RUA
+13
+CURRAL
+BAIRRO
+7
+CURRAL
+BENEDITO LEITE DO VALE, RUA (do inicio até o nº 216)
+10
+CURRAL
+BENEDITO LEITE DO VALE, RUA (do nº 140 ao final)
+11
+CURRAL
+ÉRICO JOÃO SIRIUBA STICKEL, RUA
+24
+CURRAL
+I, TRAV.
+6
+CURRAL
+III, TRAV
+6
+CURRAL
+IV, TRAV.
+6
+CURRAL
+JOSÉ BATISTA DOS SANTOS, RUA (inicia no nº 7.313 da R. José P. do Nascimento)
+15
+CURRAL
+JOSÉ LEITE DO VALE, RUA
+6
+CURRAL
+JOSÉ PACHECO DO NASCIMENTO, RUA - Praia
+24
+CURRAL
+JOSÉ PACHECO DO NASCIMENTO, RUA - Vertentes
+16
+CURRAL
+MANOEL LEITE DO VALE, RUA
+7
+CURRAL
+MANOEL VITAL DE CARVALHO, RUA (inicia no nº 7.389 da R. José P. do Nascimento)
+8
+CURRAL
+PARTICULAR 03, SERVIDÃO
+6
+CURRAL
+PARTICULAR 05, SERVIDÃO
+6
+CURRAL
+PARTICULAR 09, SERVIDÃO
+6
+CURRAL
+PARTICULAR 11, SERVIDÃO
+6
+CURRAL
+PEDRO LEITE DO VALE, RUA (antiga Projetada 105)
+8
+CURRAL
+PEDRO PIO LEITE, RUA
+6
+CURRAL
+PROJETADA 104, TRAVESSA
+8
+CURRAL
+PROJETADA 106, RUA
+8
+CURRAL
+SILVINA GONÇALVES DE FREITAS, RUA (da altura do nº 238 até o final)
+8
+CURRAL
+SILVINA GONÇALVES DE FREITAS, RUA (do inicio da Rua Benedito Leite do Vale, até a altura do nº 238)
+9
+CURRAL
+V, TRAV.
+6
+CURRAL
+VI, TRAV.
+6
+EIXO
+EIXO CONDOMÍNIO RESIDENCIAL
+2
+EIXO
+EXCETO LOGRADOUROS
+2
+ENCHOVAS
+BAIRRO
+2
+ENGENHO D’ÁGUA
+ENGENHO D’ÁGUA I - LOTEAMENTO
+22
+ENGENHO D’ÁGUA
+ENGENHO D’ÁGUA II - LOTEAMENTO
+21
+ENGENHO D’ÁGUA II
+CACHOEIRA, AVENIDA DA
+21
+ENGENHO D’ÁGUA II
+CARAGUATÁ, RUA DO
+21
+ENGENHO D’ÁGUA II
+INGÁ, RUA DO
+21
+ENGENHO D’ÁGUA II
+MUNDEU I, TRAVESSA DO
+21
+ENGENHO D’ÁGUA II
+MUNDEU II, TRAVESSA DO
+21
+ENGENHO D’ÁGUA II
+MUNDEU, RUA DO
+21
+ENGENHO D’ÁGUA II
+PEDRA DO CORVO, RUA
+21
+ENGENHO D’ÁGUA II
+VAGALUME, AVENIDA DO
+21
+ESTÁCIO
+BAIRRO
+2
+FEITICEIRA
+ALEIJADINHO, RUA MESTRE - (da Rua Sinhá Moça ao final)
+24
+FEITICEIRA
+ALEIJADINHO, RUA MESTRE - (do início à Rua Sinhá Moça)
+23
+FEITICEIRA
+ALEIJADINHO, TRAVESSA MESTRE
+24
+FEITICEIRA
+ARTHUR FERREIRA DA SILVA, RUA DR. (Mirante da Ilha)
+15
+FEITICEIRA
+ATAÍDE, RUA MESTRE
+23
+FEITICEIRA
+BAIRRO
+15
+FEITICEIRA
+BARROCOS - RUA DOS
+15
+FEITICEIRA
+CABREUVAS, ALAMEDA (antiga projetada 083 Rua) (Mirante da Ilha)
+15
+FEITICEIRA
+CAJUEIROS, ALAMEDA DOS
+24
+FEITICEIRA
+CAMBUCAS, ALAMEDA DAS (antiga projetada 080 Rua) (Mirante da Ilha)
+15
+FEITICEIRA
+COLONIAL RUA
+16
+FEITICEIRA
+COQUEIROS, AL. DOIS - (Fazenda São Mathias)
+24
+FEITICEIRA
+EMBAUBAS, ALAMEDA DOS (antiga projetada 082, Rua) (Mirante da Ilha)
+15
+FEITICEIRA
+ENGENHO VELHO, RUA DO
+14
+FEITICEIRA
+GUAPURUVUS, ALAMEDA DOS (antiga projetada 084, Rua) (Mirante da Ilha)
+15
+FEITICEIRA
+ILHA, MIRANTE DA
+9
+FEITICEIRA
+INGÁS, ALAMEDA DOS (antiga projetada 085, Rua) (Mirante da Ilha)
+15
+FEITICEIRA
+JACARANDAS, ALAMEDA (Projetada 081) (Mirante da Ilha)
+15
+FEITICEIRA
+JAQUEIRAS, ALAMEDA DAS - CD S/M
+24
+FEITICEIRA
+JERIVAS, ALAMEDA DOS (projetada 086) (Mirante da Ilha)
+15
+FEITICEIRA
+JOÃO V, RUA DOM
+16
+FEITICEIRA
+JOSÉ LINS DO REGO, AV. - (lado direito da Av. Riachuelo - Mar)
+22
+FEITICEIRA
+JOSÉ LINS DO REGO, AV. - (lado esquerdo da Av. Riachuelo - Vertente)
+16
+FEITICEIRA
+JOSÉ, RUA DOM
+17
+FEITICEIRA
+MANGUEIRAS, ALAMEDA DAS - (da Rua Jaqueira ao final)
+25
+FEITICEIRA
+MANGUEIRAS, ALAMEDA DAS - (do início até Jaqueiras)
+25
+FEITICEIRA
+MARGINAL, RUA. - Quadra D (Condomínio São Mathias)
+25
+FEITICEIRA
+MARIA I, AV DONA
+23
+FEITICEIRA
+MARILIA DE DIRCEU, RUA
+23
+FEITICEIRA
+MATHIAS, FAZENDA SÃO - LOTEAMENTO
+19
+FEITICEIRA
+OURO PRETO, RUA
+17
+FEITICEIRA
+PROJETADA 087, RUA (Mirante da Ilha)
+15
+FEITICEIRA
+PROJETADA 088, RUA (Mirante da Ilha)
+15
+FEITICEIRA
+PROJETADA 089, RUA (Mirante da Ilha)
+15
+FEITICEIRA
+PROJETADA 090, RUA (Mirante da Ilha)
+15
+FEITICEIRA
+PROJETADA 093, RUA
+10
+FEITICEIRA
+RIACHUELO, AV - Costeira
+24
+FEITICEIRA
+RIACHUELO, AV - Praia
+25
+FEITICEIRA
+RIACHUELO, AV - Vertentes
+18
+FEITICEIRA
+SINHÁ MOCA, RUA
+23
+FEITICEIRA
+VALENTIM, RUA MESTRE
+18
+FEITICEIRA
+VITALINO, RUA MESTRE
+23
+FLEXAS
+FLEXAS I, TRAVESSA DAS
+13
+FLEXAS
+FLEXAS II, TRAVESSA DAS
+13
+FLEXAS
+FLEXAS, RUA DAS
+13
+FLEXAS
+MARIO COVAS JUNIOR GOV. AV. - Lado Vertentes (antiga SP131)
+9
+FLEXAS
+MARIO COVAS JUNIOR GOV. AV. Lado Mar (antiga SP131)
+15
+FOME
+BAIRRO
+2
+FRADES
+BAIRRO
+4
+FRADES
+MARIO COVAS JUNIOR GOV. AV. Lado Mar (antiga SP 131)
+10
+FRADES
+MARIO COVAS JUNIOR GOV. AV.Lado Vertentes (antiga SP 131)
+6
+FURNAS
+BAIRRO
+5
+FURNAS
+BENEDITA CONCEIÇÃO DE ALMEIDA, RUA (início próximo ao nº 11.260)
+8
+FURNAS
+PERIMETRAL NORTE, AV. - Lado Mar
+12
+FURNAS
+PERIMETRAL NORTE, AV. - Lado Vertentes
+8
+GALHETAS
+BAIRRO
+2
+GARAPOCAIA
+BAIRRO
+24
+GAROUPA
+BAIRRO
+1
+GIBALTE
+BAIRRO
+1
+GODOI
+BAIRRO
+1
+GUANXUMAS
+BAIRRO
+2
+ILHA DAS CABRAS
+ILHA DAS CABRAS (Piúva ou Pedras Miúdas)
+27
+ILHOTE
+SAMAMBAIAS, ALAMEDA DAS
+17
+ILHOTE
+BAIRRO
+7
+ILHOTE
+BRASIL, AV. - Lado Mar
+22
+ILHOTE
+BRASIL, AV. - Lado Vertentes
+17
+ILHOTE
+DOS TUCANOS, TRAV.
+8
+ILHOTE
+JOÃO DE SOUZA BARBOSA, RUA
+8
+ILHOTE
+JOÃO VIEIRA - VIELA
+8
+ILHOTE
+MANOEL MAURÍLIO DE SANTANA - RUA
+10
+ILHOTE
+PROJETADA 074, RUA
+8
+ILHOTE
+PROJETADA 075, RUA
+8
+INDAIAUBA
+BAIRRO
+4
+ITABOCA
+MARIO COVAS JUNIOR GOV. AV.Lado Mar (antiga SP 131)
+15
+ITABOCA
+MARIO COVAS JUNIOR GOV. AV.Lado Vertentes (antiga SP 131)
+8
+ITAGUASSU
+PEDRO SALVADOR, SERVIDAO DE PASSAGEM (ant. viela projetada 10)
+8
+ITAGUASSU
+ELISANGELA ARAUJO DOS SANTOS, SERVIDÃO DE PASSAGEM
+12
+ITAGUASSU
+ROSA CARDEAL DE FREITAS, RUA
+10
+ITAGUASSU
+SAÍRA SETE CORES, Rua
+6
+ITAGUASSÚ
+ALBERTINA DE BARROS STORACE, RUA
+7
+ITAGUASSÚ
+ARAPONGAS, RUA (da Rua Morro da Cruz ao final)
+16
+ITAGUASSÚ
+ARAPONGAS, RUA (do início até o cruzamento da Rua Morro da Cruz)
+21
+ITAGUASSÚ
+BAIRRO
+7
+ITAGUASSÚ
+BELA VISTA, RUA (Morro da Cruz)
+18
+ITAGUASSÚ
+BENEDITO MARQUES DE SANTANA, RUA
+11
+ITAGUASSÚ
+FLORES, TRAVESSA DAS (Morro da Cruz)
+7
+ITAGUASSÚ
+GILDA EMILIA DO AMARAL, RUA
+11
+ITAGUASSÚ
+ITAGUASSÚ, RUA
+18
+ITAGUASSÚ
+IZA, RUA DONA
+19
+ITAGUASSÚ
+MARCÍLIO DIAS, MARINHEIRO (da Rua Palmares ao final)
+21
+ITAGUASSÚ
+MARCÍLIO DIAS, RUA MARINHEIRO (até Rua Palmares)
+23
+ITAGUASSÚ
+MORRO DA CRUZ, RUA
+15
+ITAGUASSÚ
+MORRO DA CRUZ, TRAV. (Cachadaço)
+6
+ITAGUASSÚ
+NOVA II, RUA
+14
+ITAGUASSÚ
+NOVA, I RUA
+7
+ITAGUASSÚ
+PANORÂMICA, TRAVESSA
+6
+ITAGUASSÚ
+PANORÂMICA, VIA (do início até o nº 45)
+7
+ITAGUASSÚ
+PANORÂMICA, VIA (do nº 45 até o final)
+6
+ITAGUASSÚ
+ROSA CARDEAL DE FREITAS, RUA
+10
+ITAPECERICA
+BAIRRO
+6
+ITAPECERICA
+BENEDITO ANTONIO DE OLIVEIRA, RUA
+7
+ITAPECERICA
+MARIO COVAS JUNIOR GOV. AV. Lado Mar (antiga SP 131)
+14
+ITAPECERICA
+MARIO COVAS JUNIOR GOV. AV.Lado Vertentes (antiga SP 131)
+7
+ITAQUANDUBA
+ALEXANDRE BEIRÃO DA PUNICENA, RUA. (antiga Projetada 11)
+6
+ITAQUANDUBA
+ALICIO RIBEIRO, RUA (antiga Rua PROJETADA 4)
+7
+ITAQUANDUBA
+ALMIRANTE TAMANDARÉ, AV. - (Terrenos que confrontam com faixa de marinha)
+24
+ITAQUANDUBA
+ALMIRANTE TAMANDARÉ, AV. - Vertentes (da Al. Baepi II até a R. José J. da Silva)
+20
+ITAQUANDUBA
+ALMIRANTE TAMANDARÉ, AV. - Vertentes (da José Joaquim da Silva até o final)
+22
+ITAQUANDUBA
+ALZIRA SIMÕES BERTINI, RUA
+9
+ITAQUANDUBA
+ALZIRA SIMÕES BERTINI, TRAV.
+8
+ITAQUANDUBA
+ANTONIO GOMES DE ALMEIDA, SERV. DE PASSAGEM
+5
+ITAQUANDUBA
+BAEPI I, ALAMEDA (ENGENHO D’ÁGUA)
+21
+ITAQUANDUBA
+BAEPI II, ALAMEDA (ENGENHO D’ÁGUA)
+18
+ITAQUANDUBA
+BAIRRO
+6
+ITAQUANDUBA
+BALTAZAR MANOEL GONÇALVES, RUA CAP.
+18
+ITAQUANDUBA
+BANDEIRANTES, AV. DOS (da Jacob Eduardo ao final)
+15
+ITAQUANDUBA
+BANDEIRANTES, AV. DOS (do início até Jacob Eduardo)
+19
+ITAQUANDUBA
+BANDEIRANTES, TRAV. DOS
+19
+ITAQUANDUBA
+C, RUA - (Jardim Cascata)
+8
+ITAQUANDUBA
+CAMPING, RUA DO
+23
+ITAQUANDUBA
+CASCATA, JARDIM
+8
+ITAQUANDUBA
+CIRILO VIEIRA DE ARAÚJO, RUA
+5
+ITAQUANDUBA
+EMERSON DOS SANTOS DIAS, RUA (antiga Projetada 08)
+9
+ITAQUANDUBA
+ERNANI AZEVEDO DO NASCIMENTO, RUA. (antiga PROJETADA 2)
+9
+ITAQUANDUBA
+EUCLIDES DA CUNHA, RUA
+11
+ITAQUANDUBA
+FRANCISCO AMÉRICO DE ARAÚJO FILHO, RUA (antiga Projetada 6)
+7
+ITAQUANDUBA
+GUILHERME PINHEIRO MORTENSEN, SERVIDÃO DE PASSAGEM
+7
+ITAQUANDUBA
+HEGINA DE OLIVEIRA, RUA
+9
+ITAQUANDUBA
+I, RUA - JARDIM CASCATA - LOTEAMENTO
+7
+ITAQUANDUBA
+ILHA DE CAPRI - CONJ. RESIDENCIAL
+24
+ITAQUANDUBA
+ITAQUANDUBA, LOTEAMENTO BAEPI
+17
+ITAQUANDUBA
+ITAQUANDUBA, RUA
+24
+ITAQUANDUBA
+JACOB EDUARDO TOEDTLI, RUA VEREADOR
+13
+ITAQUANDUBA
+JOSÉ BENEDICTO, RUA. (antiga Rua PROJETADA 3)
+7
+ITAQUANDUBA
+JOSÉ FELICIANO DA SILVA, RUA
+8
+ITAQUANDUBA
+JOSÉ JOAQUIM DA SILVA, RUA - (da Rua Nova II até o fim)
+10
+ITAQUANDUBA
+JOSÉ JOAQUIM DA SILVA, RUA - (do início até o nº 164)
+18
+ITAQUANDUBA
+JOSÉ JOAQUIM DA SILVA, RUA - (do nº 166 até Nova II)
+14
+ITAQUANDUBA
+JOSÉ LUCAS DA SILVA, RUA
+10
+ITAQUANDUBA
+JOSENILDA FELICIANO DA SILVA (antiga Rua PROJETADA 7)
+7
+ITAQUANDUBA
+MANGUEIRA, VIELA
+5
+ITAQUANDUBA
+MANOEL GOMES DE OLIVEIRA, RUA
+5
+ITAQUANDUBA
+MANOEL GOMES DE OLIVEIRA, TRAVESSA
+5
+ITAQUANDUBA
+MISAEL DOS SANTOS GARCEZ, RUA (antiga PROJETADA 13)
+8
+ITAQUANDUBA
+MISAEL DOS SANTOS GARCEZ, TRAV.
+8
+ITAQUANDUBA
+OLIMPIO JOSÉ DOS SANTOS, RUA
+11
+ITAQUANDUBA
+OLIMPIO JOSÉ DOS SANTOS, TRAVESSA
+7
+ITAQUANDUBA
+PALMARES, RUA
+16
+ITAQUANDUBA
+PEDRO PINTO, RUA
+22
+ITAQUANDUBA
+PEDRO SALVADOR, SERVIDÃO DE PASSAGEM
+8
+ITAQUANDUBA
+PEDRO SENHORINHO BISPO DOS SANTOS, RUA (antiga projetada 193)
+7
+ITAQUANDUBA
+PROJETADA 005, VIELA
+7
+ITAQUANDUBA
+PROJETADA 009, VIELA
+7
+ITAQUANDUBA
+PROJETADA 010, VIELA
+8
+ITAQUANDUBA
+PROJETADA 012, VIELA
+8
+ITAQUANDUBA
+PROJETADA 023, VIELA
+6
+ITAQUANDUBA
+PROJETADA 165, VIELA
+6
+ITAQUANDUBA
+ROBERTO DA CRUZ SANTOS, SERVIDÃO DE PASSAGEM
+8
+ITAQUANDUBA
+RODOLFO DE ARAÚJO, RUA.
+10
+ITAQUANDUBA
+SACI, TRAVESSA DO
+14
+ITAQUANDUBA
+SOLAR DOS BANDEIRANTES, RUA
+20
+JABAQUARA
+BAIRRO
+5
+JABAQUARA
+SP-131 - Lado Mar
+9
+JABAQUARA
+SP-131 - Lado Vertentes
+5
+LAGE
+CASCATA - LOTEAMENTO
+2
+LAGE
+FAZENDA DA LAGE
+2
+LAGE
+LAGE - EXCETO LOGRADOURO
+2
+LAGE PRETA
+BAIRRO
+2
+LAGEADO
+BAIRRO
+1
+MARAMBAIA
+MARAMBAIA, RUA
+8
+MARAMBAIA
+BAIRRO
+5
+MARAMBAIA
+MARIO COVAS JUNIOR GOV. AV. Lado Mar. (antiga SP 131)
+8
+MARAMBAIA
+MARIO COVAS JUNIOR GOV. AV. Lado Vertentes (antiga SP 131)
+5
+MEXILHÃO
+BAIRRO
+6
+MEXILHÃO
+MARIO COVAS JUNIOR GOV. AV.Lado Mar (antiga Av. SP 131)
+15
+MEXILHÃO
+MARIO COVAS JUNIOR GOV. AV.Lado Vertentes (antiga Av. SP 131)
+8
+PACUÍBA
+BAIRRO
+6
+PACUÍBA
+BEIJA-FLORES, RUA DOS - (Antiga PROJETADA 167 e Rua João Correia)
+10
+PACUÍBA
+SP-131 - Lado Mar
+10
+PACUÍBA
+SP-131 - Lado Vertentes
+6
+PEDRAS MIÚDAS
+BRASIL, AV. - Lado Mar
+24
+PEDRAS MIÚDAS
+BRASIL, AV. - Lado Vertentes
+17
+PEREQUÊ
+ADOLFO SILVA PINTO, RUA
+8
+PEREQUÊ
+ALICE PINTO GOUVEIA, RUA
+20
+PEREQUÊ
+ANA VITERBO DE SOUZA, RUA
+14
+PEREQUÊ
+ANACLETO JOSE DE SOUZA, RUA
+10
+PEREQUÊ
+ANTONIA CORREIA PINTO, RUA (antiga PROJETADA 15)
+8
+PEREQUÊ
+ANTÔNIA MORAES PACHECO, RUA (inicio no nº 52 da Rua Theotônio)
+11
+PEREQUÊ
+ANTONIO GÓES, RUA
+9
+PEREQUÊ
+ANTONIO ZEFERINO FRANCO, RUA
+9
+PEREQUÊ
+ARIOVALDO SIMÕES BARBOSA, RUA
+13
+PEREQUÊ
+ARLETE MORAES SILVA, RUA (antiga Rua C Jardim Edem).
+19
+PEREQUÊ
+ARMANDO DA SILVA PINTO, (antiga Rua Francisca Paula de Jesus)
+23
+PEREQUÊ
+ARMIN SUTTER, RUA
+17
+PEREQUÊ
+BADEN POWEL, PRAÇA
+21
+PEREQUÊ
+BAIRRO
+10
+PEREQUÊ
+BENEDITO BRÁS DE FREITAS, RUA
+19
+PEREQUÊ
+BENEDITO CARLOS DE MOURA, RUA
+16
+PEREQUÊ
+BENEDITO GUERRA DO AMARAL, RUA
+22
+PEREQUÊ
+BENEDITO PACHECO DE FREITAS, TRAVESSA
+9
+PEREQUÊ
+BENEDITO PEDRO DE OLIVEIRA, RUA (até o numero 209)
+17
+PEREQUÊ
+BENEDITO PEDRO DE OLIVEIRA, RUA (do numero 209 até o final)
+15
+PEREQUÊ
+BENEDITO PEDRO DE SOUZA, RUA
+9
+PEREQUÊ
+BENEDITO RODRIGUES DA SILVA, RUA
+14
+PEREQUÊ
+BENEDITO ROSA DE JESUS, RUA
+9
+PEREQUÊ
+BENEDITO SAMPAIO DE MOURA (ATE RUA QUILOMBO)
+15
+PEREQUÊ
+BENEDITO SERAFIM SAMPAIO, RUA
+10
+PEREQUÊ
+BENEDITO VALÉRIO DOS SANTOS, RUA
+11
+PEREQUÊ
+BENJAMIN PINTO DE SOUZA, RUA
+9
+PEREQUÊ
+CACHADAÇO - RESIDENCIAL
+12
+PEREQUÊ
+CARANGUEIJO, RUA (JARDIM EDEM)
+12
+PEREQUÊ
+CAROLINA VANDERSTAPPEN, R. (final da R. Pedro F. e final na R. Possidônio G. Silva)
+19
+PEREQUÊ
+CERCA, RUA DA
+12
+PEREQUÊ
+D, RUA - JARDIM PEREQUÊ - LOTEAMENTO
+8
+PEREQUÊ
+DIMAS, VILA SÃO
+19
+PEREQUÊ
+DOIS COQUEIROS, JARDIM - EXC. LOG.
+16
+PEREQUÊ
+DOIS COQUEIROS, RUA
+17
+PEREQUÊ
+ÉDEN, JARDIM - (GLEBA III)
+9
+PEREQUÊ
+ÉDEN, JARDIM (GLEBA I)
+17
+PEREQUÊ
+ÉDEN, JARDIM (GLEBA II)
+11
+PEREQUÊ
+FLORINHA, RUA DONA
+18
+PEREQUÊ
+GERALDO PROC. CUNHA JUNQUEIRA, RUA PREFEITO
+11
+PEREQUÊ
+GUAIÁ, RUA
+10
+PEREQUÊ
+GUAIAMU, RUA DO
+11
+PEREQUÊ
+HERCÍLIO GOUVEIA FALCONE, RUA
+12
+PEREQUÊ
+HERCÍLIO GOUVEIA FALCONE, TRAVESSA
+11
+PEREQUÊ
+I, RUA - JARDIM ÉDEN - GLEBA III
+10
+PEREQUÊ
+IBRAIM JOSÉ BOABAID, RUA
+14
+PEREQUÊ
+IRENE ROSCZCEWSKA BARBOSA, RUA Drª.
+19
+PEREQUÊ
+ISABEL, AV PRINCESA (da Praça Elvira Storace até o córrego Água Branca)
+20
+PEREQUÊ
+ISABEL, AV PRINCESA (da Rua Morro da Cruz - PR até a Praça Elvira Storace)
+23
+PEREQUÊ
+JACA, RUA DAS
+12
+PEREQUÊ
+JOÃO EVANGELISTA PINHEIRO, RUA
+12
+PEREQUÊ
+JOÃO JOSÉ DE CARVALHO, RUA
+14
+PEREQUÊ
+JOÃO NOGUEIRA DE LIMA, RUA MAJOR
+18
+PEREQUÊ
+JOÃO, AV. SÃO - Lado Mar
+23
+PEREQUÊ
+JOÃO, AV. SÃO - Lado Vertentes
+20
+PEREQUÊ
+JOAQUIM GARCIA DA VEIGA, RUA VER.
+8
+PEREQUÊ
+JOAQUIM SAMPAIO DE OLIVEIRA, RUA (do inicio ate nº 164)
+14
+PEREQUÊ
+JOSÉ DIAS BARBOSA, RUA
+13
+PEREQUÊ
+JOSÉ VICENTE DE FARIA LIMA, CEL - (do início até J.S.Oliveira)
+17
+PEREQUÊ
+JOSÉ VICENTE DE FARIA LIMA, CEL - (J.S.Oliveira até a Rua José Senno)
+13
+PEREQUÊ
+JULIO SAMPAIO PINHEIRO, RUA
+9
+PEREQUÊ
+LAUDELINO MERCHIAS MAZARGÃO, RUA
+12
+PEREQUÊ
+LAURA BACCHIO COLLO, RUA PROFESSORA
+10
+PEREQUÊ
+LEONOR, VILA
+13
+PEREQUÊ
+LINCOLN FELICIANO, RUA Dr.
+12
+PEREQUÊ
+LUIZ AMEIXEIRO, RUA (até a av. Princesa Isabel lado esquerdo)
+20
+PEREQUÊ
+LUIZ AMEIXEIRO, RUA (da av. Princesa Izabel lado direito até o final)
+17
+PEREQUÊ
+MANGUE, RUA DO
+12
+PEREQUÊ
+MANGUEIRA, PRAÇA
+20
+PEREQUÊ
+MANOEL CORREA MESQUITA, RUA S. MR.
+8
+PEREQUÊ
+MANOEL DIAS BARBOSA, RUA
+9
+PEREQUÊ
+MANOEL MAZARGÃO, RUA
+9
+PEREQUÊ
+MARIA DIAS BARBOSA, RUA
+12
+PEREQUÊ
+MARIA LUCIANA DE OLIVEIRA, RUA (da Rua do Quilombo até o fim)
+20
+PEREQUÊ
+MARIA LUCIANA DE OLIVEIRA, RUA (do início até a R. do Quilombo)
+19
+PEREQUÊ
+MARIA MELANIA DOS SANTOS, RUA
+20
+PEREQUÊ
+MARIA SAMPAIO MENDES, (Desmembramento)
+12
+PEREQUÊ
+MARIANO PROC. ARAÚJO CARVALHO, RUA PREF.
+20
+PEREQUÊ
+MURUMAR, JARDIM
+9
+PEREQUÊ
+OLIMPIO LEITE DA SILVA, RUA
+20
+PEREQUÊ
+PEDRA DO SINO, BALNEÁRIO
+10
+PEREQUÊ
+PEDRO ALVES DA CRUZ, RUA
+13
+PEREQUÊ
+PEDRO DE FREITAS, R.(inicia na Av. Princesa Isabel e termina na Rua Benedito Rodrigues)
+20
+PEREQUÊ
+PEDRO MANOEL DE JESUS, RUA
+9
+PEREQUÊ
+PEREQUÊ, JARDIM - GLEBA II
+8
+PEREQUÊ
+PEREQUÊ, JARDIM - LOTEAMENTO
+8
+PEREQUÊ
+PINDÁ, RUA DO - JARDIM ÉDEN - GLEBA II
+12
+PEREQUÊ
+POSSIDÔNIO GOMES DA SILVA, RUA
+18
+PEREQUÊ
+PROJETADA, RUA (DESM. ARMANDO)
+8
+PEREQUÊ
+PROJETADA 020, RUA
+10
+PEREQUÊ
+PROJETADA 021, RUA
+10
+PEREQUÊ
+QUILOMBO, RUA DO
+20
+PEREQUÊ
+QUILOMBO, TRAV.
+17
+PEREQUÊ
+QUINHENTOS E NOVE, RUA
+8
+PEREQUÊ
+QUINHENTOS E TRINTA E TRÊS, VIELA
+9
+PEREQUÊ
+RAIMUNDO RODRIGUES SANTOS, RUA
+10
+PEREQUÊ
+SERAFIM SAMPAIO DE MOURA, PRAÇA
+18
+PEREQUÊ
+SERGIO RODRIGUES, RUA
+20
+PEREQUÊ
+SIRI, RUA DO - JARDIM ÉDEN GLEBA III
+11
+PEREQUÊ
+TEOTINO LOPES DE OLIVEIRA, R.(da Av.Princesa Isabel até nº 193- lado esq. E direito)
+11
+PEREQUÊ
+TEOTINO LOPES DE OLIVEIRA, RUA (do nº 193 até o final- lado esquerdo e direito)
+10
+PEREQUÊ
+THEOTÔNIO RAIMUNDO DO AMARAL, RUA
+16
+PEREQUÊ
+TINOCO II - JARDIM PEREQUÊ
+8
+PEREQUÊ
+TULIPAS, RUA DAS
+9
+PIRABURA
+BAIRRO
+2
+PIUVA
+JATOBÁ, RUA DO (trav. Sem saída que tem início na altura do nº 100 da rua Aristides Geremias de Farias)
+8
+PIÚVA
+ARISTIDES GEREMIAS DE FARIAS, RUA (antiga Projetada 66)
+10
+PIÚVA
+BAIRRO
+10
+PIÚVA
+BRASIL, AV. - Lado Mar
+23
+PIÚVA
+BRASIL, AV. - Lado Vertentes
+17
+PIÚVA
+PIÚVA - ALAMEDA
+8
+PIÚVA
+PIÚVA - TRAVESSA
+8
+PIÚVA
+PIÚVA II - TRAVESSA
+8
+POÇO
+BAIRRO
+2
+POÇO
+MURUPIÁRA, JARDIM - CONDOMÍNIO
+2
+PONTA AZEDA
+BAIRRO
+8
+PONTA AZEDA
+MARCELINO ACÁCIO DOS SANTOS, RUA
+10
+PONTA AZEDA
+SP 131 - Lado Vertentes
+13
+PONTA AZEDA
+SP-131 - Lado Mar
+26
+PONTA DA SELA
+AROEIRAS, AL. DAS
+17
+PONTA DA SELA
+BAIRRO
+10
+PONTA DA SELA
+FIGUEIRAS, AL. DAS
+18
+PONTA DA SELA
+MANACÁS, AL. DOS
+18
+PONTA DA SELA
+MARIO COVAS JUNIOR GOV.- AV. - Costeira (antiga Av. SP 131)
+18
+PONTA DA SELA
+MARIO COVAS JUNIOR GOV.- AV. - Vertentes (antiga Av. SP 131)
+10
+PONTA DA SELA
+PAINEIRAS, AL. DAS
+18
+PONTA DA SELA
+PONTA DA SELA, COND. RES. (EXC. LOG)
+18
+PONTA DA SELA
+QUARESMEIRAS, AL. DAS
+18
+PONTA DAS CANAS
+BAIRRO
+8
+PONTA DAS CANAS
+CARMELA, PRINC. QUAD. C/ NÚMEROS
+10
+PONTA DAS CANAS
+CARMELA, PRINCESA - QUAD. C/ LOT.
+10
+PONTA DAS CANAS
+PRINCESA ALEXANDRA - RUA (Vl. Princesa Carmela)
+11
+PONTA DAS CANAS
+PRINCESA DHELFINA - RUA (Vl. Princesa Carmela)
+11
+PONTA DAS CANAS
+SP-131 - Costeira
+26
+PONTA DAS CANAS
+SP-131 - Vertentes
+13
+PONTA DO BOI
+BAIRRO
+1
+PONTA DO MEIO
+BAIRRO
+1
+PONTA GROSSA
+BAIRRO
+1
+PORTINHO
+CLAUDINO FERNANDES NETO, RUA
+9
+PORTINHO
+ANTONIA SILVA SANTANA, RUA (do início até o nº 274 - lado esquerdo e direito)
+9
+PORTINHO
+ANTONIA SILVA SANTANA, RUA (do nº 274 até o final - lado esquerdo e direito)
+8
+PORTINHO
+ARARAS, DAS RUA
+9
+PORTINHO
+BAIRRO (Exceto Logradouros)
+8
+PORTINHO
+BRASIL, AV. - Lado Mar
+19
+PORTINHO
+BRASIL, AV. - Lado Vertentes
+14
+PORTINHO
+FORMOSO FRANCISCO SOARES, RUA
+10
+PORTINHO
+HELENA ALVES DE CARVALHO, RUA
+9
+PORTINHO
+LOURDES PEIXOTO DO NASCIMENTO, RUA
+7
+PORTINHO
+MANOEL CORREA DÓRIA, RUA (do início até o nº 186 - lado esquerdo e direito)
+10
+PORTINHO
+MANOEL CORREA DÓRIA, RUA (do nº 186 até o final - lado esquerdo e direito)
+9
+PORTINHO
+MANOEL CORREIA FILHO, RUA. (início no nº 275 da R. Antônia Silva Santana)
+9
+PORTINHO
+OLEGÁRIO VENÂNCIO SANTOS, VIELA
+8
+PORTINHO
+PEDRO FRANCISCO DOS SANTOS, RUA
+11
+PORTINHO
+RIACHUELO, AV. - Lado Mar
+20
+PORTINHO
+RIACHUELO, AV. Lado Vertente
+14
+PORTINHO
+SERTÃO, RUA DO
+8
+PORTINHO
+SILVINO CORREA SANTANA, RUA
+7
+PRAIA DA LAGOA
+BAIRRO
+2
+PRAIA DO GATO
+PRAIA DO GATO
+2
+PRAIA DO JULIÃO
+BENEDITO JULIÃO DOS SANTOS, RUA
+12
+PRAIA DO JULIÃO
+JAYME LEITE JULIÃO, RUA (a rua perpendicular à avenida Riachuelo altura do nº 5401)
+8
+PRAIA DO JULIÃO
+MANOEL LEITE DOS SANTOS, RUA
+22
+PRAIA DO JULIÃO
+PEDRO BASÍLIO DA SILVA, RUA (antiga PROJETADA 91)
+10
+PRAIA DO JULIÃO
+RIACHUELO, AV. - Lado Mar
+23
+PRAIA DO JULIÃO
+RIACHUELO, AV. - Vertentes
+16
+PRAIA DO JULIÃO
+SEBASTIANA FURTADO SANTOS, VILA
+8
+PRAIA DO PINTO
+BAIRRO
+8
+PRAIA DO PINTO
+MARIO VICENTE DA CONCEIÇÃO, RUA
+23
+PRAIA DO PINTO
+PROJETADA 154, RUA
+23
+PRAIA DO PINTO
+SEBASTIÃO RAIMUNDO DOS SANTOS, RUA (antiga Projetada 152)
+12
+PRAIA DO PINTO
+SOGI UEHARA (antiga Rua PROJETADA 153)
+26
+PRAIA DO PINTO
+SP 131 - Lado Vertentes
+13
+PRAIA DO PINTO
+SP-131 - Lado Mar
+26
+PRAIA GRANDE
+ANTONIO BATISTA DOS SANTOS, R., (inicia no nº 396 da Rua João Batista dos Santos)
+9
+PRAIA GRANDE
+ANTONIO DA SILVA TORRES, RUA (antiga Projetada 181)
+9
+PRAIA GRANDE
+BAIRRO
+10
+PRAIA GRANDE
+BENEDITO MUNIZ DA SILVA, RUA. (inicio no nº 129 da R. José Pereira da Silva)
+8
+PRAIA GRANDE
+BENEDITO PEREIRA DA SILVA, RUA
+7
+PRAIA GRANDE
+BENEDITO PORFÍRIO DA SILVA, RUA
+7
+PRAIA GRANDE
+JOÃO BATISTA DOS SANTOS, RUA
+10
+PRAIA GRANDE
+JOÃO BATISTA DOS SANTOS, TRAV.
+10
+PRAIA GRANDE
+JOSÉ PEREIRA DA SILVA, RUA
+9
+PRAIA GRANDE
+MANOEL GONÇALVES PEREIRA, RUA
+8
+PRAIA GRANDE
+PROJETADA 094, RUA
+10
+PRAIA GRANDE
+RIACHUELO, AV. - Costeira
+23
+PRAIA GRANDE
+RIACHUELO, AV. - Vertentes
+14
+PRAIA GRANDE
+RITO REID, RUA
+20
+PRAIA GRANDE
+ROSA OLGA DE OLIVEIRA, VIELA
+9
+PRAIA GRANDE
+SETECENTOS E ONZE, RUA
+10
+PRAIA MANSA
+BAIRRO
+2
+PRAIA VERMELHA
+BAIRRO
+2
+REINO
+MARIA LUCIA PEREIRA BRAGA, SERVIDAO DE PASSAGEM
+9
+REINO
+ALCIDES MOLINARI, RUA
+7
+REINO
+ANTÔNIO CARLOS CAJADO SIMÕES, RUA
+7
+REINO
+APARECIDO NUNES DE ARAÚJO, RUA
+7
+REINO
+BANDEIRANTES I, CONDOMÍNIO
+10
+REINO
+BANDEIRANTES II, CONDOMÍNIO
+10
+REINO
+BANDEIRANTES III, CONDOMÍNIO
+10
+REINO
+BENEDITO DE PAULA CASSIANO, RUA (do início até o nº 121)
+8
+REINO
+BENEDITO DE PAULA CASSIANO, RUA (do nº 121 até o final)
+7
+REINO
+CASTELHANOS, CAMINHOS DOS
+6
+REINO
+CÉLIA DOS SANTOS, RUA
+5
+REINO
+CHICO GRAVI DOS SANTOS, RUA
+5
+REINO
+CHICO GRAVI DOS SANTOS, TRAV.
+5
+REINO
+CILSO DE GODOI, Rua
+7
+REINO
+ENGENHO NOVO, SERVIDÃO DE PASSAGEM
+10
+REINO
+FLORINDA MARIA DE JESUS, RUA (Antiga PROJETADA 29)
+10
+REINO
+GREEN PARK I, LOTEAMENTO
+10
+REINO
+GREN PARK II, LOTEAMENTO
+10
+REINO
+JOÃO PAIXÃO NETTO, RUA (Antiga PROJETADA 31)
+8
+REINO
+JOSÉ ANDRÉ DOS SANTOS, R.(inicia na R. Sebastião Xavier Peres e termina no nº 218)
+9
+REINO
+JOSÉ FRANCISCO CALADO, RUA (antiga PROJETADA 38)
+11
+REINO
+JOSÉ SENNO I, TRAV.
+7
+REINO
+JOSÉ SENNO II, TRAV.
+7
+REINO
+JOSÉ SENNO, RUA
+12
+REINO
+JOSÉ SENNO, TRAV.
+7
+REINO
+JOSÉ VICENTE DE FARIA LIMA, CEL - (da Rua José Senno até o nº 2380)
+8
+REINO
+JOSÉ VICENTE DE FARIA LIMA, CEL - (do nº 2380 até o final)
+7
+REINO
+LUIZ ABDIAS DE SOUZA, RUA (antiga proj. na altura do nº 2466 da Faria Lima)
+7
+REINO
+LUIZA MARIA DE JESUS SANTOS, RUA (antiga PROJETADA 43)
+13
+REINO
+MANOEL HILÁRIO DA SILVA, RUA (Até o nº 137)
+9
+REINO
+MANOEL HILÁRIO DA SILVA, RUA (Do nº 137 até o final)
+8
+REINO
+MANOEL HILARIO DA SILVA, TRAVESSA
+10
+REINO
+MARIA LUCIA BRAGA, SERVIDÃO DE PASSAGEM
+9
+REINO
+MARIA RAFAEL DE SOUZA, SERVIDÃO DE PASSAGEM
+5
+REINO
+NOVO REINO, MORRO
+8
+REINO
+PEDRO ALVES FILHO, RUA (inicio no nº 2.260 da Av. Brigadeiro Faria Lima)
+7
+REINO
+PEDRO REIBEIRO PONTES, RUA (do nº 74 até o final)
+9
+REINO
+PEDRO RIBEIRO PONTES, RUA (do início até o nº 74)
+8
+REINO
+PROJETADA 030, VIELA
+7
+REINO
+PROJETADA 032, RUA
+7
+REINO
+PROJETADA 033, RUA
+7
+REINO
+PROJETADA 034, RUA
+7
+REINO
+PROJETADA 035, VIELA
+7
+REINO
+PROJETADA 040, RUA (COND. BAND. I, II E III)
+12
+REINO
+PROJETADA 041, RUA (COND. BAND. I, II E III)
+12
+REINO
+PROJETADA 163, RUA (Cond. Band. V)
+12
+REINO
+PROJETADA 164, RUA (Cond. Band. IV)
+12
+REINO
+SEBASTIÃO XAVIER PERES, RUA ****************.
+9
+REINO
+SILVIO PASSERINI, RUA (inicia nº 505- R. José Senno e term. No nº 32-R.Silvio Passerini)
+7
+REINO
+TOCA ESTRADA DA.
+5
+RIBEIRÃO
+BAIRRO
+8
+RIBEIRÃO
+RIBEIRÃO - Lado Mar
+24
+RIBEIRÃO
+RIBEIRÃO - Lado Vertente
+14
+RODAMONTE
+BAIRRO - LOTEAMENTO
+9
+RODAMONTE
+CINCO, TRAV (da Rua Projetada 186)
+9
+RODAMONTE
+DOIS, TRAV (da Rua Projetada 186)
+9
+RODAMONTE
+MARÍLIA DE FREITAS REZENDE, RUA (antiga Projetada 186)
+9
+RODAMONTE
+MARIO COVAS JUNIOR GOV.- AV. - Lado Mar (antiga AV. SP 131)
+19
+RODAMONTE
+MARIO COVAS JUNIOR GOV.- AV. - Lado Vertentes (antiga Av. SP 131)
+9
+RODAMONTE
+QUATRO, TRAV (da Rua Projetada 186)
+9
+RODAMONTE
+SEIS, TRAV (da Rua Projetada 186)
+9
+RODAMONTE
+TRÊS, TRAV (da Rua Projetada 186)
+9
+RODAMONTE
+UM, TRAV (da Rua Projetada 186).
+9
+ROSÁRIO
+BAIRRO
+1
+SACO DA CAPELA
+ALICIO R. DOS SANTOS - RUA (FAZ. ENG. DÁGUA)
+21
+SACO DA CAPELA
+BAIRRO - (Exceto Logradouro)
+11
+SACO DA CAPELA
+BENEDITA FELIX - TRAVESSA
+17
+SACO DA CAPELA
+BENEDITA FELIX, RUA
+17
+SACO DA CAPELA
+BENEDITO FELIX DOS SANTOS, RUA
+19
+SACO DA CAPELA
+BERNARDO GONTIER, RUA (da rua João Carlos F. de Freitas até o final)
+22
+SACO DA CAPELA
+BERNARDO GONTIER, RUA (do início até a rua João Carlos F. de Freitas)
+23
+SACO DA CAPELA
+CARAGUATATUBA, RUA
+22
+SACO DA CAPELA
+FRANCISCA PAULA NEVES, TRAVESSA
+23
+SACO DA CAPELA
+FRANCISCO REIS, RUA (CHICO)
+12
+SACO DA CAPELA
+FRANCISCO REIS, TRAVESSA (até o nº 49)
+12
+SACO DA CAPELA
+FRANCISCO REIS, TRAVESSA (do nº 49 até o final)
+11
+SACO DA CAPELA
+FREITAS, VILA
+20
+SACO DA CAPELA
+G. RUA - (Vila Freitas Loteamento)
+20
+SACO DA CAPELA
+GIL DA CUNHA PINNA, RUA (Fazenda Engenho D’ÁGUA)
+21
+SACO DA CAPELA
+ITAPEMA, RUA
+22
+SACO DA CAPELA
+JOÃO CARLOS F. FREITAS, RUA DRº (Fazenda Engenho D’ÁGUA)
+21
+SACO DA CAPELA
+JOÃO NOGUEIRA DA SILVA, RUA ( travessa que tem início na altura do nº 135 da rua Chico Reis)
+10
+SACO DA CAPELA
+MARIA ÂNGELA, RUA
+19
+SACO DA CAPELA
+MUNDEL - TRAVESSA DO (Fazenda Engenho D’ÁGUA)
+21
+SACO DA CAPELA
+MUNDEL, RUA DO (Fazenda Engenho D’ÁGUA)
+21
+SACO DA CAPELA
+MUNDEL, TRAV II DO - (Fazenda Engenho D’ÁGUA)
+21
+SACO DA CAPELA
+NOÊMIA, VILA
+17
+SACO DA CAPELA
+PADRE BARTOLOMEU DE GUSMÃO, RUA
+21
+SACO DA CAPELA
+PARTICULAR, RUA - TRAV. PEDRO P.MORAES
+20
+SACO DA CAPELA
+PEDRO DE PAULA MORAES, AV. - (da Itapema até Benedita Felix)
+21
+SACO DA CAPELA
+PEDRO DE PAULA MORAES, AV. - (da Rua Benedita Felix até o fim) Lado Esquerdo
+22
+SACO DA CAPELA
+PEDRO DE PAULA MORAES, AV. - (da Rua Benedita Felix até o fim) Lado Direito
+24
+SACO DA CAPELA
+PEDRO DE PAULA MORAES, AV. - (do início até Itapema)
+24
+SACO DA CAPELA
+SANTOS DUMONT, AV.
+24
+SACO DA CAPELA
+SEBASTIÃO, RUA SÃO
+22
+SACO DA CAPELA
+UBATUBA - TRAVESSA
+22
+SACO DA CAPELA
+UBATUBA, RUA (do início até o nº 311)
+23
+SACO DA CAPELA
+UBATUBA, RUA (do nº 311 até o final)
+22
+SACO DA CAPELA
+WALDEMAR B. BELISÁRIO - RUA PROF. (Fazenda Engenho D’ÁGUA)
+21
+SACO DA CAPELA
+WALMIR LEITE SIQUEIRA, RUA. (inicia nº 604 da Av. Pedro de Paula Moraes)
+11
+SACO DO DIOGO
+BAIRRO
+2
+SACO DO INDAIÁ
+ANTONIO CASTELANO, RUA
+23
+SACO DO INDAIÁ
+ANTONIO CASTELANO, TRAVESSA
+14
+SACO DO INDAIÁ
+ANTONIO CASTELANO, VIELA
+10
+SACO DO INDAIÁ
+BAIRRO (Exceto Logradouro)
+17
+SACO DO INDAIÁ
+BENEDITO HILARIÃO DE SOUZA, RUA
+19
+SACO DO INDAIÁ
+FRANCISCO GOMES DA SILVA PRADO, RUA.
+21
+SACO DO INDAIÁ
+INDAIÁ, RUA
+20
+SACO DO INDAIÁ
+INDAIÁ, TRAVESSA
+10
+SACO DO INDAIÁ
+JAYME JOSE DA SILVA, RUA
+14
+SACO DO INDAIÁ
+JOÃO BERNARDO MOREIRA, RUA
+13
+SACO DO INDAIÁ
+MARIA BALBINA, VIELA
+10
+SACO DO INDAIÁ
+MARIA CÂNDIDA DE JESUS, VIELA (início de frente ao nº 91 da rua Indaiá)
+10
+SACO DO INDAIÁ
+PAULO BARBOSA RIBEIRO, RUA
+21
+SACO DO INDAIÁ
+SACO INDAIÁ, RUA (do inicio até o nº 67)
+19
+SACO DO INDAIÁ
+SACO INDAIÁ, RUA (do nº 67 até o final)
+20
+SACO DO INDAIÁ
+SEBASTIÃO JONAS VIEIRA, RUA
+20
+SANTA TEREZA
+AMÉRICO RIBEIRO DOS SANTOS, R.(inicia no nº 213 da R. Antonio de Carvalho)
+10
+SANTA TEREZA
+ANTONIO DE CARVALHO, RUA (do início até o nº 421)
+19
+SANTA TEREZA
+ANTONIO DE CARVALHO, RUA (do nº 421 ao final)
+21
+SANTA TEREZA
+ANTONIO DE CARVALHO, TRAVESSA
+20
+SANTA TEREZA
+BAIRRO (Exceto Logradouro)
+13
+SANTA TEREZA
+CASTELO BRANCO, RUA
+13
+SANTA TEREZA
+DURVALINA ROSA DA CRUZ, SERVIDÃO DE PASSAGEM
+10
+SANTA TEREZA
+INÁCIO VITORINO DOS SANTOS, RUA
+21
+SANTA TEREZA
+JOÃO HELENA, RUA
+21
+SANTA TEREZA
+JOÃO ROMUALDO DOS SANTOS (inicia no nº 235, da Rua Antonio Carvalho)
+19
+SANTA TEREZA
+JOSÉ TRINDADE DE SOUZA, RUA (início da altura do nº 1198 da Av. Luiz Massa)
+12
+SANTA TEREZA
+JUREMA STEPHANIA, ALAMEDA
+11
+SANTA TEREZA
+LAURISTON EUGEN LEFCADITO VON SCHIMIDT, RUA (antiga Rua PROJETADA 116)
+9
+SANTA TEREZA
+LUIZ MASSA, AV. - Lado Mar
+25
+SANTA TEREZA
+LUIZ MASSA, AV. - Lado Vertentes
+23
+SANTA TEREZA
+MORRO DE SANTA TEREZA, RUA
+21
+SANTA TEREZA
+PRAINHA -JARDIM - (Exceto Logradouro)
+13
+SANTA TEREZA
+PROJETADA 120, RUA
+12
+SANTA TEREZA
+PROJETADA 121, RUA
+11
+SANTA TEREZA
+PROJETADA 122, RUA
+11
+SANTA TEREZA
+PROJETADA 123, VIELA
+10
+SANTA TEREZA
+PROJETADA 124, VIELA
+10
+SANTA TEREZA
+PROJETADA 125, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 126, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 127, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 129, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 130, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 131, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 132, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 133, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 134, RUA (Jardim Prainha)
+12
+SANTA TEREZA
+PROJETADA 135, VIELA
+11
+SANTA TEREZA
+PROJETADA 136, RUA (Jardim Prainha)
+10
+SANTA TEREZA
+PROJETADA 137, RUA (Jardim Prainha)
+10
+SANTA TEREZA
+PROJETADA 160, AVENIDA
+14
+SANTA TEREZA
+TEREZA, PRAINHA DE SANTA - BAIRRO
+13
+SANTA TEREZA
+TEREZA, SANTA - ALTO DO MORRO
+17
+SÃO PEDRO
+BAIRRO
+7
+SÃO PEDRO
+JAGUATIRICA, RUA
+8
+SÃO PEDRO
+JOAQUIM PINHEIRO DE MORAES, RUA
+6
+SÃO PEDRO
+JOSÉ PACHECO DO NASCIMENTO, AV. (Costeira)
+18
+SÃO PEDRO
+JOSÉ PACHECO DO NASCIMENTO, AV. (Vertentes)
+12
+SÃO PEDRO
+JOSÉ ROMANA DOS SANTOS, RUA (inicia na altura do nº 11.119 da Av. Gov. Mário Covas)
+8
+SÃO PEDRO
+PEDRO ALVES, RUA
+10
+SÃO PEDRO
+PROJETADA 111, RUA
+7
+SÃO PEDRO
+SEBASTIÃO GARCIA VEIGA, RUA
+10
+SELADA
+BAIRRO
+1
+SEPITUBA
+BAIRRO (Fazenda Laje)
+2
+SERRARIA
+BAIRRO - FAZENDA
+2
+SERRARIA DO SUL
+BAIRRO
+3
+SIMÃO
+BAIRRO
+6
+SIMÃO
+MARIO COVAS JUNIOR GOV.- AV. - Lado Mar (antiga Av. SP 131)
+15
+SIMÃO
+MARIO COVAS JUNIOR GOV.- AV. - Lado Vertentes (antiga Av. SP 131)
+8
+SIRIUBA
+JABUTICABEIRAS, DAS RUA (antiga projetada 140)
+15
+SIRIÚBA
+ANTONIO CORNÉLIO, RUA
+12
+SIRIÚBA
+CARLOS A DO AMARAL, AV. (da Rua Três ao final) ********
+8
+SIRIÚBA
+CARLOS A DO AMARAL, AV. (do início da Rua Três)
+12
+SIRIÚBA
+DOIS, RUA. - Exceto Logradouro
+11
+SIRIÚBA
+LEONOR DO AMARAL, AL. DONA. **********
+12
+SIRIÚBA
+OVÍDIO COLLESI, RUA (antiga Rua 01 do Loteamento Jardim Siriúba Gleba II)
+15
+SIRIÚBA
+PROJETADA 141, RUA
+15
+SIRIÚBA
+PROJETADA 142, RUA
+15
+SIRIÚBA
+PROJETADA 144, RUA
+15
+SIRIÚBA
+PROJETADA 145, RUA
+15
+SIRIÚBA
+PROJETADA 146, RUA
+15
+SIRIÚBA
+PROJETADA 147, RUA
+15
+SIRIÚBA
+PROJETADA 148, RUA
+15
+SIRIÚBA
+PROJETADA 159, RUA
+15
+SIRIÚBA
+QUATRO, RUA - JARDIM SIRIÚBA - GLEBA I
+15
+SIRIÚBA
+SIRIÚBA I - JARDIM GLEBA I - Exceto Logradouro
+15
+SIRIÚBA
+SIRIÚBA II - JARDIM GLEBA II - Exceto Logradouro
+15
+SIRIÚBA
+TRÊS, RUA - JARDIM SIRIÚBA
+15
+SITIO DOS SINOS
+SÍTIO DOS SINOS - BALNEÁRIO
+2
+SOMBRIO
+BAIRRO
+2
+TALHADA
+BAIRRO
+1
+TAQUARA
+BAIRRO
+1
+TATAMBORA
+BAIRRO
+11
+TAUBATE
+TAUBATÉ, TRAV.
+7
+TAUBATÉ
+BAIRRO
+7
+TAUBATÉ
+BENEDITO LEDO FILHO, VIELA
+23
+TAUBATÉ
+IPÊ AMARELO, RUA DO
+8
+TAUBATÉ
+MARIO COVAS JUNIOR GOV.- AV. Lado Mar (antiga Av. SP 131)
+13
+TAUBATÉ
+MARIO COVAS JUNIOR GOV.- AV. Lado Vertentes. (antiga Av. SP 131)
+9
+TERRA CORRIDA
+BAIRRO
+4
+TOCA
+FAZENDA DA TOCA
+8
+TOCA
+PROJETADA 037, RUA
+7
+TUMUNGAVA
+BAIRRO - MONT.PEDRAS
+7
+TUMUNGAVA
+PERIMETRAL NORTE, AV (lado mar)
+15
+TUMUNGAVA
+PERIMETRAL NORTE, AV (vertentes)
+10
+VELOSO
+ANDRELINO ALVES DAS CHAGAS, RUA
+10
+VELOSO
+ANDRELINO CHAGAS - TRAVESSA
+10
+VELOSO
+BAIRRO - Exceto Logradouro
+7
+VELOSO
+EUNICE BORGES DO REGO, RUA
+9
+VELOSO
+ILHA DO SUL - CONDOMÍNIO
+14
+VELOSO
+ILHA DO SUL, CONDOMÍNIO - RUA I
+14
+VELOSO
+ILHA DO SUL, CONDOMÍNIO - RUA II
+14
+VELOSO
+ILHA DO SUL, CONDOMÍNIO RUA PROJETADA
+14
+VELOSO
+JOSE JACINTO DO REGO, RUA
+9
+VELOSO
+JOSÉ PACHECO DO NASCIMENTO, RUA - Costeira
+20
+VELOSO
+JOSÉ PACHECO DO NASCIMENTO, RUA - Praia
+23
+VELOSO
+JOSÉ PACHECO DO NASCIMENTO, RUA - Vertentes
+15
+VELOSO
+JOSÉ PEREIRA CAROLO, RUA (Até o nº 271)
+11
+VELOSO
+JOSÉ PEREIRA CAROLO, RUA (Do nº 271 até o final)
+10
+VELOSO
+MÁXIMO VERÍSSIMO DO REGO, RUA
+9
+VELOSO
+MELINA, AL.
+8
+VELOSO
+NOÊMIA ALVES DE SIQUEIRA, RUA
+8
+VELOSO
+PROJETADA 162, RUA
+7
+VELOSO
+SEVERIANO JACINTO DO REGO, RUA (trav. localizada na altura do nº 8657 da avenida José Pacheco do Nascimento)
+8
+VERMELHOS
+SP-131 - Lado Mar.
+15
+VERMELHOS
+SP-131 - Lado Vertentes
+8
+VIANA
+DESMEMBRAMENTO COLÉGIO HUMBOLDT
+23
+VIANA
+LEONARDO REALE, AV. - Lado Mar(quando confronta com faixa de Marinha)
+24
+VIANA
+LEONARDO REALE, AV. - Lado Mar(quando não confronta com faixa de Marinha)
+18
+VIANA
+LEONARDO REALE, AV. - Lado Vertentes
+18
+VIANA
+MARCIO DA SILVA SANTOS, PRAÇA
+18
+VIANA
+SEBASTIÃO FRANCISCO DA SILVA, RUA (do início até o numero 125)
+15
+VIANA
+SEBASTIÃO FRANCISCO DA SILVA, RUA (do numero 125 até o final)
+13
+VISTA
+BAIRRO
+4
+ZABUMBA
+BAIRRO
+3
+TABELA II
+FATORES PROFUNDIDADE
+PROFUNDIDADE DE EQUIVALENTE
+FATOR
+Mais de 30 até 35,99 metros
+1,00
+Mais de 36 até 40,99 metros
+0,90
+Mais de 41 até 50,99 metros
+0,86
+Mais de 51 até 60,99 metros
+0,79
+Mais de 61 até 70,99 metros
+0,74
+Mais de 71 até 80,99 metros
+0,72
+Mais de 81 até 100,99 metros
+0,69
+Mais de 101 até 130,99 metros
+0,64
+Mais de 131 até 160,99 metros
+0,60
+Mais de 161 até 200,99 metros
+0,57
+Mais de 201 até 250,99 metros
+0,54
+Mais de 251 até 300,99 metros
+0,49
+Mais de 301 até 350,99 metros
+0,44
+Mais de 351 até 400,99 metros
+0,39
+Mais de 401 até 450,99 metros
+0,33
+Mais de 451 metros
+0,27
+TABELA III
+FATORES GLEBA
+FAIXA DE ÁREA DE TERRENO (m²)
+FATOR
+Mais de 10.000 até 14.000,99
+0,75
+Mais de 14.001 até 15.000,99
+0,72
+Mais de 15.001 até 16.000,99
+0,71
+Mais de 16.001 até 18.000,99
+0,69
+Mais de 18.001 até 20.000,99
+0,67
+Mais de 20.001 até 25.000,99
+0,64
+Mais de 25.001 até 30.000,99
+0,61
+Mais de 30.001 até 50.000,99
+0,58
+Mais de 50.001 até 75.000,99
+0,55
+Mais de 75.001 até 100.000,99
+0,51
+Mais de 100.001 até 150.000,99
+0,48
+Mais de 150.001 até 200.000,99
+0,45
+Mais de 200.001 até 350.000,99
+0,42
+Mais de 350.001 até 500.000,99
+0,39
+Mais de 500.001 até 750.000,99
+0,36
+Mais de 750.001
+0,33
+ANEXO IV
+TABELA DE EQUIPAMENTOS
+Item
+Pontos
+Equipamentos urbanos coletivos
+1%
+Quadra, playground, piscina, etc.
+1%
+Equipamento em Faixa de Marinha, píer, píer de atracação, etc.
+2,5%
+Heliponto.
+2,5%
+TABELA V
+FATOR OBSOLESCÊNCIA
+Tabela dos coeficientes de depreciação dos prédios pela idade.
+NÚMERO DE ANOS
+DEPRECIAÇÃO
+FÍSICA/FUNCIONAL
+Até 10
+0%
+(1,00)
+Até 15
+5%
+(0,95)
+Até 20
+10%
+(0,90)
+Até 25
+15%
+(0,85)
+Até 30
+20%
+(0,80)
+Até 35
+25%
+(0,75)
+Até 40
+35%
+(0,65)
+Até 45
+40%
+(0,60)
+Mais de 50
+50%
+(0,50)
+TABELA VI
+PADRÕES DE CONSTRUÇÕES RESIDENCIAIS
+A - RESIDENCIAL
+CÓDIGO 41
+PADRÃO A1 LUXO
+ESTRUTURAS:
+Madeira de Lei ou autoclavada. Estrutura em concreto armado. Estrutura metálica
+ALVENARIA:
+Blocos estruturais; Tijolos maciços aparentes, total ou parcial; Paredes pré moldadas; Pedra total ou parcial
+REVESTIMENTO INTERNO:
+Massa fina com aplicação de massa corrida, gesso ou textura; Tijolo maciço aparente; Pedras; Revestimento especial
+REVESTIMENTO EXTERNO:
+Massa fina com aplicação de massa corrida ou textura; Tijolo maciço aparente; Pedras; Revestimento especial
+FORRO:
+Gesso; Laje rebocada com massa fina; Madeira de qualidade superior; Forro em PVC; Estuque
+INSTALAÇÕES ELÉTRICAS:
+Embutida; Ar condicionado central
+INSTALAÇÕES HIDRÁULICAS E SANITÁRIAS:
+Completa de qualidade superior; Revestimento e pastilhas ou azulejos de qualidade superior; Encanamentos de cobre total ou parcial ou PVC para água quente; Aquecimento solar; Sistema de tratamento de esgotos por lodo ativado ou ligado à rede pública
+ESQUADRIAS:
+Madeira de Lei; PVC de qualidade superior; Alumínio de qualidade superior
+COBERTURA:
+Especiais; Laje impermeabilizada; Telhas de concreto; Telhas de barro de qualidade superior
+PISO:
+Cerâmica de qualidade superior; Porcelanato; Pedras; Madeira; Pisos especiais
+VALOR POR M² ..................................757,84
+CÓDIGO 42
+PADRÃO A 2 FINO
+ESTRUTURAS:
+Madeira de Lei ou autoclavada; Estrutura em concreto armado;
+ALVENARIA:
+Blocos de concreto ou cerâmico; Tijolos maciços aparentes, total ou parcial.
+REVESTIMENTO INTERNO:
+Massa fina com aplicação de massa corrida ou gesso; Pedra parcial.
+REVESTIMENTO EXTERNO:
+Massa fina com aplicação de massa corrida ou textura; Tijolo maciço aparente; Pedra parcial.
+FORRO:
+Gesso; Laje rebocada com massa fina; Madeira de boa qualidade; Forro em PVC; Estuque.
+INSTALAÇÕES ELÉTRICAS:
+Embutida; Ar condicionado
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa de qualidade superior; Revestimento de pastilhas parcial ou azulejo de boa qualidade; Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira de Lei; PVC ou Alumínio de boa qualidade.
+COBERTURA:
+Laje impermeabilizada; Telhas de concreto; Telhas de barro de qualidade superior.
+PISO:
+Cerâmica de qualidade superior; Porcelanato; Cimento queimado com detalhes em ladrilho hidráulico, madeiras ou tijolos.
+VALOR POR M².............R$ 645,63
+CÓDIGO 43
+PADRÃO A3 BOM
+ESTRUTURAS:
+Madeira de Lei ou autoclavada; Estrutura em concreto armado.
+ALVENARIA:
+Blocos de concreto ou cerâmicos
+REVESTIMENTO INTERNO:
+Reboco liso ou colonial
+REVESTIMENTO EXTERNO:
+Reboco liso ou colonial
+FORRO:
+Laje; Madeira de boa qualidade; Forro em PVC
+INSTALAÇÕES ELÉTRICAS:
+Embutida
+INSTALAÇÕES HIDRÁULICAS
+SANITÁRIAS:
+Completa de boa qualidade; Revestimento total ou parcial em azulejo de boa qualidade; Sistema de tratamento de esgotos comum ou ligado a rede pública
+ESQUADRIAS:
+Madeira de Lei; Ferro ou alumínio de boa qualidade
+COBERTURA:
+Laje impermeabilizada; Telhas de cerâmicas de boa qualidade
+PISO:
+Cerâmica de boa qualidade; Cimento queimado com detalhes
+VALOR POR
+M²..............R$ 344,46
+CÓDIGO 44
+PADRÃO A4 - REGULAR
+ESTRUTURAS:
+Madeira de baixa qualidade; Estrutura convencional em concreto armado.
+ALVENARIA:
+Blocos de concreto ou cerâmicos.
+REVESTIMENTO INTERNO:
+Reboco liso ou colonial.
+REVESTIMENTO EXTERNO:
+Reboco liso ou colonial.
+FORRO:
+Madeira; Sem forro.
+INSTALAÇÕES ELÉTRICAS:
+Semi-embutida ; aparente
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa de qualidade inferior. Revestimento total ou parcial em azulejo de qualidade inferior. Sistema de tratamento de esgotos comum ou ligado a rede publica.
+ESQUADRIAS:
+Madeira . Ferro ou alumínio de qualidade inferior.
+COBERTURA:
+Telhas de cerâmicas ou fibrocimento
+PISO:
+Cerâmica comum. Cimento queimado comum
+VALOR POR M².............R$ 206,55
+CÓDIGO 45
+PADRÃO A5 POPULAR
+ESTRUTURAS:
+Madeira de baixa qualidade. Estrutura convencional em concreto armado
+ALVENARIA:
+Blocos cerâmicos.
+REVESTIMENTO INTERNO:
+Sem revestimento
+REVESTIMENTO EXTERNO:
+Sem revestimento
+FORRO:
+Sem forro
+INSTALAÇÕES ELÉTRICAS:
+Aparente
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Simples de qualidade inferior. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira. Ferro ou alumínio de qualidade inferior.Telado ou sem esquadrias
+COBERTURA:
+Telhas de fibrocimento
+PISO:
+Sem revestimento.Cimento queimado comum
+VALOR POR M².................R$ 103,25
+CÓDIGO 46
+PADRÃO A6 PRECÁRIO
+ESTRUTURAS:
+Madeira de baixa qualidade. Pau-a-pique
+ALVENARIA:
+Blocos cerâmicos ou taipa. Fechamento em madeirite
+REVESTIMENTO INTERNO:
+Sem revestimento ou barro.
+REVESTIMENTO EXTERNO:
+Sem revestimento ou barro.
+FORRO:
+Sem forro
+INSTALAÇÕES ELÉTRICAS:
+Aparente
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Simples de qualidade inferior. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira. Ferro ou alumínio de qualidade inferior. Telado ou sem esquadrias
+COBERTURA:
+Telhas de fibrocimento.
+PISO:
+Sem revestimento. Cimentado comum
+VALOR POR M².................R$ 58,07
+CODIGO 51
+PADRÃO B1 BOM
+RESIDÊNCIAS PRÉ FABRICADAS
+ESTRUTURAS:
+Madeira de Lei
+FECHAMENTO:
+Vedação em madeira
+REVESTIMENTO INTERNO:
+Nas áreas úmidas azulejos de boa qualidade
+FORRO:
+Madeira de boa qualidade
+INSTALAÇÕES ELÉTRICAS:
+Semi - embutida
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa de boa qualidade. Nas áreas úmidas revestimento total ou parcial em azulejo de boa qualidade. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira de Lei
+COBERTURA:
+Telhas de cerâmicas de boa qualidade. Telhas de fibrocimento.
+PISO:
+Cerâmica de boa qualidade nas áreas úmidas. Assoalho de boa qualidade.
+VALOR POR M²...............R$ 206,55
+CODIGO 52
+PADRÃO B2 REGULAR
+RESIDÊNCIAS PRÉ FABRICADAS
+ESTRUTURAS:
+Madeira
+FECHAMENTO:
+Vedação em madeira
+REVESTIMENTO INTERNO:
+Nas áreas úmidas azulejos de qualidade inferior
+FORRO:
+Madeira. Sem forro.
+INSTALAÇÕES ELÉTRICAS:
+Semi - embutida.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa de qualidade inferior. Nas áreas úmidas revestimento total ou parcial em azulejo de qualidade inferior. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira simples
+COBERTURA:
+Telhas de Fibrocimento
+PISO:
+Cerâmica nas áreas úmidas. Assoalho de qualidade inferior
+VALOR POR M²..............R$ 138,72
+TABELA VII
+PADRÕES DE CONSTRUÇÕES COMERCIAIS
+B - COMERCIAL
+CÓDIGO 61
+PADRÃO C1 ALTO
+ESTRUTURAS:
+Concreto pré-moldado. Madeira de Lei ou autoclavada. Estrutura metálica.
+ALVENARIA:
+Blocos estruturais. Tijolos maciços aparentes, total ou parcial. Paredes pré moldadas. Pedras total ou parcial.
+REVESTIMENTO INTERNO:
+Massa fina com aplicação de massa corrida, gesso ou textura. Tijolo maciço aparente. Pastilhas. Pedras. Revestimento especial.
+REVESTIMENTO EXTERNO:
+Massa fina com aplicação de massa corrida ou textura. Tijolo maciço aparente. Pastilhas. Pedras. Revestimento especial.
+FORRO:
+Gesso. Laje rebocada com massa fina. Madeira de qualidade superior. Forro em PVC. Estuque.
+INSTALAÇÕES ELÉTRICAS:
+Embutida. Sistema de Ar condicionado.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa de qualidade superior. Revestimento de pastilhas ou azulejo de qualidade superior. Sistema de tratamento de esgotos por lodo ativado ou ligado a rede pública.
+ESQUADRIAS:
+Madeira de Lei de qualidade superior. PVC de qualidade superior. Alumínio de qualidade superior.
+COBERTURA:
+Especiais. Laje impermeabilizada. Telha de fibrocimento tipo calhetão. Telhas de concreto. Telhas de barro de qualidade superior.
+PISO:
+Cerâmica de qualidade superior. Porcelanato. Pedras. Madeira. Pisos especiais.
+VALOR POR M²...............R$ 539,48
+CÓDIGO 62
+PADRÃO C2 MÉDIO
+ESTRUTURAS:
+Concreto armado com vão superior a 4 metros. Madeira de Lei ou autoclavada.
+ALVENARIA:
+Blocos de concreto . Tijolo cerâmico.
+REVESTIMENTO INTERNO:
+Reboco liso ou colonial. Detalhes de tijolo maciço aparente ou pedras. Reboco texturizado. Cerâmica comum total ou parcial.
+REVESTIMENTO EXTERNO:
+Detalhes em Pedras ou tijolos aparentes. Reboco liso ou colonial. Detalhes em madeira. Reboco texturizado.
+FORRO:
+Laje rebocada com massa fina. Madeira. Forro em PVC.
+INSTALAÇÕES ELÉTRICAS:
+Embutida.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa de boa qualidade. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira, PVC ou Alumínio comum.
+COBERTURA:
+Laje impermeabilizada. Telha de fibro cimento. Telhas de barro de boa qualidade. Coberturas especiais.
+PISO:
+Cerâmica de boa qualidade. Cimento queimado. Concreto.
+VALOR POR M²..............R$ 443,90
+CÓDIGO 63
+PADRÃO C3 BAIXO
+ESTRUTURAS:
+Tradicional em concreto armado com vão inferior a 4 metros. Madeira comum.
+ALVENARIA:
+Bloco de concreto. Tijolo cerâmico.
+REVESTIMENTO INTERNO:
+Reboco liso ou colonial. Cerâmica comum parcial.
+REVESTIMENTO EXTERNO
+: Reboco liso ou colonial.
+FORRO:
+Madeira de qualidade inferior.
+INSTALAÇÕES ELÉTRICAS:
+Aparente.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Interna simples. Externa. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira simples. Ferro comum.
+COBERTURA:
+Telha de fibrocimento. Telhas cerâmicas. Laje.
+PISO:
+Cerâmica de qualidade inferior. Cimento queimado. Cimentado.
+VALOR POR M²..............R$ 391,51
+CÓDIGO 64
+PADRÃO C4 PRECÁRIO
+ESTRUTURAS:
+Tradicional com pilares de concreto. Madeira simples.
+ALVENARIA:
+Tijolo cerâmico. Taipa.
+REVESTIMENTO INTERNO:
+Sem revestimento. Revestimento parcial. Barro.
+REVESTIMENTO EXTERNO:
+Sem revestimento. Revestimento parcial. Barro.
+FORRO:
+Sem forro.
+INSTALAÇÕES ELÉTRICAS:
+Aparente.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Simples de qualidade inferior. Interna ou externa. Sistema de tratamento de esgotos comum ou ligado a rede pública.
+ESQUADRIAS:
+Madeira de qualidade inferior. Telada. Sem esquadrias.
+COBERTURA:
+Telha de fibrocimento.
+PISO:
+Sem revestimento. Cimentado.
+VALOR POR M².............R$ 141,71
+CÓDIGO 65
+PADRÃO C 5 REGULAR - GALPÕES
+Galpões para armazenamento de barcos ou materiais de construção
+ESTRUTURAS:
+Concreto armado. Estrutura metálica. Madeira de Lei ou autoclavada.
+ALVENARIA:
+Sem alvenaria. Alvenaria simples de vedação.
+INSTALAÇÕES ELÉTRICAS:
+Aparente.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Externa simples. Sistema de tratamento de esgotos comum ou ligado a rede publica
+ESQUADRIAS:
+Sem esquadrias. Telas.
+COBERTURA:
+Telha de fibrocimento.
+PISO:
+Cimento liso. Contrapiso. Sem revestimento.
+VALOR POR M²..............R$ 146,65
+CÓDIGO 66
+PADRÃO C6 ESPECIAL -
+Depósitos para armazenamento de produtos líquidos, gasosos, inflamáveis ou não, sobre base de concreto.
+Postos de gasolina
+VALOR POR M²..............R$ 468,60
+TABELA VIII
+PADRÕES DE CONSTRUÇÕES INDUSTRIAIS
+C - INDUSTRIAL
+CÓDIGO 71
+PADRÃO D1 NORMAL
+ESTRUTURAS:
+Concreto pré-moldado; Madeira de Lei ou autoclavada; Estrutura metálica.
+ALVENARIA:
+Blocos estruturais; Tijolos maciços aparentes, total ou parcial; Paredes pré moldadas; Pedras total ou parcial.
+REVESTIMENTO INTERNO:
+Massa fina com aplicação de massa corrida, gesso ou textura; Revestimento especial.
+REVESTIMENTO EXTERNO:
+Massa fina com aplicação de massa corrida ou textura; Pastilhas, cerâmica ou madeira em painéis; Pedras; Revestimento especial.
+FORRO:
+Laje; Madeira; Forro em PVC.
+INSTALAÇÕES ELÉTRICAS:
+Embutida
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa interna; Sistema de tratamento de esgotos especial ou por lodo ativado ou ligado a rede pública.
+ESQUADRIAS:
+Madeira de Lei; PVC; Ferro ou Alumínio.
+COBERTURA:
+Especiais; Laje impermeabilizada; Telha de fibrocimento tipo calhetão ou canaleta;
+Alumínio sobre laje.
+PISO:
+Cerâmica de boa qualidade; Concreto; Cimento queimado com detalhes; Pisos especiais.
+VALOR POR M²...............R$ 279,49
+CÓDIGO 72
+PADRÃO D2 MÉDIO
+ESTRUTURAS:
+Pilares de concreto armado com vão superior a 4 metros. Madeira de Lei ou autoclavada.
+ALVENARIA:
+Blocos de concreto. Tijolo cerâmico.
+REVESTIMENTO INTERNO:
+Reboco liso ou colonial. Reboco texturizado. Cerâmica comum.
+REVESTIMENTO EXTERNO:
+Reboco liso ou colonial. Cerâmica comum.
+FORRO:
+Laje; Madeira; Forro em PVC.
+INSTALAÇÕES ELÉTRICAS:
+Semi-embutida.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Completa simples; Sistema de tratamento de esgotos comum ou ligado à rede pública.
+ESQUADRIAS:
+Madeira comum; Ferro ou Alumínio comum.
+COBERTURA:
+Laje impermeabilizada; Telha de fibrocimento; Telhas de barro.
+PISO:
+Cerâmica de boa qualidade; Cimento queimado; Concreto.
+VALOR POR M²..............R$ 247,47
+CÓDIGO 73
+PADRÃO D3 BAIXO
+ESTRUTURAS:
+Tradicional em concreto armado com vão inferior a 4 metros. Estrutura em madeira comum.
+ALVENARIA:
+Blocos de concreto; Tijolo cerâmico.
+REVESTIMENTO INTERNO:
+Reboco liso ou colonial.
+REVESTIMENTO EXTERNO:
+Reboco liso ou colonial.
+FORRO:
+Madeira de qualidade inferior.
+INSTALAÇÕES ELÉTRICAS:
+Aparente.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Interna simples; Externa; Sistema de tratamento de esgotos comum ou ligado à rede pública.
+ESQUADRIAS:
+Madeira simples; Ferro de qualidade inferior.
+COBERTURA:
+Telha de fibrocimento comum; Telhas cerâmicas; Laje.
+PISO:
+Cerâmica de qualidade inferior; Cimento queimado; Cimentado;
+VALOR POR M².................R$ 159,74
+CÓDIGO 74
+PADRÃO D4 POPULAR - OFICINAS E BARRACÕES INDUSTRIAIS
+ESTRUTURAS:
+Estrutura em madeira de Lei ou autoclavada.
+ALVENARIA:
+Tijolo cerâmico.
+REVESTIMENTO INTERNO:
+Reboco liso.
+REVESTIMENTO EXTERNO:
+Reboco liso.
+FORRO:
+Madeira simples.
+INSTALAÇÕES ELÉTRICAS:
+Aparente.
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Interna simples de boa qualidade; Sistema de tratamento de esgotos comum ou ligado à rede pública.
+ESQUADRIAS:
+Madeira simples; Ferro de qualidade inferior.
+COBERTURA:
+Telha de fibrocimento comum; Telhas cerâmicas.
+PISO:
+Cerâmica de qualidade inferior; Cimentado.
+VALOR POR M².................R$ 108,90
+CÓDIGO 75
+PADRÃO D5 - PRECÁRIO - OFICINAS E BARRACÕES INDUSTRIAIS
+ESTRUTURAS:
+Tradicional com pilares de concreto; Madeira simples.
+ALVENARIA:
+Tijolo cerâmico.
+REVESTIMENTO INTERNO:
+Sem revestimento
+REVESTIMENTO EXTERNO:
+Sem revestimento
+FORRO:
+Sem forro
+INSTALAÇÕES ELÉTRICAS:
+aparente
+INSTALAÇÕES HIDRÁULICAS SANITÁRIAS:
+Simples de qualidade inferior; Sistema de tratamento de esgotos comum ou ligado à rede pública.
+ESQUADRIAS:
+Madeira de qualidade inferior; Telada; Sem esquadrias.
+COBERTURA:
+Telha de fibrocimento
+PISO:
+Sem revestimento; Contrapiso.
+VALOR POR M²....................R$ 87,02
+Ilhabela, 22 de novembro de 2010.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal

@@ -1,0 +1,46 @@
+---
+id: 2017436
+ref: ilh-2017-port-436
+tipo: portaria
+numero: 436
+ano: 2017
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 436, DE 08/02/2017"
+ementa: CONCEDE FÉRIAS AO(A) SENHOR(A) CHRISTINA PEREIRA CAMPOS PALOTTE - SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 436/2017
+  - Portaria nº 436/2017
+  - Portaria 436
+  - Portaria nº 436
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2017436"
+coletado_em: "2026-10-21"
+sha256_raw: "6cdcc3dcf53b1e707041dc1ac8efd5138020e6532aad711bf4da30bc939ced52"
+versao_formato: "1.1"
+---
+PORTARIA Nº 436, DE 08/02/2017
+CONCEDE FÉRIAS AO(A) SENHOR(A) CHRISTINA PEREIRA CAMPOS PALOTTE - SERVIDOR(A) MUNICIPAL.
+LUIZ ANTÔNIO DOS SANTOS, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 88, da Lei Municipal 649
+, datada em 31 de julho de 1997. Serão concedidas
+FÉRIAS
+a(o) Senhor(a)
+CHRISTINA PEREIRA CAMPOS
+PALOTTE
+, servidor(a) Municipal, no período de
+02/01/2017 a 31/01/2017 (30 dia
+s)
+referente ao período aquisitivo de
+23/02/2015 a 22/02/2016 (matr: 8659).
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 02/01/2017.
+Ilhabela, 08 de Fevereiro de 2017.
+LUIZ ANTÔNIO DOS SANTOS
+Secretário Municipal de Administração
+JOSÉ MESSIAS DOS SANTOS
+Diretor de Divisão de Recursos Humanos

@@ -1,0 +1,37 @@
+---
+id: 2021849
+ref: ilh-2021-port-849
+tipo: portaria
+numero: 849
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 849, DE 01/11/2021"
+ementa: DESIGNA A SENHORA ANDREIA RODRIGUES DOS SANTOS PARA SUBSTITUIR O CARGO DE SUPERVISOR DE ACOLHIMENTO INSTITUCIONAL DE CRIANÇAS E ADOLESCENTES.
+aliases:
+  - Portaria 849/2021
+  - Portaria nº 849/2021
+  - Portaria 849
+  - Portaria nº 849
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021849"
+coletado_em: "2026-10-11"
+sha256_raw: "0140c1066ab7ae12f07beedac579649de3ce6908ffa2633a48bd1b57d76b9357"
+versao_formato: "1.1"
+---
+PORTARIA Nº 849, DE 01/11/2021
+DESIGNA A SENHORA ANDREIA RODRIGUES DOS SANTOS PARA SUBSTITUIR O CARGO DE SUPERVISOR DE ACOLHIMENTO INSTITUCIONAL DE CRIANÇAS E ADOLESCENTES.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Designa a Senhora ANDREIA RODRIGUES DOS SANTOS, Servidora Pública Municipal, portador do RG: 24.689.727-2, para substituir o cargo de Supervisor de Acolhimento Institucional de Crianças e Adolescentes, com direito à percepção da diferença dos vencimentos do seu cargo para a ref. 14, o servidor ELIAQUIM INÁCIO LIMA DE JESUS ao período de 13/10/2021 a 22/10/2021, por motivos de Férias.
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 13/10/2021.
+Ilhabela, 01 de novembro de 2021.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+BERNADETE DE LOURDES RIBEIRO
+Coordenador de Processos Administrativos de Pessoas
+Registrado em livro próprio e afixado na data supra, no lugar de costume.
+DRH/blr/2021.

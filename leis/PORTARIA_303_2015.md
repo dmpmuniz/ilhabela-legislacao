@@ -1,0 +1,46 @@
+---
+id: 201500303
+ref: ilh-2015-port-303
+tipo: portaria
+numero: 303
+ano: 2015
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 303, DE 27/02/2015"
+ementa: CONCEDE FÉRIAS AO(A) SENHOR(A) CLEIDINEIA DA SILVA OLIVEIRA- SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 303/2015
+  - Portaria nº 303/2015
+  - Portaria 303
+  - Portaria nº 303
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201500303"
+coletado_em: "2026-10-21"
+sha256_raw: "3ee4b613c28791414f79a68d670566fe3c7833bda8623af8401b6d397736edbf"
+versao_formato: "1.1"
+---
+PORTARIA Nº 303, DE 27/02/2015
+CONCEDE FÉRIAS AO(A) SENHOR(A) CLEIDINEIA DA SILVA OLIVEIRA- SERVIDOR(A) MUNICIPAL.
+LUIZ CARLOS BIONDI,
+Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos Termos do
+##### artigo 88, da Lei Municipal 649
+, datada em 31 de julho de 1997
+.
+Serão concedidas férias a(o) Senhor(a)
+CLEIDINEIA DA SILVA OLIVEIRA.
+Servidor(a) Municipal, no período de
+02/01/2015 a 31/01/2015 (30 dias)
+referente ao período aquisitivo de
+28/07/2014 a 27/07/2015 (matrícula: 1885).
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de
+02/01/2015.
+Ilhabela, 27 de fevereiro de 2015.
+LUIZ CARLOS BIONDI
+Secretário Municipal de Administração
+JOSÉ MESSIAS DOS SANTOS
+Diretor de Divisão de Recursos Humanos

@@ -1,0 +1,45 @@
+---
+id: 201600582
+ref: ilh-2016-port-582
+tipo: portaria
+numero: 582
+ano: 2016
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 582, DE 15/02/2016"
+ementa: CONCEDE FÉRIAS AO(A) SENHOR(A) VERONICA ROSA DE ASSIS - SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 582/2016
+  - Portaria nº 582/2016
+  - Portaria 582
+  - Portaria nº 582
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201600582"
+coletado_em: "2026-10-21"
+sha256_raw: "0ad602a757b6d3883c31e0078c61d5fbc470d5734d76e8111f6f31a26ab08d53"
+versao_formato: "1.1"
+---
+PORTARIA Nº 582, DE 15/02/2016
+CONCEDE FÉRIAS AO(A) SENHOR(A) VERONICA ROSA DE ASSIS - SERVIDOR(A) MUNICIPAL.
+LUIZ CARLOS BIONDI, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos Termos do
+##### artigo 88, da Lei Municipal 649
+, datada em 31 de julho de 1997
+.
+Serão concedidas férias a(o) Senhor(a)
+VERONICA ROSA DE ASSIS.
+Servidor(a) Municipal, no período de
+04/01/2016 a 02/02/2016 (30 dias)
+referente ao período aquisitivo de
+02/05/2014 a 01/05/2015 (matr: 4618).
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de
+04/01/2016.
+Ilhabela, 15 de fevereiro de 2016.
+LUIZ CARLOS BIONDI
+Secretário Municipal de Administração
+JOSÉ MESSIAS DOS SANTOS
+Diretor de Divisão de Recursos Humanos

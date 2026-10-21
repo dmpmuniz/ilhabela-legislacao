@@ -1,0 +1,97 @@
+---
+id: 20210488
+ref: ilh-2021-port-488
+tipo: portaria
+numero: 488
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 488, DE 21/06/2021"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 488/2021
+  - Portaria nº 488/2021
+  - Portaria 488
+  - Portaria nº 488
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210488"
+coletado_em: "2026-10-21"
+sha256_raw: "0dfd6d877f465e333662deecaeaf0f7d2eb3c8538f8aaeb925dc93205e5fff9f"
+versao_formato: "1.1"
+---
+PORTARIA Nº 488, DE 21/06/2021
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas FÉRIAS aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+8591
+ANA PAULA DA SILVA NASCIMENTO
+12/03/2019 A 11/03/2020
+10
+31/05/2021 A 09/06/2021
+8639
+CASSIA APARECIDA DE OLIVEIRA SCHERAMM
+03/03/2019 A 02/03/2020
+20
+31/05/2021 A 19/06/2021
+106233
+ELIANE RODRIGUES DOS SANTOS
+21/05/2020 A 20/05/2021
+20
+31/05/2021 A 19/06/2021
+8960
+FABIOLA LETICIA DIAS DE MORAN ROMERO
+01/06/2019 A 31/05/2020
+10
+31/05/2021 A 09/06/2021
+103223
+FLAVIANE FAUSTINA DE SOUZA
+13/05/2020 A 29/05/2021
+15
+31/05/2021 A 14/06/2021
+8838
+HUGO LEONARDO MENDES RAMOS DE OLIVEIRA
+01/04/2017 A 31/03/2018
+10
+31/05/2021 A 09/06/2021
+12124
+KAITO DE SOUZA MARTINS
+26/09/2019 A 25/09/2020
+10
+31/05/2021 A 09/06/2021
+4043
+LILIAN DE MAGALHAES SOARES CUNHA
+07/03/2019 A 06/03/2020
+20
+31/05/2021 A 19/06/2021
+10428
+MARILENE OLIVEIRA GEMIO
+26/01/2020 A 25/01/2021
+20
+31/05/2021 A 19/06/2021
+11296
+MYRELLA CHAN SERAFIM
+27/04/2019 A 26/04/2020
+20
+31/05/2021 A 19/06/2021
+9032
+ORLEY ALEXANDRO GRANDO
+16/06/2019 A 15/06/2020
+10
+31/05/2021 A 09/06/2021
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 31/05/2021.
+Ilhabela, 21 de junho de 2021.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenador de Benefícios e Contratos

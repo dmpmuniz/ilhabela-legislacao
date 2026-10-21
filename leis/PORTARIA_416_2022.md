@@ -1,0 +1,92 @@
+---
+id: 2022416
+ref: ilh-2022-port-416
+tipo: portaria
+numero: 416
+ano: 2022
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 416, DE 09/08/2022"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 416/2022
+  - Portaria nº 416/2022
+  - Portaria 416
+  - Portaria nº 416
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022416"
+coletado_em: "2026-10-21"
+sha256_raw: "666976e9ea56dab8bccfb95f5ce9a95e3386bbdbb400c3bd64a9945977f447f2"
+versao_formato: "1.1"
+---
+PORTARIA Nº 416, DE 09/08/2022
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas FÉRIAS aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+8518
+EDUARDO ABREU SILVA
+02/03/2020 A 01/03/2021
+30
+18/04/2022 A 17/05/2022
+10503
+ELAINE DOS SANTOS
+07/02/2020 A 06/02/2021
+10
+18/04/2022 A 27/04/2022
+278
+JOELMA DE CARVALHO IZAIAS
+03/08/2019 A 02/08/2020
+20
+18/04/2022 A 07/05/2022
+9540
+JUMARA HELENA DA CRUZ SILVA
+19/03/2021 A 18/03/2022
+30
+18/04/2022 A 17/05/2022
+1439
+LUIZ ALVES DOS SANTOS NETO
+17/04/2020 A 16/04/2021
+30
+18/04/2022 A 17/05/2022
+12344
+MIQUEIAS VICENTE DOS SANTOS
+07/02/2021 A 06/02/2022
+10
+18/04/2022 A 27/04/2022
+8790
+SILVANA GIUSTI VILA
+12/04/2021 A 30/04/2022
+30
+18/04/2022 A 17/05/2022
+10263
+SUELI PAIXAO MARQUES CORREA
+29/09/2019 A 28/09/2020
+30
+18/04/2022 A 17/05/2022
+8988
+TALITA CAROLINE DOS SANTOS ELIAS DE AMORIM
+20/05/2020 A 19/05/2021
+10
+18/04/2022 A 27/04/2022
+9029
+THATIE ADRAGNA FAVARELLO
+08/06/2020 A 26/09/2021
+30
+18/04/2022 A 17/05/2022
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 18/04/2022.
+Ilhabela, 09 de agosto de 2022.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenador de Planejamento e Recursos Humanos

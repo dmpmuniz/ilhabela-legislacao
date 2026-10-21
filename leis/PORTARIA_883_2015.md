@@ -1,0 +1,46 @@
+---
+id: 201500883
+ref: ilh-2015-port-883
+tipo: portaria
+numero: 883
+ano: 2015
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 883, DE 27/07/2015"
+ementa: CONCEDE FÉRIAS AO(A) SENHOR(A) ROGERIO CRISTIANO DE SOUZA MORAES - SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 883/2015
+  - Portaria nº 883/2015
+  - Portaria 883
+  - Portaria nº 883
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201500883"
+coletado_em: "2026-10-21"
+sha256_raw: "91b0bcb1adae32a36fe5fe72cdb8b0d8709ef376997e20769d47bde75a01dbea"
+versao_formato: "1.1"
+---
+PORTARIA Nº 883, DE 27/07/2015
+CONCEDE FÉRIAS AO(A) SENHOR(A) ROGERIO CRISTIANO DE SOUZA MORAES - SERVIDOR(A) MUNICIPAL.
+LUIZ CARLOS BIONDI,
+Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos Termos do
+##### artigo 88, da Lei Municipal 649
+, datada em 31 de julho de 1997
+.
+Serão concedidas férias a(o) Senhor(a)
+ROGERIO CRISTIANO DE SOUZA MORAES.
+Servidor(a) Municipal, no período de
+27/07/2015 a 05/08/2015 (10 dias)
+referente ao período aquisitivo de
+11/06/2014 a 10/06/2015 (matr: 5665).
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de
+27/07/2015.
+Ilhabela, 27 de julho de 2015.
+LUIZ CARLOS BIONDI
+Secretário Municipal de Administração
+JOSÉ MESSIAS DOS SANTOS
+Diretor de Divisão de Recursos Humanos

@@ -1,0 +1,45 @@
+---
+id: 201600429
+ref: ilh-2016-port-429
+tipo: portaria
+numero: 429
+ano: 2016
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 429, DE 15/02/2016"
+ementa: CONCEDE FÉRIAS AO(A) SENHOR(A) CLAUDIO SALVADOR DA SILVA - SERVIDOR(A) MUNICIPAL.
+aliases:
+  - Portaria 429/2016
+  - Portaria nº 429/2016
+  - Portaria 429
+  - Portaria nº 429
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201600429"
+coletado_em: "2026-10-21"
+sha256_raw: fe70b4f244fd457b4e11033e849ae261f90fb5293c866ea9613782a17bd0752f
+versao_formato: "1.1"
+---
+PORTARIA Nº 429, DE 15/02/2016
+CONCEDE FÉRIAS AO(A) SENHOR(A) CLAUDIO SALVADOR DA SILVA - SERVIDOR(A) MUNICIPAL.
+LUIZ CARLOS BIONDI, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos Termos do
+##### artigo 88, da Lei Municipal 649
+, datada em 31 de julho de 1997
+.
+Serão concedidas férias a(o) Senhor(a)
+CLAUDIO SALVADOR DA SILVA.
+Servidor(a) Municipal, no período de
+04/01/2016 a 02/02/2016 (30 dias)
+referente ao período aquisitivo de
+01/11/2014 a 31/10/2015 (matr: 3944).
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de
+04/01/2016.
+Ilhabela, 15 de fevereiro de 2016.
+LUIZ CARLOS BIONDI
+Secretário Municipal de Administração
+JOSÉ MESSIAS DOS SANTOS
+Diretor de Divisão de Recursos Humanos

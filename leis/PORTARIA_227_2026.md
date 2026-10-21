@@ -1,0 +1,94 @@
+---
+id: 2026227
+ref: ilh-2026-port-227
+tipo: portaria
+numero: 227
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 227, DE 12/03/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 227/2026
+  - Portaria nº 227/2026
+  - Portaria 227
+  - Portaria nº 227
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026227"
+coletado_em: "2026-10-21"
+sha256_raw: "2b6576d995acd2a55f3f26b9bd11b74ad3d2e86c840b2d69e2d05743f790ac5d"
+versao_formato: "1.1"
+---
+PORTARIA Nº 227, DE 12/03/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário Adjunto de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+106109
+ARY LEITE FONSECA
+19/05/2024 A 18/05/2025
+30
+14/01/2026 A 12/02/2026
+1169
+CARLOS EDUARDO DAMASCHI
+09/07/2023 A 09/09/2024
+30
+14/01/2026 A 12/02/2026
+16743
+GIOVANA GENERALI PUTTI
+21/11/2024 A 20/11/2025
+10
+14/01/2026 A 23/01/2026
+5992
+ISABELE FILGUEIRA DOS SANTOS LOUREIRO
+12/02/2022 A 23/01/2026
+10
+14/01/2026 A 23/01/2026
+2358
+LAURELENA PENHA GARCIA
+10/03/2023 A 09/03/2024
+10
+14/01/2026 A 23/01/2026
+106299
+LAURELENA PENHA GARCIA
+29/03/2023 A 28/03/2024
+10
+14/01/2026 A 23/01/2026
+16760
+MARIA APARECIDA PINHEIRO PIEDADE
+01/01/2025 A 31/12/2025
+10
+14/01/2026 A 23/01/2026
+8636
+MILENA BATISTA MARTINEZ
+03/11/2024 A 02/11/2025
+30
+14/01/2026 A 12/02/2026
+16500
+PATRICIA DA SILVA COSTA
+24/07/2023 A 23/07/2024
+20
+14/01/2026 A 02/02/2026
+106107
+SUZELENA DA SILVA OLIVEIRA
+15/04/2024 A 09/05/2025
+10
+14/01/2026 A 23/01/2026
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 14/01/2026.
+Ilhabela, 12 de março de 2026.
+JOSE CARLOS MACEDO
+Secretário Adjunto de Administração
+ALINE DE MATOS NAKA
+Supervisora de Controle de Processos Funcionais

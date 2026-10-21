@@ -1,0 +1,101 @@
+---
+id: 2025766
+ref: ilh-2025-port-766
+tipo: portaria
+numero: 766
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 766, DE 07/08/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 766/2025
+  - Portaria nº 766/2025
+  - Portaria 766
+  - Portaria nº 766
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025766"
+coletado_em: "2026-10-21"
+sha256_raw: d4e2ca76f99e16d5509db66742a519e21f8bd0726a1a81caf073fa8fc65eef39
+versao_formato: "1.1"
+---
+PORTARIA Nº 766, DE 07/08/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+16633
+BEATRIZ JERONIMO LUIZ
+18/03/2024 A 17/03/2025
+20
+16/06/2025 A 05/07/2025
+1626
+EVERALDO DA SILVA
+06/05/2024 A 05/05/2025
+20
+16/06/2025 A 05/07/2025
+3288
+FERNANDA LOURENÇO ALVARES DECIO
+18/01/2022 A 17/01/2023
+30
+16/06/2025 A 15/07/2025
+9544
+GILSON COSTA LIMA
+26/02/2024 A 25/02/2025
+20
+16/06/2025 A 05/07/2025
+8947
+HEGON HENRIQUE BERNARDO DA SILVA
+25/05/2021 A 24/05/2022
+15
+16/06/2025 A 30/06/2025
+3860
+JOANA JESUS SILVA
+19/07/2023 A 18/07/2024
+30
+16/06/2025 A 15/07/2025
+8875
+LUCAS PERES DE CAMARGO
+01/04/2023 A 31/03/2024
+20
+16/06/2025 A 05/07/2025
+16660
+MARIA SOCORRO JUSTINO DE ARAUJO
+10/01/2024 A 09/01/2025
+30
+16/06/2025 A 15/07/2025
+8983
+RENATA DOS SANTOS REAL
+20/05/2024 A 19/05/2025
+30
+16/06/2025 A 15/07/2025
+457
+RONILAN RODRIGUES DE OLIVEIRA
+11/01/2021 A 10/01/2022
+30
+16/06/2025 A 15/07/2025
+4063
+VANDERLUCIO DA SILVA REIS
+01/02/2024 a 15/05/2025
+30
+16/06/2025 A 15/07/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em
+16/06/2025
+.
+Ilhabela, 07 de agosto de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos

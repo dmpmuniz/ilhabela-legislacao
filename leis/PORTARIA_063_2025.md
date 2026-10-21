@@ -1,0 +1,98 @@
+---
+id: 2025063
+ref: ilh-2025-port-063
+tipo: portaria
+numero: 63
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 063, DE 13/01/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 63/2025
+  - Portaria nº 63/2025
+  - Portaria nº 063/2025
+  - Portaria 63
+  - Portaria 063
+  - Portaria nº 63
+  - Portaria nº 063
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025063"
+coletado_em: "2026-10-21"
+sha256_raw: a6da827755091b14b2bae8d977979b6a5845972c93a40d390016b3acabaff695
+versao_formato: "1.1"
+---
+PORTARIA Nº 063, DE 13/01/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+6434
+ANTONIO ROBERTO ASSIS DE SOUZA
+28/03/2022 A 27/03/2023
+20
+07/10/2024 A 26/10/2024
+1132
+CARLOS ALBERTO VIEIRA SILVA
+11/08/2020 A 10/08/2021
+20
+07/10/2024 A 26/10/2024
+8631
+CYNTHIA AZZOLINI
+16/08/2023 A 30/08/2024
+30
+07/10/2024 A 05/11/2024
+95
+FERNANDA CRISTINA JESUS NASCIMENTO
+28/08/2022 A 27/08/2023
+30
+07/10/2024 A 05/11/2024
+1744
+JARDENI ALMEIDA FONSECA
+23/12/2022 A 22/12/2023
+20
+07/10/2024 A 26/10/2024
+322
+JOSE PAULO PEREIRA DOS SANTOS
+02/08/2022 A 01/08/2023
+30
+07/10/2024 A 05/11/2024
+7815
+NUBIA DOS SANTOS SOUZA
+19/01/2022 A 18/01/2023
+20
+07/10/2024 A 26/10/2024
+157108
+ROSA MARIA ALVES DE OLIVEIRA
+11/05/2022 A 10/05/2023
+20
+07/10/2024 A 26/10/2024
+6030
+SIMONE RODRIGUES DE MORAES
+14/02/2023 A 13/02/2024
+10
+07/10/2024 A 16/10/2024
+257
+WAGNER ROGERIO BATISTA SILVA
+03/05/2023 A 02/05/2024
+30
+07/10/2024 A 05/11/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 07/10/2024
+.
+Ilhabela, 13 de janeiro de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processo

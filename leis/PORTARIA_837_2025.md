@@ -1,0 +1,95 @@
+---
+id: 2025837
+ref: ilh-2025-port-837
+tipo: portaria
+numero: 837
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 837, DE 27/08/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 837/2025
+  - Portaria nº 837/2025
+  - Portaria 837
+  - Portaria nº 837
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025837"
+coletado_em: "2026-10-21"
+sha256_raw: "7de36cdb3a0419db3618001a1330b62dc1e4e2d0fc26d60beec19ec4760f4518"
+versao_formato: "1.1"
+---
+PORTARIA Nº 837, DE 27/08/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+19003
+AILA SUIANE DA SILVA SANTOS
+04/01/2024 A 03/01/2025
+15
+11/07/2025 A 25/07/2025
+10331
+ALVARO ANDRE SILVA DE ANDRADE
+13/11/2020 A 12/11/2021
+20
+11/07/2025 A 30/07/2025
+9236
+ARIANA APARECIDA DOS SANTOS
+16/09/2022 A 22/10/2023
+20
+11/07/2025 A 30/07/2025
+16656
+CAIQUE LIMA OLIVEIRA
+02/05/2024 A 01/05/2025
+15
+11/07/2025 A 25/07/2025
+11990
+CLAUDIA MARIA BORGES DOS SANTOS
+18/10/2023 A 17/10/2024
+15
+11/07/2025 A 25/07/2025
+16627
+DAMIAO DOS SANTOS SILVA
+12/03/2024 A 11/03/2025
+15
+11/07/2025 A 25/07/2025
+16274
+KAYKY MARCOS MISSENO DE SOUZA SANTOS
+06/04/2024 A 05/04/2025
+15
+11/07/2025 A 25/07/2025
+16224
+MELISSA TOLEDO BORGES
+20/03/2024 A 19/03/2025
+15
+11/07/2025 A 25/07/2025
+11064
+NILZA SILVA MATOS
+02/10/2023 A 01/10/2024
+15
+11/07/2025 A 25/07/2025
+16293
+SILVANA OLICINO PEREIRA
+06/04/2024 A 05/04/2025
+15
+11/07/2025 A 25/07/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 11/07/2025
+.
+Ilhabela, 27 de agosto de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos

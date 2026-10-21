@@ -1,0 +1,92 @@
+---
+id: 2021837
+ref: ilh-2021-port-837
+tipo: portaria
+numero: 837
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 837, DE 28/10/2021"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 837/2021
+  - Portaria nº 837/2021
+  - Portaria 837
+  - Portaria nº 837
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021837"
+coletado_em: "2026-10-21"
+sha256_raw: "010726fb870a6d8f6d66ee3932b21a78994b8e112983ab91b149e756b3235331"
+versao_formato: "1.1"
+---
+PORTARIA Nº 837, DE 28/10/2021
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas FÉRIAS aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+106120
+ANDRE LUIZ DOS SANTOS
+24/04/2018 A 23/04/2019
+10
+29/09/2021 A 08/10/2021
+667
+GISELA DE OLIVEIRA SILVA BRUDER
+12/09/2019 A 11/09/2020
+20
+29/09/2021 A 18/10/2021
+106243
+JAQUELINE VITORINO CORNACCHIONI
+22/03/2020 A 21/03/2021
+10
+29/09/2021 A 08/10/2021
+1744
+JARDENI ALMEIDA FONSECA
+01/07/2019 A 30/06/2020
+10
+29/09/2021 A 08/10/2021
+1963
+KELLY TIRADO CARVALHO
+22/03/2019 A 21/03/2020
+10
+29/09/2021 A 08/10/2021
+12263
+LEONAM SOARES RODRIGUES VIEIRA
+16/01/2020 A 15/01/2021
+10
+29/09/2021 A 08/10/2021
+1472
+MARCELO DO NASCIMENTO ROCHA
+26/06/2018 A 25/06/2019
+10
+29/09/2021 A 08/10/2021
+8898
+SERGIO MENDES DE JESUS JUNIOR
+16/04/2019 A 15/04/2020
+10
+29/09/2021 A 08/10/2021
+1099
+SHIRLEY NAZARE CUNHA LEITE
+01/06/2019 A 31/05/2020
+10
+29/09/2021 A 08/10/2021
+349
+SONIA DE SOUZA VALE PINHO
+20/07/2017 A 19/07/2018
+10
+29/09/2021 A 08/10/2021
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 29/09/2021.
+Ilhabela, 28 de outubro de 2021.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenador de Benefícios e Contratos

@@ -1,0 +1,99 @@
+---
+id: 2026514
+ref: ilh-2026-port-514
+tipo: portaria
+numero: 514
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 514, DE 14/07/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 514/2026
+  - Portaria nº 514/2026
+  - Portaria 514
+  - Portaria nº 514
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026514"
+coletado_em: "2026-10-21"
+sha256_raw: "788d9a1fa7827bf728857ac0bad7828a50d31da96fc1e0811eebb756a70a38d2"
+versao_formato: "1.1"
+---
+PORTARIA Nº 514, DE 14/07/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+8597
+ANA PAULA DA COSTA
+31/10/2024 A 30/10/2025
+30
+11/05/2026 A 09/06/2026
+7801
+ANA PAULA DE OLIVEIRA COSTA
+10/04/2025 A 09/04/2026
+30
+11/05/2026 A 09/06/2026
+464
+GONCALO BERNARDO DA SILVA
+12/08/2023 A 11/08/2024
+30
+11/05/2026 A 09/06/2026
+4893
+KARINA SILVA DE ARAUJO
+18/04/2025 A 17/04/2026
+10
+11/05/2026 A 20/05/2026
+15303
+KATIA GODOY DE MEDEIROS
+02/02/2024 A 01/02/2025
+15
+11/05/2026 A 25/05/2026
+8795
+LIZ MARILYN GERMANO DOS ANJOS ALVES
+26/03/2025 A 25/03/2026
+10
+11/05/2026 A 20/05/2026
+8837
+LUCIANA RODRIGUES DA CRUZ SOUZA
+01/04/2025 A 31/03/2026
+10
+11/05/2026 A 30/05/2026
+9217
+MARCUS EDUARDO DE OLIVEIRA SILVA
+16/09/2024 A 15/09/2025
+15
+11/05/2026 A 25/05/2026
+6440
+PAULO HENRIQUE DOS REIS OLIVEIR
+25/08/2024 A 24/08/2025
+30
+11/05/2026 A 09/06/2026
+8896
+RAFAELLA ROBERTA DA SILVA SANTOS
+06/04/2024 A 05/04/2025
+15
+11/05/2026 A 25/05/2026
+273
+RONALDO ALVES DE SOUSA
+09/07/2023 A 08/07/2024
+10
+11/05/2026 A 20/05/2026
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 11/05/2026.
+Ilhabela, 14 de julho de 2026.
+JOSE CARLOS MACEDO
+Secretário de Administração
+ALINE DE MATOS NAKA
+Supervisora de Controle de Processos Funcionais

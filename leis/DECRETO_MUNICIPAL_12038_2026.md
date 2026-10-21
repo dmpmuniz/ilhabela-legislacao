@@ -1,0 +1,109 @@
+---
+id: 202612038
+ref: ilh-2026-dec-12038
+tipo: decreto
+numero: 12038
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "DECRETO MUNICIPAL Nº 12.038, DE 17/08/2026"
+ementa: ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO ORÇAMENTO MUNICIPAL VIGENTE E DÁ OUTRAS PROVIDÊNCIAS.
+aliases:
+  - Decreto 12038/2026
+  - Decreto nº 12038/2026
+  - Decreto 12038
+  - Decreto nº 12038
+  - Decreto Municipal nº 12038
+  - Decreto Municipal 12038
+palavras_chave_auto:
+  - orçamento municipal
+  - receita
+  - despesa
+  - plano plurianual
+  - diretrizes orçamentárias
+  - crédito adicional
+tags_auto:
+  - orcamento
+  - financas
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612038"
+coletado_em: "2026-10-11"
+sha256_raw: "6a53773d7364f7a65f6e0aafb3d109e992fac1559c2b0e4431d5bf80e0289ae8"
+versao_formato: "1.1"
+---
+DECRETO MUNICIPAL Nº 12.038, DE 17/08/2026
+ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO ORÇAMENTO MUNICIPAL VIGENTE E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
+CONSIDERANDO o que dispõe o
+##### art. 167, inciso V, da Constituição Federal
+;
+CONSIDERANDO o que dispõe o
+##### artigo 40
+,
+##### artigo 41, inciso I
+,
+##### artigo 42
+e
+##### artigo 43, § 1º, inciso III, da Lei Federal nº 4.320
+, de 17 de março de 1964;
+CONSIDERANDO o disposto no
+##### artigo 11, inciso V
+, da Lei Orçamentária Anual para 2026,
+Lei Municipal nº 1.763
+, de 23 de dezembro de 2025;
+CONSIDERANDO ainda, o disposto no
+##### artigo 21
+, da Lei de Diretrizes Orçamentárias para 2026,
+Lei Municipal nº 1.715
+, de 10 de julho de 2025;
+DECRETA:
+##### Art. 1º
+Fica o orçamento municipal vigente alterado através de crédito adicional suplementar no valor global de
+R$ 100.000,00
+(cem mil reais), para suplementar a dotação adiante especificada:
+Órgão:
+14 - SERVIÇOS URBANOS
+Unidade:
+1 - GESTÃO DOS SERVIÇOS URBANOS
+Proj./Ativ.:
+2140 - REMUNERAÇÃO, BENEFÍCIOS E ENCARGOS
+Elemento de Despesa:
+OBRIGAÇÕES PATRONAIS
+Dotação:
+590 - 14.01.15.122.1140.2.140.319013.01.1400000 -
+Valor:
+R$ 100.000,00
+TOTAL A SUPLEMENTAR: R$ 100.000,00
+##### Art. 2º
+O recurso para atender ao crédito adicional de que trata o artigo anterior, será resultante da
+anulação
+parcial
+,conforme disposto no
+##### artigo 43, § 1º, inciso III, da Lei Federal nº 4.320
+, de 17 de março de 1964, nas seguintes dotações:
+Órgão:
+14 - SERVIÇOS URBANOS
+Unidade:
+1 - GESTÃO DOS SERVIÇOS URBANOS
+Proj./Ativ.:
+2140 - REMUNERAÇÃO, BENEFÍCIOS E ENCARGOS
+Elemento de Despesa:
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+Dotação:
+587 - 14.01.15.122.1140.2.140.319011.01.1100000 -
+Valor:
+R$ 50.000,00
+Elemento de Despesa:
+OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL
+Dotação:
+589 - 14.01.15.122.1140.2.140.319016.01.1100000 -
+Valor:
+R$ 50.000,00
+TOTAL A ANULAR: R$ 100.000,00
+##### Art. 3º
+Este Decreto entra em vigor na data de sua publicação.
+Ilhabela, 17 de agosto de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.

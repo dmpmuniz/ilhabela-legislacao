@@ -1,0 +1,108 @@
+---
+id: 2025071
+ref: ilh-2025-port-071
+tipo: portaria
+numero: 71
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 071, DE 13/01/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 71/2025
+  - Portaria nº 71/2025
+  - Portaria nº 071/2025
+  - Portaria 71
+  - Portaria 071
+  - Portaria nº 71
+  - Portaria nº 071
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025071"
+coletado_em: "2026-10-21"
+sha256_raw: "9099030054e71f396c9195fdaa1c37e8dfc9d0998bc95228031e6c2dcded6a7b"
+versao_formato: "1.1"
+---
+PORTARIA Nº 071, DE 13/01/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+EDILSON CESAR DOS SANTOS, Secretário de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+16416
+ADRIANA RAMOS DE SOUSA PAIVA
+30/05/2023 A 29/05/2024
+15
+16/10/2024 A 30/10/2024
+10993
+ALEXANDRA DA SILVA DOMINGOS
+23/08/2023 A 22/08/2024
+10
+16/10/2024 A 25/10/2024
+12838
+ANA FERRI DE BARROS
+17/08/2023 A 16/08/2024
+10
+16/10/2024 A 25/10/2024
+16547
+BIANCA LIMA DE ALMEIDA VIEIRA
+13/09/2023 A 12/09/2024
+10
+16/10/2024 A 25/10/2024
+8304
+CLAUDIO MUNIZ DA SILVA
+19/02/2021 A 18/02/2022
+10
+16/10/2024 A 25/10/2024
+9158
+EDSON BENATTI TRIPOLI
+12/04/2023 A 11/04/2024
+20
+16/10/2024 A 04/11/2024
+12853
+HUGO GOMES DE SOUZA
+29/08/2023 A 28/08/2024
+10
+16/10/2024 A 25/10/2024
+8589
+LEILA FERREIRA DOS SANTOS SILVA
+23/02/2022 A 22/02/2023
+10
+16/10/2024 A 25/10/2024
+10260
+LUCIANA DA COSTA
+14/11/2022 A 13/11/2023
+10
+16/10/2024 A 25/10/2024
+12304
+PEDRO HENRIQUE HARDT MARQUES
+23/01/2022 A 22/01/2023
+30
+16/10/2024 A 14/11/2024
+8961
+RENATA ROCHA MARASSA BRANDOLIZI
+01/06/2021 A 31/05/2022
+30
+16/10/2024 A 14/11/2024
+10732
+VITOR DE PAULA SOUZA
+26/04/2022 A 25/04/2023
+10
+16/10/2024 A 25/10/2024
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 16/10/2024
+.
+Ilhabela, 13 de janeiro de 2025.
+EDILSON CESAR DOS SANTOS
+Secretário Municipal de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processo

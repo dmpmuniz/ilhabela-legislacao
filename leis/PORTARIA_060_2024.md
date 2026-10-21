@@ -1,0 +1,119 @@
+---
+id: 2024060
+ref: ilh-2024-port-060
+tipo: portaria
+numero: 60
+ano: 2024
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 060, DE 10/01/2024"
+ementa: CONCEDER A CONVERSÃO DE FÉRIAS EM PECÚNIA.
+aliases:
+  - Portaria 60/2024
+  - Portaria nº 60/2024
+  - Portaria nº 060/2024
+  - Portaria 60
+  - Portaria 060
+  - Portaria nº 60
+  - Portaria nº 060
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024060"
+coletado_em: "2026-10-21"
+sha256_raw: c07a4fdfea873a7679c1cbd34bde680dedbace406d57c7a9da7772113ec515ad
+versao_formato: "1.1"
+---
+PORTARIA Nº 060, DE 10/01/2024
+CONCEDER A CONVERSÃO DE FÉRIAS EM PECÚNIA.
+ANTÔNIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+CONCEDER A CONVERSÃO DE FÉRIAS EM PECÚNIA de acordo com o
+Decreto 8.356
+de 30 de dezembro de 2020, alterado pelo
+Decreto 8.493
+de 10 de março de 2021, aos servidores relacionados abaixo, nos termos do despacho exarado nos autos dos processos também relacionados, referente a 10 (dez) dias indenizados sobre 30 (trinta) dias.
+SECRETARIA MUNICIPAL DE MOBILIDADE E SEGURANÇA
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+844
+MARCOS ANTONIO DE OLIVEIRA CALADO
+01/10/2021 A 30/09/2022
+12103/2023
+05/09/2023
+SECRETARIA MUNICIPAL DE EDUCAÇÃO
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+10699
+ALUIZIO MARCOS BEZERRA
+27/03/2021 A 26/03/2022
+7622/2023
+25/05/2023
+SECRETARIA MUNICIPAL DE OBRAS E PLANEJAMENTO URBANO
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+8608
+AMANDA BASTOS DOS SANTOS ALBOLE
+20/07/2021 A 19/07/2022
+12544/2023
+19/09/2023
+SECRETARIA MUNICIPAL DE SAUDE
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+9051
+NATALIA CRISTINA DA SILVA SANTO
+21/12/2021 A 20/12/2022
+11976/2023
+9051
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+8534
+DEBORA NASCIMENTO DOS SANTOS
+03/12/2020 A 02/12/2021
+12117/2023
+06/09/2023
+SECRETARIA MUNICIPAL DE CULTURA
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+5725
+REGINA PEREIRA DOS SANTOS
+13/08/2021 A 12/08/2022
+12355/2023
+14/09/2023
+SECRETARIA MUNICIPAL DE GOVERNO
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PROCESSO
+DATA PROC.
+4594
+EDNA APARECIDA DE SOUZA
+25/06/2020 A 24/06/2021
+12242/2023
+12/09/2023
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de 10/11/2023.
+Ilhabela, 10 de janeiro de 2024.
+ANTÔNIO LUIZ COLUCCI
+Prefeito Municipal
+CAROLINE FRIDRICH DE SOUZA
+Diretor de Gestão de Pessoas

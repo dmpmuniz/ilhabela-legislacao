@@ -1,0 +1,42 @@
+---
+id: 2024024
+ref: ilh-2024-port-024
+tipo: portaria
+numero: 24
+ano: 2024
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 024, DE 09/01/2024"
+ementa: CONCEDE ADICIONAL POR TEMPO DE SERVIÇO À SENHORA RENATA MEIRELLES DE MOURA E CASTRO - SERVIDORA MUNICIPAL.
+aliases:
+  - Portaria 24/2024
+  - Portaria nº 24/2024
+  - Portaria nº 024/2024
+  - Portaria 24
+  - Portaria 024
+  - Portaria nº 24
+  - Portaria nº 024
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024024"
+coletado_em: "2026-10-11"
+sha256_raw: a31073490f83299b97510a35256c5422e18641e08b1a1c81c5f43c8d86534bba
+versao_formato: "1.1"
+---
+PORTARIA Nº 024, DE 09/01/2024
+CONCEDE ADICIONAL POR TEMPO DE SERVIÇO À SENHORA RENATA MEIRELLES DE MOURA E CASTRO - SERVIDORA MUNICIPAL.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Concede Adicional por Tempo de Serviço à Senhora RENATA MEIRELLES DE MOURA E CASTRO, Servidora Municipal, matricula nº 1577, referente ao anuênio do período aquisitivo de 01/10/2022 a 30/09/2023 (alteração de data devido a
+Lei Federal nº 173
+de 27 de maio de 2020), conforme determina o
+##### artigo 72, da Lei Municipal 1.326
+, datada em 26 de outubro de 2018 - Estatuto dos Servidores Públicos Municipais da Estância Balneária de Ilhabela.
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de 30/09/2023.
+Ilhabela, 09 de janeiro de 2024.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+CAROLINE FRIDRICH DE SOUZA
+Diretor de Gestão de Pessoas

@@ -1,0 +1,95 @@
+---
+id: 2023528
+ref: ilh-2023-port-528
+tipo: portaria
+numero: 528
+ano: 2023
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 528, DE 18/04/2023"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 528/2023
+  - Portaria nº 528/2023
+  - Portaria 528
+  - Portaria nº 528
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023528"
+coletado_em: "2026-10-21"
+sha256_raw: cbc694518640079ee8eacfb2832dbf0b2d7d736621ae4e4c5eb7bfb919ada214
+versao_formato: "1.1"
+---
+PORTARIA Nº 528, DE 18/04/2023
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+12128
+BRUNA DE KASSIA ALMEIDA DE JESUS
+26/09/2020 A 11/10/2021
+10
+08/02/2023 A 17/02/2023
+10503
+ELAINE DOS SANTOS
+07/02/2020 A 06/02/2021
+10
+08/02/2023 A 17/02/2023
+10764
+EMERSON RIEG HOINASKI
+22/05/2020 A 21/05/2021
+10
+08/02/2023 A 17/02/2023
+12132
+FELIPE RIBEIRO FARIA
+26/09/2021 A 11/10/2022
+10
+08/02/2023 A 17/02/2023
+13154
+LAIS ANTONIA CAVALCANTE
+07/01/2022 A 06/01/2023
+10
+08/02/2023 A 17/02/2023
+8657
+MANOEL DOS SANTOS PRADO JUNIOR
+23/02/2019 A 23/02/2022
+10
+08/02/2023 A 17/02/2023
+7815
+NUBIA DOS SANTOS SOUZA
+19/01/2020 A 18/01/2021
+10
+08/02/2023 A 17/02/2023
+106755
+OSIANE SOARES DE OLIVEIRA
+06/05/2021 A 05/05/2023
+10
+08/02/2023 A 17/02/2023
+106242
+OTAVIO DA SILVA CALDAS
+07/04/2021 A 06/04/2022
+10
+08/02/2023 A 17/02/2023
+1762
+RAQUEL DE SANTANA
+10/07/2021 A 09/07/2022
+10
+08/02/2023 A 17/02/2023
+##### Art. 2º
+Registre-se, publique-se e cumpra-se, retroagindo seus efeitos a partir de
+08/02/2023.
+Ilhabela, 18 de abril de 2023.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenadora de Planejamento e Recursos Humanos

@@ -1,0 +1,45 @@
+---
+id: 2024436
+ref: ilh-2024-port-436
+tipo: portaria
+numero: 436
+ano: 2024
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 436, DE 15/04/2024"
+ementa: CONCEDE LICENÇA MATERNIDADE À SENHOR DANIELLE FERREIRA DE CASTRO.
+aliases:
+  - Portaria 436/2024
+  - Portaria nº 436/2024
+  - Portaria 436
+  - Portaria nº 436
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024436"
+coletado_em: "2026-10-21"
+sha256_raw: a677d1c8278bd30644a72c751acad9a5cd55ca03e37d0af850e3c1a30c502b8c
+versao_formato: "1.1"
+---
+PORTARIA Nº 436, DE 15/04/2024
+CONCEDE LICENÇA MATERNIDADE À SENHOR DANIELLE FERREIRA DE CASTRO.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+CONSIDERANDO o disposto nos
+artigos 98 e parágrafos da Lei nº 1.326/2018
+do
+Estatuto dos Servidores Públicos Municipais
+de 26 de Outubro 2018;
+CONSIDERANDO - a certidão de nascimento apresentada pela servidora adiante nominada, comprobatória da concessão do direito a licença maternidade prevista no ordenamento estatutário dessa municipalidade;
+RESOLVE:
+##### Art. 1º
+Concede a licença maternidade à Senhora,
+DANIELLE FERREIRA DE CASTRO
+, admitida em 23/03/2015, lotada na SECRETARIA MUNICIPAL DE EDUCAÇÃO, e nomeada para o cargo de AGENTE DE ADMINISTRAÇÃO PÚBLICA (matrícula 8791), através de Concurso Público, computadas a partir de
+01/04/2024 A 27/09/2024
+.
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de 01/04/2024.
+Ilhabela, 15 de abril de 2024.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+CAROLINE FRIDRICH DE SOUZA
+Diretor de Gestão de Pessoas

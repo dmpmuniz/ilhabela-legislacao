@@ -1,0 +1,111 @@
+---
+id: 2025978
+ref: ilh-2025-port-978
+tipo: portaria
+numero: 978
+ano: 2025
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 978, DE 24/11/2025"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 978/2025
+  - Portaria nº 978/2025
+  - Portaria 978
+  - Portaria nº 978
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025978"
+coletado_em: "2026-10-21"
+sha256_raw: "70b30d19c51db25b9fab39d8db31f8906cc6623724572a48fa2cafbe908773d4"
+versao_formato: "1.1"
+---
+PORTARIA Nº 978, DE 24/11/2025
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário Adjunto de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERIODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+12854
+ALINE FERREIRA GONCALVES
+21/12/2022 A 20/12/2023
+15
+22/09/2025 A 06/10/2025
+8843
+AURELIO RUFO SILVA
+01/04/2024 A 31/03/2025
+10
+22/09/2025 A 01/10/2025
+5531
+DANIELA NUNES PEREIRA
+30/05/2024 A 29/05/2025
+15
+22/09/2025 A 07/10/2025
+106404
+EDMAR PINTO
+04/09/2024 A 03/09/2025
+15
+22/09/2025 A 06/10/2025
+4594
+EDNA APARECIDA DE SOUZA
+03/08/2024 A 02/08/2025
+10
+22/09/2025 A 01/10/2025
+8993
+ERIKA HERNANDEZ
+05/06/2023 A 04/06/2024
+15
+22/09/2025 A 06/10/2025
+1731
+JULIANA LUCIA DE SOUZA SANTOS
+22/07/2023 A 21/07/2024
+20
+22/09/2025 A 11/10/2025
+16276
+LUCIANA APARECIDA GANASSALI
+06/04/2024 A 05/04/2025
+30
+22/09/2025 A 21/10/2025
+11876
+LUCIANO DIAS PADUAN JUNIOR
+04/10/2023 A 03/10/2024
+10
+22/09/2025 A 01/10/2025
+6420
+LUIZ ANTONIO DE ANDRADE
+12/04/2023 A 11/04/2024
+10
+22/09/2025 A 01/10/2025
+4054
+MARCILENE BAESSE
+01/02/2023 A 31/01/2024
+20
+22/09/2025 A 11/10/2025
+835
+RICARDO DONIZETE DOS SANTOS
+01/07/2024 a 30/06/2025
+10
+22/09/2025 A 01/10/2025
+8982
+SABRINA DOS SANTOS COUTINHO
+17/06/2024 A 16/07/2025
+10
+22/09/2025 A 01/10/2025
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 22/09/2025.
+Ilhabela, 24 de novembro de 2025.
+JOSE CARLOS MACEDO
+Secretário Adjunto de Administração
+ALINE DE MATOS NAKA
+Supervisora de Apoio Administrativo e Gestão de Processos
+Registrado em livro próprio e publicado na data supra, no lugar de costume.
+DGP/ijsd/2025.

@@ -1,0 +1,103 @@
+---
+id: 2022844
+ref: ilh-2022-port-844
+tipo: portaria
+numero: 844
+ano: 2022
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 844, DE 20/12/2022"
+ementa: DISPÕE SOBRE A CONCESSÃO DE LICENÇA PRÊMIO AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 844/2022
+  - Portaria nº 844/2022
+  - Portaria 844
+  - Portaria nº 844
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022844"
+coletado_em: "2026-10-21"
+sha256_raw: c90f53bf00090f64019cd6ffcca4da7900647bc01f8a750fba77d3e11ef3e1ca
+versao_formato: "1.1"
+---
+PORTARIA Nº 844, DE 20/12/2022
+DISPÕE SOBRE A CONCESSÃO DE LICENÇA PRÊMIO AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 92, Seção X, parágrafo 1º
+,
+##### artigo 102 da Lei Municipal Complementar 1.326
+, datada em 26 de Outubro de 2018 e regida pelo
+Decreto 8.344/20
+, será concedido LICENÇA PRÊMO aos servidores relacionados abaixo.
+MATR.
+NOME
+PROC. A. D.
+PERIODO AQUISITIVO
+DIAS
+PERIODO DE GOZO
+9044
+ANGELICA CRISTIA SILVA BRITO
+5908/21
+(1º) 17/06/2015 A 07/02/2022
+45
+19/12/2022 A 01/02/2023
+9048
+FERNANDA BARBOSA DA SILVA
+6116/21
+(1º) 18/06/2015 A 09/02/2022
+30
+19/12/2022 A 17/01/2023
+4070
+HELCIO EDUARDO DE SOUZA
+10.670/22
+(2º) 01/02/2016 A 05/09/2022
+30
+19/12/2022 A 17/01/2023
+9098
+ISABELA SOUZA DA LUZ
+9291/20
+(1º) 02/07/2015 A 06/02/2022
+45
+19/12/2022 A 01/02/2023
+1143
+MARCIA OLIVEIRA DA LUZ
+15.085/19
+(3º) 30/03/2016 A 04/11/2022
+45
+19/12/2022 A 01/02/2023
+8954
+MARIA MARCOLINA DA SILVA CALIL
+5909/21
+(1º) 18/05/2015 A 22/01/2022
+30
+19/12/2022 A 17/01/2023
+8781
+MATHEUS AMARAL FREITAS
+4664/20
+(1º) 13/03/20/15 A 12/03/2020
+30
+19/12/2022 A 17/01/2023
+8289
+NURI CAMILA DE MORAIS SILVA
+5911/21
+(1º) 09/02/2015 A 14/05/2022
+30
+19/12/2022 A 17/01/2023
+8294
+SARA CRISTINA BARBOSA DOS SANTOS ALVES
+5401/20
+(1º) 09/02/2015 A 24/02/2020
+15
+19/12/2022 A 02/01/2023
+9213
+TAIS GALDINA DO NASCIMENTO
+10.632/20
+(1º) 08/09/2015 A 12/04/2022
+30
+19/12/2022 A 17/01/2023
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de
+19/12/2022.

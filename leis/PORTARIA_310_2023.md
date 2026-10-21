@@ -1,0 +1,95 @@
+---
+id: 2023310
+ref: ilh-2023-port-310
+tipo: portaria
+numero: 310
+ano: 2023
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 310, DE 10/03/2023"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 310/2023
+  - Portaria nº 310/2023
+  - Portaria 310
+  - Portaria nº 310
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023310"
+coletado_em: "2026-10-21"
+sha256_raw: c888b9c03d201f46552db4eb648dee646a37f3bc16064bdbf9672f378d669c14
+versao_formato: "1.1"
+---
+PORTARIA Nº 310, DE 10/03/2023
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+12307
+ADRIANA SOARES FERNANDES PEREIRA
+22/01/2021 A 21/01/2022
+15
+17/01/2023 A 31/01/2023
+1551
+ANTONIO GANASEVICI TEIXEIRA
+01/04/2019 A 26/04/2022
+20
+17/01/2023 A 05/02/2023
+6422
+ARMANDO FERREIRA COSTA FILHO
+24/06/2020 A 23/06/2021
+15
+17/01/2023 A 31/01/2023
+9037
+EVANDRO LUIZ DE SOUZA CONCEICAO
+16/06/2021 A 15/06/2022
+10
+17/01/2023 A 26/01/2023
+11053
+JOSEFA MARIA DOS SANTOS SOUZA
+03/10/2021 A 02/10/2022
+15
+17/01/2023 A 31/01/2023
+10795
+MARYENE HOLEY GIUNCO MACIEL
+19/06/2021 A 18/06/2022
+10
+17/01/2023 A 26/01/2023
+12084
+NILZETE RAMOS DOS SANTOS
+07/08/2021 A 06/08/2022
+15
+17/01/2023 A 31/01/2023
+8869
+PATRICIA FABIANA DA SILVA
+28/04/2021 A 27/04/2022
+15
+17/01/2023 A 31/01/2023
+10564
+SAMUEL SOLANO LOPES JUNIOR
+13/03/2021 A 12/03/2022
+20
+17/01/2023 A 05/02/2023
+5031
+SILVIA PINHEIRO DA SILVA
+01/03/2021 A 28/02/2022
+10
+17/01/2023 A 26/01/2023
+##### Art. 2º
+Registre-se, publique-se e cumpra-se, retroagindo seus efeitos a partir de
+17/01/2023.
+Ilhabela, 10 de março de 2023.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+JULIANA MENDES ALMEIDA
+Coordenadora de Planejamento e Recursos Humanos

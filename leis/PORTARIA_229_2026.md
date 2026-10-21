@@ -1,0 +1,99 @@
+---
+id: 2026229
+ref: ilh-2026-port-229
+tipo: portaria
+numero: 229
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 229, DE 12/03/2026"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 229/2026
+  - Portaria nº 229/2026
+  - Portaria 229
+  - Portaria nº 229
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026229"
+coletado_em: "2026-10-21"
+sha256_raw: "8cc00bfb67f4d8741d61915cb78d5cc26f26b8a070f730261162090120aefc3b"
+versao_formato: "1.1"
+---
+PORTARIA Nº 229, DE 12/03/2026
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+JOSE CARLOS MACEDO, Secretário Adjunto de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais.
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, foram concedidas
+FÉRIAS
+aos servidores relacionados abaixo:
+MATR.
+NOME
+PERÍODO AQUISITIVO
+DIAS
+PERÍODO DE FRUIÇÃO
+10566
+ADAO DIAS DURVAL
+16/09/2024 A 15/09/2025
+20
+16/01/2026 A 04/02/2026
+4225
+ADRIANA DE SOUZA GONÇALVES
+26/03/2024 A 25/03/2025
+20
+16/01/2026 A 04/02/2026
+1151
+ELIANE ALVES
+22/09/2024 A 21/09/2025
+15
+16/01/2026 A 30/01/2026
+12256
+JAILDA ALVES DA SILVA
+16/01/2024 A 15/01/2025
+25
+16/01/2026 A 30/01/2026
+7754
+JOANNA MOTA SANTOS DE OLIVEIRA
+17/12/2024 A 16/12/2025
+15
+16/01/2026 A 30/01/2026
+16163
+LEONARDO CORREA DIAS LABRIOLA
+20/01/2024 A 19/01/2025
+15
+16/01/2026 A 30/01/2026
+1580
+LILIAN CORDEIRO DA SILVA
+01/02/2024 A 31/01/2025
+10
+16/01/2026 A 25/01/2026
+16683
+MARIANA PEITL PAZIAN DE MIRANDA
+24/05/2024 A 23/05/2025
+20
+16/01/2026 A 04/02/2026
+16227
+RAFAELA CARDOSO
+20/03/2024 A 19/03/2025
+15
+16/01/2026 A 30/01/2026
+15299
+RENATA CHACON FERNANDES DA SILVA
+02/02/2024 A 01/02/2025
+10
+16/01/2026 A 25/01/2026
+5382
+TANIA CRISTINA FREITAS BARBOSA
+18/03/2023 A 17/03/2024
+15
+16/01/2026 A 30/01/2026
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos em 16/01/2026.
+Ilhabela, 12 de março de 2026.
+JOSE CARLOS MACEDO
+Secretário Adjunto de Administração
+ALINE DE MATOS NAKA
+Supervisora de Controle de Processos Funcionais

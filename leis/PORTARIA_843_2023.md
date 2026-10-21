@@ -1,0 +1,49 @@
+---
+id: 2023843
+ref: ilh-2023-port-843
+tipo: portaria
+numero: 843
+ano: 2023
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 843, DE 15/06/2023"
+ementa: "REVOGA A PORTARIA Nº 709, DE 03 DE MAIO DE 2023 E TORNA NULO O ATO DE POSSE PARA O CARGO DE PROVIMENTO EFETIVO DE MONITOR DE ALUNOS (PCD)."
+aliases:
+  - Portaria 843/2023
+  - Portaria nº 843/2023
+  - Portaria 843
+  - Portaria nº 843
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023843"
+coletado_em: "2026-10-11"
+sha256_raw: "28aec2dec891e7abc5a71208f0c4c43c1867f3af735d37df9a45103df2156525"
+versao_formato: "1.1"
+---
+PORTARIA Nº 843, DE 15/06/2023
+REVOGA A PORTARIA Nº 709, DE 03 DE MAIO DE 2023 E TORNA NULO O ATO DE POSSE PARA O CARGO DE PROVIMENTO EFETIVO DE MONITOR DE ALUNOS (PCD).
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso das suas atribuições conferidas pelo
+##### art. 84, inciso XXV, da Constituição Federal
+de 1988;
+Considerando que a posse em cargo público está condicionada à realização prévia de exame médico e psicotécnico, conforme o
+##### art. 11, §§ 5º e 6º, da Lei Complementar nº 1.326/2018
+(Estatuto dos Servidores Públicos do Município de Ilhabela);
+Considerando o disposto no
+##### art. 11, inciso II, do Decreto Municipal nº 9.483/2022
+(que regulamenta os procedimentos relativos à admissão de servidores por concurso público, nomeação de cargo em comissão e designação de função de confiança, e dá outras providências);
+RESOLVE:
+##### Art. 1º
+Fica revogada a
+Portaria nº 709
+, de 03 de maio de 2023 e torna nulo o ato de posse da candidata
+RAISSA PAULA OLIVEIRA SANTOS
+para o cargo de provimento efetivo de
+Monitor de Alunos (PCD) (03º Classificado)
+, em virtude do não comparecimento à realização prévia de exame médico e psicotécnico, em consonância com o disposto no
+##### art. 11, §§ 5º e 6º, da Lei Complementar nº 1.326/2018
+.
+##### Art. 2º
+Esta Portaria entra em vigor na data de sua publicação.
+Ilhabela, 15 de junho de 2023.
+ANTÔNIO LUIZ COLUCCI
+Prefeito Municipal

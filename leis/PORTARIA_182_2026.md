@@ -1,0 +1,45 @@
+---
+id: 2026182
+ref: ilh-2026-port-182
+tipo: portaria
+numero: 182
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 182, DE 05/03/2026"
+ementa: READAPTA PERMANENTEMENTE O SENHOR MARCONI DIAS GUIMARAES JUNIOR.
+aliases:
+  - Portaria 182/2026
+  - Portaria nº 182/2026
+  - Portaria 182
+  - Portaria nº 182
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026182"
+coletado_em: "2026-10-11"
+sha256_raw: e979f05e81f4804c7d32f36a519b9aca3c76c2946c2e47f05e8b317b0dd78d99
+versao_formato: "1.1"
+---
+PORTARIA Nº 182, DE 05/03/2026
+READAPTA PERMANENTEMENTE O SENHOR MARCONI DIAS GUIMARAES JUNIOR.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+CONSIDERANDO os atestados médicos apresentados pelos servidores públicos municipais, os quais foram submetidos às pericias medicas e os laudos comprovam a modificação do estado físico e das condições de saúde, diminuindo a eficiência nos cargos que ocupam;
+CONSIDERANDO o disposto no
+##### artigo 19 e parágrafos da Lei 1.326/2018
+(Dispõe Sobre O Estatuto Dos Servidores Públicos Municipais Do Município Da Estância Balneária De Ilhabela), que trata da readaptação de servidores;
+CONSIDERANDO que o integrante do cargo próprio deverá ser readaptado, para o quadro geral, nos termos da lei em vigor;
+CONSIDERANDO que o
+##### artigo 19 da Lei 1.326/2018
+(Dispõe Sobre O Estatuto Dos Servidores Públicos Municipais Do Município Da Estância Balneária De Ilhabela)
+parágrafo 3º e o artigo 37, inciso XV da constituição federal
+proíbem a redução dos vencimentos dos servidores públicos municipais;
+RESOLVE:
+##### Art.1º READAPTAR PERMANENTEMENTE
+o Senhor
+MARCONI DIAS GUIMARAES JUNIOR
+, Servidor Público, matrícula nº 9.219, cargo Agente Comunitário de Saúde, de acordo com decisão da Junta Médica Oficial, emitida em 13/02/2026.
+##### Art. 2º
+Registre-se, publique-se, cumpra-se, retroagindo seus efeitos a partir de 13/02/2026.
+Ilhabela, 05 de março de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal

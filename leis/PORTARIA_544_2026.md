@@ -1,0 +1,33 @@
+---
+id: 2026544
+ref: ilh-2026-port-544
+tipo: portaria
+numero: 544
+ano: 2026
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 544, DE 27/07/2026"
+ementa: "INFORMAR O RESULTADO DO PROCESSO ADMINISTRATIVO DISCIPLINAR SEI Nº 3520400.427.0000.6595/2025-23. INFORMA QUE O PROCESSO ADMINISTRATIVO DISCIPLINAR SEI Nº 3520400.427.0000.6595/2025-23, RESULTOU, PORTANTO, NA APLICAÇÃO DA PENALIDADE DE DEMISSÃO AO SERVIDOR DA MATRÍCULA 4.042, NOS TERMOS DO ARTIGO 117, INCISOS V E XIV, ALÍNEA D, DA LEI COMPLEMENTAR MUNICIPAL Nº 1.326/2018."
+aliases:
+  - Portaria 544/2026
+  - Portaria nº 544/2026
+  - Portaria 544
+  - Portaria nº 544
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026544"
+coletado_em: "2026-10-11"
+sha256_raw: ddb8c1ee5b83b42bb8f743f71059d90cf76d1cd8fbcc5a6f7dc848306ae5abff
+versao_formato: "1.1"
+---
+PORTARIA Nº 544, DE 27/07/2026
+INFORMAR O RESULTADO DO PROCESSO ADMINISTRATIVO DISCIPLINAR SEI Nº 3520400.427.0000.6595/2025-23. INFORMA QUE O PROCESSO ADMINISTRATIVO DISCIPLINAR SEI Nº 3520400.427.0000.6595/2025-23, RESULTOU, PORTANTO, NA APLICAÇÃO DA PENALIDADE DE DEMISSÃO AO SERVIDOR DA MATRÍCULA 4.042, NOS TERMOS DO ARTIGO 117, INCISOS V E XIV, ALÍNEA D, DA LEI COMPLEMENTAR MUNICIPAL Nº 1.326/2018.
+ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+Informa que o PROCESSO ADMINISTRATIVO DISCIPLINAR SEI Nº 3520400.427.0000.6595/2025-23, resultou, portanto, na aplicação da penalidade de
+DEMISSÃO
+ao servidor da matrícula 4.042, nos termos do
+##### artigo 117, incisos V e XIV, alínea d, da Lei Complementar Municipal nº 1.326/2018
+.
+Ilhabela, 27 de julho de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal

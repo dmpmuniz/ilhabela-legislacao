@@ -1,0 +1,87 @@
+---
+id: 20210329
+ref: ilh-2021-port-329
+tipo: portaria
+numero: 329
+ano: 2021
+cidade: Ilhabela
+estado: SP
+esfera: municipal
+status: em_vigor
+titulo: "PORTARIA Nº 329, DE 19/04/2021"
+ementa: DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DO MUNICÍPIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+aliases:
+  - Portaria 329/2021
+  - Portaria nº 329/2021
+  - Portaria 329
+  - Portaria nº 329
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210329"
+coletado_em: "2026-10-21"
+sha256_raw: "226bad4f8c8dcd5449a336a65f8fb8ea249adffdcc7c39e516664702c7d38ce1"
+versao_formato: "1.1"
+---
+PORTARIA Nº 329, DE 19/04/2021
+DISPÕE SOBRE A CONCESSÃO DE FÉRIAS AOS SERVIDORES DO MUNICÍPIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:
+RESOLVE:
+##### Art. 1º
+Nos termos do
+##### artigo 105, da Lei Municipal Complementar 1.326
+, datada em 26 de outubro de 2018, serão concedidas
+FÉRIAS
+aos servidores relacionados abaixo.
+MATR.
+NOME
+PERÍODO AQUISITIVO
+PERÍODO DE GOZO
+11234
+CHRISTIAN ALEX GAINO ALVES
+06/02/2020 A 05/02/2021
+23/03/2021 A 01/04/2021
+3905
+CLAUDETE RAFAEL DE SOUZA
+22/10/2019 A 06/11/2020
+23/03/2021 A 11/04/2021
+12062
+EDNA MARIA ALEXANDRE DE LUNA
+14/06/2019 A 13/06/2020
+23/03/2021 A 01/04/2021
+4037
+FRANCILEIDE VIANA DA SILVA SANT
+04/02/2017 A 29/12/2018
+23/03/2021 A 01/04/2021
+8546
+GISELE DOS SANTOS SAMPAIO VIEIR
+27/03/2019 A 26/03/2020
+23/03/2021 A 01/04/2021
+11057
+JOANA D ARC PEREIRA DOS SANTOS
+02/10/2019 A 01/10/2020
+23/03/2021 A 11/04/2021
+8990
+KARINA GALVAO MORATO SILVA
+21/05/2018 A 20/05/2019
+23/03/2021 A 10/04/2021
+8651
+LUIZ GUSTAVO DOS SANTOS COUTINHO
+23/02/2018 A 22/02/2019
+23/03/2021 A 01/04/2021
+12696
+MARIA SILVIA CANDIDA PESTANA
+16/05/2019 A 15/05/2020
+23/03/2021 A 31/03/2021
+12088
+ROZIMAR RAMOS PEREIRA
+04/09/2019 A 03/09/2020
+23/03/2021 A 21/04/2021
+12259
+TALITA MARTINS
+16/01/2019 A 15/01/2020
+23/03/2021 A 31/03/2021
+##### Art. 2º
+Registre-se, publique-se cumpra-se, retroagindo seus efeitos a partir de 23/03/2021.
+Ilhabela, 19 de abril de 2021.
+MAURICIO BURIZIK CALIL
+Secretário Municipal de Administração
+BARBARA SANTANA DO VALE
+Coordenador de Controle de Folha de Pagamento
