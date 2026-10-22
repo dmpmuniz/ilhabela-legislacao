@@ -1,1042 +1,11 @@
 # Legislação Municipal de Ilhabela/SP — parte 2 de 23
 
-Compilação de 35776 normas do portal oficial (Cespro), em ordem cronológica.
 Cada norma tem o título como cabeçalho, metadados (ref, status, ementa, fonte)
 e o texto integral com artigos marcados. Dividida em partes para respeitar o
 limite de 500 mil palavras por fonte do NotebookLM.
 
 AVISO: compilação gerada automaticamente — pode conter erros de conversão.
 Confira sempre a fonte oficial citada em cada norma.
-
----
-
-# LEI MUNICIPAL Nº 569, DE 02/12/1994
-
-> **Ref:** ilh-1994-lei-569 · **Tipo:** lei · **Ano:** 1994 · **Status:** revogada
-> **Ementa:** DISPÕE SOBRE O PAGAMENTO DE COMPLEMENTAÇÃO SALARIAL A SERVIDORES ESTADUAIS DA SAÚDE OU SIMILARES, MUNICIPALIZADOS POR EFEITO DO CONVÊNIO CELEBRADO ENTRE A PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA E A SECRETARIA DE ESTADO DA SAÚDE, DE CONFORMIDADE COM A LEI Nº 274/87 .
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940569
-
-LEI MUNICIPAL Nº 569, DE 02/12/1994
-DISPÕE SOBRE O PAGAMENTO DE COMPLEMENTAÇÃO SALARIAL A SERVIDORES ESTADUAIS DA SAÚDE OU SIMILARES, MUNICIPALIZADOS POR EFEITO DO CONVÊNIO CELEBRADO ENTRE A PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA E A SECRETARIA DE ESTADO DA SAÚDE, DE CONFORMIDADE COM A
-LEI Nº 274/87
-.
-(Revogada pela
-Lei Municipal nº 962
-, de 21.09.2000)
-ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, Estado de São Paulo, no uso de suas atribuições legais,
-Faço saber que a Câmara Municipal aprova e eu sanciono e promulgo a seguinte Lei:
-##### Art. 1º
-Os servidores estaduais da Saúde ou similares, municipalizados por efeito do Convênio SUDS, farão jus à complementação salarial, todas as vezes em que seus salários forem inferiores aos vencimentos pagos aos servidores municipais.
-##### Art. 2º
-Os Secretários Municipais da Saúde, Finanças e Planejamento e Gestão, adotarão as medidas necessárias, através de procedimentos legais, para que seja paga a complementação salarial.
-##### Art. 3º
-A complementação de que trata esta Lei, por sua natureza transitória eventual, não se incorporá, para qualquer efeito aos vencimentos dos servidores estaduais por ela atingidos, e não caracterizará vínculo empregatício ou funcional com a Prefeitura Municipal da Estância Balneária de Ilhabela.
-##### Art. 4º
-O pagamento da complementação salarial será feita de acordo com a equiparação funcional existente no Quadro da Prefeitura e ficará condicionado à apresentação junto a Secretaria Municipal de Finanças, a relação dos funcionários acompanhada das respectivas cópias dos holerites do mês correspondentes.
-Parágrafo único.
-A presente complementação cessará imediatamente em caso de renúncia do convênio por qualquer das partes.
-##### Art. 5º
-Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 29 de abril de 1988, revogadas as disposições em contrário.
-Ilhabela, 02 dezembro de 1994.
-ROBERTO FAZZINI
-Prefeito Municipal
-
----
-
-# LEI MUNICIPAL Nº 570, DE 07/12/1994
-
-> **Ref:** ilh-1994-lei-570 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
-> **Ementa:** AUTORIZA O EXECUTIVO MUNICIPAL A CUSTEAR DESPESAS COM A SEGURANÇA PÚBLICA MUNICIPAL, ATRAVÉS DOS ÓRGÃOS OFICIAIS EXISTENTES NO MUNICÍPIO.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940570
-
-LEI MUNICIPAL Nº 570, DE 07/12/1994
-AUTORIZA O EXECUTIVO MUNICIPAL A CUSTEAR DESPESAS COM A SEGURANÇA PÚBLICA MUNICIPAL, ATRAVÉS DOS ÓRGÃOS OFICIAIS EXISTENTES NO MUNICÍPIO.
-(vigência esgotada)
-FAÇO SABER QUE A CÂMARA MUNICIPAL MANTEVE E EU PROMULGO, NOS TERMOS DA
-LEI ORGÂNICA DO MUNICÍPIO DE ILHABELA
-, A SEGUINTE LEI:
-##### Art. 1º
-Fica autorizado o Executivo Municipal a custear até R$ 600,00 (seiscentos reais) mensais durante os meses de março à dezembro e R$ 900,00 (novecentos reais) nos meses de janeiro e fevereiro, para suprir despesas de alimentação com Segurança Pública e aluguel nos meses de janeiro e fevereiro, através dos órgãos oficiais a serviço no Município.
-Parágrafo único.
-Os valores de que trata o presente artigo, serão transformados em VRM - Valor de Referência Municipal, na data da publicação da presente Lei.
-##### Art. 2º
-As despesas decorrentes da presente Lei correrão por conta de verba própria, existente no orçamento Municipal.
-##### Art. 3º
-Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
-Sala "Ver. MANOEL CLEMENTINO BARBOSA".
-Ilhabela, 07 de dezembro de 1994.
-ELIAS CORRÊA SANTANA
-Presidente
-
----
-
-# LEI MUNICIPAL Nº 571, DE 16/12/1994
-
-> **Ref:** ilh-1994-lei-571 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
-> **Ementa:** DISPÕE SOBRE A PRORROGAÇÃO DE PRAZO DA POSSE DO CONSELHO TUTELAR.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940571
-
-LEI MUNICIPAL Nº 571, DE 16/12/1994
-DISPÕE SOBRE A PRORROGAÇÃO DE PRAZO DA POSSE DO CONSELHO TUTELAR.
-(vigência esgotada)
-ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
-Faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
-##### Art. 1º
-Fica prorrogado o prazo para a posse do Conselho Tutelar, fixado na
-Lei nº 559/94
-de 16 de agosto de 1994, para 24 de novembro do corrente ano, às 20,00 (vinte) horas em local a ser designado.
-##### Art. 2º
-Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
-Ilhabela, 16 de dezembro de 1994.
-ROBERTO FAZZINI
-Prefeito Municipal
-
----
-
-# LEI MUNICIPAL Nº 572, DE 16/12/1994
-
-> **Ref:** ilh-1994-lei-572 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
-> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÕES DE DOTAÇÕES ORÇAMENTÁRIAS.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940572
-
-LEI MUNICIPAL Nº 572, DE 16/12/1994
-DISPÕE SOBRE SUPLEMENTAÇÕES DE DOTAÇÕES ORÇAMENTÁRIAS.
-(vigência esgotada)
-ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
-Faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
-##### Art. 1º
-Ficam suplementadas as seguintes Dotações Orçamentárias constantes do Orçamento vigente:
-100.3111.00 - Pessoal Civil ............... R$ 10.000,00
-100.3120.00 - Material de Consumo ............... R$ 1.000,00
-100.3132.00 - Outros Serv. e Encargos ............... R$ 2.000,00
-100.3252.00 - Pensionistas ............... R$ 1.000,00
-202.3111.02 - Pessoal Civil ............... R$ 9.000,00
-202.3113.02 - Obrigações Patronais ............... R$ 3.500,00
-202.3120.02 - Material de Consumo ............... R$ 2.000,00
-202.3132.02 - Outros Serv. e Encargos ............... R$ 2.000,00
-229.3120.29 - Material de Consumo ............... R$ 300,00
-356.3111.56 - Pessoal Civil ............... R$ 1.000,00
-356.3132.56 - Outros Serv. e Encargos ............... R$ 1.000,00
-356.4110.56 - Obras e Instalações ............... R$ 50.000,00
-386.3111.86 - Pessoal Civil ............... R$ 2.500,00
-386.3113.86 - Obrigações Patronais ............... R$ 500,00
-386.3120.86 - Material de Consumo ............... R$ 300,00
-386.3132.86 - Outros Serv. e Encargos ............... R$ 300,00
-483.3111.83 - Pessoal Civil ............... R$ 5.500,00
-483.3113.83 - Obrigações Patronais ............... R$ 1.500,00
-483.3120.83 - Material de Consumo ............... R$ 2.000,00
-483.3132.83 - Outros Serv. e Encargos ............... R$ 1.500,00
-483.3132.83 - Outros Serv. e Encargos ............... R$ 400,00
-483.3231.83 - Subvenções Sociais ............... R$ 3.000,00
-509.3111.09 - Pessoal Civil ............... R$ 12.500,00
-509.3113.09 - Obrigações Patronais ............... R$ 5.200,00
-509.3120.09 - Material de Consumo ............... R$ 10.000,00
-509.3132.09 - Outros Serv. e Encargos ............... R$ 8.000,00
-509.3192.09 - Despesas Exerc. Anteriores ............... R$ 10.000,00
-509.3152.09 - Pensionistas ............... R$ 2.500,00
-526.3120.26 - Material de Consumo ............... R$ 300,00
-526.3132.26 - Outros Serv. e Encargos ............... R$ 300,00
-556.3111.56 - Pessoal Civil ............... R$ 12.000,00
-556.3113.56 - Obrigações Patronais ............... R$ 3.000,00
-556.3120.56 - Material de Consumo ............... R$ 1.000,00
-619.3111.19 - Pessoal Civil ............... R$ 9.500,00
-619.3113.19 - Obrigações Patronais ............... R$ 2.200,00
-619.3132.19 - Outros Serv. e Encargos ............... R$ 2.000,00
-721.3111.21 - Pessoal Civil ............... R$ 13.000,00
-721.3113.21 - Obrigações Patronais ............... R$ 3.500,00
-721.3120.21 - Material de Consumo ............... R$ 2.000,00
-721.3132.21 - Outros Serv. e Encargos ............... R$ 1.000,00
-731.3111.31 - Pessoal Civil ............... R$ 14.000,00
-731.3113.31 - Obrigações Patronais ............... R$ 4.000,00
-731.3120.31 - Material de Consumo ............... R$ 2.000,00
-731.3132.31 - Outros Serv. e Encargos ............... R$ 2.000,00
-731.4110.31 - Obras e Instalações ............... R$ 5.000,00
-731.4110.31 - Obras e Instalações ............... R$ 5.000,00
-751.3132.51 - Outros Serv. e Encargos ............... R$ 3.600,00
-972.3111.72 - Pessoal Civil ............... R$ 25.000,00
-972.3113.72 - Obrigações Patronais ............... R$ 7.700,00
-972.3120.72 - Material de Consumo ............... R$ 4.000,00
-972.3132.72 - Outros Serv. e Encargos ............... R$ 14.000,00
-1045.3111.45 - Pessoal Civil ............... R$ 13.000,00
-1045.3113.45 - Obrigações Patronais ............... R$ 4.000,00
-1111.3111.11 - Pessoal Civil ............... R$ 16.000,00
-1111.3113.11 - Obrigações Patronais ............... R$ 4.800,00
-1121.3111.21 - Pessoal Civil ............... R$ 12.000,00
-1121.3113.21 - Obrigações Patronais ............... R$ 4.000,00
-1131.3132.31 - Outros Serv. e Encargos ............... R$ 11.000,00
-1141.3111.41 - Pessoal Civil ............... R$ 1.000,00
-1141.3113.41 - Obrigações Patronais ............... R$ 500,00
-1151.3132.51 - Outros Serv. e Encargos ............... R$ 500,00
-TOTAL A SUPLEMENTAR ............... R$ 351.400,00
-##### Art. 2º
-A cobertura da suplementação de que trata o artigo anterior, será efetuada com a utilização do excesso de arrecadação a verificar-se no corrente Exercício.
-##### Art. 3º
-Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos jurídicos em 31 de outubro de 1994, revogadas as disposições em contrário.
-Ilhabela, 16 de dezembro de 1994.
-ROBERTO FAZZINI
-Prefeito Municipal
-
----
-
-# LEI MUNICIPAL Nº 573, DE 16/12/1994
-
-> **Ref:** ilh-1994-lei-573 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
-> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÕES ORÇAMENTÁRIAS.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940573
-
-LEI MUNICIPAL Nº 573, DE 16/12/1994
-DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÕES ORÇAMENTÁRIAS.
-(vigência esgotada)
-ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
-Faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
-##### Art. 1º
-Ficam suplementadas as seguintes Dotações Orçamentárias constantes do Orçamento vigente:
-100.3111.00 - Pessoal Civil ............... 9.500,00
-100.3132.00 - Outros Serv. e Encargos ............... 1.500,00
-100.3152.00 - Pensionistas ............... 773,07
-202.3111.02 - Pessoal Civil ............... 24.000,00
-202.3113.02 - Obrigações Patronais ............... 3.000,00
-202.3120.02 - Material de Consumo ............... 2.000,00
-202.3132.02 - Outros Serv. e Encargos ............... 1.000,00
-202.4120.02 - Equip. Mat. Permanente ............... 200,00
-229.3120.29 - Material de Consumo ............... 500,00
-356.3111.56 - Pessoal Civil ............... 7.000,00
-356.3113.56 - Obrigações Patronais ............... 2.000,00
-356.3120.56 - Material de Consumo ............... 1.000,00
-356.3132.56 - Outros Serv. e Encargos ............... 1.000,00
-386.3111.86 - Pessoal Civil ............... 10.000,00
-386.3113.86 - Obrigações Patronais ............... 3.000,00
-386.3120.86 - Material de Consumo ............... 500,00
-386.3132.86 - Outros Serv. e Encargos ............... 800,00
-483.3111.83 - Pessoal Civil ............... 10.000,00
-483.3113.83 - Obrigações Patronais ............... 2.500,00
-483.3120.83 - Material de Consumo ............... 2.500,00
-483.3132.83 - Outros Serv. e Encargos ............... 2.000,00
-483.3231.83 - Subvenções Sociais ............... 3.500,00
-483.3280.83 - Contribuição p/Pasep ............... 1.000,00
-483.3280.83 - Contribuição p/Pasep ............... 11.000,00
-509.3111.09 - Pessoal Civil ............... 30.000,00
-509.3113.09 - Obrigações Patronais ............... 6.000,00
-509.3120.09 - Material de Consumo ............... 15.000,00
-509.3132.09 - Outros Serv. e Encargos ............... 15.000,00
-509.3192.09 - Desp. dos Exerc. Anteriores ............... 15.000,00
-509.3252.09 - Pensionistas ............... 3.000,00
-509.4120.09 - Equip. e Mat. Permanente ............... 1.600,00
-526.3132.26 - Outros Serv. e Encargos ............... 200,00
-556.3111.56 - Pessoal Civil ............... 27.000,00
-556.3113.56 - Obrigações Patronais ............... 7.000,00
-556.3120.56 - Material de Consumo ............... 15.000,00
-556.3132.56 - Outros Serv. e Encargos ............... 5.000,00
-619.3111.19 - Pessoal Civil ............... 20.000,00
-619.3113.19 - Obrigações Patronais ............... 5.000,00
-619.3120.19 - Material de Consumo ............... 5.000,00
-619.3132.19 - Outros Serv. e Encargos ............... 15.000,00
-721.3111.21 - Pessoal Civil ............... 30.000,00
-721.3113.21 - Obrigações Patronais ............... 10.000,00
-721.3120.21 - Material de Consumo ............... 10.000,00
-721.3120.21 - Material de Consumo M. Escolar ............... 20.000,00
-721.3132.21 - Outros Serv. e Encargos ............... 10.000,00
-721.4120.21 - Equip. Mat. Permanente ............... 30.000,00
-731.3111.31 - Pessoal Civil ............... 40.000,00
-731.3113.31 - Obrigações Patronais ............... 12.000,00
-731.3120.31 - Material de Consumo ............... 15.000,00
-731.3120.31 - Mat. de Cons. - M. Escolar ............... 30.000,00
-731.3132.31 - Outros Serv. e Encargos ............... 20.000,00
-731.4110.31 - Obras e Instalações ............... 50.000,00
-731.4120.31 - Equip. e Mat. Permanente ............... 100.000,00
-972.3111.72 - Pessoal Civil ............... 50.000,00
-972.3113.72 - Obrigações Patronais ............... 15.000,00
-972.3120.72 - Material de Consumo ............... 8.000,00
-972.3132.72 - Outros Serv. e Encargos ............... 15.000,00
-1045.3111.45 - Pessoal Civil ............... 22.000,00
-1045.3113.45 - Obrigações Patronais ............... 6.000,00
-1111.3111.11 - Pessoal Civil ............... 35.000,00
-1111.3113.11 - Obrigações Patronais ............... 11.000,00
-1111.3120.11 - Material de Consumo ............... 5.000,00
-1111.3132.11 - Outros Serv. e Encargos ............... 5.000,00
-1111.4110.11 - Obras e Instalações ............... 50.000,00
-1121.3111.21 - Pessoal Civil ............... 20.000,00
-1121.3113.21 - Obrigações Patronais ............... 4.000,00
-1121.3120.21 - Material de Consumo ............... 2.000,00
-1131.3132.31 - Outros Serv. e Encargos ............... 15.000,00
-1141.3111.41 - Pessoal Civil ............... 6.000,00
-1141.3113.41 - Obrigações Patronais ............... 1.500,00
-1141.3120.41 - Material de Consumo ............... 1.000,00
-TOTAL A SUPLEMENTAR ............... 933.573,07
-##### Art. 2º
-A cobertura da suplementação de que trata o artigo anterior, será efetuada com a utilização do excesso de arrecadação a verificar-se no corrente Exercício.
-##### Art. 3º
-Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos jurídicos em 01 de dezembro de 1994, revogadas as disposições em contrário.
-Ilhabela, 16 de dezembro de 1994.
-ROBERTO FAZZINI
-Prefeito Municipal
-
----
-
-# LEI MUNICIPAL Nº 574, DE 26/12/1994
-
-> **Ref:** ilh-1994-lei-574 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
-> **Ementa:** ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE ILHABELA, PARA O EXERCÍCIO DE 1995.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940574
-
-LEI MUNICIPAL Nº 574, DE 26/12/1994
-ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE ILHABELA, PARA O EXERCÍCIO DE 1995.
-(vigência esgotada)
-ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
-Faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
-##### Art. 1º
-O Orçamento Fiscal do Município de Ilhabela, para o exercício financeiro de 1995, discriminado pelos anexos integrantes desta Lei, estima a RECEITA e fixa a DESPESA em R$ 13.500.000,00 (treze milhões e quinhentos mil reais).
-##### Art. 2º
-A RECEITA será realizada mediante a arrecadação dos tributos, rendas e outras receitas correntes e de capital na forma da Legislação em vigor, e das especificações constantes do
-Anexo 2, da Lei nº 4.320/64
-, com o seguinte Desdobramento:
-01. - RECEITAS CORRENTES ............... 13.076.910,00
-11.- Receita Tributária ............... 6.098.220,00
-13.- Receita Patrimonial ............... 22.950,00
-16.- Receita de Serviços ............... 157.950,00
-17.- Transf. Correntes ............... 5.959.440,00
-19.- Outras Rec. Correntes ............... 838.350,00
-02. - RECEITAS DE CAPITAL ............... 423.090,00
-21.- Operações de crédito ............... 67.500,00
-22.- Alien. de Bens ............... 2.790,00
-24.- Transf. de Capital ............... 352.710,00
-25.- Outras Rec. de Capital ............... 90,00
-TOTAL DA RECEITA ............... 13.500.000,00
-##### Art. 3º
-A DESPESA será realizada segundo a discriminação dos quadros "Programa de Trabalho" e "Natureza de Despesa", que apresenta o seguinte Desdobramento:
-I -
-POR FUNÇÕES DE GOVERNO:
-01.- Legislativa ............... 360.000,00
-05.- Adm. e Planejamento ............... 2.997.000,00
-05.- Comunicações ............... 13.500,00
-06.- Defesa Nac. e Seg. Pública ............... 27.000,00
-03.- Educação e Cultura ............... 2.880.000,00
-03.- Habit. e Urbanismo ............... 3.248.100,00
-11.- Ind. Com. e Serviços ............... 342.900,00
-13.- Saúde e Saneamento ............... 2.371.500,00
-15.- Assist. e Previdência ............... 585.000,00
-16.- Transportes ............... 675.000,00
-TOTAL DE DESPESA ............... 13.500.000,00
-II -
-POR PROGRAMAS:
-01.- Proc. Legislativo ............... 360.000,00
-07.- Administração ............... 2.052.000,00
-08.- Adm. Finanças ............... 945.000,00
-22.- Telecomunicações ............... 13.500,00
-28.- Defesa Terrestre ............... 27.000,00
-41.- Educação da Criança de 0 à 6 anos ............... 873.000,00
-42.- Ensino Fundamental ............... 1.467.000,00
-45.- Ensino Supletivo ............... 13.500,00
-46.- Educação Física e Desportos ............... 283.500,00
-47.- Assistência a Educandos ............... 153.000,00
-48.- Difusão Cultural ............... 90.000,00
-58.- Urbanismo ............... 1.890.000,00
-60.- Serv. de Utilidade Pública ............... 1.358.100,00
-65.- Turismo ............... 352.900,00
-75.- Saúde e Saneamento ............... 1.800.000,00
-77.- Proteção ao M. Amb. ............... 571.500,00
-81.- Assistência ............... 450.000,00
-82.- Previdência ............... 135.000,00
-88.- Transp. Rodoviário ............... 675.000,00
-TOTAL DE DESPESA ............ 13.500.000,00
-III -
-POR CATEGORIAS ECONÔMICAS:
-Despesas Correntes ................ 9.629.685,00
-Despesas de Capital ................ 3.870.315,00
-TOTAL DE DESPESA ............ 3.500.000,00
-IV -
-POR órgãos DA ADMINISTRAÇÃO
-PODER LEGISLATIVO
-100.- Câmara Municipal ............... 360.000,00
-PODER EXECUTIVO
-200.- Executivo ............... 729.000,00
-300.- Secret. de Turismo, Esp. e Lazer ............... 612.900,00
-400.- Secretaria de Ação Social ............... 450.000,00
-500.- Secretaria de Planej. e Gestão ............... 2.038.500,00
-600.- Secretaria de Finanças ............... 1.080.000,00
-700.- Secretaria de Educação ............... 2.520.000,00
-800.- Secretaria da Cultura ............... 90.000,00
-900.- Secretaria de Saúde ............... 1.800.000,00
-1.000.- Secretaria do Meio Ambiente ............... 571.500,00
-1.100.- Secretaria de Obras ............... 3.248.100,00
-TOTAL DE DESPESA .............. 13.500.000,00
-##### Art. 4º
-O Orçamento de Seguridade Social do Município estima a receita e fixa a Despesa em R$ 2.385.000,00, assim discriminados:
-01.- Saúde ................ 1.800.000,00
-02.- Previdência .............. 135.000,00
-03.- Assistência Social ............. 450.000,00
-TOTAL DE DESPESA ............. 2.385.000,00
-##### Art. 5º
-O Poder Executivo está autorizado a abrir créditos suplementares, no Orçamento da Despesa, nos termos do
-##### artigo 43, 1º, Inciso III, da Lei nº 4.320/64
-.
-##### Art. 6º
-Fica o Poder Executivo autorizado a abrir créditos suplementares, até o limite de 60% (sessenta por cento) do orçamento da despesa, nos termos do
-##### artigo 7º da Lei nº 4.320/64
-.
-##### Art. 7º
-O Poder Executivo está autorizado a realizar operações do crédito por antecipação da receita, até o limite de 10% (dez por cento) da receita, nos termos da Legislação em vigor.
-##### Art. 8º
-Esta Lei entrará em vigor na data de 1º (primeiro) de janeiro de 1995, revogadas as disposições em contrário.
-Ilhabela, 26 de dezembro de 1994.
-ROBERTO FAZZINI
-Prefeito Municipal
-
----
-
-# LEI MUNICIPAL Nº 575, DE 30/09/1994
-
-> **Ref:** ilh-1994-lei-575 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
-> **Ementa:** INSTITUI A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 1995 E DÁ OUTRAS PROVIDÊNCIAS.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940575
-
-LEI MUNICIPAL Nº 575, DE 30/09/1994
-INSTITUI A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 1995 E DÁ OUTRAS PROVIDÊNCIAS.
-(vigência esgotada)
-ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são concedidas por Lei,
-Faz saber que a Câmara Municipal aprova e eu sanciono e promulgo a seguinte Lei:
-##### Art. 1º
-A apuração do valor venal para efeito de lançamento do Imposto Predial e Territorial Urbano para o Exercício de 1995, será feita de acordo com a planta genérica de valores integrante da presente lei e de acordo com as normas e métodos nela fixados.
-Parágrafo único.
-A planta genérica de valores compõem-se de logradouros Públicos integrantes de determinada região do Município, nela constando os valores atribuídos ao metro quadrado dos terrenos neles localizados e explicitados na TABELA I que acompanha a presente lei.
-##### Art. 2º
-Para efeito de lançamento do Imposto Predial e Territorial Urbano para o exercício de 1995, considerar-se-á ocorrido o seu fato gerador no dia primeiro de janeiro desse ano.
-##### Art. 3º
-A apuração do valor venal dos terrenos será feita mediante a multiplicação de sua área pelo valor unitário do metro quadrado constante da TABELA I, aplicados, em ocorrendo a hipótese, os fatores de correção previstos nas TABELAS II e III que acompanham a presente lei.
-Parágrafo único.
-Nos casos singulares de lotes particularmente desvalorizados em virtude de formas extravagantes de conformações topográficas muito desfavoráveis, ou pela passagem de córregos, ou ainda, pela sua sujeição a inundações periódicas, bem como fatores inesperados, onde a aplicação das normas instituídas nesta Lei possa conduzir a avaliação injusta terão seus valores recalculados, para maior ou menor, observadas as características do imóvel.
-##### Art. 4º
-Os valores unitários para o metro quadrado de terrenos explicitados na TABELA I, correspondem, em VRM ao metro quadrado do lote padrão, adotada a profundidade mínima de 30 (trinta) metros.
-§ 1º
-A influência do fator profundidade será obtida mediante a aplicação da TABELA II.
-§ 2º
-Para apuração da profundidade equivalente dos terrenos de esquina, será adotada a testada que possibilite o melhor aproveitamento da área, exceção feita àqueles ocupados por construção, para os quais a profundidade equivalente do lote de esquina será encontrada em função da testada que constitua a frente efetiva do imóvel.
-##### Art. 5º
-Para os efeitos de avaliação consideram-se de esquina os lotes em que tenham frente para duas ou mais vias públicas.
-Parágrafo único.
-Consideram-se também de esquina os lotes que tenham duas faces voltadas para a mesma via pública, desde que 35% (trinta e cinco por cento) do somatório do perímetro do lote estejam voltados para via pública.
-##### Art. 6º
-Os terrenos com acesso inferior a três metros, terão o seu valor calculado pelo logradouro que lhe dá acesso, com desconto de trinta por cento.
-Parágrafo único.
-O disposto neste artigo não se aplica aos condomínios ou loteamentos fechados.
-##### Art. 7º
-O FATOR GLEBA será apurado aplicando-se ao valor do metro quadrado estabelecido pelo CÓDIGO do logradouro público para o qual o imóvel faz frente, os fatores constantes da TABELA III que acompanha a presente lei.
-##### Art. 8º
-Os terrenos localizados em logradouro que não conste da TABELA I, terão seus valores fixados de acordo com o valor nela estabelecido para o logradouro dele mais próximo.
-##### Art. 9º
-O valor venal do imóvel em que haja construção, será obtido pela conjugação do valor do terreno constante da TABELA I, com os valores dos padrões de construção explicitados nas TABELAS IV, V e VI.
-##### Art. 10.
-O montante da área construída será encontrado pela medição dos contornos externos das paredes ou pilares, computadas também as superfícies denominadas terraços cobertos, piscinas, quadras de esporte e áreas externas cobertas de cada pavimento.
-Parágrafo único.
-Para a obtenção da área construída serão consideradas todas as construções nos terrenos existentes e, classificadas conforme as características especificadas nas TABELAS que acompanham a presente lei.
-##### Art. 11.
-Para determinação do valor unitário do metro quadrado das construções, aplicar-se-á o padrão da Tabela na qual estejam presentes a maioria de suas características.
-Parágrafo único.
-Quando o imóvel se enquadrar em mais de um padrão, será apurado o preço médio que prevalecerá para fixação do valor venal do metro quadrado.
-##### Art. 12.
-Aos imóveis que contarem dez ou mais anos de idade, terão seus valores depreciados pela aplicação dos fatores consignados na TABELA VII, com base na data em que o mesmo passou a ser tributado.
-Parágrafo único.
-O disposto no "caput" deste artigo não se aplica aos prédios que tiverem as suas características originais alteradas em virtude de melhoria ou reforma.
-##### Art. 13.
-Das notificações do Imposto Predial e Territorial Urbano, deverá constar obrigatoriamente além da individualização do imóvel, os valores expressos em VRM do terreno, do prédio, das taxas, acréscimos, depreciação, descontos: valor para pagamento integral e das parcelas, data de vencimento e o enquadramento do imóvel no Código e Tabela respectiva, vedada qualquer outra inserção não relacionada ao imóvel, convertendo-se o valor venal em moeda corrente nacional, na data da ocorrência do fato gerador que correspondente a 1º de janeiro de 1995.
-Parágrafo único.
-A entrega obrigatória do carnê ao contribuinte ou a seu preposto se dará até o dia 10 de fevereiro de 1995 mediante recibo, com menção do dia, mês e ano, cuja data será gravada no carnê, desobrigando o contribuinte do pagamento de quaisquer acréscimos, se a entrega ocorrer após a data estipulada.
-##### Art. 14.
-Fica concedida isenção de imposto predial e territorial urbano - IPTU, a todos os cidadãos aposentados e pensionistas que percebam a este título renda de até 02 (dois) salários mínimos, mensalmente, que possuam comprovadamente um único imóvel residencial no município de Ilhabela há mais de 02 (dois) anos e que seja destinado para uso próprio.
-Parágrafo único.
-O cidadão beneficiado pelo "caput" deste artigo deverá dar entrada com requerimento na Prefeitura Municipal, solicitando a concessão do mesmo. Para tanto, apresentando no ato cópia do carnê do IPTU e declaração comprovando ser possuidor de um único imóvel residencial destinado a uso próprio, como também de certidão ou comprovante de sua aposentadoria ou pensão por órgão Federal, Estadual ou Municipal.
-##### Art. 15.
-Nos casos em que os custos operacionais de lançamento superarem as receitas a serem arrecadadas, fica o Poder Executivo autorizado a não efetuar o respectivo lançamento.
-##### Art. 16.
-A presente Lei entrará em vigor à partir de 01 de janeiro de 1995, revogadas as disposições em contrário, e em especial a
-Lei nº 525
-de 26 de novembro de 1993.
-Ilhabela, 30 de setembro de 1994.
-ROBERTO FAZZINI
-Prefeito Municipal
-TABELA I
-CÓDIGO DE VALORES DOS TERRENOS
-(por metro quadrado) calculado para 01/01/95
-CÓDIGOS
-VALORES (V.R.M.)
-01
-0.8392
-02
-0.9264
-03
-1.0228
-04
-1.1292
-05
-1.2466
-06
-1.3762
-07
-1.5194
-08
-1.6774
-09
-1.8518
-10
-2.0444
-11
-2.2570
-12
-2.4918
-13
-2.7509
-14
-3.0370
-15
-3.3528
-16
-3.7015
-17
-4.0865
-18
-4.5115
-19
-4.9807
-20
-5.4987
-21
-6.0705
-22
-6.7019
-23
-7.3989
-24
-8.1683
-25
-9.0178
-26
-9.9557
-27
-10.9911
-28
-12.1342
-29
-13.3961
-30
-14.7893
-TABELA CÓDIGO DE LOGRADOUROS
-BAIRRO
-LOGRADOURO
-CÓDIGOS
-ÁGUA BRANCA
-A RUA
-8
-ÁGUA BRANCA
-ANA ASCENÇÃO DE JESUS, RUA
-9
-ÁGUA BRANCA
-ANTONIO BERNARDO DE MOURA, RUA
-10
-ÁGUA BRANCA
-ASSIS LÍDIO DO NASCIMENTO, RUA
-8
-ÁGUA BRANCA
-BENEDITO BENTO DE SOUZA, RUA
-10
-ÁGUA BRANCA
-BENEDITO GARCEZ, RUA
-10
-ÁGUA BRANCA
-BENEDITO PEDRO DOS SANTOS, RUA
-9
-ÁGUA BRANCA
-BENEDITO SAMPAIO DE OLIVEIRA, RUA
-10
-ÁGUA BRANCA
-BENEDITO WENCESLAU DE JESUS, RUA
-12
-ÁGUA BRANCA
-CEL. JOSÉ VICENTE DE FARIA LIMA, AV. (DA R LEOLINO CLE. BARBOSA AO FIM)
-7
-ÁGUA BRANCA
-CEL JOSÉ VICENTE FARIA LIMA, AV.
-13
-ÁGUA BRANCA
-CINCO, RUA (VILA SÃO JOSÉ)
-10
-ÁGUA BRANCA
-CRISPIM DIAS PINTO, RUA
-9
-ÁGUA BRANCA
-ERNESTO DE OLIVEIRA, AV. (DA AV. FARIA LIMA ATÉ R MARCELINO RODRIGUES DOS SANTOS)
-14
-ÁGUA BRANCA
-ERNESTO DE OLIVEIRA, AV. (DA R CRISPIM DIAS PINTO ATÉ R GERSON PERES DE ARAUJO)
-14
-ÁGUA BRANCA
-ERNESTO DE OLIVEIRA, AV. (DA R MARCELINO ROD. DOS SANTOS ATÉ R CRISPIM DIAS PINTO)
-15
-ÁGUA BRANCA
-ERNESTO DE OLIVEIRA, TRAV.
-12
-ÁGUA BRANCA
-EUGÊNIO ASTORGA GALLEGO, RUA
-10
-ÁGUA BRANCA
-EXCETO LOGRADOUROS
-10
-ÁGUA BRANCA
-FABIANA DE ANDRADE, RUA
-8
-ÁGUA BRANCA
-FRANCISCO MIGUEL DOS SANTOS, TRAV.
-10
-ÁGUA BRANCA
-JOSÉ BONIFÁCIO, RUA
-13
-ÁGUA BRANCA
-JOSÉ ESTEVES RODRIGUES, RUA
-8
-ÁGUA BRANCA
-JUNDIÁ, RUA
-10
-ÁGUA BRANCA
-LEOLINO CLEMENTINO BARBOSA, RUA
-10
-ÁGUA BRANCA
-LEOVALDO BARBOSA DOS SANTOS, RUA
-8
-ÁGUA BRANCA
-LUIZ AGOSTINHO SAMPAIO GARCIA, RUA
-12
-ÁGUA BRANCA
-MANOEL CLEMENTINO BARBOSA, RUA
-10
-ÁGUA BRANCA
-MARCELINO RODRIGUES DOS SANTOS, RUA
-10
-ÁGUA BRANCA
-MARIA RITA DA FONSECA, RUA
-10
-ÁGUA BRANCA
-SÃO JOSÉ, RUA
-10
-ÁGUA BRANCA
-VEREADOR EUCLIDES JOSÉ DOS SANTOS, RUA
-13
-ÁGUA BRANCA
-VILA SÃO JOSÉ (LOTEAMENTOS)
-10
-ANTONIOS
-PERIMETRAL NORTE, (DA ESTRADA PARA AS VERTENTES)
-9
-ANTONIOS
-PERIMETRAL NORTE, (DA ESTRADA PARA O MAR)
-15
-AREADO
-FAZENDA DO AREADO
-2
-ARMAÇÃO
-ESTRADA DA TORRE
-22
-ARMAÇÃO
-EXCETO LOGRADOUROS
-9
-ARMAÇÃO
-SP 131 (PARA O CENTRO DA ILHA)
-15
-ARMAÇÃO
-SP 131 (PARA O MAR)
-28
-ARROZAL
-DONA ALBERTINA BARROS SILVA, AV.
-16
-ARROZAL
-EXCETO LOGRADOUROS
-12
-ARROZAL
-LEONARDO REALE, AV. (PARA AS VERTENTES)
-15
-ARROZAL
-LEONARDO REALE, AV. (PARA O MAR)
-27
-BALEIA
-EXCETO LOGRADOUROS
-2
-BARRA VELHA
-ACRE, RUA
-6
-BARRA VELHA
-AÇUDE, RUA DO
-7
-BARRA VELHA
-ALAGOAS, RUA
-12
-BARRA VELHA
-ALAN KARDEK, PRAÇA
-13
-BARRA VELHA
-AMAZONAS, RUA
-6
-BARRA VELHA
-ANTONIO CARLOS AIRES DA FÉ, RUA
-9
-BARRA VELHA
-BAHIA, RUA
-9
-BARRA VELHA
-BARRA VELHA, BAIRRO - GLEBA 1
-12
-BARRA VELHA
-BARRA VELHA, BAIRRO - GLEBA 2
-10
-BARRA VELHA
-BARRA VELHA, BALNEÁRIO 792 LANÇAMENTOS OBS. CÓDIGOS DIVERSOS
-12
-BARRA VELHA
-BARRA VELHA, JARDIM
-9
-BARRA VELHA
-BARRA VELHA, RUA
-10
-BARRA VELHA
-BENEDITO DOS ANJOS SAMPAIO, RUA
-10
-BARRA VELHA
-BENEDITO MARIANO LEITE, RUA
-8
-BARRA VELHA
-BOA VISTA, RUA
-7
-BARRA VELHA
-BRASIL, AV. (DA AV. PRINCESA ISABEL ATÉ A R. SERGIPE)
-19
-BARRA VELHA
-BRASIL, AV. (ROTATÓRIA ATÉ RIACHUELO)
-22
-BARRA VELHA
-BRASÍLIA, RUA
-8
-BARRA VELHA
-CACHOEIRA, RUA DA
-5
-BARRA VELHA
-CAMARÃO, ESTRADA DO
-7
-BARRA VELHA
-CAMARÃO, TRAV. DO
-7
-BARRA VELHA
-CAMINHO DA PRAIA, RUA
-15
-BARRA VELHA
-CAMINHO DO PEREQUE
-14
-BARRA VELHA
-CARIJOS, RUA
-9
-BARRA VELHA
-CARIJOS, RUA COLINA DOS
-9
-BARRA VELHA
-CARIJOS, RUA DOS (DA RUA VISTA ALEGRE AO FINAL)
-12
-BARRA VELHA
-CARIJOS, RUA DOS - ATÉ RUA VISTA ALEGRE
-7
-BARRA VELHA
-CARIJOS, TRAV DA RUA - R 303
-5
-BARRA VELHA
-CARLOS ANDRADE RIZZINI, RUA
-15
-BARRA VELHA
-CEARÁ, RUA
-7
-BARRA VELHA
-DEOLINO MARIANO LEITE, RUA
-6
-BARRA VELHA
-DIMAS BERALDO DA SILVA, RUA
-8
-BARRA VELHA
-ENCONTRO COM A NATUREZA, RUA
-7
-BARRA VELHA
-ESPÍRITO SANTO, RUA
-15
-BARRA VELHA
-FERNANDO DE NORONHA, RUA
-8
-BARRA VELHA
-FLORENTINO GARCIA VIEIRA NETO, RUA
-12
-BARRA VELHA
-GARCIA, RUA DO
-6
-BARRA VELHA
-GERSON PERES DE ARAÚJO, RUA
-14
-BARRA VELHA
-GIRASSOIS, RUA DOS
-12
-BARRA VELHA
-GOIÁS, RUA
-12
-BARRA VELHA
-IDALINA RODRIGUES CARVALHO, RUA
-6
-BARRA VELHA
-IMPERADOR, RUA - TESOURO DA COLINA
-12
-BARRA VELHA
-ISABEL, AV. PRINCESA - (DO CÓRREGO ÁGUA BRANCA ATÉ O FERRY BOAT)
-20
-BARRA VELHA
-ISAIAS COELHO DA SILVA, RUA
-5
-BARRA VELHA
-J, RUA - JARDIM BARRA VELHA - LOTEAMENTO
-6
-BARRA VELHA
-JOÃO FRANCISCO DOS SANTOS, RUA
-7
-BARRA VELHA
-JOÃO MAITTINI, RUA
-12
-BARRA VELHA
-JOSÉ CARLOS SIQUEIRA, RUA
-9
-BARRA VELHA
-JOSÉ LEITE DOS PASSOS, PRAÇA
-20
-BARRA VELHA
-LEANDRO, RUA DO
-7
-BARRA VELHA
-LIBERTADOR, RUA
-12
-BARRA VELHA
-LIBERTADOR, TRAV. - (TESOURO DA COLINA)
-12
-BARRA VELHA
-MACAPÁ, RUA
-7
-BARRA VELHA
-MALAQUIAS OLIVEIRA FREITAS, RUA PROF.
-12
-BARRA VELHA
-MARANHÃO, RUA
-10
-BARRA VELHA
-MATO GROSSO DO SUL, RUA
-7
-BARRA VELHA
-MATO GROSSO, RUA
-11
-BARRA VELHA
-MINAS GERAIS, RUA
-9
-BARRA VELHA
-MONTEIRO LOBATO, RUA
-8
-BARRA VELHA
-ORQUÍDEAS, RUA DAS
-12
-BARRA VELHA
-HORTÊNSIAS, RUA DAS
-12
-BARRA VELHA
-PARÁ, RUA
-10
-BARRA VELHA
-PARAÍBA, RUA
-10
-BARRA VELHA
-PARANÁ, RUA
-15
-BARRA VELHA
-PAULO DOMINGOS DE CARVALHO, RUA
-8
-BARRA VELHA
-PEDRO GARCIA, RUA
-7
-BARRA VELHA
-PEDRO GARCIA, TRAV
-5
-BARRA VELHA
-PEDRO LUCIANO PINHO, RUA
-7
-BARRA VELHA
-PERNAMBUCO, RUA
-12
-BARRA VELHA
-PIAUI, RUA
-8
-BARRA VELHA
-PRIMAVERA, RUA DAS
-12
-BARRA VELHA
-RAPOSA, TRAVESSA DA (TESOURO DA COLINA)
-12
-BARRA VELHA
-RIO BRANCO, RUA
-7
-BARRA VELHA
-RIO DE JANEIRO, RUA
-9
-BARRA VELHA
-RIO GRANDE DO NORTE, RUA
-8
-BARRA VELHA
-RIO GRANDE DO SUL, RUA
-8
-BARRA VELHA
-RONDÔNIA, RUA
-8
-BARRA VELHA
-RORAIMA, RUA
-7
-BARRA VELHA
-SAMAMBAIAS, RUA DAS
-12
-BARRA VELHA
-SANTA CATARINA, RUA
-8
-BARRA VELHA
-SÃO PAULO, AV.
-9
-BARRA VELHA
-SENZALA, RUA
-12
-BARRA VELHA
-SERGIPE, RUA - VERTENTES
-18
-BARRA VELHA
-SERGIPE, RUA - COSTEIRA
-22
-BARRA VELHA
-TESOURO DA COLINA, RUA
-13
-BARRA VELHA
-TIRADENTES, AV.
-20
-BARRA VELHA
-TOCA DA RAPOSA, RUA - TESOURO DA COLINA
-12
-BARRA VELHA
-TRAVESSA, 309
-7
-BARRA VELHA
-TREZENTOS E QUATRO, TRAV.-SERVIDÃO
-7
-BARRA VELHA
-TREZENTOS E VINTE, RUA
-6
-BARRA VELHA
-VISTA ALEGRE, RUA
-7
-BARRA VELHA
-ZABUMBA, RUA DA R.DO LIBERTADOR AO FINAL
-12
-BARRA VELHA
-ZABUMBA, RUA DO INÍCIO A RUA DO LIBERTADOR
-7
-BARREIROS
-LEONARDO REALE, AV. - PARA AS VERTENTES
-9
-BARREIROS
-LEONARDO REALE, AV. - PRAIA
-26
-BEXIGA
-AIMORÉ, RUA
-20
-BEXIGA
-ANNA LEITE JULIÃO TORRES, RUA - DA RUA
-MANOEL POMBO ATÉ O FINAL
-8
-BEXIGA
-ANNA LEITE JULIÃO TORRES, RUA - ATÉ
-RUA MANOEL POMBO
-10
-BEXIGA
-ARCO ÍRIS, RUA
-16
-BEXIGA
-BENEDITO JOSÉ LOURENÇO, RUA
-9
-BEXIGA
-BENEDITO LEITE DA SILVA JR., RUA
-9
-BEXIGA
-BEXIGA - BAIRRO - EXC. LOG.
-8
-BEXIGA
-CONDE D’EU
-16
-BEXIGA
-EUCALIPITOS, RUA
-9
-BEXIGA
-EUCALIPITOS, TRAV. DOS
-9
-BEXIGA
-FRANCISCO POMBO, RUA
-8
-BEXIGA
-II, TRAVESSA - JARDIM ARCO ÍRIS
-16
-BEXIGA
-III, TRAVESSA - CONDE D’EU
-16
-BEXIGA
-JOÃO BATISTA DOS SANTOS, RUA
-11
-BEXIGA
-JOÃO BATISTA DOS SANTOS, TRAV
-10
-BEXIGA
-JOÃO LEITE DOS SANTOS, RUA
-12
-BEXIGA
-JOAQUIM JOSÉ LOURENÇO, RUA
-12
-BEXIGA
-JOSÉ P.NASC., AV.(ATÉ J.P.CAR.)
-18
-BEXIGA
-JOSÉ PACHECO NASCIMENTO, AV.I, III.S
-18
-BEXIGA
-MANOEL DA SILVA TORRES, RUA
-12
-BEXIGA
-MANOEL POMBO, RUA VER.
-9
-BEXIGA
-NAGIBE POMBO, RUA
-9
-BEXIGA
-NAGIBE POMBO, TRAV.
-9
-BEXIGA
-PAULINA SERAFINA DOS ANJOS, RUA
-9
-BEXIGA
-PESCADORES, RECANTO DOS
-9
-BEXIGA
-PONTA RIBEIRÃO - BAIRRO
-27
-BEXIGA
-RIACHUELO, AV. (COSTEIRA)
-17
-BEXIGA
-RIACHUELO, AV. (VERTENTES)
-15
-BEXIGA
-SEBASTIÃO DA SILVA
-15
-TABELA II
-FATORES PROFUNDIDADE
-PROFUNDIDADE EQUIVALENTE
-FATOR
-mais de 30 até 35 metros
 
 ---
 
@@ -50124,5 +49093,3390 @@ NILCE SIGNORINI
 Prefeita Municipal
 Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
 PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.070, DE 03/07/2000
+
+> **Ref:** ilh-2000-dec-2070 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002070
+
+DECRETO MUNICIPAL Nº 2.070, DE 03/07/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+101.3131.01 - Remuneração de Serviços Pessoais ................ 20.000,00
+202.3132.02 - Outros Serviços e Encargos ................ 30.000,00
+229.3120.29 - Material de Consumo ................ 1.000,00
+356.3132.56 - Outros Serviços e Encargos ................ 5.000,00
+386.3111.86 - Pessoal Civil ................ 50.000,00
+386.3120.86 - Material de Consumo ................ 5.000,00
+386.3132.86 - Outros Serviços e Encargos ................ 5.000,00
+386.3113.86 - Obrigações Patronais ................ 5.000,00
+509.4110.09 - Obras e Instalações ................ 10.000,00
+761.3111.61 - Pessoal Civil ................ 100.000,00
+811.3232.11 - Subvenção Econômica ................ 20.000,00
+1111.4110.11 - Obras e Instalações ................ 20.000,00
+1141.4110.41 - Obras e Instalações ................ 80.000,00
+509.3132.09 - Outros Serviços e Encargos ................ 60.000,00
+Total à suplementar ................ 411.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+101.4110.01 - Obras e Instalações ................ 220.000,00
+731.3111.31 - Pessoal Civil ................ 100.000,00
+1151.3111.51 - Pessoal Civil ................ 15.000,00
+356.3132.56 - Outros Serviços e Encargos ................ 30.000,00
+509.3192.09 - Despesas de Exercício Anteriores ................ 16.000,00
+619.3120.19 - Material de Consumo ................ 30.000,00
+Total à anular ................ 411.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 03 de julho de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.071, DE 12/07/2000
+
+> **Ref:** ilh-2000-dec-2071 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** ESTABELECE NORMAS RELATIVAS AO ENCERRAMENTO DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA DOS ORGÃOS DA ADMINISTRAÇÃO DIRETA, PARA O LEVANTAMENTO DO BALANÇO GERAL DO MUNICÍPIO DE ILHABELA, DO EXERCÍCIO DE 2.000 E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002071&NroLei=2.071&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.071, DE 12/07/2000
+ESTABELECE NORMAS RELATIVAS AO ENCERRAMENTO DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA DOS ORGÃOS DA ADMINISTRAÇÃO DIRETA, PARA O LEVANTAMENTO DO BALANÇO GERAL DO MUNICÍPIO DE ILHABELA, DO EXERCÍCIO DE 2.000 E DÁ OUTRAS PROVIDÊNCIAS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são conferidas por Lei, e
+Considerando que o encerramento do exercício financeiro e o consequente levantamento do Balanço Geral do Município de Ilhabela, constituem providências cujas formalizações devem ser, prévia e adequadamente, ordenadas;
+Considerando que os procedimentos pertinentes a tais providências devem ser cumpridos de maneira uniforme e rigorosamente de acordo com os prazos fixados,
+Considerando a
+Lei Complementar 101
+de 04 de maio de 2000, Lei da Responsabilidade Fiscal,
+DECRETA:
+#### Seção I - Dos Órgãos Abrangidos
+##### Art. 1º
+Os Órgãos da Administração direta do Poder Executivo e Fundações, no que couber, disciplinarão suas atividades orçamentárias e financeiras do exercício em curso, de conformidade com as normas fixadas neste Decreto.
+#### Seção II - Das Alterações Orçamentárias
+##### Art. 2º
+Os atos modificativos da distribuição de recursos orçamentários, somente poderão ser baixados até 14 de novembro, exceto, quando decorrente de Decreto.
+#### Seção III - Do Encerramento das Execuções Orçamentárias e Financeiras
+##### Art. 3º
+As licitações à conta de recursos do orçamento vigente, fixarão prazo de entrega do material ou da prestação de serviços limitados a 31 de dezembro.
+§ 1º
+O prazo limite estabelecido neste artigo aplica-se aos casos de dispensa ou inexigibilidade de licitação.
+§ 2º
+Excetuam-se do disposto neste artigo, as licitações relativas a gêneros alimentícios, refeições, medicamentos, desde que o prazo das respectivas entregas não ultrapasse o dia 30 de janeiro de 2.001.
+##### Art. 4º
+A Secretaria Municipal de Finanças deverá emitir notas de empenho e subempenho até 15 de novembro, excetuadas as que resultarem da edição de Decretos posteriores a esta data.
+Parágrafo único.
+Poderão ser emitidos até 31 de dezembro, os subempenhos referentes a espécie de despesas inscritas no inciso I do artigo 8º deste Decreto.
+##### Art. 5º
+É obrigatória a emissão de nota de anulação para o valor de saldos de adiantamento recolhidos até 31 de dezembro.
+##### Art. 6º
+Até dia 15 de dezembro a Secretaria Municipal de Finanças, deverá efetuar o pagamento das despesas que oferecem condições para tanto e para os quais não se estabeleceu prazo diverso, exceção feita aos casos resultantes de autorização de limite de saques liberadas após esta data.
+#### Seção IV - Restos a Pagar
+Subseção I - Das Inscrições
+##### Art. 7º
+A Secretaria Municipal de Finanças, inscreverá automaticamente e por procedimento eletrônico, em contas de Restos a Pagar, as despesas realizadas até 31 de dezembro, compreendendo materiais recebidos, serviços prestados, obras medidas e verificadas, bem como outros encargos devidos desde que as respectivas "Notas de Realização" tenham sido emitidas e contabilizadas.
+Parágrafo único.
+Os empenhos ordinários e globais, que não necessitam de documento próprio de realização, serão igualmente inscritos, da mesma forma, em contas de Restos a Pagar.
+##### Art. 8º
+Para inscrição em contas de Restos a Pagar poderão ser relacionadas, deste de haja disponibilidade de caixa conforme
+##### artigo 42 da Lei Complementar 101/2000
+LRF:
+I -
+em caráter especial, pelos valores dos saldos dos empenhos emitidos por estimativa, as despesas do exercício relativas a transportes com requisição, folha de pagamento, pecúlios, aluguéis em geral, serviços, inclusive os vinculados a contratos, encargos sociais e de previdência, derivados de petróleo, álcool combustível, energia elétrica, gás, serviços telefônicos, tarifas de correios, gêneros alimentícios, diárias, verbas destinadas a Convênios, bem como aquelas não inscritas na forma do artigo 7º deste Decreto;
+II -
+em caráter excepcional, os valores do empenho e dos subempenhos em poder de fornecedores, referente às compras cujos materiais não tenham sido entregues até 31 de dezembro.
+##### Art. 9º
+As despesas empenhadas e não relacionadas para inscrição em contas de Restos a Pagar, deverão ser anuladas até dia 31 de dezembro.
+##### Art. 10.
+As despesas a serem inscritas em contas de Restos a Pagar nas formas dos incisos I e II do artigo 8º deste Decreto, identificarão o tipo de inscrição e serão relacionadas em documentos próprio para inscrição de contas de Restos a Pagar ao nível de elemento.
+§ 1º
+O campo destinado a "Característica do Credor - Tipo e Código" somente será objeto de preenchimento no caso de empenho estimativo com credor específico (INSS, etc.) ou de despesa contratual, também empenhada por estimativa, hipótese em que deverá acrescentar ainda o nº do respectivo contrato e a data da assinatura.
+Subseção II - Dos Cancelamentos
+##### Art. 11.
+Por ocasião do levantamento do Balanço Geral os saldos das contas de Restos a Pagar de 2.000 deverão ser cancelados, mediante transferência dos respectivos valores à receita em 31 de dezembro de 2000.
+##### Art. 12.
+Para fins de cancelamento a ser formalizado, a Secretaria Municipal de Finanças procederá o levantamento das eventuais diferenças entre os valores inscritos em contas de Restos a Pagar e as despesas efetivamente realizadas até 30 de dezembro de 2.000.
+#### Seção VI - Das Disposições Gerais
+##### Art. 13.
+As despesas inscritas em contas de Restos a Pagar nos termos do artigo 7º e inciso I do artigo 8º deste Decreto, poderão ser pagas a partir do dia 10 de fevereiro de 2001, independente da formalização das respectivas inscrições.
+##### Art. 14.
+Os balancetes dos Fundos Especiais relativos ao mês de dezembro deverão ser entregues à Secretaria Municipal de Finanças até 10 de janeiro de 2.001.
+##### Art. 15.
+A Secretaria Municipal de Finanças poderá decidir sobre os casos especiais e sempre e acordo com a
+Lei 4.320/64
+, desde que não conflite com a Lei Complementar de 04 de maio de 2000
+LRF
+.
+##### Art. 16.
+Este Decreto entrará em vigor na data de sua publicação.
+Ilhabela, 12 de julho de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.072, DE 13/07/2000
+
+> **Ref:** ilh-2000-dec-2072 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE MEDIDAS DE GERENCIAMENTO ORÇAMENTÁRIO, FINANCEIRO DECORRENTE DA LEI Nº 101/2000, LEI DA RESPONSABILIDADE FISCAL E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002072&NroLei=2.072&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.072, DE 13/07/2000
+DISPÕE SOBRE MEDIDAS DE GERENCIAMENTO ORÇAMENTÁRIO, FINANCEIRO DECORRENTE DA LEI Nº 101/2000, LEI DA RESPONSABILIDADE FISCAL E DÁ OUTRAS PROVIDÊNCIAS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+Considerando os ordenamentos estabelecidos nas normas gerais de direito financeiro contidas na
+Constituição Federal
+,
+Lei Complementar nº 101
+, de 4 de maio de 2000, na
+Lei nº 4.320
+, de 17 de março de 1964, na
+Lei Orgânica Municipal
+e na Instrução nº 1/2000 do Tribunal de Contas do Estado de São Paulo;
+Considerando o
+Decreto Municipal nº 1.806
+de 19 de julho de 1999 e
+Decreto Municipal nº 1.884
+de 28 de fevereiro de 2000;
+Considerando a necessidade de adaptação à nova ordem jurídica e cumprimento de metas e prazos contidos na
+Lei Complementar nº 101/2000
+;
+Considerando a necessidade de estabelecer nova rotina de trabalho e responsabilidade dos diversos setores da área financeira;
+DECRETA:
+##### Art. 1º
+O Senhor Secretario Municipal de Finanças, ordenador de despesa da Prefeitura Municipal de Ilhabela, com competência para prevenir riscos e corrigir desvios capazes de afastar o equilíbrio das contas públicas, determinará as disposições e rotinas de procedimentos sob responsabilidade dos setores financeiros do Executivo Municipal, mediante Portaria da Secretaria de Finanças onde constará dentre outros:
+I -
+Cálculo mensal, via empenhos, da receita corrente líquida e planilhas indicadoras da posição em face dos
+artigos 18 § 2º
+e
+19 § 2º da Lei Complementar nº 101/2000
+, com verificação quadrimestral dos limites estabelecidos pela
+LRF
+.
+II -
+Cálculo mensal, via empenhos, dos encargos sociais com lançamento na Planilha adotada em conjunto com a Chefia de Pessoal no término de cada mês;
+III -
+Cálculo mensal, via empenhos, do montante dispendido com terceirização de mão de obra que substitui servidores públicos, contabilizados como "outras despesas de pessoal" classificados no elemento 3.1.1.1-03, com pagamento em folha única e contratos elaborados pela Divisão de Recursos Humanos;
+IV -
+Cálculo mensal do freio de cautela prudencial equivalente a 95% do limite de 54% da receita corrente líquida (51,30%);
+V -
+Cálculo do acréscimo de 10% da taxa com pessoal registrada no ano imediatamente anterior (1999) conforme
+artigo nº 71 da Lei Complementar nº 101/2000
+, fixada em 31,59% para o ano 2001, 2002, 2003;
+VI -
+Cálculo da existência de déficit, se houver, dívida, se houver e superávit;
+VII -
+Inclusão na L.D.O. de 2000, junto com a Lei Orçamentária Municipal em setembro de 2000, das despesas de custeio de próprios do Estado / União (alugueis do Fórum, Delegacia de Polícia, pessoal a serviço da Câmara, Cartório Eleitoral e outras)
+##### art. 62, I, LRF
+;
+VIII -
+Critério para contingenciamento (congelamento) de dotação, quando a evolução da receita comprometer os resultados orçamentários pretendidos (
+##### art. 4º, I, b
+) da LRF;
+IX -
+Critério para subvencionar instituições privadas (Creche, APAE, São Vicente de Paulo, etc.), elaborado pelas Secretarias correlatas;
+X -
+Critério para início de novos projetos, após o atendimento dos que estão em andamento, e liberação de dotações (
+##### art. 45, LRF
+);
+XI -
+Acompanhar e limitar os valores de repasse à Câmara em consonância com o art. 9º § 3º (
+LRF
+), segundo critérios estabelecidos na L.D.O e para tanto, encaminhar junto com a Lei Orçamentária as mudanças necessárias na LDO para 2001 e Plano Plurianual em vigor;
+XII -
+Critério para estabelecer a programação financeira mensal para todo o Município incluindo a Câmara até 30 dias após publicada a Lei Orçamentária;
+XIII -
+Percentual da receita corrente líquida que será retido na peça orçamentária, enquanto reserva de contingência (
+##### art. 5º, III, LRF
+);
+XIV -
+Avaliação do resultado primário e nominal conforme Comunicado 6.304 de 7/8/1998 do Banco Central, e elaborado de acordo com o modelo emitido à folhas 18 do Manual Básico do TCE;
+XV -
+Inscrição dos precatórios judiciais e o controle da ordem cronológica dos pagamentos identificando pessoas e empresas que o receberão;
+XVI -
+Previsão de metas bimestrais de arrecadação (
+##### art. 13, LRF
+);
+XVII -
+Inscrição na Lei Diretrizes Orçamentárias para 2001 e Lei Orçamentária Municipal para 2001 do critério da renúncia de receitas e compensações correlatas;
+XVIII -
+Projetar programas de despesas continuadas por 3 anos (
+##### art. 16, I, II
+e
+##### art. 17 da Lei de Responsabilidade Fiscal
+);
+XIX -
+Planilha de gastos líquidos com aposentados e pensionistas até o limite de 12% da receita corrente líquida (
+##### art. 21, II, LRF
+);
+XX -
+Realização orçamentária e balanços do Fundo de Pensão em idêntico modelo da Prefeitura Municipal de Ilhabela e em separado;
+XXI -
+Controle permanente dos limites da dívida mobiliária, da dívida consolidada se houver (
+inciso VI e IX do art. 52 da C.F.
+) inserindo na dívida consolidada as operações de crédito com prazo inferior a 12 meses diferente do que estabelece o
+##### art. 98, Lei 4.320/64
+e os precatórios não pagos em exercícios anteriores;
+XXII -
+Contabilização das dívidas do INSS, FGTS, PASEP na dívida fundada;
+XXIII -
+Levantamento de desapropriações não pagas em 2000, se houver, com despesas em 200, onde deverá haver lastro em caixa do restante a pagar e reservados em 31/12/2000;
+XXIV -
+Alienação de bens móveis (veículos usados etc.) e imóveis, se houver, e a destinação de aplicação com demonstrativo da variação patrimonial;
+XXV -
+Publicação das contas na Internet conforme orientação da
+LRF
+e Tribunal de Contas do Estado de São Paulo à página 44 do manual básico;
+XXVI -
+Relatório contábil, na forma de demonstrativo legal, onde a disponibilidade de caixa e recursos vinculados a fundos ou despesas obrigatórias sejam demonstradas uma a uma;
+XXVII -
+O controle interno deverá acompanhar simultaneamente o controle da execução orçamentária;
+XXVIII -
+Relatório a cada 04 ou 06 meses (opcional) da gestão fiscal e relatório orçamentário conforme modelo oficial;
+XXIX -
+Observar os prazos do calendário expedido pelo TCE Manual Básico, página 50;
+XXX -
+Apreciar qualquer solicitação de compras e serviços em face da
+LRF
+e liberar ou não, a referida operação, com despacho fundamentado;
+XXXI -
+Congelar a folha de pagamento nos limites da folha de junho de 2000 até 31 de dezembro de 2000, sem qualquer aumento, em consonância com o
+##### art. 21 parágrafo único da LRF
+;
+XXXII -
+Ocorrendo eventualidades que comprometam os limites estabelecidos no Inciso anterior, deverá haver compensação com redução no numerário reservado para horas extras do montante estabelecidos na folha de junho de 2000;
+XXXIII -
+Encaminhar até 30 de agosto de 2000 ao Legislativo e Ministério Publico cópia dos estudos de estimativas da receita para 2001 de acordo com o
+##### art. 12 § 3º da LRF
+;
+XXXIV -
+Desdobrar as receitas previstas em metas bimestrais de arrecadação de acordo com o
+##### art. 13 da LRF
+;
+XXXV -
+Dar parecer em processos de geração de despesas em consonância com as normas contábeis e cumprimento dos dispositivos da
+LRF
+(
+##### art. 16
+,
+17 e inciso XIII
+do
+##### art. 37 e § 1º
+do
+##### art. 169 da C.F.
+);
+XXXVI -
+Verificar e levantar obrigações contraídas até 31/12/2000 e parcelas, se houver, para 2001 reservando dotações para pagá-las a fim de evitar inclusão em restos a pagar conforme dispõe o
+##### art. 42 da LRF
+;
+XXXVII -
+Constar na Lei Orçamentária em setembro de 2000 os critérios para renúncia de receita pública indicando a compensação correlata conforme
+##### art. 14 da LRF
+.
+XXXVIII -
+Manter contabilidade de custos para avaliação dos programas governamentais;
+XXXIX -
+Encaminhar as contas do ano até 30 de abril do ano posterior para a União, para fins de consolidação das contas de todas as esferas de governo, via Internet;
+XL -
+Fica mantido o
+Decreto 1.884
+de 28 de fevereiro de 2000 especialmente os
+artigos 47
+,
+48
+,
+49
+e
+50
+;
+XLI -
+Faz parte integrante deste Decreto a agenda positiva, anexa, que deve ser cumprida sobre pena de responsabilidade.
+##### Art. 2º
+Revogam-se todas as disposições em contrário de matéria financeira e orçamentária que conflitem com o presente Decreto e com os dispositivos da
+Lei de Responsabilidade Fiscal
+de 4 de maio de 2000.
+Ilhabela, 13 de Julho de 2000.
+Nilce Signorini,
+Prefeita Municipal.
+Registrado em Livro próprio e afixado na data supra, no lugar de costume.
+AGENDA POSITIVA
+BASE LEGAL
+PROVIDÊNCIA
+PERIODICIDADE/PRAZO
+MUNICÍPIOS ABAIXO DE
+50.000 HAB. (ART. 63 LRF)
+Realizar estudo prévio sistemático da LRF.
+##### art. 165, I, § 1
+o
+,
+##### art. 166 da CF
+e
+##### art. 35, § 2
+o
+do ADCT
+Elaborar e encaminhar PPA.
+1
+o
+ano do mandato
+(até 4 meses antes do encerramento do 1
+o
+exercício financeiro)
+##### Art. 4
+o
+, §§ 1
+o
+e 3
+o
+Juntamente com LDO - elaborar Anexo de Metas Fiscais e Anexo de Riscos Fiscais.
+LDO: anual
+Anexo: a partir do 5
+o
+exercício seguinte ao da publicação da lei.
+##### art. 5
+o
+, I
+##### art. 35, § 2
+o
+do ADCT da CF
+Juntamente com a LO - elaborar Anexo: Demonstrativo de compatibilidade da programação do orçamento com as metas fiscais definidas.
+LO: anual
+Anexo: a partir do 5
+o
+exercício seguinte ao da publicação da lei.
+##### art. 5
+o
+, II
+CF - Art. 165, § 6
+o
+Juntamente com a LO - elaborar demonstrativo regionalizado do efeito, sobre as receitas e despesas, de isenções, anistias, remissões, subsídios, benefícios financeiros, tributários e creditícios - medidas de compensação.
+Anual
+##### Art. 9
+o
+Verificar se a realização da receita comportará cumprimento das metas de resultado primário ou nominal consignadas no Anexo de Metas Fiscais.
+Verificação bimestral
+##### Art. 9
+o
+Caso não comporte: limitar (por ato próprio dos Poderes) empenho e movimentação financeira.
+30 dias após a verificação
+##### Art. 9
+o
+, § 3
+o
+Caso o Poder Legislativo não faça sua limitação: ato do Executivo (critérios da LDO)
+Após os 30 dias do prazo anterior
+##### Art. 9
+o
+, § 4
+o
+Poder Executivo: demonstrar, em audiência pública no Legislativo, o cumprimento das metas fiscais do quadrimestre.
+Até o final dos meses de maio, setembro e fevereiro
+##### Art. 22
+##### Art. 18 § 1
+o
+Calcular montante da despesa total com pessoal, com atenção à inclusão de serviços terceirizados em substituição a servidor
+Cálculo semestral
+Arts 19 e 20
+Verificar se a despesa total de pessoal excedeu 60% da receita corrente líquida.
+Verificação semestral
+##### Art. 23
+Se excedeu: reconduzir despesa de pessoal ao limite - eliminar percentual excedente.
+Em 2 quadrimestres, pelo menos 1/3 no 1
+o
+Para eliminar excedente:
+##### art. 23, §§ 1
+o
+, 2
+o
+, 3
+o
+.
+CF, art. 169, § 3
+o
+, I e II, §§ 4
+o
+e 7
+o
+;
+##### art. 247.
+(i) reduzir 20% dos cargos de confiança (extinguir / diminuir vencimentos / reduzir jornada);
+(ii) exonerar servidores não estáveis;
+(iii) dependendo da lei federal - exonerar servidores estáveis.
+Em 2 quadrimestres a partir da verificação
+##### Art. 29, § 4
+o
+Calcular refinanciamento da dívida mobiliária - não podendo exceder: o montante do final do exercício anterior + operações de crédito autorizadas para este efeito + atualização monetária.
+Ao término de cada exercício
+##### art. 30, I, e § 3
+o
+;
+CF - art. 52, VI
+Aguardar a fixação, pelo Senado, do limite global para a dívida consolidada dos Municípios, em percentual da receita corrente líquida.
+90 dias após a publicação da lei
+##### Art. 30, § 4
+o
+Apurar montante da dívida consolidada para efeito de atendimento ao limite.
+Ao final de cada semestre
+##### Art. 31 § 1
+o
+Caso a dívida consolidada exceda o limite: reconduzir, eliminando o excedente - limitar empenho e movimentação financeira.
+Em três quadrimestres - pelo menos 25% no primeiro
+##### Art. 51, § 1
+o
+Encaminhar contas ao Poder Executivo da União
+Anual
+Municípios: 30 de abril
+##### Art. 52
+CF: art. 165, § 3
+o
+Publicar Relatório Resumido de Execução Orçamentária, acompanhado dos demonstrativos exigidos.
+Bimestral - 30 dias após encerramento do bimestre
+##### Art. 54
+Emitir Relatório de Gestão Fiscal.
+Semestral - 30 dias após encerramento do semestre
+##### Art. 16, I e II
+Para instalar licitação: (i) estimativa do impacto do aumento de despesa no exercício e nos dois subsequentes (com premissas e metodologia); (ii) declaração do ordenador de que o aumento é adequado / compatível com PPA e LDO
+Antes de decidir aumento de despesa, abertura de licitação, desapropriação
+##### Art. 16, § 1
+o
+, I
+Verificar adequação do aumento de despesa: se tiver dotação específica e suficiente, ou se estiver abrangida por crédito genérico: somando todas da mesma espécie, não exceda os limites fixados para o exercício
+Antes de aumentar despesa, licitar, desapropriar
+##### Art. 16, § 1
+o
+, II
+Verificar compatibilidade com PPA e LDO: se conforme com as diretrizes, objetivos, prioridades e metas previstos, não infrinja disposições.
+Antes de aumentar despesa, licitar, desapropriar
+
+---
+
+# DECRETO MUNICIPAL Nº 2.073, DE 13/07/2000
+
+> **Ref:** ilh-2000-dec-2073 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DA SENHORA MARIA DA CONCEIÇÃO DIAS SANTOS, REINTEGRADA NO CARGO DE PROFESSOR I - EDUCAÇÃO INFANTIL, EM CUMPRIMENTO A DETERMINAÇÃO JUDICIAL EXARADA NOS AUTOS DE APELAÇÃO CIVIL Nº 080.736-5/2-00, NOMEADA ATRAVÉS DO DECRETO MUNICIPAL Nº 1.923/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002073&NroLei=2.073&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.073, DE 13/07/2000
+DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DA SENHORA MARIA DA CONCEIÇÃO DIAS SANTOS, REINTEGRADA NO CARGO DE PROFESSOR I - EDUCAÇÃO INFANTIL, EM CUMPRIMENTO A DETERMINAÇÃO JUDICIAL EXARADA NOS AUTOS DE APELAÇÃO CIVIL Nº 080.736-5/2-00, NOMEADA ATRAVÉS DO DECRETO MUNICIPAL Nº 1.923/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica exonerada, à pedido, a Senhora MARIA DA CONCEIÇÃO DIAS DOS SANTOS, brasileira, casada, portadora da Carteira de Identidade RG nº 15.900.345-3, CPF/MF nº 032.664.678-76, reintegrada no cargo de Professor I - Educação Infantil, em cumprimento a determinação judicial exarada nos autos de Apelação Civil nº 080.736-5/2-00, nomeada através do
+Decreto Municipal nº 1.923/2000, nos termos da
+Lei Municipal nº 649
+, de 29 de julho de 1997, com alterações da
+Lei Municipal nº 884
+, de 05 de janeiro de 2.000.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos à 26 de junho de 2000.
+Ilhabela, 13 de julho de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.074, DE 17/07/2000
+
+> **Ref:** ilh-2000-dec-2074 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A SUBSTITUIÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, NOMEADOS ATRAVÉS DO DECRETO MUNICIPAL Nº 1.890/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002074&NroLei=2.074&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.074, DE 17/07/2000
+DISPÕE SOBRE A SUBSTITUIÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, NOMEADOS ATRAVÉS DO DECRETO MUNICIPAL Nº 1.890/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam designados os servidores SUELY APARECIDA DOS REIS, brasileira, divorciada, portadora da Carteira de Identidade RG nº 16.841.695 e do CPF/MF nº 050.734.498-78, Diretora de Divisão de Planejamento e Gestão; ELCIO ROEFERO, brasileiro, casado, Técnico de Contabilidade, portador da Carteira de Identidade RG nº 4.888.183 e CPF/MF nº 192.028.308-00, Secretário Municipal de Finanças; BENEDITO WENCESLAU NETO, brasileiro, casado, portador da Carteira de Identidade RG nº 21.786.639 e do CIC nº 150.295.158-44, auxiliar administrativo; JOSELI DE FREITAS, brasileira, solteira, portadora da Carteira de Identidade RG nº 16.841.689 e CPF/MF nº 054.005.938-28, Agente de Ações Comunitárias; MARIA JOSÉ FIGUEIREDO VALIM, brasileira, casada, portadora da Carteira de Identidade RG nº 11.880.079 e CPF/MF nº 987.772.628-91, Assistente Administrativo Cat. I; LÚCIA MARIA CHAMARELLI CORREIA, brasileira, casada, portadora da Carteira de Identidade RG nº 19.213.663 e CPF/MF nº 106.238.698-10, Desenhista; ANDRÉA LIMA BAPTISTA, brasileira, solteira, auxiliar administrativo, portadora da Carteira de Identidade RG nº 17.562.705 e CPF/MF nº 053.556.868-18, para sob a Presidência do primeiro designado, comporem a Comissão Permanente de Licitação da Prefeitura Municipal da Estância Balneária de Ilhabela.
+##### Art. 2º
+O presente Decreto entra em vigor na data de sua publicação revogando-se as disposições em contrário.
+Ilhabela, 17 de julho de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em livro próprio, e afixado na data supra, no lugar de costume.
+PJ/rcm/00.
+
+---
+
+# DECRETO MUNICIPAL Nº 2.075, DE 17/07/2000
+
+> **Ref:** ilh-2000-dec-2075 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DO FUNCIONÁRIO, O SENHOR, BRAULINO DA SILVA SANTOS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002075&NroLei=2.075&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.075, DE 17/07/2000
+DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DO FUNCIONÁRIO, O SENHOR, BRAULINO DA SILVA SANTOS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o disposto no
+inciso II, do artigo 40 da Constituição Federal
+, de 05 de outubro de 1988.
+DECRETA:
+##### Art. 1º
+Fica aposentado compulsoriamente o servidor público do Município da Estância Balneária de Ilhabela, Senhor BRAULINO DA SILVA SANTOS, brasileiro, portador da Carteira de Identidade RG nº 8.966.767 e do CPF/MF nº 730.994.068-72, que exerce no quadro de funcionários permanente a função de coveiro, conforme previsto no
+##### artigo 23 da Lei 650
+, de 29 de julho de 1997.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 17 de julho de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.076, DE 17/07/2000
+
+> **Ref:** ilh-2000-dec-2076 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO À PEDIDO, DO SENHOR MARCO GESSULLI CALDEIRA, QUE EXERCE, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE FISCAL MUNICIPAL, NOMEADO ATRAVÉS DO DECRETO MUNICIPAL Nº 1.951/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002076&NroLei=2.076&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.076, DE 17/07/2000
+DISPÕE SOBRE A EXONERAÇÃO À PEDIDO, DO SENHOR MARCO GESSULLI CALDEIRA, QUE EXERCE, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE FISCAL MUNICIPAL, NOMEADO ATRAVÉS DO DECRETO MUNICIPAL Nº 1.951/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica, à pedido, exonerado o Senhor MARCO GESSULLI CALDEIRA, casado, brasileiro, portador da Carteira de Identidade RG nº 13.598.722, CPF/MF nº 124.739.088-85, que exerce, no quadro de funcionários permanente, a função de Fiscal Municipal, nomeado através do
+Decreto Municipal nº 1.951/2000
+, datado de 02 de junho de 2000, nos termos da
+Lei Municipal nº 649
+, de 29 de julho de 1.997, com alterações da
+Lei Municipal nº 884
+de 05 de janeiro de 2000, lotado na Diretoria de Fiscalização, referência 11.
+##### Art. 2º
+Este Decreto entrará em vigor, na data de sua publicação, retroagindo seus efeitos à 09 de junho de 2000.
+Ilhabela, 17 de julho de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.077, DE 18/07/2000
+
+> **Ref:** ilh-2000-dec-2077 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** REGULAMENTA A CONTRATAÇÃO DE PESSOAL EM CARATER EXCEPCIONAL E A TERCEIRIZAÇÃO DE MÃO DE OBRA E SERVIÇOS PÚBLICOS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002077
+
+DECRETO MUNICIPAL Nº 2.077, DE 18/07/2000
+REGULAMENTA A CONTRATAÇÃO DE PESSOAL EM CARATER EXCEPCIONAL E A TERCEIRIZAÇÃO DE MÃO DE OBRA E SERVIÇOS PÚBLICOS.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das atribuições, e,
+Considerando, a
+Lei de Responsabilidade Fiscal
+(L.C. 101/2000) inova e insere de forma genérica a mão de obra terceirizada, substitutiva de servidores no âmbito do gasto com pessoal;
+Considerando, que estas despesas não mais poderão constar do elemento orçamentário 3.1.3.2 (outros serviços e encargos) e sim no elemento 3.1.1.1 - 03 (outras despesas de pessoal);
+Considerando a necessidade de diferenciar as figuras " mão de obra" e " serviços no processo de contratação ";
+Considerando os permissivos legais vigentes e não conflitantes com a
+L.C. 101
+de 4 de maio de 2000;
+Considerando a necessidade de identificar na realidade local as situações onde as leis devam ser cumpridas;
+DECRETA:
+##### Art. 1º
+As contratações de pessoal (mão de obra) e de excepcional interesse público poderão ocorrer na administração Municipal de acordo com os seguintes permissivos legais:
+I - Atendimento a termos de convênios, acordos ou ajustes para execução de obras e prestação de serviços durante suas vigências;
+-
+##### Artigo 194, I da Lei 649/97
+e
+884/2000
+e com limite em 31 de dezembro de cada ano;
+II - Para execução de programas especiais de trabalho devidamente justificados para atender a necessidades conjunturais;
+-
+##### Artigo 194, II da Lei 649/97
+e
+884/2000
+e com limite em 31 de dezembro de cada ano;
+III - Para suprir a falta de servidores do quadro efetivo decorrente de licenças ou exonerações;
+##### Artigo 194, III § 1º
+(até 30 dias)
+-
+##### Artigo 194, III
+combinado com
+##### artigo 199
+com limite em 31 de dezembro da
+Lei 649/97
+;
+IV - Calamidade pública ou comoção interna;
+-
+##### Artigo 194, II
+, combinado com
+##### artigo 199 da Lei 649/97
+e
+884/2000
+;
+V - Reposição de aposentadoria ou falecimento nas áreas de Educação, Saúde e Segurança, sem considerar o limite de 54%;
+##### Artigo 12, I
+ou
+##### artigo 194, III da Lei 649/79
+e
+884/2000.
+##### Artigo 22 parágrafo único, IV do L.C. 101/2000
+com as ressalvas da
+Lei 9.504/97
+(Lei Eleitoral) combinado com
+##### artigo 21 parágrafo único do L.C. 101/2000
+;
+##### Art. 2º
+A contratação será feita independentemente da existência de cargos, emprego ou função, mediante processo seletivo para contratações superiores a 30 dias conforme artigo 199 da
+Lei 649/97
+e
+884/2000
+, observando - se o prazo determinado e compatível em cada situação de no máximo 06 meses prorrogáveis por mais 06 meses de acordo com a Emenda 001 de 11/10/99 da Lei Orgânica Municipal.
+##### Art. 3º
+As contratações de locação de serviços far-se-ão pela
+Lei 8666/93
+, atualizada pela
+Lei 8.883
+de 08 de junho de 1.994 observando - se os seguintes critérios:
+I -
+Inexistência de mão de obra especializada no quadro de funcionários da parte permanente da Prefeitura Municipal de Ilhabela e que demanda atuação do poder público para obras e serviços cuja falta de profissionais acarretaria paralisação de obras com evidente prejuízo para a administração pública;
+II -
+Com atendimento ao
+##### artigo 13 da Lei 8.666/93
+no tocante a serviços técnicos especializados:
+1.
+Estudos técnicos, planejamento e projetos básicos.
+2.
+Pareceres, perícias e avaliações em geral.
+3.
+Assessorias ou consultorias técnicas e auditorias financeiras tributárias.
+4.
+Patrocínio ou defesa de causas judiciais ou administrativas.
+5.
+Treinamento e aperfeiçoamento de pessoal.
+6.
+Restauração de obras de arte e bens de valor histórico.
+III -
+Com atendimento se for o caso ao
+##### artigo 24 da Lei 8666/93, incisos I à XX
+(dispensável a licitação).
+Com o prazo de publicação constante no
+##### artigo 26 da Lei 8.666/93
+e processo devidamente instruído.
+1.
+Obras e serviços de engenharia até 5% do limite previsto para modalidade convite desde que não se refiram a parcelas de uma mesma obra.
+2.
+Para outros serviços no valor de até 5% da modalidade convite desde que não se refiram a parcelas de mesmo serviço.
+3.
+No caso de guerra ou grandes perturbações da ordem.
+4.
+Nos casos de emergência ou calamidade pública em que se caracterize emergência em serviços que possam comprometer a segurança de pessoas, obras, serviços, equipamentos e outros bens no prazo máximo de 180 dias consecutivos ou ininterruptos vedada a prorrogação.
+5.
+Quando não acudirem interessados à licitação e não puder ser repetida sem prejuízo para administração.
+6.
+Quando as propostas apresentadas na licitação de serviços forem incompatíveis com os fixados pelos órgãos oficiais competentes.
+7.
+Quando houver remanescente de obras em consequência de revisão contratual de acordo com o
+##### artigo 24, XI da Lei 8.666/93
+.
+8.
+Quando a empresa é de pesquisa, ensino ou desenvolvimento institucional desde que detenha inquestionável reputação ético - profissional e sem fins lucrativos.
+9.
+Para impressão de diários oficiais, formulários padronizados de uso da administração e edições técnicas oficiais e prestação de serviços de informática por órgãos ou entidades que integrem a administração pública, criadas para estes fins específicos.
+##### Art. 4º
+Não poderão ser objeto de execução direta as atividades inerentes as categorias funcionais abrangidas pelo plano de cargos e salários da Prefeitura Municipal de Ilhabela, salvo expressa disposição legal em contrário ou quando se tratar de cargo extinto, total ou parcialmente no âmbito do quadro geral de Pessoal.
+##### Art. 5º
+As contratações deverão ser procedidas e instruídas com plano de trabalho aprovado pela autoridade máxima do órgão, mediante processo a ser iniciado no protocolo, onde conterão, no mínimo:
+I -
+justificativa da necessidade do serviço;
+II -
+relação entre a demanda prevista e a quantidade de serviços a ser contratada;
+III -
+demonstrativo de resultados a serem alcançados em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais, ou financeiros disponíveis;
+IV -
+prazo de realização;
+V -
+planilha indicando 3 (três) preços no mínimo;
+VI -
+encaminhamento ao senhor Secretário Municipal de Finanças para cumprimento do
+Decreto nº 2.072
+de 13 de julho de 2.000,
+##### artigo 1º XXX
+, que despachará, deferindo ou indeferindo nos termos da
+Lei Complementar 101/2000
+(LRF). Se o processo for deferido deverá ser despachado contendo o elemento orçamentário adequado ao referido contrato e demais dispositivos que julgar necessários.
+##### Art. 6º
+O objeto da contratação será definido de forma expressa no contrato.
+##### Art. 7º
+Os contratos, que tenham por objeto a prestação de serviços executados de forma contínua e que ultrapassem o exercício fiscal deverão ser despachados levando-se em conta o
+##### artigo 16 da Lei Complementar 101/2000
+(LRF).
+##### Art. 8º
+Este Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+Ilhabela, 18 de julho de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+PJ/sma/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.078, DE 18/07/2000
+
+> **Ref:** ilh-2000-dec-2078 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002078
+
+DECRETO MUNICIPAL Nº 2.078, DE 18/07/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+556.3132.56 - Outros Serviços e Encargos ................ 10.000,00
+509.3191.09 - Sentenças Judiciais ................ 10.000,00
+356.3231.56 - Subvenções Sociais ................ 110.000,00
+509.3231.09 - Subvenções Sociais ................ 60.000,00
+731.3254.31 - Apoio F. a Estudantes ................ 15.000,00
+811.3132.11 - Outros Serviços e Encargos ................ 1.000,00
+Total à suplementar ................ 206.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+556.4120.56 - Equipamentos e Material Permanente ................ 10.000,00
+811.3120.11 - Material de Consumo ................ 1.000,00
+202.4120.02 - Equipamentos e Material Permanente ................ 15.000,00
+356.3132.56 - Outros Serviços e Encargos ................ 100.000,00
+509.3132.09 - Outros Serviços e Encargos ................ 40.000,00
+721.3120.21 - Material de Consumo ................ 15.000,00
+509.4120.09 - Equipamentos e Material Permanente ................ 5.000,00
+509.3120.09 - Material de Consumo ................ 20.000,00
+Total à anular ................ 206.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 18 de julho de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.079, DE 01/08/2000
+
+> **Ref:** ilh-2000-dec-2079 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002079
+
+DECRETO MUNICIPAL Nº 2.079, DE 01/08/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+356.3120.56 - Material de Consumo ................ 3.000,00
+386.3120.86 - Material de Consumo ................ 2.000,00
+386.4110.86 - Obras e Instalações ................ 56.000,00
+493.3231.93 - Subvenções Sociais ................ 40.000,00
+483.3120.83 - Material de Consumo ................ 34.000,00
+509.3120.09 - Material de Consumo ................ 10.000,00
+721.3132.21 - Outros Serviços e Encargos ................ 5.000,00
+731.3132.31 - Outros Serviços e Encargos ................ 10.000,00
+731.3120.31 - Material de Consumo ................ 10.000,00
+811.3132.11 - Outros Serviços e Encargos ................ 2.000,00
+972.3132.72 - Outros Serviços e Encargos ................ 60.000,00
+1111.4110.11 - Obras e Instalações ................ 10.000,00
+1121.3120.21 - Material de Consumo ................ 3.000,00
+1131.4110.31 - Obras e Instalações ................ 14.000,00
+509.4110.09 - Obras e Instalações ................ 50.000,00
+509.3192.09 - Despesas de Exercícios Anteriores ................ 4.000,00
+Total à suplementar ................ 313.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+101.3111.01 - Pessoal Civil ................ 50.000,00
+101.4110.01 - Obras e Instalações ................ 20.000,00
+356.4120.56 - Equipamentos e Material Permanente ................ 3.000,00
+386.3132.86 - Outros Serviços e Encargos ................ 12.000,00
+483.3132.83 - Outros Serviços e Encargos ................ 84.000,00
+493.3120.93 - Material de Consumo ................ 40.000,00
+721.3120.21 - Material de Consumo ................ 15.000,00
+811.4120.11 - Equipamentos e Material Permanente ................ 2.000,00
+972.4110.72 - Obras e Instalações ................ 60.000,00
+1111.3132.11 - Outros Serviços e Encargos ................ 10.000,00
+1121.3132.21 - Outros Serviços e Encargos ................ 3.000,00
+519.3132.19 - Outros Serviços e Encargos ................ 4.000,00
+731.4210.31 - Aquisição de Imóveis ................ 10.000,00
+Total à anular ................ 313.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 01 de agosto de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.080, DE 22/08/2000
+
+> **Ref:** ilh-2000-dec-2080 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A RETIFICAÇÃO DA METRAGEM DO TERRENO LOCALIZADO NO BAIRRO DO BORRIFOS, CONFORME ARTIGO 1º, DO DECRETO MUNICIPAL Nº 1.926/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002080&NroLei=2.080&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.080, DE 22/08/2000
+DISPÕE SOBRE A RETIFICAÇÃO DA METRAGEM DO TERRENO LOCALIZADO NO BAIRRO DO BORRIFOS, CONFORME ARTIGO 1º, DO DECRETO MUNICIPAL Nº 1.926/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições que lhe são conferidas pelo
+##### artigo 6º, da Lei nº 3.365
+, de 21 de abril de 1.961 c/c o
+##### artigo 5º, letras "i" e "h"
+, do mesmo diploma legal, e demais legislações correlatas;
+DECRETA:
+##### Art. 1º
+Fica alterado o
+##### artigo 1º do Decreto Municipal nº 1.926/2000
+, datado de 24 de abril de 2000, passando a vigorar com a seguinte redação:
+"Um imóvel situado na Avenida Perimetral Sul, no bairro de Borrifos, medindo 2,00m (dois metros) de frente para a referida Avenida; de quem da frente olha para o imóvel do lado direito mede 18,00m (dezoito metros), confrontando com a Capela de São Miguel; daí deflete a direita e segue numa distância de 26,00m (vinte e seis metros), confrontando também com a Capela de São Miguel; daí deflete a esquerda e segue numa distância de 32,00m (trinta e dois metros), confrontando com Waldemar Bárbara Santana; daí deflete novamente a esquerda numa distância de 28,00m (vinte e oito metros), confrontando com Nelson Fernandes, sucessor de Herdeiros de Manoel João Bárbara; daí deflete novamente a esquerda numa distância de 50,00m (cinquenta metros), confrontando com Nelson Fernandes, sucessor de Herdeiros de Manoel João Bárbara encontrando o ponto onde se deu origem a descrição do imóvel, encerrando assim uma área de 932,00m² (novecentos e trinta e dois metros quadrados).
+##### Art. 2º
+Continuam inalterados os
+artigos 2º
+,
+3º
+, e
+4º do Decreto 1.926/2000
+de 24 de abril de 2000.
+##### Art. 3º
+Este Decreto entra em vigor na data de sua publicação.
+Ilhabela, 22 de agosto de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.081, DE 23/08/2000
+
+> **Ref:** ilh-2000-dec-2081 · **Tipo:** decreto · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS ATUAIS MEMBROS DO CONSELHO DE ALIMENTAÇÃO ESCOLAR DO MUNICÍPIO - C.A.E. - CRIADO ATRAVÉS DO DECRETO MUNICIPAL Nº 1.328/95, DE ACORDO COM A MEDIDA PROVISÓRIA 1.979, DE 19 DE JUNHO DE 2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002081
+
+DECRETO MUNICIPAL Nº 2.081, DE 23/08/2000
+DISPÕE SOBRE A NOMEAÇÃO DOS ATUAIS MEMBROS DO CONSELHO DE ALIMENTAÇÃO ESCOLAR DO MUNICÍPIO - C.A.E. - CRIADO ATRAVÉS DO DECRETO MUNICIPAL Nº 1.328/95, DE ACORDO COM A MEDIDA PROVISÓRIA 1.979, DE 19 DE JUNHO DE 2000.
+(Revogado pelo
+Decreto Municipal nº 2.113
+, de 15.12.2000)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam nomeados os atuais membros do Conselho de Alimentação Escolar do Município - C.A.E., criado através do
+Decreto Municipal nº 1.328/95
+, de acordo com a Medida Provisória nº 1.979, de 19 de junho de 2000, deixando de ter validade o Conselho nomeado através do
+Decreto Municipal nº 1.927/2000
+:
+I -
+01 (um) representante do Poder Executivo:
+Nilcéia Azevedo de Souza - RG: 4.990.500 - CPF: 729.258.338-53
+Secretária Municipal de Educação
+Avenida Força Expedicionário Brasileiro, nº 732 - Santa Tereza
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 2200
+Suplente:
+Fernanda Cristina de Jesus Nascimento - RG: 23.137.490-2 - CPF: 141.554.368-24
+Chefe de Seção de Merenda Escolar
+Avenida Riachuelo, nº 5.977 - Praia Grande
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 2200
+II -
+01 (um) representante do Poder Legislativo:
+Dagoberto dos Santos Lopes - RG: 16.841.744 - CPF: 086.397.648-40
+Oficial Legislativo
+Rua Francisco Gomes da Silva Prado, nº 49 - Santa Tereza
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 2134
+Suplente:
+José Marcos da Silva - RG: 17.540.404 - CPF: 073.288.078-57
+Diretor Financeiro
+Rua Antônio Lisboa Alves, nº 439 - Centro
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 1068
+III -
+02 (dois) representantes dos Professores:
+1) Solange de Oliveira Garcia Santos - RG: 11.079.869-7 - CPF: 038.999.608-15
+Professor da Rede Municipal
+Rua Deolindo Mariano Leite, nº 49 - Barra Velha
+Ilhabela - SP - 11.630-000 - Fone - 472 8312
+Suplente:
+Stella Maria Salinas Santos Abreu - RG: 13.152.764 - CPF: 018.213.288-92
+Professor da Rede Municipal
+Rua José Pacheco do Nascimento, nº 7.534 - Curral
+Ilhabela - SP - 11.630-000 - Fone - 472 9173
+2) Joadir Luiz Capucho - RG: 14.754.481 - CPF: 083.100.468-12
+Professor da Rede Estadual
+Avenida dos Bandeirantes, nº 375 - Itaquanduba
+Ilhabela - SP - 11.630-000 - Fone - 472 2631
+Suplente:
+Berenice Ferreira Moraes - RG: 6.060.987 - CPF: 109.972.808-49
+Professor da Rede Estadual
+Rua Projetada 66, nº 94 - Piúva
+Ilhabela - SP - 11.630-000 - Fone - 472 9481
+IV -
+02 (dois) representantes de Pais de Alunos:
+1) Érica Maria Lopes Martins de Faria - RG: 9.107.905-6 - CPF: 045.111.128-19
+Diretora Executiva da APM da EE "Maria Gemma de S. Oliveira"
+Rua Pernambuco, nº 416 - Barra Velha
+Ilhabela - SP - 11.630-000 - Fone - 472 8209
+Suplente:
+Oneide Souza Cruz Conceição - RG: 11.446.536 - CPF: 070.731.628-64
+Diretora Executiva da APM da EE "Waldemar Belisário"
+Rua José Joaquim da Silva, nº 02 - Itaguaçu
+Ilhabela - SP - 11.630-000 - Fone - 472 2447
+2) Yeda Cristina Seno Lopes - RG: 26.258.293-3 - CPF: 141.568.698-06
+Mãe de aluno da Rede Municipal
+Rua Francisco Gomes da Silva Prado, nº 49 - Santa Tereza
+Ilhabela - SP - 11.630-000 - Fone - 472 2134
+Suplente:
+Terezinha Ribeiro de Santana - RG: 24.146.656-8 - CPF: 133.865.278-84
+Mãe de aluno da Rede Municipal
+Rua Pedro Álvares da Cruz, nº 278 - Perequê
+Ilhabela - SP - 11.630-000 - Fone -
+V -
+01 (um) representante e outro Segmento da Sociedade Civil:
+Roseli Augusto Olo - RG: 6.084.518 - CPF: 011.218.968-71
+Secretária da Associação Comercial e Industrial de Ilhabela
+Rua Maria Rita Franco Fonseca, nº 134 - Água Branca
+Ilhabela - SP - 11.630-000 - Fone - 472 8523
+Suplente:
+Diego de Moura Santos - RG: 40.483.277-5 - CPF: 221.128.078-11
+Encarregado de Setor da Colônia dos Pescadores Z-6 "Senador Vergueiro"
+Rua Leolino Clementino Barbosa, nº 274 - Água Branca
+Ilhabela - 11.630-000 - Fone - 472 2762
+##### Art. 2º
+Este Decreto entrará em vigor, na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 23 de agosto de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.082, DE 25/08/2000
+
+> **Ref:** ilh-2000-dec-2082 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA PARA FINS SOCIAIS DE TERRENO SITUADO NO BAIRRO DO REINO, MUNICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002082&NroLei=2.082&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.082, DE 25/08/2000
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA PARA FINS SOCIAIS DE TERRENO SITUADO NO BAIRRO DO REINO, MUNICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são conferidas pelo
+Decreto-Lei nº 3.365
+, de 21 de junho de 1941 e demais legislações atinentes a espécie, e
+DECRETA:
+##### Art. 1º
+Fica declarado de utilidade pública para fins sociais, o terreno adiante descrito e caracterizado, no bairro do Reino, Município de Ilhabela, Comarca de São Sebastião, Estado de São Paulo, que assim se descreve: Inicia-se no ponto "1", situado no eixo da ponte sobre o córrego da serrinha, margem esquerda da Rodovia Cel. José Vicente de Faria Lima, daí segue acompanhando o alinhamento da rodovia, sentido Perequê - Praia de Castelhanos, numa distância de 490,00m (quatrocentos e noventa metros), até atingir o ponto "2", daí deflete à esquerda e segue acompanhando o valo seco, numa distância de 122,98m (cento e vinte e dois metros e noventa e oito centímetros), até atingir o ponto "3", daí deflete à esquerda e segue acompanhando a cota 200, (divisa do Parque Estadual), numa distância de 1.134,85m (um mil, cento e trinta e quatro metros e oitenta e cinco centímetros), até atingir o ponto "4", daí deflete à esquerda e segue acompanhando o eixo do córrego da serrinha, numa distância de 891,14m (oitocentos e noventa e um metros e quatorze centímetros) até atingir o ponto onde tiveram início estas descrições, ponto "1", confrontando do ponto inicial, ponto "1", ao ponto "2", com a Rodovia Cel. José Vicente Faria Lima, do ponto "2" ao ponto "3" com quem de direito, do ponto "3" ao ponto "4", com Parque Estadual, do ponto "4" ao ponto inicial, ponto inicial, ponto "1", com quem de direito, encerrando a área total de 223.724,80m² (duzentos e vinte e três mil, setecentos e vinte e quatro metros e oitenta centímetros quadrados).
+##### Art. 2º
+Para os fins previstos no
+##### artigo 15, do Decreto Lei nº 3.365
+, de 21 de junho de 1941 e
+Lei nº 2.786
+, de 21 de maio de 1956, a declaração de utilidade pública de que trata o presente decreto é considerada de natureza urgente, ficando autorizada a Procuradoria Jurídica do Município à tomar as providências que se fizerem necessárias para imediata emissão de posse.
+##### Art. 3º
+As despesas decorrentes do presente Decreto correrão por conta de verba própria constante do orçamento que serão suplementadas se necessárias.
+##### Art. 4º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 25 de agosto de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.083, DE 01/09/2000
+
+> **Ref:** ilh-2000-dec-2083 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002083
+
+DECRETO MUNICIPAL Nº 2.083, DE 01/09/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+229.3120.29 - Material de Consumo ................ 2.000,00
+356.3132.56 - Outros Serviços e Encargos ................ 5.000,00
+509.3132.09 - Outros Serviços e Encargos ................ 15.000,00
+556.3120.56 - Material de Consumo ................ 5.000,00
+619.3132.19 - Outros Serviços e Encargos ................ 5.000,00
+721.3120.21 - Material de Consumo ................ 10.000,00
+721.3132.21 - Outros Serviços e Encargos ................ 5.000,00
+731.3120.31 - Material de Consumo ................ 20.000,00
+731.3132.31 - Outros Serviços e Encargos ................ 10.000,00
+731.3120.31 - Material de Consumo - Merenda ................ 50.000,00
+811.3120.11 - Material de Consumo ................ 3.000,00
+811.3132.11 - Outros Serviços e Encargos ................ 3.000,00
+811.3232.11 - Subvenção Econômica ................ 10.000,00
+972.3255.72 - Assistência M. Hospitalar ................ 10.000,00
+1045.3120.45 - Material de Consumo ................ 5.000,00
+1131.4110.31 - Obras e Instalações ................ 60.900,00
+1111.4110.11 - Obras e Instalações ................ 20.000,00
+1141.4110.41 - Obras e Instalações ................ 20.000,00
+Total à suplementar ................ 258.900,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+202.4120.02 - Equipamentos e Material Permanente ................ 15.000,00
+229.4120.29 - Equipamentos e Material Permanente ................ 2.000,00
+356.4120.56 - Equipamentos e Material Permanente ................ 5.000,00
+509.4120.09 - Obras e Instalações ................ 15.000,00
+519.4120.19 - Equipamentos e Material Permanente ................ 8.500,00
+526.4120.26 - Equipamentos e Material Permanente ................ 7.400,00
+556.4120.56 - Equipamentos e Material Permanente ................ 3.000,00
+556.3131.56 - Remuneração Serviços Pessoais ................ 1.000,00
+556.3232.56 - Subvenção Econômica ................ 1.000,00
+619.4120.19 - Equipamentos e Material permanente ................ 5.000,00
+721.4110.21 - Obras e Instalações ................ 15.000,00
+721.3120.21 - Material de Consumo - Merenda ................ 10.000,00
+721.4210.21 - Aquisição de Imóveis ................ 7.000,00
+761.3132.61 - Outros Serviços e Encargos ................ 8.000,00
+761.4110.61 - Obras e Instalações ................ 35.000,00
+811.4110.11 - Obras e Instalações ................ 4.900,00
+386.4110.86 - Obras e Instalações ................ 11.100,00
+972.4210.72 - Aquisição de Imóveis ................ 5.000,00
+972.4110.72 - Obras e Instalações ................ 5.000,00
+1045.4110.45 - Obras e Instalações ................ 45.000,00
+1121.4120.21 - Equipamentos e Material Permanente ................ 10.000,00
+1121.3132.21 - Outros Serviços e Encargos ................ 20.000,00
+1141.3132.41 - Outros Serviços e Encargos ................ 20.000,00
+Total à anular ................ 258.900,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 01 de setembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.084, DE 01/09/2000
+
+> **Ref:** ilh-2000-dec-2084 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002084
+
+DECRETO MUNICIPAL Nº 2.084, DE 01/09/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Fica suplementada as seguintes dotações orçamentárias constante do orçamento vigente da Fundação Arte e Cultura de Ilhabela - FUNDACI:
+101.3132.01 - Outros Serviços e Encargos ................ 5.300,00
+101.4110.01 - Obras e Instalações ................ 3.100,00
+Total à suplementar ................ 8.400,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+101.3113.01 - Obrigações Patronais ................ 2.000,00
+101.3120.01 - Material de Consumo ................ 5.400,00
+101.3131.01 - Remuneração S. Pessoais ................ 1.000,00
+Total à anular ................ 8.400,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos à 01 de agosto de 2000.
+Ilhabela, 01 de setembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.085, DE 01/09/2000
+
+> **Ref:** ilh-2000-dec-2085 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** SUPLEMENTA O ORÇAMENTO DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002085&NroLei=2.085&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.085, DE 01/09/2000
+SUPLEMENTA O ORÇAMENTO DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Fica suplementada o orçamento da Fundação Arte e Cultura de Ilhabela - FUNDACI para o exercício de 2000, para R$ 80.000,00 (oitenta mil reais);
+##### Art. 2º
+Os recursos para a alteração orçamentária acima serão obtidos através de Subvenção Econômica, repassada pela Prefeitura Municipal da Estância Balneária de Ilhabela.
+##### Art. 3º
+A dotação a receber subvenção é a seguinte:
+101.3132.01 - Outros Serviços e Encargos ................. 30.000,00
+##### Art. 4º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 01 de setembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.086, DE 04/09/2000
+
+> **Ref:** ilh-2000-dec-2086 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DECLARA PONTO FACULTATIVO O DIA 08 DE SETEMBRO DE 2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002086
+
+DECRETO MUNICIPAL Nº 2.086, DE 04/09/2000
+DECLARA PONTO FACULTATIVO O DIA 08 DE SETEMBRO DE 2000.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das atribuições legais;
+CONSIDERANDO o transcurso do dia da Independência, feriado nacional; e
+CONSIDERANDO a conveniência de minimizar os efeitos da quebra de rotina nos serviços públicos,
+DECRETA:
+##### Art. 1º
+Fica declarado facultativo o ponto, no dia 08 de setembro de 2000 (Sexta-feira), em todas as repartições públicas municipais.
+##### Art. 2º
+Os serviços essenciais, imprescindíveis à comunidade são os seguintes:
+I -
+Ambulância e remoção de pacientes em veículos leves;
+II -
+Coleta de Lixo;
+III -
+Limpeza de vias públicas e praias;
+IV -
+Fiscalização em todas as suas modalidades;
+V -
+Vigilância patrimonial; e
+VI -
+Atendimento a Postos Turísticos.
+##### Art. 3º
+Os serviços extraordinários serão escalados pelos Chefes imediatos com a homologação da Diretoria de Recursos Humanos.
+##### Art. 4º
+As horas não trabalhadas no dia 08 de setembro, serão descontadas dos funcionários que possuem créditos em folgas ou horas extras. Para os demais funcionários que não possuem créditos, será feita a compensação conforme escala determinada pelo Chefe imediato.
+##### Art. 5º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 04 de setembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.087, DE 11/09/2000
+
+> **Ref:** ilh-2000-dec-2087 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DECLARA HOSPEDES OFICIAIS DO MUNICÍPIO, O CO. CELSO RUBENS ALVES DE MOURA, GOVERNADOR DO ROTARY DISTRITO 4600 E SUA ILUSTRÍSSIMA ESPOSA, A SENHORA EDA COLLO DE MOURA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002087&NroLei=2.087&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.087, DE 11/09/2000
+DECLARA HOSPEDES OFICIAIS DO MUNICÍPIO, O CO. CELSO RUBENS ALVES DE MOURA, GOVERNADOR DO ROTARY DISTRITO 4600 E SUA ILUSTRÍSSIMA ESPOSA, A SENHORA EDA COLLO DE MOURA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam declarados hóspedes oficiais do Município, por ocasião de sua visita oficial no dia 13 de setembro de 2000, o Co. Celso Rubens Alves de Moura, DD Governador do Rotary Distrito 4600 e sua ilustríssima esposa a Senhora Eda Collo de Moura.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 11 de setembro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.088, DE 11/09/2000
+
+> **Ref:** ilh-2000-dec-2088 · **Tipo:** decreto · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A SUBSTITUIÇÃO DE MEMBROS DO CONSELHO DELIBERATIVO DO FUNDO SOCIAL DE SOLIDARIEDADE DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002088
+
+DECRETO MUNICIPAL Nº 2.088, DE 11/09/2000
+DISPÕE SOBRE A SUBSTITUIÇÃO DE MEMBROS DO CONSELHO DELIBERATIVO DO FUNDO SOCIAL DE SOLIDARIEDADE DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
+(Revogado pelo
+Decreto Municipal nº 039
+, de 09.01.2001)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam designados para compor o Fundo Social de Solidariedade do Município, os senhores:
+GLÓRIA DE FÁTIMA ALVES - Presidente
+ÉLCIO ROEFERO - Tesoureiro
+CONSELHO DELIBERATIVO
+Lygia Bernardeth Duarte Leme Pannochia
+Vera Lúcia Costa
+Marilene de Melo Souza
+Stella Maria Costa Nardy
+Dochie Dobrotá
+Lilia de Magalhães de Graaf
+Victor Rosa Balikó
+Sônia Maria Furtado
+Maria Márcia Vero
+##### Art. 2º
+Ficam revogadas as designações no
+Decreto 1.578
+de 17 de novembro de 1997.
+##### Art. 3º
+O presente Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos à 17 de novembro de 1999.
+(Revogado através do
+Decreto nº 39/2001
+)
+Ilhabela, 11 de setembro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.089, DE 20/09/2000
+
+> **Ref:** ilh-2000-dec-2089 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002089
+
+DECRETO MUNICIPAL Nº 2.089, DE 20/09/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+556.3120.56 - Material de Consumo ................ 10.000,00
+731.3132.31 - Outros Serviços e Encargos ................ 50.000,00
+731.3254.31 - Apoio Financeiro a Estudantes ................ 10.000,00
+972.3132.72 - Outros Serviços e Encargos ................ 55.000,00
+Total à suplementar ................ 125.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+519.3132.19 - Outros Serviços e Encargos ................ 5.000,00
+1045.3132.45 - Outros Serviços e Encargos ................ 5.000,00
+731.4110.31 - Obras e Instalações ................ 50.000,00
+761.4110.61 - Obras e Instalações ................ 10.000,00
+972.3231.72 - Subvenções Sociais ................ 55.000,00
+Total à anular ................ 125.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 20 de setembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.090, DE 02/10/2000
+
+> **Ref:** ilh-2000-dec-2090 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002090
+
+DECRETO MUNICIPAL Nº 2.090, DE 02/10/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+356.3132.56 - Outros Serviços e Encargos ................ 2.000,00
+356.4110.56 - Obras e Instalações ................ 30.000,00
+509.3132.09 - Outros Serviços e Encargos ................ 10.000,00
+509.4110.09 - Obras e Instalações ................ 5.000,00
+721.3132.21 - Outros Serviços e Encargos ................ 10.000,00
+721.4210.21 - Aquisição de Imóveis ................ 6.000,00
+811.4110.11 - Obras e Instalações ................ 3.000,00
+972.3120.72 - Material de Consumo ................ 20.000,00
+972.4120.72 - Equipamentos e Material Permanente ................ 180.000,00
+972.4210.72 - Aquisição de Imóveis ................ 9.000,00
+1045.3120.45 - Material de Consumo ................ 5.000,00
+1045.4110.45 - Obras e Instalações ................ 1.500,00
+1111.3120.11 - Material de Consumo ................ 5.000,00
+1121.3120.21 - Material de Consumo ................ 5.000,00
+Total à suplementar ................ 291.500,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+356.3132.56 - Outros Serviços e Encargos ................ 32.000,00
+731.4110.31 - Obras e Instalações ................ 16.000,00
+972.4110.72 - Obras e Instalações ................ 209.000,00
+1045.3132.45 - Outros Serviços e Encargos ................ 11.500,00
+1111.4120.11 - Equipamentos e Material Permanente ................ 5.000,00
+1121.3132.21 - Outros Serviços e Encargos ................ 8.000,00
+1045.4120.45 - Equipamentos e Material Permanente ................ 10.000,00
+Total à anular ................ 291.500,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 02 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.091, DE 05/10/2000
+
+> **Ref:** ilh-2000-dec-2091 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** APROVA O REGIMENTO INTERNO DO INSTITUTO HISTÓRICO, GEOGRÁFICO E ARQUEOLÓGICO DE ILHABELA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002091&NroLei=2.091&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.091, DE 05/10/2000
+APROVA O REGIMENTO INTERNO DO INSTITUTO HISTÓRICO, GEOGRÁFICO E ARQUEOLÓGICO DE ILHABELA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Fica aprovado o Regimento Interno do Instituto Histórico, Geográfico e Arqueológico, órgão criado pela
+Lei Municipal nº 957
+de 15 de setembro de 2000, que a este acompanha.
+##### Art. 2º
+O presente Decreto entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+Ilhabela, 05 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume. GP/lvs/00
+Regimento Interno do Instituto Histórico, Geográfico e Arqueológico de Ilhabela
+### CAPÍTULO I - DA DENOMINAÇÃO E AFINS
+##### Art. 1º
+O Instituto Histórico, Geográfico e Arqueológico de Ilhabela é órgão suplementar e de apoio à Secretaria Municipal de Cultura.
+##### Art. 2º
+O Instituto Histórico, Geográfico e Arqueológico de Ilhabela reger-se-á pelo disposto neste Regimento e pela Lei Orgânica do Município de Ilhabela.
+### CAPÍTULO II - DAS FINALIDADES
+##### Art. 3º
+O Instituto Histórico, Geográfico e Arqueológico de Ilhabela tem por finalidades:
+I -
+Elaborar estudos acerca do patrimônio ambiental, arqueológico, arquitetônico, arquivístico, artístico, histórico, museológico, urbanístico, sejam eles representados por bens de natureza material ou imaterial;
+II -
+Proceder à identificação dos bens culturais do município;
+III -
+Assessorar o Poder Público Municipal no desenvolvimento de políticas municipais de preservação do patrimônio cultural do município;
+IV -
+Proteger e defender os documentos históricos da municipalidade, empresas, sindicatos, partidos políticos e outros que tenham relevância para a história e a memória de Ilhabela;
+V -
+Reunir, manter e disponibilizar à consulta pública acervo arquivístico, museológico, arqueológico e bibliográfico especializado nas áreas afins, em espaço adequado, garantidas as condições satisfatórias para sua conservação e organização, observada a legislação federal pertinente;
+VI -
+Promover o patrimônio cultural do município nas formas estabelecidas no artigo 4º, parágrafo II, visando garantir o acesso da população à sua história, o aperfeiçoamento da democracia e à construção da cidadania;
+VII -
+Estimular as manifestações culturais, sejam elas artísticas, folclóricas e o conhecimento e técnicas das comunidades caiçaras tradicionais.
+##### Art. 4º
+Para a concretização de seus objetivos, o Instituto Histórico, Geográfico e Arqueológico de Ilhabela poderá adotar as seguintes medidas:
+I -
+Propor a celebração de convênios ou acordos com entidades públicas ou particulares, visando a identificação, preservação, estudo e promoção do patrimônio de que trata o artigo 3º;
+II -
+Promover cursos, palestras e oficinas, bem como publicações na forma de informativos, jornais e livros, para difundir estudos, pesquisas e políticas de preservação;
+III -
+Opinar sobre a restauração e conservação de bens móveis e imóveis, inclusive os de interesse paisagístico e/ou ecológico, articulando-se, nesses casos, as ações com os demais órgãos encarregados da preservação desses bens;
+IV -
+Elaborar pareceres de apoio técnico e consultivos pertinentes à sua área de ação.
+### CAPÍTULO III - DA ADMINISTRAÇÃO
+##### Art. 5º
+O Instituto Histórico, Geográfico e Arqueológico de Ilhabela será coordenado pelo Secretário(a) Municipal de Cultural ou por pessoa nomeada por ele(a).
+##### Art. 6º
+O Instituto Histórico, Geográfico e Arqueológico de Ilhabela poderá ter um Corpo de Associados, o qual deverá acompanhar e colaborar nas atividades e projetos desenvolvidos pelo Instituto, sem ônus para a Secretaria Municipal de Cultura.
+### CAPÍTULO IV - DO CORPO DE ASSOCIADOS E ESTAGIÁRIOS
+##### Art. 7º
+Poderão enquadrar-se na categoria de associados, mediante aprovação da Coordenação do Instituto, os interessados em geral e pesquisadores, que se identifiquem com os objetivos do
+##### art. 3º do Capítulo II
+.
+##### Art. 8º
+Ao associado, será permitido o uso das instalações e dos equipamentos do Instituto, mediante prévia consulta e aprovação da Coordenação.
+##### Art. 9º
+Poderá o associado divulgar trabalhos referentes ao projeto apoiado por este Instituto, seja em publicações, reuniões científicas, filmes ou exposições, sempre mencionando o nome desta Instituição.
+##### Art. 10.
+Os associados não receberão remuneração por parte da Secretaria Municipal de Cultura, não lhes sendo vedado, no entanto, o recebimento de remuneração paga por terceiros, mediante convênio assinado pelo Instituto Histórico, Geográfico e Arqueológico de Ilhabela.
+##### Art. 11.
+Poderão ser estagiários deste Instituto, alunos de graduação das áreas afins, interessados em colaborar com as atividades em curso na Instituição.
+### CAPÍTULO V - DAS DISPOSIÇÕES GERAIS
+##### Art. 12.
+A Secretaria Municipal de Cultura colocará à disposição do Instituto, laboratório e equipamentos adequados às finalidades propostas.
+##### Art. 13.
+A duração do Instituto Histórico, Geográfico e Arqueológico de Ilhabela é por tempo indeterminado.
+##### Art. 14.
+O presente Regimento entra em vigor a partir desta data.
+Ilhabela, 05 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Ilhabela, 05 de outubro de 2000.
+Ilustríssima Senhora
+Maria Lúcia Franco Pardi
+Instituto do Patrimônio Histórico e Artístico Nacional - Iphan
+9ª Superintendência Regional
+Venho por meio desta, declarar que o Instituto Histórico, Geográfico e Arqueológico de Ilhabela, colocou à disposição o seu laboratório e reserva técnica para o desenvolvimento do Projeto Arqueológico de Ilhabela, sob coordenação do arqueólogo Plácido Cali, do Centro de Estudos e Defesa do Patrimônio Cultural (Cedepac), bem como, será a depositária final do material arqueológico coletado durante as pesquisas.
+Atenciosamente
+Yole Pierro
+Secretária Municipal de Cultura
+
+---
+
+# DECRETO MUNICIPAL Nº 2.092, DE 11/10/2000
+
+> **Ref:** ilh-2000-dec-2092 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** PERMISSÃO DE USO E OCUPAÇÃO, DO PRÓPRIO MUNICIPAL, PARA REALIZAÇÃO DO EVENTO \"CANTA ILHA 2000\".
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002092&NroLei=2.092&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.092, DE 11/10/2000
+PERMISSÃO DE USO E OCUPAÇÃO, DO PRÓPRIO MUNICIPAL, PARA REALIZAÇÃO DO EVENTO "CANTA ILHA 2000".
+A PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, Sr.ª NILCE SIGNORINI, no uso de suas atribuições e poderes que lhe são conferidos pela
+Lei Orgânica do Município
+, pelos
+artigos 12 inciso II
+e
+45 V
+, assim como a
+Lei 98/80
+em seu
+### Capítulo I artigos 1º
+,
+2º e 4º parágrafos 1º e 2º
+### Capítulo IV artigo 11-D
+,
+### Capítulo XVII artigo 113
+e
+### Capítulo XVIII artigo 115 parágrafo 3º
+,
+CONSIDERANDO a Praça de Eventos "Roberto Fazzini" como local ideal para a realização de eventos de médio e grande portes, por sua localização e dimensões;
+CONSIDERANDO que a realização destes eventos na Vila causaria o seccionamento do Município, com interrupção do fluxo de trânsito;
+CONSIDERANDO o interesse da Municipalidade na realização de eventos em apoio as atividades comerciais e culturais de Ilhabela, sem custos direto aos cofres públicos;
+CONSIDERANDO os despachos e fundamentos havidos no requerimento protocolado nº 6.599/00, tendo como requerente o Ministro de Culto Religioso Senhor Wilson José F. Victinho, representando a IGREJA DO EVANGELHO QUADRANGULAR.
+DECRETA:
+##### Art. 1º
+Fica permitido, a título precário e por prazo determinado, à IGREJA DO EVANGELHO QUADRANGULAR a utilização do logradouro público sito à Rua Bartolomeu de Gusmão, quadra única, antigo Campo de Aviação para a realização, no dia 14 de outubro de 2000, das 20 às 24 h, do seguinte evento "CANTA ILHA 2000".
+##### Art. 2º
+O prazo de permissão iniciar-se-á no dia 14 de outubro, encerrando-se no dia 15 de outubro de 2000.
+##### Art. 3º
+A Permissionária terá, enquanto perdurar a permissão, a responsabilidade de:
+a)
+Vigilância do Evento;
+b)
+Dano para com terceiros;
+c)
+Custos prepostos;
+d)
+Segurança dos indivíduos e patrimônio público e privado;
+e)
+Pagamento de funcionários;
+f)
+Limpeza pública das dependências;
+g)
+Manter as benfeitorias realizadas para o evento à critério da Prefeitura;
+h)
+Observar e cumprir a legislação pertinente.
+##### Art. 4º
+A permissão será fornecida pelo prazo especificado, desde que cumprida pela Permissionária todas as exigências deste Decreto, caso contrário responderá por todos os danos que causar ao Município.
+##### Art. 5º
+Este Decreto terá sua vigência após devida publicação, dando-se ciência por ofício de seus termos às autoridades policiais civis e militares para planejamento de segurança pública.
+Ilhabela, 11 de outubro de 2000.
+NILCE SIGNORINI,
+Prefeita Municipal.
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+SMPG/amn/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.093, DE 13/10/2000
+
+> **Ref:** ilh-2000-dec-2093 · **Tipo:** decreto · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A SUBSTITUIÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, NOMEADOS ATRAVÉS DO DECRETO MUNICIPAL Nº 2.074/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002093
+
+DECRETO MUNICIPAL Nº 2.093, DE 13/10/2000
+DISPÕE SOBRE A SUBSTITUIÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, NOMEADOS ATRAVÉS DO DECRETO MUNICIPAL Nº 2.074/2000.
+(Revogado pelo
+Decreto Municipal nº 019
+, de 02.01.2001)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam designados os servidores IEDA MORGAN FERNANDES, brasileira, solteira, portadora da Carteira de Identidade RG nº 3.526.014-2 e do CPF/MF nº 245.730.518-72, Assessora Jurídica; ELCIO ROEFERO, brasileiro, casado, Técnico de Contabilidade, portador da Carteira de Identidade RG nº 4.888.183 e CPF/MF nº 192.028.308-00, Secretário Municipal de Finanças; MARIA JOSÉ FIGUEIREDO VALIM, brasileira, casada, portadora da Carteira de Identidade RG nº 11.880.079 e CPF/MF nº 987.772.628-91, Secretária de Diretoria; JOSELI DE FREITAS, brasileira, solteira, portadora da Carteira de Identidade RG nº 16.841.689 e CPF/MF nº 054.005.938-28, Auxiliar Administrativo; BENEDITO WENCESLAU NETO, brasileiro, casado, portador da Carteira de Identidade RG nº 21.786.639 e do CIC nº 150.295.158-44, Assistente Administrativo; NILTON SALOMÃO COSTA, brasileiro, solteiro, portador da Carteira de Identidade RG nº 16.841.745 e CPF/MF nº 063.448.698-52, Oficial Administrativo; ANA MARIA NOGUEIRA, brasileira, casada, portadora da Carteira de Identidade RG nº 5.495.209 e CPF/MF nº 172.924.818-76, Secretaria de Diretoria, para sob a Presidência do primeiro designado, comporem a Comissão Permanente de Licitação da Prefeitura Municipal da Estância Balneária de Ilhabela.
+##### Art. 2º
+O presente Decreto entra em vigor na data de sua publicação revogando-se as disposições em contrário.
+(Revogado através do
+Decreto nº 19/2001
+)
+Ilhabela, 13 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em livro próprio, e afixado na data supra, no lugar de costume.
+PJ/rcm/00.
+
+---
+
+# DECRETO MUNICIPAL Nº 2.094, DE 16/10/2000
+
+> **Ref:** ilh-2000-dec-2094 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DECLARA HOSPEDES OFICIAIS DO MUNICÍPIO, O CL. JOSÉ ROBERTO JÚLIO, GOVERNADOR DO LIONS CLUB DO DISTRITO LC-5 E SUA ILUSTRÍSSIMA DOMADORA, A SENHORA LAUCINÉIA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002094&NroLei=2.094&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.094, DE 16/10/2000
+DECLARA HOSPEDES OFICIAIS DO MUNICÍPIO, O CL. JOSÉ ROBERTO JÚLIO, GOVERNADOR DO LIONS CLUB DO DISTRITO LC-5 E SUA ILUSTRÍSSIMA DOMADORA, A SENHORA LAUCINÉIA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam declarados hóspedes oficiais do Município, por ocasião de sua visita oficial no dia 19 de outubro de 2000, o CL. José Roberto Júlio, DD Governador do Lions Club Distrito LC-5 e sua ilustríssima domadora a Senhora Laucinéia.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 16 de outubro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/dbsj/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.095, DE 17/10/2000
+
+> **Ref:** ilh-2000-dec-2095 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DO SENHOR NIVALDO SIMÕES, QUE EXERCE EM COMISSÃO, O CARGO DE DIRETOR DE DEPARTAMENTO DA DEFESA CIVIL E FISCALIZAÇÃO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002095&NroLei=2.095&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.095, DE 17/10/2000
+DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DO SENHOR NIVALDO SIMÕES, QUE EXERCE EM COMISSÃO, O CARGO DE DIRETOR DE DEPARTAMENTO DA DEFESA CIVIL E FISCALIZAÇÃO.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica exonerado, à pedido, o Senhor NIVALDO SIMÕES, brasileiro, divorciado, Jornalista, portador da Carteira de Identidade RG nº 6.542.334 e do CPF/MF nº 533.376.118-34, que exerce em comissão, o cargo de Diretor de Departamento da Defesa Civil e Fiscalização, nos termos da
+Lei Municipal nº 649
+, de 29 de julho de 1997, com alterações da
+Lei Municipal nº 884
+de 05 de janeiro de 2000.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 17 de outubro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.096, DE 18/10/2000
+
+> **Ref:** ilh-2000-dec-2096 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DA SENHORA RAQUEL NEIDE CRAVEIRO DE ANDRADE, QUE EXERCE EM COMISSÃO O CARGO DE CHEFE DE SEÇÃO DE ARTES E OFÍCIOS - CAT I.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002096&NroLei=2.096&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.096, DE 18/10/2000
+DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DA SENHORA RAQUEL NEIDE CRAVEIRO DE ANDRADE, QUE EXERCE EM COMISSÃO O CARGO DE CHEFE DE SEÇÃO DE ARTES E OFÍCIOS - CAT I.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica exonerada, à pedido, a Senhora RAQUEL NEIDE CRAVEIRO DE ANDRADE, brasileira, casada, portadora da Carteira de Identidade RG nº 3.445.928 e do CIC nº 273.959.608-15, que exerce em comissão, o cargo de Chefe de Seção de Artes e Ofícios - Cat I, nos termos da
+Lei Municipal nº 649
+, de 29 de julho de 1997, com alterações da
+Lei Municipal nº 884
+de 05 de janeiro de 2000, lotada na Secretaria Municipal de Educação.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 18 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.097, DE 20/10/2000
+
+> **Ref:** ilh-2000-dec-2097 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002097
+
+DECRETO MUNICIPAL Nº 2.097, DE 20/10/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+483.3113.83 - Obrigações Patronais ................ 2.000,00
+509.3132.09 - Outros Serviços e Encargos ................ 25.000,00
+509.3192.09 - Despesas Exercício Anteriores ................ 2.100,00
+509.3231.09 - Subvenções Sociais ................ 25.000,00
+731.3120.31 - Material de Consumo ................ 10.000,00
+972.3255.72 - Assistência Médica Hospitalar ................ 10.000,00
+1111.4110.11 - Obras e Instalações ................ 5.000,00
+619.3132.19 - Outros Serviços e Encargos ................ 5.000,00
+972.4120.72 - Equipamentos e Material Permanente ................ 80.000,00
+Total à suplementar ................ 164.100,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+1131.4110.31 - Obras e Instalações ................ 20.000,00
+483.4110.83 - Obras e Instalações ................ 2.000,00
+509.4210.09 - Aquisição de Imóveis ................ 2.900,00
+519.4110.19 - Obras e Instalações ................ 4.200,00
+356.3120.56 - Material de Consumo ................ 25.000,00
+731.4110.31 - Obras e Instalações ................ 10.000,00
+619.4120.19 - Equipamentos e Material Permanente ................ 10.000,00
+1141.4110.41 - Obras e Instalações ................ 10.000,00
+972.4110.72 - Obras e Instalações ................ 80.000,00
+Total à anular ................ 164.100,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 20 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.098, DE 25/10/2000
+
+> **Ref:** ilh-2000-dec-2098 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A VIGÊNCIA E ORGANIZAÇÃO DO PLANO PREVENTIVO DE DEFESA CIVIL.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002098&NroLei=2.098&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.098, DE 25/10/2000
+DISPÕE SOBRE A VIGÊNCIA E ORGANIZAÇÃO DO PLANO PREVENTIVO DE DEFESA CIVIL.
+NILCE SIGNORINI, usando das atribuições que lhe são conferidas por lei e considerando o período chuvoso que passa a configurar-se nos próximos meses, gerando possíveis riscos aos moradores;
+DECRETA:
+##### Art. 1º
+Fica estabelecida, para o período entre 1º de dezembro de 2000 e 31 de dezembro de 2000, a vigência do Plano Preventivo de Defesa Civil (PPDC) para o município de Ilhabela.
+Parágrafo único.
+Se as condições climáticas assim o exigirem, a vigência do PPDC poderá ser prorrogada para até 30 de abril de 2001.
+##### Art. 2º
+O PPDC será operado segundo critérios técnicos previstos pela Coordenadoria Estadual de Defesa Civil (CEDEC), com base na legislação estadual, por meio do monitoramento de dados pluviométricos, da previsão metereológica e de manifestações das encostas, bem como pela minimização de riscos através da remoção de famílias que se encontrem ameaçadas.
+Parágrafo único.
+A rotina operacional do PPDC acha-se detalhada no "Anexo I", que faz parte integrante do presente decreto.
+##### Art. 3º
+Compete ao presidente da Comissão Municipal da Defesa (COMDEC) de Ilhabela a Coordenação Geral do PPDC, atuando em colaboração com os órgãos da Prefeitura de Ilhabela aqui mencionados e com as autoridades policiais locais.
+§ 1º
+Compete à Coordenação Geral comunicar ao Prefeito e à Regional de Defesa Civil (REDEC) com sede na cidade de Santos -, as eventuais alterações dos "Níveis do PPDC" previstos no Anexo I e prover a necessária infra-estrutura para implemento e garantia de operação do Plano, providenciando transporte, equipamentos, recursos financeiros, alimentação e outros que se façam necessários, coordenando as condições de possíveis remoções das famílias, e determinando a adoção das medidas legais necessárias ao desempenho das suas funções.
+§ 2º
+À Comdec de Ilhabela compete responder pelos critérios técnicos de operação do PPDC que darão subsídios para a deflagração e retorno dos "Níveis do PPDC", incluindo a coleta dos informes metereológicos e o monitoramento dos dados pluviométricos, retransmitindo-os, diariamente, à REDEC.
+§ 3º
+A Coordenação de Desobstrução de Vias e Obras Emergenciais é de responsabilidade do Diretor de Serviços Públicos, com colaboração da Secretaria Municipal de Obras, tendo por competência programar e acionar pessoal e equipamento quando necessário, de acordo com os "Níveis do PPDC".
+§ 4º
+A possível remoção de famílias terá o apoio da Secretaria Municipais da Ação Social, que terá a incumbência de encaminhar os desabrigados para a casa de amigos e parentes ou para abrigos - com apoio da Secretaria Municipal da Saúde -, tendo como competência planejar, viabilizar e administrar abrigo, transporte e alimentação das famílias removidas, dimensionando recursos para abrigar de 1 a 20 famílias. Caberá à Secretaria Municipal da Saúde fazer os encaminhamentos de pronto-socorro necessários.
+§ 5º
+A Coordenação de infra-estrutura é de responsabilidade da Secretaria Municipal de Planejamento e Gestão, com a colaboração do Setor de Compras, tendo como competência planejar e viabilizar o controle de ocorrências, alimentação de funcionários, equipamentos e materiais necessários à operação do PPDC.
+§ 6º
+A Coordenação de Resgate e Salvamento é de responsabilidade da Coordenação Geral das Operações do PPDC, com apoio das polícias Civil e Militar, tendo como competência acionar, orientar e operar o sistema de emergência.
+##### Art. 4º
+As despesas com a execução desde decreto correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+##### Art. 5º
+Este Decreto entra em vigor na data da publicação, revogadas as disposições em contrário.
+Ilhabela, 25 de outubro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+
+---
+
+# DECRETO MUNICIPAL Nº 2.099, DE 25/10/2000
+
+> **Ref:** ilh-2000-dec-2099 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DO SENHOR JOSÉ OSVALDO DOS SANTOS, QUE EXERCE, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE COMPRADOR, NOMEADO ATRAVÉS DO DECRETO Nº 1.965/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002099&NroLei=2.099&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.099, DE 25/10/2000
+DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DO SENHOR JOSÉ OSVALDO DOS SANTOS, QUE EXERCE, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE COMPRADOR, NOMEADO ATRAVÉS DO DECRETO Nº 1.965/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica exonerado, à pedido, o Senhor JOSÉ OSVALDO DOS SANTOS, desquitado, brasileiro, portador da Carteira de Identidade RG nº 13.884.567-0, CPF/MF nº 042.479.008-46, que exerce, no quadro de funcionários permanente, a função de Comprador, nomeado através do
+Decreto Municipal nº 1.965/2000
+, nos termos da
+Lei Municipal nº 649
+, de 29 de julho de 1997, com alterações da
+Lei Municipal nº 884
+de 05 de janeiro de 2000, lotado na Secretaria Municipal de Educação, referência 09.
+##### Art. 2º
+Este Decreto entrará em vigor, na data de sua publicação, retroagindo seus efeitos à 10 de outubro de 2000.
+Ilhabela, 25 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.100, DE 25/10/2000
+
+> **Ref:** ilh-2000-dec-2100 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** REVOGA O ARTIGO 1º DO DECRETO MUNICIPAL Nº 1.940/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002100&NroLei=2.100&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.100, DE 25/10/2000
+REVOGA O ARTIGO 1º DO DECRETO MUNICIPAL Nº 1.940/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica revogado o
+##### artigo 1º do Decreto Municipal nº 1.940/2000, passando a vigorar com a seguinte redação:
+"Art. 1º Fica nomeado o Senhor EVANDRO DE CARVALHO, solteiro, brasileiro, portador da Carteira de Identidade RG nº 27.795.933-0, CPF/MF nº 190.523.728-61, para exercer, no quadro de funcionários permanente, a função de Secretário de Diretoria, nos termos da Lei Municipal nº 649, de 29 de julho de 1997, com alterações da Lei Municipal nº 884 de 05 de janeiro de 2000, de acordo com o artigo 36 do Decreto nº 1.875/2000, que aprova o Regulamento Geral de Concursos para provimento de cargos ao Serviço Público Municipal, referência 12."
+##### Art. 2º
+Este Decreto entrará em vigor, na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 25 de outubro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.101, DE 30/10/2000
+
+> **Ref:** ilh-2000-dec-2101 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A SUBSTITUIÇÃO DOS MEMBROS E DOS SUPLENTES MUNICIPAIS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE - CMDCAI.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002101&NroLei=2.101&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.101, DE 30/10/2000
+DISPÕE SOBRE A SUBSTITUIÇÃO DOS MEMBROS E DOS SUPLENTES MUNICIPAIS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE - CMDCAI.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam nomeados para compor o Conselho Municipal dos Direitos da Criança e do Adolescente de Ilhabela - CMDCAI, na qualidade de representantes do Poder Público Municipal, na forma do
+##### artigo 12, inciso I, da Lei nº 459/92
+, os seguintes membros:
+TITULARES
+ROSEDIR SAMPAIO DE JESUS - portadora da Carteira de Identidade RG: 11.848.730, (Secretaria Municipal de Finanças);
+GLÓRIA DE FÁTIMA ALVES - portadora da Carteira de Identidade RG nº 6.430.290, (Secretaria Municipal de Assistência Social);
+ARLENE BALAGUE TRALLERO OLIVEIRA - portadora da Carteira de Identidade RG nº 5.155.541, (Secretaria Municipal de Saúde);
+MARIA JOSÉ FIGUEIREDO VALIM - portadora da Carteira de Identidade RG nº 11.880.079, (Secretaria Municipal de Educação);
+SUPLENTES
+ÉLCIO ROEFERO - portador da Carteira de Identidade RG nº 4.888.183, (Secretaria Municipal de Finanças);
+WLADYMIR FERRAZ CAMARGO LINS - portador da Carteira de Identidade RG nº 04.061.755-7, (Secretaria Municipal de Assistência Social);
+CLAUDIO CELSO MONTEIRO - portador da Carteira de Identidade RG nº 10.552.513-3, (Secretaria Municipal de Saúde);
+FERNANDA CRISTINA DE JESUS NASCIMENTO - portadora da Carteira de Identidade RG nº 23.137.490-2, (Secretaria Municipal de Educação);
+##### Art. 2º
+Ficam nomeados para compor o Conselho Municipal dos Direitos da Criança e do Adolescente de Ilhabela - CMDCAI, na qualidade de representantes da Sociedade Civil, na forma do
+##### artigo 12, inciso II, da Lei nº 459/92
+, os seguintes membros:
+TITULARES
+OFÉLIA CORREA DE SOUZA - portadora da Carteira de Identidade RG nº 7.741.737, (Centro de Convivência São Vicente de Paulo);
+AMÉLIA RAFAEL DE SOUZA - portadora da Carteira de Identidade RG nº 5.264.239-2, (Associação Creche de Ilhabela);
+RICARDO SEVERINO - portador da Carteira de Identidade RG nº 19.247.367, (A.P.M. Professora Mércia do Nascimento Dias);
+MAURÍCIO BURIZIK CALIL - portador da Carteira de Identidade RG nº 10.464.270, (SACI - Sociedade Amigos Crianças de Ilhabela);
+SUPLENTES
+POEMA A. R. SANTOS - portadora da Carteira de Identidade RG nº 1.354.917, (Grupo VIC);
+SEBASTIÃO CLEMENTINO DOS SANTOS - portador da Carteira de Identidade RG nº 7.558.894, (SABBV - Sociedade Amigos de Bairro da Barra Velha);
+WAGNER DOS SANTOS - portador da Carteira de Identidade RG nº 25.220.117-6, (APM Ana Leite Julião Torres);
+MÔNICA SEIBEL - portadora da Carteira de Identidade RG nº 7.766.149, (APAE - Associação de Pais e Amigos dos Excepcionais).
+##### Art. 3º
+As despesas decorrentes do presente Decreto correrão por conta de verba própria constante do orçamento vigente.
+##### Art. 4º
+O presente Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+Ilhabela, 30 de outubro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.102, DE 01/11/2000
+
+> **Ref:** ilh-2000-dec-2102 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002102
+
+DECRETO MUNICIPAL Nº 2.102, DE 01/11/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+101.3120.01 - Material de Consumo ........................... 5.000,00
+356.3132.56 - Outros Serviços e Encargos ......................... 5.000,00
+356.3113.56 - Obrigações Patronais ......................... 2.000,00
+519.3120.19 - Material de Consumo ......................... 3.000,00
+519.3132.19 - Outros Serviços e Encargos ......................... 3.000,00
+556.3120.56 - Material de Consumo ......................... 10.000,00
+556.3132.56 - Outros Serviços e Encargos ......................... 3.000,00
+619.3132.19 - Outros Serviços e Encargos ......................... 15.000,00
+619.4354.19 - Outras Amortizações ......................... 30.000,00
+731.3120.31 - Material de Consumo ......................... 10.000,00
+731.4120.31 - Equipamento e Material Permanente ......................... 5.000,00
+731.3120.31 - Material de Consumo M. Escolar ......................... 30.000,00
+811.3132.11 - Outros Serviços e Encargos ......................... 2.000,00
+972.3120.72 - Material de Consumo ......................... 60.000,00
+1045.3120.45 - Material de Consumo ......................... 5.000,00
+1111.3120.11 - Material de Consumo ......................... 5.000,00
+1111.3132.11 - Outros Serviços e Encargos ......................... 3.000,00
+1151.3132.51 - Outros Serviços e Encargos ......................... 3.000,00
+972.3132.72 - Outros Serviços e Encargos ......................... 50.000,00
+Total à suplementar ......................... 249.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+101.3111.01 - Pessoal Civil
+10.000,00
+101.3113.01 - Obrigações Patronais ......................... 2.206,64
+101.3131.01 - Remunerações Serviços Pessoais ......................... 28.000,00
+101.3132.01 - Outros Serviços e Encargos ......................... 10.000,00
+101.4110.01 - Obras e Instalações ......................... 4.570,78
+101.4120.01 - Equipamento e Material Permanente ......................... 20.000,00
+356.4110.56 - Obras e Instalações ......................... 41.000,00
+202.3113.02 - Obrigações Patronais ......................... 6.000,00
+519.4120.19 - Equipamento e Material Permanente ......................... 4.000,00
+509.4120.09 - Equipamento e Material Permanente ......................... 15.000,00
+619.3280.19 - Contribuição para Formação Pasep ......................... 15.000,00
+731.4110.31 - Obras e Instalações ......................... 45.000,00
+811.3113.11 - Obrigações Patronais ......................... 1.000,00
+811.4110.11 - Obras e Instalações ......................... 1.000,00
+972.3231.72 - Subvenção Sociais ......................... 46.222,58
+Total à anular ......................... 249.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 01 de novembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.103, DE 06/11/2000
+
+> **Ref:** ilh-2000-dec-2103 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002103
+
+DECRETO MUNICIPAL Nº 2.103, DE 06/11/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+356.4110.56 - Obras e Instalações
+107.400,00
+1045.4110.45 - Obras e Instalações ......................... 4.000,00
+Total à suplementar ......................... 111.400,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+202.3131.02 - Remunerações Serviços Pessoais
+1.000,00
+229.3111.29 - Pessoal Civil ......................... 1.000,00
+229.4120.29 - Equipamento e Material Permanente ......................... 1.800,00
+356.3131.56 - Remunerações Serviços Pessoais ......................... 1.000,00
+356.4110.56 - Obras e Instalações 11653632007 ......................... 16.500,00
+356.4120.56 - Equipamento e Material Permanente ......................... 1.000,00
+356.3120.56 - Material de Consumo ......................... 2.800,00
+356.3132.56 - Outros Serviços e Encargos ......................... 2.750,00
+509.3131.09 - Remunerações Serviços Pessoais ......................... 1.000,00
+519.3232.19 - Subvenção Econômica ......................... 1.000,00
+972.3131.72 - Remunerações Serviços Pessoais ......................... 1.000,00
+811.4120.11 - Equipamento e Material Permanente ......................... 550,00
+202.3113.02 - Obrigações Patronais ......................... 9.000,00
+202.4120.02 - Equipamento e Material Permanente ......................... 7.000,00
+202.3132.02 - Outros Serviços e Encargos 15814872023 ......................... 35.000,00
+202.3132.02 - Outros Serviços e Encargos 15814872032 ......................... 3.800,00
+493.3231.93 - Subvenções Sociais ......................... 20.000,00
+493.3132.93 - Outros Serviços e Encargos ......................... 5.200,00
+Total à anular ......................... 111.400,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 06 de novembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.104, DE 06/11/2000
+
+> **Ref:** ilh-2000-dec-2104 · **Tipo:** decreto · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA PARA FINS SOCIAIS DE TERRENO SITUADO NO BAIRRO DO BONETE, MUICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002104
+
+DECRETO MUNICIPAL Nº 2.104, DE 06/11/2000
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA PARA FINS SOCIAIS DE TERRENO SITUADO NO BAIRRO DO BONETE, MUICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
+(Revogado pelo
+Decreto Municipal nº 8.990
+, de 02.02.2022)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são conferidas pelo
+Decreto-Lei nº 3.365
+, de 21 de junho de 1941 e demais legislações atinentes a espécie, e
+DECRETA:
+##### Art. 1º
+Fica declarado de utilidade pública para fins sociais, o terreno adiante descrito e caracterizado, no bairro do Bonete, Município de Ilhabela, Comarca de São Sebastião, Estado de São Paulo, que assim se descreve: mede 10,00m (dez metros) de frente para terreno de Marinha, do lado direito de quem da frente olha para o terreno mede 60,00m (sessenta metros), confrontando com uma Rua existente com a largura de 2,50m, do lado esquerdo de quem da frente olha para o terreno mede 60,00m (sessenta metros), confrontando com quem de direito, nos fundos mede 10,00m (dez metros), confrontando com quem de direito, encerrando uma área de 600,00m² (seiscentos metros quadrados), existindo no terreno a mais de 50 anos, a construção de um templo religioso.
+##### Art. 2º
+Para os fins previstos no
+##### artigo 15, do Decreto Lei 3.365
+, de 21 de junho de 1941 e
+Lei nº 2.786
+, de 21 de maio de 1956, a declaração de utilidade pública de que trata o presente decreto é considerada de natureza urgente, ficando autorizada a Procuradoria Jurídica do Município à tomar as providências que se fizerem necessárias para imediata emissão de posse.
+##### Art. 3º
+As despesas decorrentes do presente Decreto correrão por conta de verba própria constante do orçamento que serão suplementadas se necessárias.
+##### Art. 4º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 06 de novembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/IMF/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.105, DE 20/11/2000
+
+> **Ref:** ilh-2000-dec-2105 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002105
+
+DECRETO MUNICIPAL Nº 2.105, DE 20/11/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+202.3132.02 - Outros Serviços e Encargos .............. 3.000,00
+509.3132.09 - Outros Serviços e Encargos ................. 15.000,00
+556.3120.56 - Material de Consumo ................. 5.000,00
+731.3221.31 - Transferência a União ................. 100.000,00
+1121.3120.21 - Material de Consumo ................. 1.000,00
+Total à suplementar ................. 124.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+202.3120.02 - Material de Consumo ............... 3.000,00
+386.4110.86 - Obras e Instalações .................... 7.000,00
+493.4120.93 - Equipamento e Material Permanente .................... 7.000,00
+1045.4120.45 - Equipamento e Material Permanente .................... 3.000,00
+1111.4120.11 - Equipamento e Material Permanente .................... 4.000,00
+731.4110.31 - Obras e Instalações .................... 100.000,00
+Total à anular .................... 124.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 20 de novembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.106, DE 20/11/2000
+
+> **Ref:** ilh-2000-dec-2106 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO DE AVALIAÇÃO DOS PROJETOS CULTURAIS E/OU EDUCACIONAIS - CAPCE E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002106&NroLei=2.106&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.106, DE 20/11/2000
+DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO DE AVALIAÇÃO DOS PROJETOS CULTURAIS E/OU EDUCACIONAIS - CAPCE E DÁ OUTRAS PROVIDÊNCIAS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam nomeados para compor a Comissão de Avaliação dos Projetos Culturais e/ou Educacionais - CAPCE, regulamentada através do
+Decreto Municipal nº 1.967/2000, de acordo com o artigo 4º, os seguintes membros:
+I -
+01 representante do Prefeito:
+Maria Isolina Duarte
+RG: 2.745.182
+Suplente: Maria Claudia França Nogueira
+RG: 5.839.139
+II -
+Secretário Municipal de Cultura:
+Yole Pierro
+RG: 4.419.182
+III -
+01 representante da Procuradoria Jurídica do Município:
+Drª Isabel Cristina Ferreira dos Santos Quandt de Freitas
+RG: 18.056.985
+Suplente - Drª Ieda Morgan Fernandes
+RG: 3.526.014-2
+IV -
+01 representante da Secretaria Finanças:
+Mara Regina Reale de Lucca Moraes
+RG: 14.320.089
+Suplente - Terezinha Barbosa de Oliveira
+RG: 5.254.092
+V -
+01 representante da FUNDACI
+José Paulo de Paula e Silva
+RG: 5.143.132
+Suplente - Ângelo Raymundo Leme Cavalheiro
+RG: 4.664.829
+##### Art. 2º
+As despesas decorrentes do presente Decreto correrão por conta de verba própria constante do orçamento vigente.
+##### Art. 4º
+O presente Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+Ilhabela, 20 de novembro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.107, DE 24/11/2000
+
+> **Ref:** ilh-2000-dec-2107 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002107
+
+DECRETO MUNICIPAL Nº 2.107, DE 24/11/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+1141.4110.41 - Obras e Instalações ................ 75.000,00
+1131.4110.31 - Obras e Instalações ................ 35.000,00
+811.3132.11 - Outros Serviços e Encargos ................ 3.500,00
+Total à suplementar ................ 113.500,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+509.4110.09 - Obras e Instalações ................ 83.500,00
+1131.3132.31 - Outros Serviços e Encargos ................ 30.000,00
+Total à anular ................ 113.500,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 24 de novembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.108, DE 27/11/2000
+
+> **Ref:** ilh-2000-dec-2108 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** ESTABELECE NORMAS RELATIVAS AO ENCERRAMENTO DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA, PARA LEVANTAMENTO DO BALANÇO GERAL DO MUNICÍPIO DO EXERCÍCIO DE 2000 FACE AS RECOMENDAÇÕES DA L.C. 101/00 - L.R.F. E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002108&NroLei=2.108&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.108, DE 27/11/2000
+ESTABELECE NORMAS RELATIVAS AO ENCERRAMENTO DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA, PARA LEVANTAMENTO DO BALANÇO GERAL DO MUNICÍPIO DO EXERCÍCIO DE 2000 FACE AS RECOMENDAÇÕES DA L.C. 101/00 - L.R.F. E DÁ OUTRAS PROVIDÊNCIAS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO que o encerramento do exercício financeiro e o consequente levantamento do Balanço Geral constituem providências que devam ser, prévia e adequadamente ordenadas;
+CONSIDERANDO o disposto nos artigos 34 a 39 da
+Lei 4.320/64
+,
+##### artigo 7º da Lei 8.666/93
+,
+##### art. 42 da L.C. 101/00
+-
+LRF
+, Decreto Federal nº 1.802/96;
+DECRETA:
+##### Art. 1º
+As requisições de compras de bens e serviços, somente poderão ser efetuadas até o dia 15 de dezembro do corrente, por ordem expressa do senhor Prefeito Municipal e a partir desta data, não se procederão mais empenhos, salvo em casos especiais, autorizados pelo Chefe do Executivo.
+##### Art. 2º
+Somente poderão ser inscritos em restos a pagar do Exercício de 2000, os valores dos empenhos liquidados até 30 de Dezembro.
+§ 1º
+As despesas empenhadas e não processadas deverão ser anuladas até o dia 31 de Dezembro, nos termos do
+##### artigo 38 de Lei 4.320/64
+.
+§ 2º
+Os valores inscritos em restos a pagar até o exercício de 1999, deverão ser cancelados, mediante transferência dos respectivos valores à receita, nos termos do referido
+##### artigo 38 da Lei 4.320/64
+.
+§ 3º
+Os precatórios judiciais não pagos até 31/12/2000 serão inscritos na dívida consolidada do Município.
+§ 4º
+As despesas em fase de execução em 30 de Dezembro de 2000, não liquidadas, poderão ser reempenhadas à conta do Orçamento de 2001.
+##### Art. 3º
+Fica proibida a realização de horas extras, pagamentos de adicionais e gratificações, salvo o limite de numerário já empenhado em junho/2000 e reservado para emergência.
+##### Art. 4º
+Serão priorizados os pagamentos dos compromissos assumidos a partir de 20/10/00, face o
+##### artigo 42 da L.R.F
+.
+##### Art. 5º
+Face ao disposto na
+E.C. nº 30
+, de 13/09/00, os precatórios pendentes poderão ser liquidados em prestações anuais iguais no prazo máximo de 10 (dez) anos.
+##### Art. 6º
+Este Decreto entra em vigor na data de sua publicação.
+Ilhabela, 27 de novembro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.109, DE 27/11/2000
+
+> **Ref:** ilh-2000-dec-2109 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** (FALTA NA ÍNTEGRA).
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002109
+
+DECRETO MUNICIPAL Nº 2.109, DE 27/11/2000
+(FALTA NA ÍNTEGRA).
+
+---
+
+# DECRETO MUNICIPAL Nº 2.110, DE 01/12/2000
+
+> **Ref:** ilh-2000-dec-2110 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002110
+
+DECRETO MUNICIPAL Nº 2.110, DE 01/12/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+202.3111.02 - Pessoal Civil ................ 10.000,00
+202.3132.02 - Outros Serviços e Encargos ................ 3.000,00
+202.3132.02 - Outros Serviços e Encargos ................ 1.100,00
+229.3132.29 - Outros Serviços e Encargos ................ 7.200,00
+356.3111.56 - Pessoal Civil ................ 4.000,00
+509.3132.09 - Outros Serviços Encargos ................ 10.000,00
+519.4110.19 - Obras e Instalações ................ 8.000,00
+556.3120.56 - Material de Consumo ................ 15.000,00
+556.3132.56 - Outros Serviços e Encargos ................ 2.000,00
+619.3111.19 - Pessoal Civil ................ 2.000,00
+619.3132.19 - Outros Serviços e Encargos ................ 10.000,00
+619.3280.19 - Contribuição para Formação do Pasep ................ 17.000,00
+721.3120.21 - Material de Consumo ................ 10.000,00
+721.3132.21 - Outros Serviços e Encargos ................ 5.000,00
+721.3231.21 - Subvenções Sociais ................ 15.000,00
+761.3111.61 - Pessoal Civil ................ 120.000,00
+761.3113.61 - Obrigações Patronais ................ 2.000,00
+1045.3120.45 - Material de Consumo ................ 5.000,00
+1045.3111.45 - Pessoal Civil ................ 20.000,00
+1121.3111.21 - Pessoal Civil ................ 3.000,00
+1111.3120.11 - Material de Consumo ................ 5.000,00
+1121.3120.21 - Material de Consumo ................ 3.000,00
+1131.4110.31 - Obras e Instalações ................ 27.000,00
+509.4120.09 - Aquisição de Imóveis ................ 4.600,00
+811.4110.11 - Obras e Instalações ................ 3.100,00
+Total à suplementar ................ 312.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+202.3132.02 - Outros Serviços e Encargos ................ 4.100,00
+356.3120.56 - Material de Consumo ................ 4.000,00
+519.3111.19 - Pessoal Civil ................ 2.000,00
+519.3113.19 - Obrigações Patronais ................ 3.000,00
+519.3120.19 - Material de Consumo ................ 1.000,00
+519.4120.19 - Equipamento e Material Permanente ................ 1.000,00
+519.3132.19 - Outros Serviços e Encargos ................ 1.000,00
+556.3111.56 - Pessoal Civil ................ 15.000,00
+556.3113.56 - Obrigações Patronais ................ 8.000,00
+619.3113.19 - Obrigações Patronais ................ 10.000,00
+721.3111.21 - Pessoal Civil ................ 15.000,00
+721.3113.21 - Obrigações Patronais ................ 12.000,00
+731.3111.31 - Pessoal Civil ................ 40.000,00
+731.3113.31 - Obrigações Patronais ................ 20.000,00
+761.4110.61 - Obras e Instalações ................ 4.000,00
+761.4110.61 - Obras e Instalações ................ 6.000,00
+761.3120.61 - Material de Consumo ................ 5.000,00
+731.4110.31 - Obras e Instalações ................ 50.000,00
+972.3111.72 - Pessoal Civil ................ 10.000,00
+972.3113.72 - Obrigações Patronais ................ 35.000,00
+1121.3113.21 - Obrigações Patronais ................ 10.000,00
+1151.3111.51 - Pessoal Civil ................ 5.000,00
+509.4110.09 - Obras e Instalações ................ 47.800,00
+1141.4110.41 - Obras e Instalações ................ 3.100,00
+Total à anular ................ 312.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 01 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.111, DE 14/12/2000
+
+> **Ref:** ilh-2000-dec-2111 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO PRESIDENTE DA DIRETORIA EXECUTIVA DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI, CONFORME ARTIGO 6º, § 1º E § 2º E ARTIGO 9º DA LEI MUNICIPAL 641, DATADA DE 16 DE JULHO DE 1997.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002111&NroLei=2.111&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.111, DE 14/12/2000
+DISPÕE SOBRE A NOMEAÇÃO DO PRESIDENTE DA DIRETORIA EXECUTIVA DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI, CONFORME ARTIGO 6º, § 1º E § 2º E ARTIGO 9º DA LEI MUNICIPAL 641, DATADA DE 16 DE JULHO DE 1997.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica nomeada a Senhora MARIA TEREZA DE ARRUDA BARBOSA LIMA, brasileira, casada, psicóloga, portadora da Carteira de Identidade RG nº 3.000.150 e do CIC nº 503.726.618-15, para presidir a Fundação Arte e Cultura de Ilhabela - FUNDACI, conforme o
+##### artigo 6º, parágrafos 1º e 2º
+e
+##### artigo 9º da Lei Municipal nº 641/97
+.
+Parágrafo único.
+Conforme disposto no artigo 9º, o Presidente da Fundação não será remunerado, mas terá sua atuação considerada como serviço público relevante prestado ao Município.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 14 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/dbsj/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.112, DE 14/12/2000
+
+> **Ref:** ilh-2000-dec-2112 · **Tipo:** decreto · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A CRIAÇÃO NO MUNICÍPIO DO NOVO CONSELHO DE ALIMENTAÇÃO ESCOLAR - C.A.E. - DE ACORDO COM A MEDIDA PROVISÓRIA 1.979-19, DE 02 DE JUNHO DE 2000, EM SEU ARTIGO 3º, ÓRGÃO DELIBERATIVO, FISCALIZADOR E DE ASSESSORAMENTO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002112
+
+DECRETO MUNICIPAL Nº 2.112, DE 14/12/2000
+DISPÕE SOBRE A CRIAÇÃO NO MUNICÍPIO DO NOVO CONSELHO DE ALIMENTAÇÃO ESCOLAR - C.A.E. - DE ACORDO COM A MEDIDA PROVISÓRIA 1.979-19, DE 02 DE JUNHO DE 2000, EM SEU ARTIGO 3º, ÓRGÃO DELIBERATIVO, FISCALIZADOR E DE ASSESSORAMENTO.
+(Revogado pelo
+Decreto Municipal nº 7.123
+, de 30.08.2018)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica criado no Município o Novo Conselho de Alimentação Escolar - C.A.E., de conformidade com a Medida Provisória 1.979-19, de 02 de junho de 2000, em seu artigo 3º, órgão deliberativo, fiscalizador e de assessoramento que será constituído por sete membros:
+(Alterado através do
+Decreto nº 77/2001
+)
+I -
+01 (um) representante do Poder Executivo, indicado pelo chefe desse Poder;
+II -
+01 (um) representante do Poder Legislativo, indicado pela mesa Diretora desse Poder;
+III -
+02 (dois) representantes dos professores, indicados pelo respectivo órgão de classe;
+IV -
+02 (dois) representantes de pais de alunos indicados pelos Conselhos Escolares, Associações de Pais e Mestres ou entidades similares;
+V -
+01 (um) representante de outro segmento da Sociedade Local.
+##### Art. 2º
+Este Decreto entrará em vigor, na data de sua publicação, retroagindo seus efeitos à 23 de agosto de 2000.
+Ilhabela, 14 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.113, DE 15/12/2000
+
+> **Ref:** ilh-2000-dec-2113 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO DE ALIMENTAÇÃO ESCOLAR DO MUNICÍPIO - C.A.E. - CRIADO ATRAVÉS DO DECRETO MUNICIPAL Nº 2.112/2000, EM CONFORMIDADE DA MEDIDA PROVISÓRIA 1.979-19, DE 02 DE JUNHO DE 2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002113&NroLei=2.113&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.113, DE 15/12/2000
+DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO DE ALIMENTAÇÃO ESCOLAR DO MUNICÍPIO - C.A.E. - CRIADO ATRAVÉS DO DECRETO MUNICIPAL Nº 2.112/2000, EM CONFORMIDADE DA MEDIDA PROVISÓRIA 1.979-19, DE 02 DE JUNHO DE 2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam nomeados os membros do Conselho de Alimentação Escolar do Município - C.A.E., criado através do
+Decreto Municipal nº 2.112/2000
+, em conformidade com a Medida Provisória nº 1.979-19, de 02 de junho de 2000:
+I -
+01 (um) representante do Poder Executivo:
+Nilcéia Azevedo de Souza - RG: 4.990.500 - CPF: 729.258.338-53
+Secretária Municipal de Educação
+Avenida Força Expedicionário Brasileiro, nº 732 - Santa Tereza
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 2200
+Suplente:
+Fernanda Cristina de Jesus Nascimento - RG: 23.137.490-2 - CPF: 141.554.368-24
+Chefe de Seção de Merenda Escolar
+Avenida Riachuelo, nº 5.977 - Praia Grande
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 2200
+II -
+01 (um) representante do Poder Legislativo:
+Dagoberto dos Santos Lopes - RG: 16.841.744 - CPF: 086.397.648-40
+Oficial Legislativo
+Rua Francisco Gomes da Silva Prado, nº 49 - Santa Tereza
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 2134
+Suplente:
+José Marcos da Silva - RG: 17.540.404 - CPF: 073.288.078-57
+Diretor Financeiro
+Rua Antônio Lisboa Alves, nº 439 - Centro
+Ilhabela - SP - CEP: 11.630-000 - Fone - 472 1068
+III -
+02 (dois) representantes dos Professores:
+1) Solange de Oliveira Garcia Santos - RG: 11.079.869-7 - CPF: 038.999.608-15
+Professor da Rede Municipal
+Rua Deolindo Mariano Leite, nº 49 - Barra Velha
+Ilhabela - SP - 11.630-000 - Fone - 472 8312
+Suplente:
+Stella Maria Salinas Santos Abreu - RG: 13.152.764 - CPF: 018.213.288-92
+Professor da Rede Municipal
+Rua José Pacheco do Nascimento, nº 7.534 - Curral
+Ilhabela - SP - 11.630-000 - Fone - 472 9173
+2) Joadir Luiz Capucho - RG: 14.754.481 - CPF: 083.100.468-12
+Professor da Rede Estadual
+Avenida dos Bandeirantes, nº 375 - Itaquanduba
+Ilhabela - SP - 11.630-000 - Fone - 472 2631
+Suplente:
+Berenice Ferreira Moraes - RG: 6.060.987 - CPF: 109.972.808-49
+Professor da Rede Estadual
+Rua Projetada 66, nº 94 - Piúva
+Ilhabela - SP - 11.630-000 - Fone - 472 9481
+IV -
+02 (dois) representantes de Pais de Alunos:
+1) Érica Maria Lopes Martins de Faria - RG: 9.107.905-6 - CPF: 045.111.128-19
+Diretora Executiva da APM da EE "Maria Gemma de S. Oliveira"
+Rua Pernambuco, nº 416 - Barra Velha
+Ilhabela - SP - 11.630-000 - Fone - 472 8209
+Suplente:
+Oneide Souza Cruz Conceição - RG: 11.446.536 - CPF: 070.731.628-64
+Diretora Executiva da APM da EE "Waldemar Belisário"
+Rua José Joaquim da Silva, nº 02 - Itaguaçu
+Ilhabela - SP - 11.630-000 - Fone - 472 2447
+2) Yeda Cristina Seno Lopes - RG: 26.258.293-3 - CPF: 141.568.698-06
+Mãe de aluno da Rede Municipal
+Rua Francisco Gomes da Silva Prado, nº 49 - Santa Tereza
+Ilhabela - SP - 11.630-000 - Fone - 472 2134
+Suplente:
+Terezinha Ribeiro de Santana - RG: 24.146.656-8 - CPF: 133.865.278-84
+Mãe de aluno da Rede Municipal
+Rua Pedro Álvares da Cruz, nº 278 - Perequê
+Ilhabela - SP - 11.630-000 - Fone -
+V -
+01 (um) representante e outro Segmento da Sociedade Civil:
+Roseli Augusto Olo - RG: 6.084.518 - CPF: 011.218.968-71
+Secretária da Associação Comercial e Industrial de Ilhabela
+Rua Maria Rita Franco Fonseca, nº 134 - Água Branca
+Ilhabela - SP - 11.630-000 - Fone - 472 8523
+Suplente:
+Diego de Moura Santos - RG: 40.483.277-5 - CPF: 221.128.078-11
+Encarregado de Setor da Colônia dos Pescadores Z-6 "Senador Vergueiro"
+Rua Leolino Clementino Barbosa, nº 274 - Água Branca
+Ilhabela - 11.630-000 - Fone - 472 2762
+##### Art. 2º
+Este Decreto entrará em vigor, na data de sua publicação, retroagindo seus efeitos á 23 de agosto de 2000, revogando em especial o
+Decreto 2.081/2000
+.
+Ilhabela, 15 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.114, DE 18/12/2000
+
+> **Ref:** ilh-2000-dec-2114 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE O ENCERRAMENTO DO EXERCÍCIO FINANCEIRO DE 2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002114&NroLei=2.114&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.114, DE 18/12/2000
+DISPÕE SOBRE O ENCERRAMENTO DO EXERCÍCIO FINANCEIRO DE 2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Visando atender as exigências da
+Lei Complementar nº 101
+, de 04 de maio de 2000, ficam suspensos, a partir desta data, o recebimento de mercadorias, móveis, máquinas e equipamentos, medições de obras e de prestações de serviços, executando-se aqueles de caráter essencial para continuidade das ações governamentais.
+Parágrafo único.
+As situações emergenciais poderão ser autorizadas por despacho fundamentado do Prefeito Municipal.
+##### Art. 2º
+Com fundamento no
+##### artigo 98, da Lei nº 4.320
+, de 17 de março de 1964, fica anulado o montante dos saldos de empenhos de exercícios anteriores, inscrito em restos a pagar, acrescentando-se o valor consolidado no total da divida fundada.
+##### Art. 3º
+Fica ordenada a anulação, em 29 de dezembro de 2000, dos empenhos e inclusive eventuais créditos decorrentes, emitidos após 04 de maio de 2000, em contrariedade à restrição do
+##### artigo 42, "caput", da Lei Complementar nº 101
+, de 04 de maio de 2000.
+##### Art. 4º
+Fica ordenado o cancelamento, em 29 de dezembro de 2000, dos empenhos emitidos durante o exercício de 2000, inclusive os liquidados, para os quais, nos termos do disposto no
+parágrafo único do artigo 42 da Lei Complementar nº 101
+, de 04 de maio de 2000, não haja disponibilidade de caixa.
+Parágrafo único.
+Ficam excluídos do cancelamento os empenhos destinados ao atendimento de obrigações constitucionais, legais e pagamento do serviço da dívida do exercício de 2000, que serão inscritos em restos a pagar.
+##### Art. 5º
+Os empenhos anulados e cancelados, por forças dos artigos 3º e 4º, serão relacionados na forma dos anexos I e II que acompanham este decreto.
+##### Art. 6º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 18 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.115, DE 21/12/2000
+
+> **Ref:** ilh-2000-dec-2115 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA DA SERVIDORA PÚBLICA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARISA APPARECIDA NOGUEIRA BRAGA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002115&NroLei=2.115&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.115, DE 21/12/2000
+DISPÕE SOBRE A APOSENTADORIA DA SERVIDORA PÚBLICA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARISA APPARECIDA NOGUEIRA BRAGA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o disposto no
+inciso III - "a", do artigo 40 da Constituição Federal
+, de 05 de outubro de 1988.
+DECRETA:
+##### Art. 1º
+Fica aposentada a Servidora Pública do Município da Estância Balneária de Ilhabela, MARISA APPARECIDA NOGUEIRA BRAGA, brasileira, portadora da Carteira de Identidade RG nº 2.715.670 e do CPF/MF nº 049.616.768-53, que exerce no quadro de comissionados a função de Chefe de Gabinete, referência 18, conforme previsto nos
+artigos 4º
+,
+24 "a", 36 e parágrafo único
+,
+37 e parágrafo único
+,
+38, da Lei 650
+, de 29 de julho de 1997, com as redações dadas pelo artigo 23 da Medida Provisória 1969-12, de 06-01-2000 e Orientação Normativa SPS nº 9 do INSS de 2 de março de 1999 e
+Emenda Constitucional nº 20
+de 15/12/1999 com a redação dada aos
+artigos 37
+e
+201 da Constituição Federal
+.
+(Alterado através do
+Decreto nº 71/2001
+)
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 21 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.116, DE 21/12/2000
+
+> **Ref:** ilh-2000-dec-2116 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA DA SERVIDORA PÚBLICA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, IEDA MORGAN FERNANDES.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002116&NroLei=2.116&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.116, DE 21/12/2000
+DISPÕE SOBRE A APOSENTADORIA DA SERVIDORA PÚBLICA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, IEDA MORGAN FERNANDES.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o disposto no
+inciso III - "a", do artigo 40 da Constituição Federal
+, de 05 de outubro de 1988.
+DECRETA:
+##### Art. 1º
+Fica aposentada a Servidora Pública do Município da Estância Balneária de Ilhabela, IEDA MORGAN FERNANDES, brasileira, portadora da Carteira de Identidade RG nº 3.526.014-2 e do CPF/MF nº 245.730.518-72, que exerce no quadro de comissionados a função de Assessora Jurídica, referência 17, conforme previsto nos
+artigos 4º
+,
+24 "a", 36 e parágrafo único
+,
+37 e parágrafo único
+,
+38, da Lei 650, de 29 de julho de 1997, com as redações dadas pelo artigo 23 da Medida Provisória 1969-12, de 06-01-2000 e Orientação Normativa SPS nº 9 do INSS de 2 de março de 1999 e
+Emenda Constitucional nº 20
+de 15/12/1999 com a redação dada aos
+artigos 37
+e
+201 da Constituição Federal
+.
+(Alterado através do
+Decreto nº 70/2001
+)
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 21 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.117, DE 22/12/2000
+
+> **Ref:** ilh-2000-dec-2117 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE O HORÁRIO DE ATENDIMENTO AO PÚBLICO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, DURANTE O PERÍODO DE TRANSIÇÃO DE GOVERNO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002117&NroLei=2.117&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.117, DE 22/12/2000
+DISPÕE SOBRE O HORÁRIO DE ATENDIMENTO AO PÚBLICO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, DURANTE O PERÍODO DE TRANSIÇÃO DE GOVERNO.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+CONSIDERANDO o período de transição de Governo;
+CONSIDERANDO que as Secretarias estão preparando relatórios para os futuros Secretários;
+DECRETA:
+##### Art. 1º
+Fica estipulado o horário das 10:00 às 12:00horas, para atendimento ao público no Paço Municipal, no período de 26 à 29 de dezembro de 2000, sendo que das 12:00 às 18:00horas as secretarias estarão realizando os serviços internos.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 22 de dezembro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.118, DE 31/12/2000
+
+> **Ref:** ilh-2000-dec-2118 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DA FUNCIONÁRIA, A SENHORA, MARIA STELA FRANÇA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002118&NroLei=2.118&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.118, DE 31/12/2000
+DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DA FUNCIONÁRIA, A SENHORA, MARIA STELA FRANÇA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o disposto no
+inciso II, do artigo 40 da Constituição Federal
+, de 05 de outubro de 1988.
+DECRETA:
+##### Art. 1º
+Fica aposentada compulsoriamente a servidora pública do Município da Estância Balneária de Ilhabela, a Senhora MARIA STELA FRANÇA, brasileira, portadora da Carteira de Identidade RG nº 1.368.269 e do CPF/MF nº 612.059.158-34, que exerce no quadro permanente a função de Bibliotecária, conforme previsto no
+##### artigo 23 da Lei 650
+, de 29 de julho de 1997.
+##### Art. 2º
+Este Decreto entrará em vigor a partir de 31 de dezembro de 2000, revogadas as disposições em contrário.
+Ilhabela, 27 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.119, DE 27/12/2000
+
+> **Ref:** ilh-2000-dec-2119 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DO FUNCIONÁRIO, O SENHOR, GABRIEL NEREU AMORIM ALVES.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002119&NroLei=2.119&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.119, DE 27/12/2000
+DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DO FUNCIONÁRIO, O SENHOR, GABRIEL NEREU AMORIM ALVES.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o disposto no
+inciso II, do artigo 40 da Constituição Federal
+, de 05 de outubro de 1988.
+DECRETA:
+##### Art. 1º
+Fica aposentado compulsoriamente o servidor público do Município da Estância Balneária de Ilhabela, o Senhor GABRIEL NEREU AMORIM ALVES, brasileiro, portador da Carteira de Identidade RG nº 433.418/8 e do CPF/MF nº 017.921.488-87, que exerce no quadro permanente a função de Médico, conforme previsto no
+##### artigo 23 da Lei 650
+, de 29 de julho de 1997.
+##### Art. 2º
+Este Decreto entrará em vigor a partir de 31 de dezembro de 2000, revogadas as disposições em contrário.
+Ilhabela, 27 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.120, DE 27/12/2000
+
+> **Ref:** ilh-2000-dec-2120 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DO FUNCIONÁRIO, O SENHOR, CLARO RIBEIRO GARCIA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002120&NroLei=2.120&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.120, DE 27/12/2000
+DISPÕE SOBRE A APOSENTADORIA COMPULSÓRIA DO FUNCIONÁRIO, O SENHOR, CLARO RIBEIRO GARCIA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o disposto no
+inciso II, do artigo 40 da Constituição Federal
+, de 05 de outubro de 1988.
+DECRETA:
+##### Art. 1º
+Fica aposentado compulsoriamente o servidor público do Município da Estância Balneária de Ilhabela, o Senhor CLARO RIBEIRO GARCIA, brasileiro, portador da Carteira de Identidade RG nº 1.572.675 e do CPF/MF nº 003.581.778-04, que exerce no quadro permanente a função de Dentista, conforme previsto no
+##### artigo 23 da Lei 650
+, de 29 de julho de 1997.
+##### Art. 2º
+Este Decreto entrará em vigor a partir de 31 de dezembro de 2000, revogadas as disposições em contrário.
+Ilhabela, 27 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.121, DE 27/12/2000
+
+> **Ref:** ilh-2000-dec-2121 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE O PREÇO DA PASSAGEM DE TRANSPORTE URBANO DE PASSAGEIROS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002121&NroLei=2.121&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.121, DE 27/12/2000
+DISPÕE SOBRE O PREÇO DA PASSAGEM DE TRANSPORTE URBANO DE PASSAGEIROS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO a necessidade de se reajustar as tarifas do transporte coletivo municipal, em razão do aumento das despesas que compõem o custo do passageiro;
+CONSIDERANDO que a alteração da tarifa deve levar em conta os parâmetros regionais e, principalmente, os aspectos gerais que envolvem o transporte coletivo de nossa população;
+CONSIDERANDO que a tarifa do transporte regular não é reajustada desde setembro de 1997 (
+Decreto nº 1.538/97
+);
+CONSIDERANDO finalmente, o que consta do processo administrativo nº 10.018/00, desta Prefeitura;
+DECRETA:
+##### Art. 1º
+Fica fixado em R$ 1,20 (um real e vinte centavos) o preço da passagem do transporte urbano de passageiros no Município de Ilhabela.
+(Alterado através do
+Decreto nº 496/2003
+)
+##### Art. 2º
+O presente Decreto entrará em vigor na data de 29 de dezembro de 2000, à partir de zero hora.
+##### Art. 3º
+Revogam-se as disposições em contrário.
+Ilhabela, 27 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.122, DE 27/12/2000
+
+> **Ref:** ilh-2000-dec-2122 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** SUPRIME DA LEI 650/97: A SEÇÃO \"V\" E ARTIGOS 27 E 28; DA VI O ARTIGO 34; DA VIII, O ARTIGO 35; E AS ALINEAS \"D\" DO INCISO II, \"B\" E \"C\" DO INCISO II, AMBAS, DO ARTIGO 13; O ARTIGO 38, INCISOS II, III E IV; ARTIGO 56 E §§.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002122&NroLei=2.122&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.122, DE 27/12/2000
+SUPRIME DA LEI 650/97: A SEÇÃO "V" E ARTIGOS 27 E 28; DA VI O ARTIGO 34; DA VIII, O ARTIGO 35; E AS ALINEAS "D" DO INCISO II, "B" E "C" DO INCISO II, AMBAS, DO ARTIGO 13; O ARTIGO 38, INCISOS II, III E IV; ARTIGO 56 E §§.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA
+##### Art. 1º
+Em obediência ao disposto no
+##### artigo 75 da Lei 650/97
+e por determinação constante no
+inciso III do artigo 1º
+e no
+##### artigo 5º da Lei nº 9.717
+, de 27.11.98 e no artigo 16 da Portaria nº 4.992, de 05.02.99 e com as alterações feitas pela Emenda Constitucional nº 20 de 15.12.99, ficam suprimidos da
+Lei nº 650/97
+, por ineficácia, as seções, artigos, incisos e alíneas abaixo relacionadas:
+1.
+Alínea "d" do inciso I e alíneas "b" e "c" do inciso II do artigo 13;
+2.
+#### Seção V - da Aposentadoria Especial - artigos 27 e 28;
+3.
+#### Seção VII - do Pecúlio Especial - artigo 34;
+4.
+#### Seção VIII - do Auxílio Funeral - artigo 35;
+5.
+#### Seção IX - da Contagem de Tempo - artigo 38, II, III e IV;
+6.
+#### Seção IX - Capitulo IV - artigo 56 e §§.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 27 de dezembro de 2000
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em livro próprio e afixado na data supra, no lugar de costume.
+GP/MANB/PJ/IMF
+
+---
+
+# DECRETO MUNICIPAL Nº 2.123, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2123 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A APOSENTADORIA POR INVALIDEZ DA FUNCIONÁRIA, A SENHORA, MARIA VALÉRIA GAGO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002123&NroLei=2.123&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.123, DE 28/12/2000
+DISPÕE SOBRE A APOSENTADORIA POR INVALIDEZ DA FUNCIONÁRIA, A SENHORA, MARIA VALÉRIA GAGO.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO o teor do Processo Administrativo nº 9.296/00 e o disposto no
+##### artigo 11, II, "d" da Lei Municipal nº 650/97
+de 29 de julho de 1997.
+DECRETA:
+##### Art. 1º
+Fica aposentada por invalidez a servidora pública do Município da Estância Balneária de Ilhabela, a Senhora MARIA VALÉRIA GAGO, brasileira, portadora da Carteira de Identidade RG nº 8.393.840-0 e do CPF/MF nº 024.973.898-88, que exerce no quadro permanente a função de Secretária de Diretoria, conforme previsto no
+##### artigo 11, II, "d"
+e
+##### artigo 15 da Lei Municipal nº 650/97
+de 29 de julho de 1997.
+##### Art. 2º
+Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos à 27 de novembro de 2000.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.124, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2124 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DOS SERVIDORES OCUPANTES DE CARGO EM COMISSÃO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002124&NroLei=2.124&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.124, DE 28/12/2000
+DISPÕE SOBRE A EXONERAÇÃO DOS SERVIDORES OCUPANTES DE CARGO EM COMISSÃO.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam exonerados dos cargos em comissão os Servidores não integrantes do quadro permanente que menciona:
+LOTAÇÃO: GABINETE
+BENEDITO CARLOS ALVES Assessor Jurídico
+DILSON DE ALMEIDA MORAES JUNIOR Procurador Chefe
+IEDA MORGAN FERNANDES Assessora Jurídica
+ISABEL CRISTINA F.S. QUANDT FREITAS Assessora Jurídica
+MARIA HELENA GATTI WINTHER Assessora de Gabinete CAT II
+MARISA APPARECIDA NOGUEIRA BRAGA Chefe de Gabinete
+MÔNICA BOCK DUTRA Assessora Técnica de Comunicações
+LOTAÇÃO: TURISMO
+CARLOS ALBERTO C. B. NAUFAL Secretário Municipal de Turismo Esporte e Lazer
+LOTAÇÃO: ESPORTES
+DARLENE TAVARES PEDRO Diretora de Divisão de Educação Física e Esportes
+JAILSON GOMES DA SILVA Chefe de Seção de Apoio Funcional - CAT I
+LUIZ SIQUEIRA FILHO Chefe de Seção de Esportes do Turismo - CAT I
+LOTAÇÃO: ASSISTÊNCIA SOCIAL
+FLÁVIO CÉSAR DA SILVA Chefe de Seção de Apoio Funcional - CAT I
+LOTAÇÃO: PLANEJAMENTO E GESTÃO
+BENEDITO OSVALDO XAVIER Diretor de Divisão de Material
+JOAO BATISTA MONTEIRO Chefe de Seção de Operações CAT II
+LAERTE ATTI Diretor de Divisão de Transportes
+LUIZ CARLOS PEREIRA JUNIOR Chefe de Seção Processamento de Dados - CAT II
+OSVALDO JOSÉ DOS SANTOS JULIÃO Secretário Municipal de Planejamento e Gestão
+LOTAÇÃO: TRÂNSITO
+JAMES ABOUD Diretor de Divisão de Trânsito
+LOTAÇÃO: FINANÇAS
+ÉLCIO ROEFERO Secretário Municipal de Finanças
+LOTAÇÃO: EDUCAÇÃO
+CECÍLIA DOS SANTOS ALVES Chefe de Seção de Convivência Infantil CAT II
+NILCÉIA AZEVEDO DE SOUZA Secretária Municipal de Educação
+ALCEU BALBIM Chefe de Seção de Manutenção CAT II
+MARIA APARECIDA BRAGA ROMAN Diretora de Divisão de Pré Escola
+MARIA CATARINA DE CAMARGO ROEFERO Diretora de Divisão de Ensino Fundamental
+MARIE ZEITLER Chefe de Seção Pedagógica, Replanejamento Educacional CAT II
+LOTAÇÃO: CULTURA
+YOLE PIERRO Secretária Municipal de Cultura
+LOTAÇÃO: SAÚDE
+LUCILLE ESTHER BISHOP Secretária Municipal de Saúde
+LOTAÇÃO: MEIO AMBIENTE
+JOSÉ GUILHERME DE SOUZA GALVÃO Secretário Municipal de Meio Ambiente
+LOTAÇÃO: OBRAS
+ANTÔNIO RIBEIRO DOS REIS Chefe de Seção de Projetos CAT II
+DANIEL CALIXTO DE CARVALHO Chefe de Seção de Obras CAT II
+JOSÉ RODRIGUES JUNIOR Diretor de Divisão de Serviços Públicos
+RUBENS SINSEI TANABE Secretário Municipal de Obras
+##### Art. 2º
+As despesas decorrentes do presente Decreto, correrão por conta das dotações próprios do orçamento vigente.
+##### Art. 3º
+Este Decreto entrará em vigor a partir de 0h do dia 31 de dezembro de 2000, revogadas as disposições em contrário.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+
+---
+
+# DECRETO MUNICIPAL Nº 2.125, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2125 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DA PRESIDENTE DA DIRETORIA EXECUTIVA DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI, NOMEADA ATRAVÉS DO DECRETO MUNICIPAL Nº 2.111/2000.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002125&NroLei=2.125&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.125, DE 28/12/2000
+DISPÕE SOBRE A EXONERAÇÃO, À PEDIDO, DA PRESIDENTE DA DIRETORIA EXECUTIVA DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI, NOMEADA ATRAVÉS DO DECRETO MUNICIPAL Nº 2.111/2000.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica exonerada, à pedido, a Senhora MARIA TEREZA DE ARRUDA BARBOSA LIMA, brasileira, casada, psicóloga, portadora da Carteira de Identidade RG nº 3.000.150 e do CIC nº 503.726.618-15, que presidi a Fundação Arte e Cultura de Ilhabela - FUNDACI, nomeada através do
+Decreto Municipal nº 2.111/2000
+, conforme o
+##### artigo 6º, parágrafos 1º e 2º
+e
+##### artigo 9º da Lei Municipal nº 641/97
+.
+##### Art. 2º
+Este Decreto entrará em vigor a partir do dia 29 de dezembro de 2000, revogando-se as disposições em contrário.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.126, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2126 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A DENOMINAÇÃO DO ESTÁDIO MUNICIPAL DE ILHABELA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002126&NroLei=2.126&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.126, DE 28/12/2000
+DISPÕE SOBRE A DENOMINAÇÃO DO ESTÁDIO MUNICIPAL DE ILHABELA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica denominado ESTÁDIO MUNICIPAL EURÍPEDES DA SILVA FERREIRA - "FERREIRÃO", o prédio público municipal situado na Av. dos Bandeirantes nº 300, no Bairro Itaquanduba.
+##### Art. 2º
+As despesas de execução decorrentes deste Decreto correrão por conta das dotações consignadas no orçamento vigente.
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+PJ/dbsj/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.127, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2127 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A DENOMINAÇÃO DA UNIDADE MISTA DE SAÚDE, EDIFICADA NO BAIRRO DA BARRA VELHA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002127&NroLei=2.127&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.127, DE 28/12/2000
+DISPÕE SOBRE A DENOMINAÇÃO DA UNIDADE MISTA DE SAÚDE, EDIFICADA NO BAIRRO DA BARRA VELHA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica denominada UNIDADE MISTA DE SAÚDE "MARISIA ANNA VIOLANTI", o prédio público edificado na R. Prof. Malaquias de Freitas, nº 170, no Bairro Barra Velha.
+##### Art. 2º
+Fica denominada "Padre DEODATO F. TENKAT OSISTE", a ala de pediatria da Unidade Mista de Saúde.
+##### Art. 3º
+As despesas de execução decorrentes deste Decreto correrão por conta das dotações consignadas no orçamento vigente.
+##### Art. 4º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+PJ/dbsj/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.128, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2128 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A DENOMINAÇÃO DO CENTRO EDUCACIONAL DE TRÂNSITO DA DIVISÃO DE SERVIÇOS DE TRÂNSITO DO MUNICÍPIO DE ILHABELA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002128&NroLei=2.128&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.128, DE 28/12/2000
+DISPÕE SOBRE A DENOMINAÇÃO DO CENTRO EDUCACIONAL DE TRÂNSITO DA DIVISÃO DE SERVIÇOS DE TRÂNSITO DO MUNICÍPIO DE ILHABELA.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica denominado CENTRO EDUCACIONAL DE TRÂNSITO "LEANDRO GEREMIAS", a unidade anexa a Divisão Municipal dos Serviços de Trânsito, localizado na Av. Ernesto de Oliveira nº 1.144, no Bairro Barra Velha.
+##### Art. 2º
+As despesas de execução decorrentes deste Decreto correrão por conta das dotações consignadas no orçamento vigente.
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+PJ/dbsj/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.129, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2129 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002129
+
+DECRETO MUNICIPAL Nº 2.129, DE 28/12/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Ficam suplementadas as seguintes dotações orçamentárias constantes do orçamento vigente:
+202.3132.02 - Outros Serviços e Encargos ................ 3.000,00
+229.3132.29 - Outros Serviços e Encargos ................ 1.500,00
+509.3132.09 - Outros Serviços e Encargos ................ 5.000,00
+483.3111.83 - Pessoal Civil ................ 11.000,00
+509.3192.09 - Despesas de Exercícios Anteriores ................ 3.500,00
+519.3132.19 - Outros Serviços e Encargos ................ 3.000,00
+556.3111.56 - Pessoal Civil ................ 3.000,00
+556.3120.56 - Material de Consumo ................ 3.000,00
+619.3132.19 - Outros Serviços e Encargos ................ 10.000,00
+731.3120.31 - Material de Consumo ................ 10.000,00
+731.3132.31 - Outros Serviços e Encargos ................ 60.000,00
+731.4110.31 - Obras e Instalações ................ 1.000,00
+731.4120.31 - Equipamentos e Material de Permanente ................ 16.500,00
+972.3120.72 - Material de Consumo ................ 10.000,00
+972.3132.72 - Outros Serviços e Encargos ................ 10.000,00
+972.3231.72 - Subvenções Sociais ................ 24.000,00
+1045.3111.45 - Pessoal Civil ................ 10.000,00
+1111.3132.11 - Outros Serviços e Encargos ................ 5.000,00
+1121.3120.21 - Material de Consumo ................ 2.000,00
+1121.3132.21 - Outros Serviços e Encargos ................ 2.000,00
+1141.4110.41 - Obras e Instalações ................ 12.500,00
+Total à suplementar ................ 206.000,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+101.3111.01 - Pessoal Civil ................ 2.731,76
+101.3131.01 - Remuneração Serviços Pessoais ................ 1.210,87
+101.3132.01 - Outros Serviços e Encargos ................ 609,98
+101.4120.01 - Equipamentos e Material Permanente ................ 7.818,41
+202.3113.02 - Obrigações Patronais ................ 3.000,00
+483.3120.83 - Material de Consumo ................ 12.500,00
+509.3111.09 - Pessoal Civil ................ 22.500,00
+721.3231.21 - Subvenções Sociais ................ 4.000,00
+721.4110.21 - Obras e Instalações ................ 5.000,00
+721.3120.21 - Material de Consumo ................ 10.000,00
+721.4110.21 - Obras e Instalações ................ 8.000,00
+721.4120.21 - Equipamentos e Material Permanente ................ 12.000,00
+731.3254.31 - Apoio F. estudantes ................ 6.000,00
+731.3120.31 - Material de Consumo ................ 20.000,00
+761.3111.61 - Pessoal Civil ................ 20.000,00
+761.4120.61 - Equipamentos e Material Permanente ................ 8.000,00
+811.4110.11 - Obras e Instalações ................ 5.000,00
+972.4120.72 - Equipamentos e Material Permanente ................ 44.000,00
+1111.4110.11 - Obras e Instalações ................ 5.000,00
+1111.3113.11 - Obrigações Patronais ................ 5.000,00
+1121.3132.21 - Outros Serviços e Encargos ................ 3.628,98
+Total à anular ................ 206.000,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos à 15 de dezembro de 2000.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.130, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2130 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** ESTIMA A RECEITA E FIXA A DESPESA DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA, PARA O EXERCÍCIO DE 2001.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002130
+
+DECRETO MUNICIPAL Nº 2.130, DE 28/12/2000
+ESTIMA A RECEITA E FIXA A DESPESA DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA, PARA O EXERCÍCIO DE 2001.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+O orçamento da Fundação Arte e Cultura de Ilhabela - FUNDACI, para o exercício de 2001, descriminados pelos anexos integrantes deste Decreto, estima a Receita e fixa a despesa em R$ 279.000,00 (duzentos e setenta e nove reais).
+##### Art. 2º
+A Receita será realizada mediante a realização de eventos culturais e transferências na forma da legislação em vigor e das especificações constantes do
+Anexo 2, da Lei 4.320/64
+, com o seguinte desdobramento:
+RECEITAS CORRENTES ................ 259.000,00
+Prestação de Serviços ................ 5.000,00
+Transferências Correntes ................ 250.000,00
+Outras Rec. Correntes ................ 4.000,00
+RECEITAS DE CAPITAL ................ 20.000,00
+Transferências de capital ................ 20.000,00
+TOTAL ................ 279.000,00
+##### Art. 3º
+A despesa será realizada segundo a discriminação dos quadros Programa de Trabalho e Natureza da Despesa, que apresenta o seguinte desdobramento:
+I -
+Por Função de Governo
+08 - Educação e Cultura ................. 279.000,00
+TOTAL .................. 279.000,00
+II -
+Por Programas
+48 - Difusão Cultural ................ 279.000,00
+TOTAL ................ 279.000,00
+III -
+Por Categorias Econômicas
+Despesas Correntes ................ 259.000,00
+Despesas de Capital ................ 20.000,00
+TOTAL ................ 279.000,00
+IV -
+Por Órgão da Administração
+Fundação de Cultura ................ 279.000,00
+TOTAL ................ 279.000,00
+##### Art. 4º
+Fica a Fundação autorizada a proceder a transposição total ou parcial de recursos de um elemento de despesa para outros através de Decreto do Executivo.
+##### Art. 5º
+Este Decreto entrará em vigor na data de 01 de janeiro de 2001, revogadas as disposições em contrário.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.131, DE 28/12/2000
+
+> **Ref:** ilh-2000-dec-2131 · **Tipo:** decreto · **Ano:** 2000 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002131
+
+DECRETO MUNICIPAL Nº 2.131, DE 28/12/2000
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA CONSTANTE DO ORÇAMENTO VIGENTE DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA - FUNDACI.
+(vigência esgotada)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+DECRETA:
+##### Art. 1º
+Fica suplementada as seguintes dotações orçamentárias constante do orçamento vigente da Fundação Arte e Cultura de Ilhabela - FUNDACI:
+101.3120.01 - Material de Consumo ................ 300,00
+Total à suplementar ................ 300,00
+##### Art. 2º
+Para atender a suplementação de que trata o artigo anterior, será anulada total ou parcialmente as seguintes dotações:
+101.3132.01 - Outros Serviços e Encargos ................ 100,00
+101.4110.01 - Obras e Instalações ................ 200,00
+Total à anular ................ 300,00
+##### Art. 3º
+Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos à 15 de dezembro de 2000.
+Ilhabela, 28 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# DECRETO MUNICIPAL Nº 2.132, DE 29/12/2000
+
+> **Ref:** ilh-2000-dec-2132 · **Tipo:** decreto · **Ano:** 2000 · **Status:** em vigor
+> **Ementa:** DESIGNA OS FUNCIONÁRIOS VALÉRIA AYRES DE MORAES, NILZA VIEIRA LEOPOLDINO DO NASCIMENTO, MÁRCIO BATISTA TENÓRIO, PARA RESPONDER PELAS FUNÇÕES QUE ESPECIFICA, E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002132&NroLei=2.132&Word=&Word2=
+
+DECRETO MUNICIPAL Nº 2.132, DE 29/12/2000
+DESIGNA OS FUNCIONÁRIOS VALÉRIA AYRES DE MORAES, NILZA VIEIRA LEOPOLDINO DO NASCIMENTO, MÁRCIO BATISTA TENÓRIO, PARA RESPONDER PELAS FUNÇÕES QUE ESPECIFICA, E DÁ OUTRAS PROVIDÊNCIAS.
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, e tendo em vista a vacância do cargo de Prefeita Municipal no interregno compreendido entre o término do mandato da Prefeita Municipal em 31 de dezembro de 2000, e o momento da posse do Prefeito Eleito, previsto para às 17 horas do dia 1º de janeiro de 2001.
+DECRETA:
+##### Art. 1º
+Ficam designados para responder pelos interesses do Município, a partir de zero horas do dia 1º de janeiro de 2001, até a posse do Prefeito eleito, momento em que cessará a designação, a Senhora VALÉRIA AYRES DE MORAES, brasileira, casada, portadora do RG: 9.212.055, CPF/MF: 272.054.428-00, Secretária de Diretoria, NILZA VIEIRA LEOPOLDINO DO NASCIMENTO, brasileira, casada, portadora do RG: 16.841.813, CPF/MF: 086.397.708-16, Secretária de Diretoria, MÁRCIO BATISTA TENÓRIO, brasileiro, casado, portador do RG: 24.166.148-1, CPF/MF: 157.250.888-38, Assistente Administrativo CAT I, integrantes do quadro efetivo da estrutura básica da Administração.
+##### Art. 2º
+Na defesa dos interesses gerais do Município, poderão os outorgados praticar todos os atos necessários à preservação da ordem, da segurança e da saúde pública.
+##### Art. 3º
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 29 de dezembro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Registrado em Livro Próprio e afixado na data supra, no lugar de costume.
+PJ/rcm/00
+
+---
+
+# LEI MUNICIPAL Nº 884, DE 05/01/2000
+
+> **Ref:** ilh-2000-lei-884 · **Tipo:** lei · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** ALTERA A REDAÇÃO DA LEI Nº 649, DE 29 DE JULHO DE 1997 E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20000884
+
+LEI MUNICIPAL Nº 884, DE 05/01/2000
+ALTERA A REDAÇÃO DA LEI Nº 649, DE 29 DE JULHO DE 1997 E DÁ OUTRAS PROVIDÊNCIAS.
+(Revogada tacitamente pela
+Lei Complementar nº 1.326
+, de 26.10.2018)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais
+Faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:
+##### Art. 1º
+O
+##### artigo 22 da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 22. Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo, ficará sujeito a estágio probatório por período de 03 (três) anos, durante o qual sua adaptabilidade, aptidão e capacidade serão objetos de avaliação para o desempenho do cargo, observados os seguintes requisitos: qualidade no trabalho, produtividade no trabalho, iniciativa, presteza, capacitação através de cursos, assiduidade, pontualidade, administração do tempo e uso adequado de equipamentos.
+§ 1º A avaliação de desempenho no estágio probatório, será de competência do chefe imediato que deverá se pronunciar conclusivamente sobre o atendimento dos requisitos mencionado no "caput" deste artigo a cada período de 120 (cento e vinte) dias.
+§ 2º Fica também o chefe imediato, obrigado por dever de ofício, encaminhar a avaliação do desempenho do estágio probatório à autoridade superior do órgão, contendo obrigatoriamente o ciente do servidor.
+§ 3º Sem alteração.
+§ 4º Sem alteração.
+§ 5º Sem alteração
+§ 6º Sem alteração
+§ 7º O Servidor afastado ou designado para outra função de acordo com a Lei 649/97, será avaliado quando do retorno ao cargo de origem."
+##### Art. 2º
+O
+##### artigo 23 da Lei nº 649
+, de 29 de julho de 1997 passa a ter a seguinte redação:
+"Art. 23. O servidor habilitado em concurso público e empossado em cargo de carreira, adquirirá estabilidade no serviço público ao completar (02) dois anos de efetivo exercício, desde que anterior à
+Emenda Constitucional nº 19
+, de 04 de junho de 1998, artigo 6º e 03 (três) anos de efetivo exercício aos que ingressarem a partir de 05 de junho de 1998."
+##### Art. 3º
+O
+##### artigo 25 da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 25. Transferência é a passagem do servidor estável de cargo efetivo de carreira, para outro cargo do mesmo padrão de vencimento ou de igual remuneração, ressalvados os casos de transferência a pedido do servidor, em que o vencimento ou remuneração poderá ser inferior.
+§ 1º Sem alteração.
+§ 2º Será admitida a transferência de servidor ocupante de cargo de quadro extinto para similar do Quadro de outro órgão ou entidade."
+##### Art. 4º
+O
+##### artigo 32, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 32. Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo e o servidor sem estabilidade, em estágio probatório, será exonerado.
+Parágrafo único. Sem alteração."
+##### Art. 5º
+O
+##### artigo 40, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 40. É permitida a substituição, em casos imprescindíveis, em impedimentos temporários, em razão de licença, férias ou afastamento dos ocupantes de cargo em comissão e confiança ou função de chefia, direção e assessoramento.
+§ 1º A substituição ocorrerá somente quando da existência de disponibilidade financeira e anuência do Chefe do Executivo.
+§ 2º Sem alteração.
+§ 3º Sem alteração."
+##### Art. 6º
+Fica alterado o
+item II do artigo 45, da Lei nº 649
+, de 29 de julho de 1997, que passa a ter a seguinte redação:
+"Art. 45. (permanece inalterado)
+I - (permanece inalterado)
+II - hora-atividade, que é o período em que desempenha atividades relacionadas com a docência, no seu local de exercício e em local de livre escolha pelo docente."
+##### Art. 7º
+O
+##### artigo 50, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 50. Deverá ser remunerado ou compensado, mediante concordância prévia do servidor, o trabalho desenvolvido aos sábados, domingos e feriados, com o correspondente descanso em dias úteis da semana, de acordo com o
+##### artigo 74, I, II e parágrafo único da Lei nº 649/97
+."
+##### Art. 8º
+No
+##### artigo 55, da Lei nº 649
+, de 29 de julho de 1997, inclua-se:
+"§ 3º O vencimento do cargo efetivo será o constante dos Quadros anexos."
+##### Art. 9º
+O
+parágrafo único do artigo 60, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Parágrafo único.
+(Vetado)."
+##### Art. 10.
+O
+##### artigo 61, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 61. As reposições e indenizações ao Erário, serão descontadas em parcelas mensais, não excedentes a 25% (vinte e cinco por cento) da remuneração líquida ou provento.
+Parágrafo único. O servidor que ultrapassar o limite fixado no
+caput
+deste artigo, perderá o direito da consignação em folha de pagamento."
+##### Art. 11.
+O
+##### artigo 71, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 71. Além dos vencimentos ou vantagens previstas nesta Lei, serão deferidas aos servidores, as seguintes gratificações:
+I - pelo exercício de cargo em comissão, função de chefia, direção ou assessoramento;
+II - pelo exercício de funções de confiança;
+III - pela prestação de serviços extraordinários;
+IV - por atividades realizadas em locais de difícil acesso/comunidades isoladas;
+V - pelo trabalho com excepcionais;
+VI - de férias;
+VII - gratificação natalina (13º salário);
+VIII - gratificação de função, conforme previsto em regulamento."
+##### Art. 12.
+O
+##### artigo 72, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 72. Ao servidor investido em função de chefia, direção ou assessoramento, é devida uma gratificação pelo seu exercício, correspondente a diferença entre o vencimento de seu cargo original e a função exercida.
+Parágrafo único. Os valores da gratificação a que se refere este artigo, são estabelecidos na Tabela Quadro de Pessoal 12-II."
+##### Art. 13.
+Acrescenta
+parágrafo único ao artigo 80, da Lei nº 649
+, de 29 de julho de 1997, com a seguinte redação:
+"Parágrafo único. A remuneração do serviço suplementar, habitualmente prestado, integra o cálculo da gratificação natalina."
+##### Art. 14.
+O
+##### artigo 86 da Lei 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 86. Os servidores que executem atividades penosas, insalubres ou perigosas, habitualmente, ou que mantenham contato permanente com substâncias tóxicas ou com risco de vida, fazem jus a uma gratificação de serviço constante da Tabela V.
+§ 1º A caracterização e a classificação dos graus de insalubridade e periculosidade far-se-á através de Laudo Técnico Pericial de Insalubridade e Periculosidade expedido por Engenheiro de Segurança do Trabalho, do Ministério do Trabalho, (Of./ SDTS/121/98 anexo).
+§ 2º O valor da gratificação de que trata este artigo será calculado com base em 50% (cinquenta) por cento, no valor de referência inicial da tabela geral de vencimento do município:
+a) Para atividades Insalubres classificadas como:
+grau médio, na base de 20% (vinte por cento);
+grau máximo, na base de 30% (trinta por cento);
+b) Para as atividades perigosas, na base de 40% (quarenta por cento)."
+##### Art. 15.
+O
+##### artigo 87 da Lei 649
+, de 29 de julho de 1.997, passa a ter a seguinte redação:
+"Art. 87. O servidor que fizer jus às gratificações de serviços insalubres ou perigosos, deverá optar pelo pagamento de uma delas, não sendo acumuláveis estas gratificações.
+Parágrafo único. O direito ao adicional de insalubridade ou periculosidade, cessa com a eliminação das condições ou riscos que deram causa a sua concessão."
+##### Art. 16.
+Inclua-se, o
+Inciso 8, no artigo 92, da Lei nº 649
+, de 29 de julho de 1997,:
+"VIII - Licença para tratamento de saúde do servidor;"
+##### Art. 17.
+Os
+parágrafos 1º e 2º, do artigo 94, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"§ 1º A licença somente será deferida se a assistência direta do servidor for indispensável e não puder ser prestada simultaneamente com exercício do cargo, o que deverá ser declarado pelo médico designado para avaliações e expedição do atestado.
+§ 2º A licença será concedida sem prejuízo da remuneração do cargo, até 30 (trinta) dias e, excedendo este prazo com os seguintes descontos:
+I - de um terço (quando exceder a um mês);
+II - de dois terços (quando exceder a dois meses); e
+III - sem vencimento ou remuneração a partir do terceiro mês."
+##### Art. 18.
+(Vetado).
+##### Art. 19.
+O
+parágrafo primeiro do artigo 103, da Lei 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 103. ................
+§ 1º A licença poderá ser interrompida a qualquer tempo, a pedido do servidor."
+##### Art. 20.
+O
+##### artigo 104, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 104. O servidor efetivo ou estável pela
+Constituição de 1988
+, poderá se afastar para desempenho de mandato em sindicato representativo da categoria, sem prejuízo dos vencimentos e vantagens.
+§ 1º (Vetado)
+§ 2º A licença terá duração igual a do mandato, podendo ser prorrogada no caso de reeleição e por única vez."
+##### Art. 21.
+Inclua-se no
+### Capítulo IV "DAS LICENÇAS", a "Seção IX"
+, renumerando-se os artigos seguintes.
+#### SEÇÃO IX - LICENÇA PARA TRATAMENTO DE SAÚDE DO SERVIDOR
+"Art. .... Ao servidor que por motivo de saúde estiver impossibilitado para o exercício do cargo ou função, será concedida licença, mediante inspeção no órgão médico oficial do município, até o máximo de 02 (dois) anos, com vencimento ou remuneração.
+§ 1º O funcionário, nos termos do
+caput
+deste artigo, será submetido a Junta Médica, a cada 02 (dois) meses, composta de 03 (três) Médicos e seus respectivos suplentes, designados pela Secretaria de Saúde do Município, e desde que verificada a sua invalidez permanente, será aposentado.
+§ 2º Será obrigatória a reversão do aposentado, desde que cessados os motivos determinantes da aposentadoria e de acordo com o
+Arts. 27
+,
+28
+e
+29 da Lei nº 649/97
+.
+Art. .... A licença para tratamento de saúde poderá ser concedida:
+I - a pedido do funcionário; e
+II - ex-offício."
+##### Art. 22.
+A
+alínea "b", do artigo 108, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"b) falecimento do cônjuge, pais, madrasta ou padrasto, filhos ou enteados, ascendentes, descendentes e irmãos."
+##### Art. 23.
+O
+##### artigo 141, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 141. Serão aplicadas penas de advertência nos casos de violação de proibição constante do artigo 128."
+##### Art. 24.
+O
+##### artigo 152, da Lei nº 649
+, de 29 de julho de 1997, passa a ter a seguinte redação:
+"Art. 152. A faculdade de aplicar a pena prescreverá:
+I - em 02 (dois) anos, quanto às infrações puníveis com demissão, cassação de disponibilidade e destituição do cargo em comissão;
+II - em 01 (um ano,) quanto às infrações puníveis com suspensão;
+III - em 06 (seis) meses, quanto às infrações puníveis com advertência."
+##### Art. 25.
+Inclua-se
+parágrafo único no artigo 156 da Lei nº 649
+, de 29 de julho de 1997, com a seguinte redação:
+"Art. 156. .............
+Parágrafo único. É facultado ao servidor a assistência de advogado contratado a seu critério ou, na impossibilidade, ter à sua disposição, a figura do defensor dativo."
+##### Art. 26.
+Ficam criados os cargos constantes do Anexo I, que passa a fazer parte integrante da presente Lei.
+##### Art. 27.
+As despesas decorrentes da presente Lei correrão por conta de verba própria constante do orçamento vigente.
+##### Art. 28.
+Esta Lei entrará em vigor a partir de 1º de janeiro de 2000, revogadas as disposições em contrário.
+Ilhabela, 05 de janeiro de 2000.
+NILCE SIGNORINI,
+Prefeita Municipal.
+Autoria Poder Executivo
+Projeto de Lei nº 84/99
+Registrado em livro próprio e afixado na data supra, no lugar de costume.
+ANEXO I
+[FALTA ANEXO]
+(NR
+LM 204/2003
+)
+
+---
+
+# LEI MUNICIPAL Nº 885, DE 05/01/2000
+
+> **Ref:** ilh-2000-lei-885 · **Tipo:** lei · **Ano:** 2000 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A EVOLUÇÃO FUNCIONAL E O RESPECTIVO SISTEMA DE PLANO DE CARREIRAS DA PREFEITURA MUNICIPAL DE ILHABELA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20000885
+
+LEI MUNICIPAL Nº 885, DE 05/01/2000
+DISPÕE SOBRE A EVOLUÇÃO FUNCIONAL E O RESPECTIVO SISTEMA DE PLANO DE CARREIRAS DA PREFEITURA MUNICIPAL DE ILHABELA.
+(Revogada pela
+Lei Municipal nº 1.328
+, de 26.10.2018)
+NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das suas atribuições legais,
+Faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:
+### CAPÍTULO I - DAS DISPOSIÇÕES PRELIMINARES
+##### Art. 1º
+Sistema de Evolução Funcional é o conjunto de possibilidades proporcionadas pela Administração Municipal, baseado nos princípios de qualificação profissional e de desempenho, que assegurem aos funcionários aperfeiçoamento, reciclagem periódica e condições indispensáveis à sua ascensão funcional, visando à valorização e profissionalização dos recursos humanos disponíveis, com finalidade de assegurar a continuidade da ação administrativa, a eficiência e a eficácia do serviço público.
+##### Art. 2º
+As formas de evolução funcional são a promoção horizontal e a promoção vertical (Plano de Carreiras).
+##### Art. 3º
+Plano de Carreiras é o conjunto de políticas para incentivar os funcionários a ascenderem profissionalmente, de acordo com as estratégias definidas pela Administração Municipal.
+##### Art. 4º
+Carreira é o conjunto de cargos organizados, em sequência e em grupos da mesma natureza, pertencentes a um mesmo grupo ocupacional, dispostos hierarquicamente, de acordo com a complexidade e responsabilidade que apresentem e observados os requisitos mínimos de escolaridade, qualificação e experiência profissional no serviço público.
+##### Art. 5º
+A evolução no Plano de Cargos e Carreiras será implementado através da Promoção Vertical.
+### CAPÍTULO II - DA PROMOÇÃO HORIZONTAL
+##### Art. 6º
+Promoção horizontal é a passagem do funcionário, de um grau para o imediatamente seguinte, na mesma referência de vencimentos do seu cargo.
+##### Art. 7º
+(Vetado)
+.
+##### Art. 8º
+O merecimento será apurado pela avaliação de desempenho do funcionário e pela sua participação em cursos regulares ou de treinamento, no período de 02 (dois) anos anteriores à época do processamento da promoção horizontal.
+##### Art. 9º
+Na avaliação de desempenho deverão ser considerados os seguintes fatores: qualidade no trabalho, produtividade no trabalho, iniciativa, presteza, disciplina, assiduidade, pontualidade, administração do tempo e uso adequado de equipamentos, cumprimento das normas de procedimento e de conduta das atribuições do cargo.
+Parágrafo único.
+A avaliação de desempenho seguirá idênticos critérios aos propostos em regulamentação federal.
+##### Art. 10.
+A antiguidade será apurada pela contagem do tempo de efetivo exercício no cargo, no período de 5 (cinco) anos.
+##### Art. 10.
+A antiguidade será apurada pela contagem do tempo de efetivo exercício no cargo, no período de 03 (três) anos.
+(NR)
+(redação estabelecida pelo
+##### art. 1º da Lei Municipal nº 066
+, de 14.12.2001, que posteriormente teve sua inconstitucional arguida na
+ADIN nº 2104663-44.2015.8.26.0000
+.)
+##### Art. 11.
+A promoção horizontal, tanto por merecimento como por antiguidade, será apurada durante o exercício, no grau da referência de vencimentos do funcionário.
+### CAPÍTULO III - DA PROMOÇÃO VERTICAL
+##### Art. 12.
+Promoção vertical é a passagem de um cargo para o sequencialmente posterior, dentro de uma carreira estabelecida, constante do
+Anexo I
+.
+##### Art. 13.
+A promoção vertical será decorrente de processo seletivo interno, dentre os funcionários que se encontrarem classificados no cargo anterior ao do objeto da promoção vertical.
+##### Art. 14.
+Só poderão concorrer à promoção vertical, os funcionários que preencherem os requisitos e demais exigências estabelecidos para o novo cargo.
+##### Art. 15.
+A quantidade de cargos, a serem preenchidos por promoção vertical, dependerá das seguintes condições:
+I -
+Existência de cargos vagos no quadro de pessoal, nas respectivas carreiras, inclusive aqueles que vierem a vagar em decorrência do processo em andamento e aposentadorias.
+II -
+Existência de recursos orçamentários e financeiros para cobrir as despesas previstas dentro do exercício, conforme
+##### artigo 169, parágrafo único, da Constituição Federal
+.
+Parágrafo único.
+A quantidade de cargos vagos a ser oferecida para promoção vertical nas correspondentes carreiras, deverá ser divulgada no respectivo edital de cada processo seletivo.
+##### Art. 16.
+O processo seletivo interno para a promoção vertical dentro das carreiras constará do seguinte:
+I -
+Prova teórica e ou prática, sobre atribuições específicas do novo cargo, para medir o potencial para o desempenho das novas atribuições.
+##### Art. 17.
+Para concorrer a promoção vertical, os servidores deverão atender os requisitos para preenchimentos dos cargos, constantes do
+Anexo II, desta Lei
+.
+##### Art. 18.
+No preenchimento do novo cargo, decorrente da promoção vertical, o funcionário ficará classificado no grau inicial da referência de vencimentos do novo cargo.
+Parágrafo único.
+Caso o valor do grau inicial do novo cargo seja menor que o valor atual, na ocasião da homologação do processo seletivo, o funcionário ficará classificado, dentro da nova referência, no grau de valor imediatamente superior.
+##### Art. 19.
+Ficam estabelecidas as carreiras, para promoção vertical dos funcionários, conforme disposto no
+Anexo I, que faz parte integrante desta Lei
+.
+##### Art. 20.
+Os requisitos mínimos para preenchimento dos cargos, que serão exigidos nos respectivos processos seletivos internos para promoção vertical nas carreiras estabelecidas, constam do
+Anexo II desta Lei
+.
+Parágrafo único.
+Os atuais funcionários, que não preencherem os requisitos a que se refere o caput, não serão prejudicados, permanecendo nos respectivos cargos que ocupam, mas somente poderão concorrer à promoção vertical se vierem a adquirir os requisitos necessários.
+### CAPÍTULO IV - DO ENQUADRAMENTO INICIAL
+##### Art. 21.
+O enquadramento inicial para implementação do Plano de Carreiras deverá obedecer somente o critério de antiguidade, no grau correspondente, retroativo a data de admissão do servidor.
+(NR)
+(redação estabelecida pelo
+##### art. 3º da Lei Municipal nº 204
+, de 16.07.2003)
+##### Art. 21.
+O enquadramento inicial para implementação do Plano de Carreiras deverá obedecer somente o critério de antiguidade, no grau correspondente.
+(redação original)
+### CAPÍTULO V - DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+##### Art. 22.
+Excepcionalmente, a partir do ano de 2001, todos os servidores efetivos participarão do processo de classificação por merecimento.
+##### Art. 23.
+Ocorrendo empate nas classificações previstas nesta Lei, o desempate será feito obedecendo aos seguintes critérios, sucessivamente:
+I -
+O funcionário que obtiver maior pontuação na avaliação de desempenho.
+II -
+O mais antigo no cargo efetivo;
+II -
+O mais antigo no serviço público municipal;
+III -
+O mais antigo no serviço público.
+##### Art. 24.
+As normas constantes desta Lei deverão ser regulamentadas por Decreto, no prazo de até 120 (cento e vinte) dias, a partir da data de sua promulgação.
+##### Art. 25.
+As despesas decorrentes desta Lei correrão por conta do orçamento vigente, suplementadas se necessário, nos termos da legislação orçamentária vigente.
+##### Art. 26.
+Esta Lei entrará em vigor a partir de 1º de janeiro de 2000, revogadas as disposições em contrário.
+Ilhabela, 05 de janeiro de 2000.
+NILCE SIGNORINI
+Prefeita Municipal
+Autoria: Poder Executivo
+Projeto de Lei nº 85/99
+Registrado em livro próprio, na data supra e afixado no lugar de costume.
+ANEXO I - PLANO DE CARREIRAS
+TABELA DE REFERÊNCIA SALARIAL
+(NR)
+(Anexo com redação estabelecida de acordo com o
+##### art. 4º da Lei Municipal nº 204
+, de 16.07.2003)
+INICIAL
+A
+B
+C
+D
+E
+F
+G
+H
+1
 
 ---

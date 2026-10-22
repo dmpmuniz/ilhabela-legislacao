@@ -1,6 +1,5 @@
 # Legislação Municipal de Ilhabela/SP — parte 1 de 23
 
-Compilação de 35776 normas do portal oficial (Cespro), em ordem cronológica.
 Cada norma tem o título como cabeçalho, metadados (ref, status, ementa, fonte)
 e o texto integral com artigos marcados. Dividida em partes para respeitar o
 limite de 500 mil palavras por fonte do NotebookLM.
@@ -45345,5 +45344,1035 @@ Esta Lei entra em vigor na data de sua publicação, revogadas às disposições
 Ilhabela, 11 de novembro de 1994.
 ROBERTO FAZZINI
 Prefeito Municipal
+
+---
+
+# LEI MUNICIPAL Nº 569, DE 02/12/1994
+
+> **Ref:** ilh-1994-lei-569 · **Tipo:** lei · **Ano:** 1994 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE O PAGAMENTO DE COMPLEMENTAÇÃO SALARIAL A SERVIDORES ESTADUAIS DA SAÚDE OU SIMILARES, MUNICIPALIZADOS POR EFEITO DO CONVÊNIO CELEBRADO ENTRE A PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA E A SECRETARIA DE ESTADO DA SAÚDE, DE CONFORMIDADE COM A LEI Nº 274/87 .
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940569
+
+LEI MUNICIPAL Nº 569, DE 02/12/1994
+DISPÕE SOBRE O PAGAMENTO DE COMPLEMENTAÇÃO SALARIAL A SERVIDORES ESTADUAIS DA SAÚDE OU SIMILARES, MUNICIPALIZADOS POR EFEITO DO CONVÊNIO CELEBRADO ENTRE A PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA E A SECRETARIA DE ESTADO DA SAÚDE, DE CONFORMIDADE COM A
+LEI Nº 274/87
+.
+(Revogada pela
+Lei Municipal nº 962
+, de 21.09.2000)
+ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, Estado de São Paulo, no uso de suas atribuições legais,
+Faço saber que a Câmara Municipal aprova e eu sanciono e promulgo a seguinte Lei:
+##### Art. 1º
+Os servidores estaduais da Saúde ou similares, municipalizados por efeito do Convênio SUDS, farão jus à complementação salarial, todas as vezes em que seus salários forem inferiores aos vencimentos pagos aos servidores municipais.
+##### Art. 2º
+Os Secretários Municipais da Saúde, Finanças e Planejamento e Gestão, adotarão as medidas necessárias, através de procedimentos legais, para que seja paga a complementação salarial.
+##### Art. 3º
+A complementação de que trata esta Lei, por sua natureza transitória eventual, não se incorporá, para qualquer efeito aos vencimentos dos servidores estaduais por ela atingidos, e não caracterizará vínculo empregatício ou funcional com a Prefeitura Municipal da Estância Balneária de Ilhabela.
+##### Art. 4º
+O pagamento da complementação salarial será feita de acordo com a equiparação funcional existente no Quadro da Prefeitura e ficará condicionado à apresentação junto a Secretaria Municipal de Finanças, a relação dos funcionários acompanhada das respectivas cópias dos holerites do mês correspondentes.
+Parágrafo único.
+A presente complementação cessará imediatamente em caso de renúncia do convênio por qualquer das partes.
+##### Art. 5º
+Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 29 de abril de 1988, revogadas as disposições em contrário.
+Ilhabela, 02 dezembro de 1994.
+ROBERTO FAZZINI
+Prefeito Municipal
+
+---
+
+# LEI MUNICIPAL Nº 570, DE 07/12/1994
+
+> **Ref:** ilh-1994-lei-570 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
+> **Ementa:** AUTORIZA O EXECUTIVO MUNICIPAL A CUSTEAR DESPESAS COM A SEGURANÇA PÚBLICA MUNICIPAL, ATRAVÉS DOS ÓRGÃOS OFICIAIS EXISTENTES NO MUNICÍPIO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940570
+
+LEI MUNICIPAL Nº 570, DE 07/12/1994
+AUTORIZA O EXECUTIVO MUNICIPAL A CUSTEAR DESPESAS COM A SEGURANÇA PÚBLICA MUNICIPAL, ATRAVÉS DOS ÓRGÃOS OFICIAIS EXISTENTES NO MUNICÍPIO.
+(vigência esgotada)
+FAÇO SABER QUE A CÂMARA MUNICIPAL MANTEVE E EU PROMULGO, NOS TERMOS DA
+LEI ORGÂNICA DO MUNICÍPIO DE ILHABELA
+, A SEGUINTE LEI:
+##### Art. 1º
+Fica autorizado o Executivo Municipal a custear até R$ 600,00 (seiscentos reais) mensais durante os meses de março à dezembro e R$ 900,00 (novecentos reais) nos meses de janeiro e fevereiro, para suprir despesas de alimentação com Segurança Pública e aluguel nos meses de janeiro e fevereiro, através dos órgãos oficiais a serviço no Município.
+Parágrafo único.
+Os valores de que trata o presente artigo, serão transformados em VRM - Valor de Referência Municipal, na data da publicação da presente Lei.
+##### Art. 2º
+As despesas decorrentes da presente Lei correrão por conta de verba própria, existente no orçamento Municipal.
+##### Art. 3º
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+Sala "Ver. MANOEL CLEMENTINO BARBOSA".
+Ilhabela, 07 de dezembro de 1994.
+ELIAS CORRÊA SANTANA
+Presidente
+
+---
+
+# LEI MUNICIPAL Nº 571, DE 16/12/1994
+
+> **Ref:** ilh-1994-lei-571 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE A PRORROGAÇÃO DE PRAZO DA POSSE DO CONSELHO TUTELAR.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940571
+
+LEI MUNICIPAL Nº 571, DE 16/12/1994
+DISPÕE SOBRE A PRORROGAÇÃO DE PRAZO DA POSSE DO CONSELHO TUTELAR.
+(vigência esgotada)
+ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+Faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+##### Art. 1º
+Fica prorrogado o prazo para a posse do Conselho Tutelar, fixado na
+Lei nº 559/94
+de 16 de agosto de 1994, para 24 de novembro do corrente ano, às 20,00 (vinte) horas em local a ser designado.
+##### Art. 2º
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Ilhabela, 16 de dezembro de 1994.
+ROBERTO FAZZINI
+Prefeito Municipal
+
+---
+
+# LEI MUNICIPAL Nº 572, DE 16/12/1994
+
+> **Ref:** ilh-1994-lei-572 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÕES DE DOTAÇÕES ORÇAMENTÁRIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940572
+
+LEI MUNICIPAL Nº 572, DE 16/12/1994
+DISPÕE SOBRE SUPLEMENTAÇÕES DE DOTAÇÕES ORÇAMENTÁRIAS.
+(vigência esgotada)
+ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+Faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+##### Art. 1º
+Ficam suplementadas as seguintes Dotações Orçamentárias constantes do Orçamento vigente:
+100.3111.00 - Pessoal Civil ............... R$ 10.000,00
+100.3120.00 - Material de Consumo ............... R$ 1.000,00
+100.3132.00 - Outros Serv. e Encargos ............... R$ 2.000,00
+100.3252.00 - Pensionistas ............... R$ 1.000,00
+202.3111.02 - Pessoal Civil ............... R$ 9.000,00
+202.3113.02 - Obrigações Patronais ............... R$ 3.500,00
+202.3120.02 - Material de Consumo ............... R$ 2.000,00
+202.3132.02 - Outros Serv. e Encargos ............... R$ 2.000,00
+229.3120.29 - Material de Consumo ............... R$ 300,00
+356.3111.56 - Pessoal Civil ............... R$ 1.000,00
+356.3132.56 - Outros Serv. e Encargos ............... R$ 1.000,00
+356.4110.56 - Obras e Instalações ............... R$ 50.000,00
+386.3111.86 - Pessoal Civil ............... R$ 2.500,00
+386.3113.86 - Obrigações Patronais ............... R$ 500,00
+386.3120.86 - Material de Consumo ............... R$ 300,00
+386.3132.86 - Outros Serv. e Encargos ............... R$ 300,00
+483.3111.83 - Pessoal Civil ............... R$ 5.500,00
+483.3113.83 - Obrigações Patronais ............... R$ 1.500,00
+483.3120.83 - Material de Consumo ............... R$ 2.000,00
+483.3132.83 - Outros Serv. e Encargos ............... R$ 1.500,00
+483.3132.83 - Outros Serv. e Encargos ............... R$ 400,00
+483.3231.83 - Subvenções Sociais ............... R$ 3.000,00
+509.3111.09 - Pessoal Civil ............... R$ 12.500,00
+509.3113.09 - Obrigações Patronais ............... R$ 5.200,00
+509.3120.09 - Material de Consumo ............... R$ 10.000,00
+509.3132.09 - Outros Serv. e Encargos ............... R$ 8.000,00
+509.3192.09 - Despesas Exerc. Anteriores ............... R$ 10.000,00
+509.3152.09 - Pensionistas ............... R$ 2.500,00
+526.3120.26 - Material de Consumo ............... R$ 300,00
+526.3132.26 - Outros Serv. e Encargos ............... R$ 300,00
+556.3111.56 - Pessoal Civil ............... R$ 12.000,00
+556.3113.56 - Obrigações Patronais ............... R$ 3.000,00
+556.3120.56 - Material de Consumo ............... R$ 1.000,00
+619.3111.19 - Pessoal Civil ............... R$ 9.500,00
+619.3113.19 - Obrigações Patronais ............... R$ 2.200,00
+619.3132.19 - Outros Serv. e Encargos ............... R$ 2.000,00
+721.3111.21 - Pessoal Civil ............... R$ 13.000,00
+721.3113.21 - Obrigações Patronais ............... R$ 3.500,00
+721.3120.21 - Material de Consumo ............... R$ 2.000,00
+721.3132.21 - Outros Serv. e Encargos ............... R$ 1.000,00
+731.3111.31 - Pessoal Civil ............... R$ 14.000,00
+731.3113.31 - Obrigações Patronais ............... R$ 4.000,00
+731.3120.31 - Material de Consumo ............... R$ 2.000,00
+731.3132.31 - Outros Serv. e Encargos ............... R$ 2.000,00
+731.4110.31 - Obras e Instalações ............... R$ 5.000,00
+731.4110.31 - Obras e Instalações ............... R$ 5.000,00
+751.3132.51 - Outros Serv. e Encargos ............... R$ 3.600,00
+972.3111.72 - Pessoal Civil ............... R$ 25.000,00
+972.3113.72 - Obrigações Patronais ............... R$ 7.700,00
+972.3120.72 - Material de Consumo ............... R$ 4.000,00
+972.3132.72 - Outros Serv. e Encargos ............... R$ 14.000,00
+1045.3111.45 - Pessoal Civil ............... R$ 13.000,00
+1045.3113.45 - Obrigações Patronais ............... R$ 4.000,00
+1111.3111.11 - Pessoal Civil ............... R$ 16.000,00
+1111.3113.11 - Obrigações Patronais ............... R$ 4.800,00
+1121.3111.21 - Pessoal Civil ............... R$ 12.000,00
+1121.3113.21 - Obrigações Patronais ............... R$ 4.000,00
+1131.3132.31 - Outros Serv. e Encargos ............... R$ 11.000,00
+1141.3111.41 - Pessoal Civil ............... R$ 1.000,00
+1141.3113.41 - Obrigações Patronais ............... R$ 500,00
+1151.3132.51 - Outros Serv. e Encargos ............... R$ 500,00
+TOTAL A SUPLEMENTAR ............... R$ 351.400,00
+##### Art. 2º
+A cobertura da suplementação de que trata o artigo anterior, será efetuada com a utilização do excesso de arrecadação a verificar-se no corrente Exercício.
+##### Art. 3º
+Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos jurídicos em 31 de outubro de 1994, revogadas as disposições em contrário.
+Ilhabela, 16 de dezembro de 1994.
+ROBERTO FAZZINI
+Prefeito Municipal
+
+---
+
+# LEI MUNICIPAL Nº 573, DE 16/12/1994
+
+> **Ref:** ilh-1994-lei-573 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÕES ORÇAMENTÁRIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940573
+
+LEI MUNICIPAL Nº 573, DE 16/12/1994
+DISPÕE SOBRE SUPLEMENTAÇÃO DE DOTAÇÕES ORÇAMENTÁRIAS.
+(vigência esgotada)
+ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+Faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+##### Art. 1º
+Ficam suplementadas as seguintes Dotações Orçamentárias constantes do Orçamento vigente:
+100.3111.00 - Pessoal Civil ............... 9.500,00
+100.3132.00 - Outros Serv. e Encargos ............... 1.500,00
+100.3152.00 - Pensionistas ............... 773,07
+202.3111.02 - Pessoal Civil ............... 24.000,00
+202.3113.02 - Obrigações Patronais ............... 3.000,00
+202.3120.02 - Material de Consumo ............... 2.000,00
+202.3132.02 - Outros Serv. e Encargos ............... 1.000,00
+202.4120.02 - Equip. Mat. Permanente ............... 200,00
+229.3120.29 - Material de Consumo ............... 500,00
+356.3111.56 - Pessoal Civil ............... 7.000,00
+356.3113.56 - Obrigações Patronais ............... 2.000,00
+356.3120.56 - Material de Consumo ............... 1.000,00
+356.3132.56 - Outros Serv. e Encargos ............... 1.000,00
+386.3111.86 - Pessoal Civil ............... 10.000,00
+386.3113.86 - Obrigações Patronais ............... 3.000,00
+386.3120.86 - Material de Consumo ............... 500,00
+386.3132.86 - Outros Serv. e Encargos ............... 800,00
+483.3111.83 - Pessoal Civil ............... 10.000,00
+483.3113.83 - Obrigações Patronais ............... 2.500,00
+483.3120.83 - Material de Consumo ............... 2.500,00
+483.3132.83 - Outros Serv. e Encargos ............... 2.000,00
+483.3231.83 - Subvenções Sociais ............... 3.500,00
+483.3280.83 - Contribuição p/Pasep ............... 1.000,00
+483.3280.83 - Contribuição p/Pasep ............... 11.000,00
+509.3111.09 - Pessoal Civil ............... 30.000,00
+509.3113.09 - Obrigações Patronais ............... 6.000,00
+509.3120.09 - Material de Consumo ............... 15.000,00
+509.3132.09 - Outros Serv. e Encargos ............... 15.000,00
+509.3192.09 - Desp. dos Exerc. Anteriores ............... 15.000,00
+509.3252.09 - Pensionistas ............... 3.000,00
+509.4120.09 - Equip. e Mat. Permanente ............... 1.600,00
+526.3132.26 - Outros Serv. e Encargos ............... 200,00
+556.3111.56 - Pessoal Civil ............... 27.000,00
+556.3113.56 - Obrigações Patronais ............... 7.000,00
+556.3120.56 - Material de Consumo ............... 15.000,00
+556.3132.56 - Outros Serv. e Encargos ............... 5.000,00
+619.3111.19 - Pessoal Civil ............... 20.000,00
+619.3113.19 - Obrigações Patronais ............... 5.000,00
+619.3120.19 - Material de Consumo ............... 5.000,00
+619.3132.19 - Outros Serv. e Encargos ............... 15.000,00
+721.3111.21 - Pessoal Civil ............... 30.000,00
+721.3113.21 - Obrigações Patronais ............... 10.000,00
+721.3120.21 - Material de Consumo ............... 10.000,00
+721.3120.21 - Material de Consumo M. Escolar ............... 20.000,00
+721.3132.21 - Outros Serv. e Encargos ............... 10.000,00
+721.4120.21 - Equip. Mat. Permanente ............... 30.000,00
+731.3111.31 - Pessoal Civil ............... 40.000,00
+731.3113.31 - Obrigações Patronais ............... 12.000,00
+731.3120.31 - Material de Consumo ............... 15.000,00
+731.3120.31 - Mat. de Cons. - M. Escolar ............... 30.000,00
+731.3132.31 - Outros Serv. e Encargos ............... 20.000,00
+731.4110.31 - Obras e Instalações ............... 50.000,00
+731.4120.31 - Equip. e Mat. Permanente ............... 100.000,00
+972.3111.72 - Pessoal Civil ............... 50.000,00
+972.3113.72 - Obrigações Patronais ............... 15.000,00
+972.3120.72 - Material de Consumo ............... 8.000,00
+972.3132.72 - Outros Serv. e Encargos ............... 15.000,00
+1045.3111.45 - Pessoal Civil ............... 22.000,00
+1045.3113.45 - Obrigações Patronais ............... 6.000,00
+1111.3111.11 - Pessoal Civil ............... 35.000,00
+1111.3113.11 - Obrigações Patronais ............... 11.000,00
+1111.3120.11 - Material de Consumo ............... 5.000,00
+1111.3132.11 - Outros Serv. e Encargos ............... 5.000,00
+1111.4110.11 - Obras e Instalações ............... 50.000,00
+1121.3111.21 - Pessoal Civil ............... 20.000,00
+1121.3113.21 - Obrigações Patronais ............... 4.000,00
+1121.3120.21 - Material de Consumo ............... 2.000,00
+1131.3132.31 - Outros Serv. e Encargos ............... 15.000,00
+1141.3111.41 - Pessoal Civil ............... 6.000,00
+1141.3113.41 - Obrigações Patronais ............... 1.500,00
+1141.3120.41 - Material de Consumo ............... 1.000,00
+TOTAL A SUPLEMENTAR ............... 933.573,07
+##### Art. 2º
+A cobertura da suplementação de que trata o artigo anterior, será efetuada com a utilização do excesso de arrecadação a verificar-se no corrente Exercício.
+##### Art. 3º
+Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos jurídicos em 01 de dezembro de 1994, revogadas as disposições em contrário.
+Ilhabela, 16 de dezembro de 1994.
+ROBERTO FAZZINI
+Prefeito Municipal
+
+---
+
+# LEI MUNICIPAL Nº 574, DE 26/12/1994
+
+> **Ref:** ilh-1994-lei-574 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
+> **Ementa:** ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE ILHABELA, PARA O EXERCÍCIO DE 1995.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940574
+
+LEI MUNICIPAL Nº 574, DE 26/12/1994
+ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE ILHABELA, PARA O EXERCÍCIO DE 1995.
+(vigência esgotada)
+ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,
+Faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+##### Art. 1º
+O Orçamento Fiscal do Município de Ilhabela, para o exercício financeiro de 1995, discriminado pelos anexos integrantes desta Lei, estima a RECEITA e fixa a DESPESA em R$ 13.500.000,00 (treze milhões e quinhentos mil reais).
+##### Art. 2º
+A RECEITA será realizada mediante a arrecadação dos tributos, rendas e outras receitas correntes e de capital na forma da Legislação em vigor, e das especificações constantes do
+Anexo 2, da Lei nº 4.320/64
+, com o seguinte Desdobramento:
+01. - RECEITAS CORRENTES ............... 13.076.910,00
+11.- Receita Tributária ............... 6.098.220,00
+13.- Receita Patrimonial ............... 22.950,00
+16.- Receita de Serviços ............... 157.950,00
+17.- Transf. Correntes ............... 5.959.440,00
+19.- Outras Rec. Correntes ............... 838.350,00
+02. - RECEITAS DE CAPITAL ............... 423.090,00
+21.- Operações de crédito ............... 67.500,00
+22.- Alien. de Bens ............... 2.790,00
+24.- Transf. de Capital ............... 352.710,00
+25.- Outras Rec. de Capital ............... 90,00
+TOTAL DA RECEITA ............... 13.500.000,00
+##### Art. 3º
+A DESPESA será realizada segundo a discriminação dos quadros "Programa de Trabalho" e "Natureza de Despesa", que apresenta o seguinte Desdobramento:
+I -
+POR FUNÇÕES DE GOVERNO:
+01.- Legislativa ............... 360.000,00
+05.- Adm. e Planejamento ............... 2.997.000,00
+05.- Comunicações ............... 13.500,00
+06.- Defesa Nac. e Seg. Pública ............... 27.000,00
+03.- Educação e Cultura ............... 2.880.000,00
+03.- Habit. e Urbanismo ............... 3.248.100,00
+11.- Ind. Com. e Serviços ............... 342.900,00
+13.- Saúde e Saneamento ............... 2.371.500,00
+15.- Assist. e Previdência ............... 585.000,00
+16.- Transportes ............... 675.000,00
+TOTAL DE DESPESA ............... 13.500.000,00
+II -
+POR PROGRAMAS:
+01.- Proc. Legislativo ............... 360.000,00
+07.- Administração ............... 2.052.000,00
+08.- Adm. Finanças ............... 945.000,00
+22.- Telecomunicações ............... 13.500,00
+28.- Defesa Terrestre ............... 27.000,00
+41.- Educação da Criança de 0 à 6 anos ............... 873.000,00
+42.- Ensino Fundamental ............... 1.467.000,00
+45.- Ensino Supletivo ............... 13.500,00
+46.- Educação Física e Desportos ............... 283.500,00
+47.- Assistência a Educandos ............... 153.000,00
+48.- Difusão Cultural ............... 90.000,00
+58.- Urbanismo ............... 1.890.000,00
+60.- Serv. de Utilidade Pública ............... 1.358.100,00
+65.- Turismo ............... 352.900,00
+75.- Saúde e Saneamento ............... 1.800.000,00
+77.- Proteção ao M. Amb. ............... 571.500,00
+81.- Assistência ............... 450.000,00
+82.- Previdência ............... 135.000,00
+88.- Transp. Rodoviário ............... 675.000,00
+TOTAL DE DESPESA ............ 13.500.000,00
+III -
+POR CATEGORIAS ECONÔMICAS:
+Despesas Correntes ................ 9.629.685,00
+Despesas de Capital ................ 3.870.315,00
+TOTAL DE DESPESA ............ 3.500.000,00
+IV -
+POR órgãos DA ADMINISTRAÇÃO
+PODER LEGISLATIVO
+100.- Câmara Municipal ............... 360.000,00
+PODER EXECUTIVO
+200.- Executivo ............... 729.000,00
+300.- Secret. de Turismo, Esp. e Lazer ............... 612.900,00
+400.- Secretaria de Ação Social ............... 450.000,00
+500.- Secretaria de Planej. e Gestão ............... 2.038.500,00
+600.- Secretaria de Finanças ............... 1.080.000,00
+700.- Secretaria de Educação ............... 2.520.000,00
+800.- Secretaria da Cultura ............... 90.000,00
+900.- Secretaria de Saúde ............... 1.800.000,00
+1.000.- Secretaria do Meio Ambiente ............... 571.500,00
+1.100.- Secretaria de Obras ............... 3.248.100,00
+TOTAL DE DESPESA .............. 13.500.000,00
+##### Art. 4º
+O Orçamento de Seguridade Social do Município estima a receita e fixa a Despesa em R$ 2.385.000,00, assim discriminados:
+01.- Saúde ................ 1.800.000,00
+02.- Previdência .............. 135.000,00
+03.- Assistência Social ............. 450.000,00
+TOTAL DE DESPESA ............. 2.385.000,00
+##### Art. 5º
+O Poder Executivo está autorizado a abrir créditos suplementares, no Orçamento da Despesa, nos termos do
+##### artigo 43, 1º, Inciso III, da Lei nº 4.320/64
+.
+##### Art. 6º
+Fica o Poder Executivo autorizado a abrir créditos suplementares, até o limite de 60% (sessenta por cento) do orçamento da despesa, nos termos do
+##### artigo 7º da Lei nº 4.320/64
+.
+##### Art. 7º
+O Poder Executivo está autorizado a realizar operações do crédito por antecipação da receita, até o limite de 10% (dez por cento) da receita, nos termos da Legislação em vigor.
+##### Art. 8º
+Esta Lei entrará em vigor na data de 1º (primeiro) de janeiro de 1995, revogadas as disposições em contrário.
+Ilhabela, 26 de dezembro de 1994.
+ROBERTO FAZZINI
+Prefeito Municipal
+
+---
+
+# LEI MUNICIPAL Nº 575, DE 30/09/1994
+
+> **Ref:** ilh-1994-lei-575 · **Tipo:** lei · **Ano:** 1994 · **Status:** expirada
+> **Ementa:** INSTITUI A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 1995 E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19940575
+
+LEI MUNICIPAL Nº 575, DE 30/09/1994
+INSTITUI A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 1995 E DÁ OUTRAS PROVIDÊNCIAS.
+(vigência esgotada)
+ROBERTO FAZZINI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são concedidas por Lei,
+Faz saber que a Câmara Municipal aprova e eu sanciono e promulgo a seguinte Lei:
+##### Art. 1º
+A apuração do valor venal para efeito de lançamento do Imposto Predial e Territorial Urbano para o Exercício de 1995, será feita de acordo com a planta genérica de valores integrante da presente lei e de acordo com as normas e métodos nela fixados.
+Parágrafo único.
+A planta genérica de valores compõem-se de logradouros Públicos integrantes de determinada região do Município, nela constando os valores atribuídos ao metro quadrado dos terrenos neles localizados e explicitados na TABELA I que acompanha a presente lei.
+##### Art. 2º
+Para efeito de lançamento do Imposto Predial e Territorial Urbano para o exercício de 1995, considerar-se-á ocorrido o seu fato gerador no dia primeiro de janeiro desse ano.
+##### Art. 3º
+A apuração do valor venal dos terrenos será feita mediante a multiplicação de sua área pelo valor unitário do metro quadrado constante da TABELA I, aplicados, em ocorrendo a hipótese, os fatores de correção previstos nas TABELAS II e III que acompanham a presente lei.
+Parágrafo único.
+Nos casos singulares de lotes particularmente desvalorizados em virtude de formas extravagantes de conformações topográficas muito desfavoráveis, ou pela passagem de córregos, ou ainda, pela sua sujeição a inundações periódicas, bem como fatores inesperados, onde a aplicação das normas instituídas nesta Lei possa conduzir a avaliação injusta terão seus valores recalculados, para maior ou menor, observadas as características do imóvel.
+##### Art. 4º
+Os valores unitários para o metro quadrado de terrenos explicitados na TABELA I, correspondem, em VRM ao metro quadrado do lote padrão, adotada a profundidade mínima de 30 (trinta) metros.
+§ 1º
+A influência do fator profundidade será obtida mediante a aplicação da TABELA II.
+§ 2º
+Para apuração da profundidade equivalente dos terrenos de esquina, será adotada a testada que possibilite o melhor aproveitamento da área, exceção feita àqueles ocupados por construção, para os quais a profundidade equivalente do lote de esquina será encontrada em função da testada que constitua a frente efetiva do imóvel.
+##### Art. 5º
+Para os efeitos de avaliação consideram-se de esquina os lotes em que tenham frente para duas ou mais vias públicas.
+Parágrafo único.
+Consideram-se também de esquina os lotes que tenham duas faces voltadas para a mesma via pública, desde que 35% (trinta e cinco por cento) do somatório do perímetro do lote estejam voltados para via pública.
+##### Art. 6º
+Os terrenos com acesso inferior a três metros, terão o seu valor calculado pelo logradouro que lhe dá acesso, com desconto de trinta por cento.
+Parágrafo único.
+O disposto neste artigo não se aplica aos condomínios ou loteamentos fechados.
+##### Art. 7º
+O FATOR GLEBA será apurado aplicando-se ao valor do metro quadrado estabelecido pelo CÓDIGO do logradouro público para o qual o imóvel faz frente, os fatores constantes da TABELA III que acompanha a presente lei.
+##### Art. 8º
+Os terrenos localizados em logradouro que não conste da TABELA I, terão seus valores fixados de acordo com o valor nela estabelecido para o logradouro dele mais próximo.
+##### Art. 9º
+O valor venal do imóvel em que haja construção, será obtido pela conjugação do valor do terreno constante da TABELA I, com os valores dos padrões de construção explicitados nas TABELAS IV, V e VI.
+##### Art. 10.
+O montante da área construída será encontrado pela medição dos contornos externos das paredes ou pilares, computadas também as superfícies denominadas terraços cobertos, piscinas, quadras de esporte e áreas externas cobertas de cada pavimento.
+Parágrafo único.
+Para a obtenção da área construída serão consideradas todas as construções nos terrenos existentes e, classificadas conforme as características especificadas nas TABELAS que acompanham a presente lei.
+##### Art. 11.
+Para determinação do valor unitário do metro quadrado das construções, aplicar-se-á o padrão da Tabela na qual estejam presentes a maioria de suas características.
+Parágrafo único.
+Quando o imóvel se enquadrar em mais de um padrão, será apurado o preço médio que prevalecerá para fixação do valor venal do metro quadrado.
+##### Art. 12.
+Aos imóveis que contarem dez ou mais anos de idade, terão seus valores depreciados pela aplicação dos fatores consignados na TABELA VII, com base na data em que o mesmo passou a ser tributado.
+Parágrafo único.
+O disposto no "caput" deste artigo não se aplica aos prédios que tiverem as suas características originais alteradas em virtude de melhoria ou reforma.
+##### Art. 13.
+Das notificações do Imposto Predial e Territorial Urbano, deverá constar obrigatoriamente além da individualização do imóvel, os valores expressos em VRM do terreno, do prédio, das taxas, acréscimos, depreciação, descontos: valor para pagamento integral e das parcelas, data de vencimento e o enquadramento do imóvel no Código e Tabela respectiva, vedada qualquer outra inserção não relacionada ao imóvel, convertendo-se o valor venal em moeda corrente nacional, na data da ocorrência do fato gerador que correspondente a 1º de janeiro de 1995.
+Parágrafo único.
+A entrega obrigatória do carnê ao contribuinte ou a seu preposto se dará até o dia 10 de fevereiro de 1995 mediante recibo, com menção do dia, mês e ano, cuja data será gravada no carnê, desobrigando o contribuinte do pagamento de quaisquer acréscimos, se a entrega ocorrer após a data estipulada.
+##### Art. 14.
+Fica concedida isenção de imposto predial e territorial urbano - IPTU, a todos os cidadãos aposentados e pensionistas que percebam a este título renda de até 02 (dois) salários mínimos, mensalmente, que possuam comprovadamente um único imóvel residencial no município de Ilhabela há mais de 02 (dois) anos e que seja destinado para uso próprio.
+Parágrafo único.
+O cidadão beneficiado pelo "caput" deste artigo deverá dar entrada com requerimento na Prefeitura Municipal, solicitando a concessão do mesmo. Para tanto, apresentando no ato cópia do carnê do IPTU e declaração comprovando ser possuidor de um único imóvel residencial destinado a uso próprio, como também de certidão ou comprovante de sua aposentadoria ou pensão por órgão Federal, Estadual ou Municipal.
+##### Art. 15.
+Nos casos em que os custos operacionais de lançamento superarem as receitas a serem arrecadadas, fica o Poder Executivo autorizado a não efetuar o respectivo lançamento.
+##### Art. 16.
+A presente Lei entrará em vigor à partir de 01 de janeiro de 1995, revogadas as disposições em contrário, e em especial a
+Lei nº 525
+de 26 de novembro de 1993.
+Ilhabela, 30 de setembro de 1994.
+ROBERTO FAZZINI
+Prefeito Municipal
+TABELA I
+CÓDIGO DE VALORES DOS TERRENOS
+(por metro quadrado) calculado para 01/01/95
+CÓDIGOS
+VALORES (V.R.M.)
+01
+0.8392
+02
+0.9264
+03
+1.0228
+04
+1.1292
+05
+1.2466
+06
+1.3762
+07
+1.5194
+08
+1.6774
+09
+1.8518
+10
+2.0444
+11
+2.2570
+12
+2.4918
+13
+2.7509
+14
+3.0370
+15
+3.3528
+16
+3.7015
+17
+4.0865
+18
+4.5115
+19
+4.9807
+20
+5.4987
+21
+6.0705
+22
+6.7019
+23
+7.3989
+24
+8.1683
+25
+9.0178
+26
+9.9557
+27
+10.9911
+28
+12.1342
+29
+13.3961
+30
+14.7893
+TABELA CÓDIGO DE LOGRADOUROS
+BAIRRO
+LOGRADOURO
+CÓDIGOS
+ÁGUA BRANCA
+A RUA
+8
+ÁGUA BRANCA
+ANA ASCENÇÃO DE JESUS, RUA
+9
+ÁGUA BRANCA
+ANTONIO BERNARDO DE MOURA, RUA
+10
+ÁGUA BRANCA
+ASSIS LÍDIO DO NASCIMENTO, RUA
+8
+ÁGUA BRANCA
+BENEDITO BENTO DE SOUZA, RUA
+10
+ÁGUA BRANCA
+BENEDITO GARCEZ, RUA
+10
+ÁGUA BRANCA
+BENEDITO PEDRO DOS SANTOS, RUA
+9
+ÁGUA BRANCA
+BENEDITO SAMPAIO DE OLIVEIRA, RUA
+10
+ÁGUA BRANCA
+BENEDITO WENCESLAU DE JESUS, RUA
+12
+ÁGUA BRANCA
+CEL. JOSÉ VICENTE DE FARIA LIMA, AV. (DA R LEOLINO CLE. BARBOSA AO FIM)
+7
+ÁGUA BRANCA
+CEL JOSÉ VICENTE FARIA LIMA, AV.
+13
+ÁGUA BRANCA
+CINCO, RUA (VILA SÃO JOSÉ)
+10
+ÁGUA BRANCA
+CRISPIM DIAS PINTO, RUA
+9
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, AV. (DA AV. FARIA LIMA ATÉ R MARCELINO RODRIGUES DOS SANTOS)
+14
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, AV. (DA R CRISPIM DIAS PINTO ATÉ R GERSON PERES DE ARAUJO)
+14
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, AV. (DA R MARCELINO ROD. DOS SANTOS ATÉ R CRISPIM DIAS PINTO)
+15
+ÁGUA BRANCA
+ERNESTO DE OLIVEIRA, TRAV.
+12
+ÁGUA BRANCA
+EUGÊNIO ASTORGA GALLEGO, RUA
+10
+ÁGUA BRANCA
+EXCETO LOGRADOUROS
+10
+ÁGUA BRANCA
+FABIANA DE ANDRADE, RUA
+8
+ÁGUA BRANCA
+FRANCISCO MIGUEL DOS SANTOS, TRAV.
+10
+ÁGUA BRANCA
+JOSÉ BONIFÁCIO, RUA
+13
+ÁGUA BRANCA
+JOSÉ ESTEVES RODRIGUES, RUA
+8
+ÁGUA BRANCA
+JUNDIÁ, RUA
+10
+ÁGUA BRANCA
+LEOLINO CLEMENTINO BARBOSA, RUA
+10
+ÁGUA BRANCA
+LEOVALDO BARBOSA DOS SANTOS, RUA
+8
+ÁGUA BRANCA
+LUIZ AGOSTINHO SAMPAIO GARCIA, RUA
+12
+ÁGUA BRANCA
+MANOEL CLEMENTINO BARBOSA, RUA
+10
+ÁGUA BRANCA
+MARCELINO RODRIGUES DOS SANTOS, RUA
+10
+ÁGUA BRANCA
+MARIA RITA DA FONSECA, RUA
+10
+ÁGUA BRANCA
+SÃO JOSÉ, RUA
+10
+ÁGUA BRANCA
+VEREADOR EUCLIDES JOSÉ DOS SANTOS, RUA
+13
+ÁGUA BRANCA
+VILA SÃO JOSÉ (LOTEAMENTOS)
+10
+ANTONIOS
+PERIMETRAL NORTE, (DA ESTRADA PARA AS VERTENTES)
+9
+ANTONIOS
+PERIMETRAL NORTE, (DA ESTRADA PARA O MAR)
+15
+AREADO
+FAZENDA DO AREADO
+2
+ARMAÇÃO
+ESTRADA DA TORRE
+22
+ARMAÇÃO
+EXCETO LOGRADOUROS
+9
+ARMAÇÃO
+SP 131 (PARA O CENTRO DA ILHA)
+15
+ARMAÇÃO
+SP 131 (PARA O MAR)
+28
+ARROZAL
+DONA ALBERTINA BARROS SILVA, AV.
+16
+ARROZAL
+EXCETO LOGRADOUROS
+12
+ARROZAL
+LEONARDO REALE, AV. (PARA AS VERTENTES)
+15
+ARROZAL
+LEONARDO REALE, AV. (PARA O MAR)
+27
+BALEIA
+EXCETO LOGRADOUROS
+2
+BARRA VELHA
+ACRE, RUA
+6
+BARRA VELHA
+AÇUDE, RUA DO
+7
+BARRA VELHA
+ALAGOAS, RUA
+12
+BARRA VELHA
+ALAN KARDEK, PRAÇA
+13
+BARRA VELHA
+AMAZONAS, RUA
+6
+BARRA VELHA
+ANTONIO CARLOS AIRES DA FÉ, RUA
+9
+BARRA VELHA
+BAHIA, RUA
+9
+BARRA VELHA
+BARRA VELHA, BAIRRO - GLEBA 1
+12
+BARRA VELHA
+BARRA VELHA, BAIRRO - GLEBA 2
+10
+BARRA VELHA
+BARRA VELHA, BALNEÁRIO 792 LANÇAMENTOS OBS. CÓDIGOS DIVERSOS
+12
+BARRA VELHA
+BARRA VELHA, JARDIM
+9
+BARRA VELHA
+BARRA VELHA, RUA
+10
+BARRA VELHA
+BENEDITO DOS ANJOS SAMPAIO, RUA
+10
+BARRA VELHA
+BENEDITO MARIANO LEITE, RUA
+8
+BARRA VELHA
+BOA VISTA, RUA
+7
+BARRA VELHA
+BRASIL, AV. (DA AV. PRINCESA ISABEL ATÉ A R. SERGIPE)
+19
+BARRA VELHA
+BRASIL, AV. (ROTATÓRIA ATÉ RIACHUELO)
+22
+BARRA VELHA
+BRASÍLIA, RUA
+8
+BARRA VELHA
+CACHOEIRA, RUA DA
+5
+BARRA VELHA
+CAMARÃO, ESTRADA DO
+7
+BARRA VELHA
+CAMARÃO, TRAV. DO
+7
+BARRA VELHA
+CAMINHO DA PRAIA, RUA
+15
+BARRA VELHA
+CAMINHO DO PEREQUE
+14
+BARRA VELHA
+CARIJOS, RUA
+9
+BARRA VELHA
+CARIJOS, RUA COLINA DOS
+9
+BARRA VELHA
+CARIJOS, RUA DOS (DA RUA VISTA ALEGRE AO FINAL)
+12
+BARRA VELHA
+CARIJOS, RUA DOS - ATÉ RUA VISTA ALEGRE
+7
+BARRA VELHA
+CARIJOS, TRAV DA RUA - R 303
+5
+BARRA VELHA
+CARLOS ANDRADE RIZZINI, RUA
+15
+BARRA VELHA
+CEARÁ, RUA
+7
+BARRA VELHA
+DEOLINO MARIANO LEITE, RUA
+6
+BARRA VELHA
+DIMAS BERALDO DA SILVA, RUA
+8
+BARRA VELHA
+ENCONTRO COM A NATUREZA, RUA
+7
+BARRA VELHA
+ESPÍRITO SANTO, RUA
+15
+BARRA VELHA
+FERNANDO DE NORONHA, RUA
+8
+BARRA VELHA
+FLORENTINO GARCIA VIEIRA NETO, RUA
+12
+BARRA VELHA
+GARCIA, RUA DO
+6
+BARRA VELHA
+GERSON PERES DE ARAÚJO, RUA
+14
+BARRA VELHA
+GIRASSOIS, RUA DOS
+12
+BARRA VELHA
+GOIÁS, RUA
+12
+BARRA VELHA
+IDALINA RODRIGUES CARVALHO, RUA
+6
+BARRA VELHA
+IMPERADOR, RUA - TESOURO DA COLINA
+12
+BARRA VELHA
+ISABEL, AV. PRINCESA - (DO CÓRREGO ÁGUA BRANCA ATÉ O FERRY BOAT)
+20
+BARRA VELHA
+ISAIAS COELHO DA SILVA, RUA
+5
+BARRA VELHA
+J, RUA - JARDIM BARRA VELHA - LOTEAMENTO
+6
+BARRA VELHA
+JOÃO FRANCISCO DOS SANTOS, RUA
+7
+BARRA VELHA
+JOÃO MAITTINI, RUA
+12
+BARRA VELHA
+JOSÉ CARLOS SIQUEIRA, RUA
+9
+BARRA VELHA
+JOSÉ LEITE DOS PASSOS, PRAÇA
+20
+BARRA VELHA
+LEANDRO, RUA DO
+7
+BARRA VELHA
+LIBERTADOR, RUA
+12
+BARRA VELHA
+LIBERTADOR, TRAV. - (TESOURO DA COLINA)
+12
+BARRA VELHA
+MACAPÁ, RUA
+7
+BARRA VELHA
+MALAQUIAS OLIVEIRA FREITAS, RUA PROF.
+12
+BARRA VELHA
+MARANHÃO, RUA
+10
+BARRA VELHA
+MATO GROSSO DO SUL, RUA
+7
+BARRA VELHA
+MATO GROSSO, RUA
+11
+BARRA VELHA
+MINAS GERAIS, RUA
+9
+BARRA VELHA
+MONTEIRO LOBATO, RUA
+8
+BARRA VELHA
+ORQUÍDEAS, RUA DAS
+12
+BARRA VELHA
+HORTÊNSIAS, RUA DAS
+12
+BARRA VELHA
+PARÁ, RUA
+10
+BARRA VELHA
+PARAÍBA, RUA
+10
+BARRA VELHA
+PARANÁ, RUA
+15
+BARRA VELHA
+PAULO DOMINGOS DE CARVALHO, RUA
+8
+BARRA VELHA
+PEDRO GARCIA, RUA
+7
+BARRA VELHA
+PEDRO GARCIA, TRAV
+5
+BARRA VELHA
+PEDRO LUCIANO PINHO, RUA
+7
+BARRA VELHA
+PERNAMBUCO, RUA
+12
+BARRA VELHA
+PIAUI, RUA
+8
+BARRA VELHA
+PRIMAVERA, RUA DAS
+12
+BARRA VELHA
+RAPOSA, TRAVESSA DA (TESOURO DA COLINA)
+12
+BARRA VELHA
+RIO BRANCO, RUA
+7
+BARRA VELHA
+RIO DE JANEIRO, RUA
+9
+BARRA VELHA
+RIO GRANDE DO NORTE, RUA
+8
+BARRA VELHA
+RIO GRANDE DO SUL, RUA
+8
+BARRA VELHA
+RONDÔNIA, RUA
+8
+BARRA VELHA
+RORAIMA, RUA
+7
+BARRA VELHA
+SAMAMBAIAS, RUA DAS
+12
+BARRA VELHA
+SANTA CATARINA, RUA
+8
+BARRA VELHA
+SÃO PAULO, AV.
+9
+BARRA VELHA
+SENZALA, RUA
+12
+BARRA VELHA
+SERGIPE, RUA - VERTENTES
+18
+BARRA VELHA
+SERGIPE, RUA - COSTEIRA
+22
+BARRA VELHA
+TESOURO DA COLINA, RUA
+13
+BARRA VELHA
+TIRADENTES, AV.
+20
+BARRA VELHA
+TOCA DA RAPOSA, RUA - TESOURO DA COLINA
+12
+BARRA VELHA
+TRAVESSA, 309
+7
+BARRA VELHA
+TREZENTOS E QUATRO, TRAV.-SERVIDÃO
+7
+BARRA VELHA
+TREZENTOS E VINTE, RUA
+6
+BARRA VELHA
+VISTA ALEGRE, RUA
+7
+BARRA VELHA
+ZABUMBA, RUA DA R.DO LIBERTADOR AO FINAL
+12
+BARRA VELHA
+ZABUMBA, RUA DO INÍCIO A RUA DO LIBERTADOR
+7
+BARREIROS
+LEONARDO REALE, AV. - PARA AS VERTENTES
+9
+BARREIROS
+LEONARDO REALE, AV. - PRAIA
+26
+BEXIGA
+AIMORÉ, RUA
+20
+BEXIGA
+ANNA LEITE JULIÃO TORRES, RUA - DA RUA
+MANOEL POMBO ATÉ O FINAL
+8
+BEXIGA
+ANNA LEITE JULIÃO TORRES, RUA - ATÉ
+RUA MANOEL POMBO
+10
+BEXIGA
+ARCO ÍRIS, RUA
+16
+BEXIGA
+BENEDITO JOSÉ LOURENÇO, RUA
+9
+BEXIGA
+BENEDITO LEITE DA SILVA JR., RUA
+9
+BEXIGA
+BEXIGA - BAIRRO - EXC. LOG.
+8
+BEXIGA
+CONDE D’EU
+16
+BEXIGA
+EUCALIPITOS, RUA
+9
+BEXIGA
+EUCALIPITOS, TRAV. DOS
+9
+BEXIGA
+FRANCISCO POMBO, RUA
+8
+BEXIGA
+II, TRAVESSA - JARDIM ARCO ÍRIS
+16
+BEXIGA
+III, TRAVESSA - CONDE D’EU
+16
+BEXIGA
+JOÃO BATISTA DOS SANTOS, RUA
+11
+BEXIGA
+JOÃO BATISTA DOS SANTOS, TRAV
+10
+BEXIGA
+JOÃO LEITE DOS SANTOS, RUA
+12
+BEXIGA
+JOAQUIM JOSÉ LOURENÇO, RUA
+12
+BEXIGA
+JOSÉ P.NASC., AV.(ATÉ J.P.CAR.)
+18
+BEXIGA
+JOSÉ PACHECO NASCIMENTO, AV.I, III.S
+18
+BEXIGA
+MANOEL DA SILVA TORRES, RUA
+12
+BEXIGA
+MANOEL POMBO, RUA VER.
+9
+BEXIGA
+NAGIBE POMBO, RUA
+9
+BEXIGA
+NAGIBE POMBO, TRAV.
+9
+BEXIGA
+PAULINA SERAFINA DOS ANJOS, RUA
+9
+BEXIGA
+PESCADORES, RECANTO DOS
+9
+BEXIGA
+PONTA RIBEIRÃO - BAIRRO
+27
+BEXIGA
+RIACHUELO, AV. (COSTEIRA)
+17
+BEXIGA
+RIACHUELO, AV. (VERTENTES)
+15
+BEXIGA
+SEBASTIÃO DA SILVA
+15
+TABELA II
+FATORES PROFUNDIDADE
+PROFUNDIDADE EQUIVALENTE
+FATOR
+mais de 30 até 35 metros
 
 ---
