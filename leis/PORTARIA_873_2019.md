@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 873/2019
   - Portaria 873
   - Portaria nº 873
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201900873"
 coletado_em: "2026-10-11"
 sha256_raw: "10d75c497a9856e746e37cfd1c6ff5fb59868669890120d2cb7057cb15f0f93a"

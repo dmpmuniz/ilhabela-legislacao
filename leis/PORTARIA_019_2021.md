@@ -18,6 +18,16 @@ aliases:
   - Portaria 019
   - Portaria nº 19
   - Portaria nº 019
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210019"
 coletado_em: "2026-10-11"
 sha256_raw: "6eaf5aed8f63da1fed0a55f8b4e6d2baf7b65a82875b821b357c96252c82195c"

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 464/2025
   - Portaria 464
   - Portaria nº 464
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025464"
 coletado_em: "2026-10-11"
 sha256_raw: "24fb5c49613dcf6aea0af88ffa585ce5988df97db67993c12c0344fc4ad0b21a"

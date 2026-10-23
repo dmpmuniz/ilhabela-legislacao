@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 184/2026
   - Portaria 184
   - Portaria nº 184
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026184"
 coletado_em: "2026-10-11"
 sha256_raw: ef294b69cc9537860b94a0ad1d9e5b033353dc94b8652ee49bc1b2b54b011821

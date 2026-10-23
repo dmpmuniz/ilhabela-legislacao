@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 814/2021
   - Portaria 814
   - Portaria nº 814
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021814"
 coletado_em: "2026-10-11"
 sha256_raw: d7e29580aed5c661978da3c86ee91eca1da0ccc61bf9c8e72f2ecf0d631d56d8

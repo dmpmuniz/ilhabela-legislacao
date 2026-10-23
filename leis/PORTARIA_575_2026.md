@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 575/2026
   - Portaria 575
   - Portaria nº 575
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026575"
 coletado_em: "2026-10-21"
 sha256_raw: "7583be535f37513ccc1b5c57467b96f9deec5e63a495d027381eacf412210b6c"

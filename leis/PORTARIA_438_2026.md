@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 438/2026
   - Portaria 438
   - Portaria nº 438
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026438"
 coletado_em: "2026-10-11"
 sha256_raw: f6008af4df5188d28dc70043979009e23be29dbc62db16130ee007f9c0b7886d

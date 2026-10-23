@@ -1,6 +1,6 @@
 ---
 id: 202606270
-ref: ilh-2017-dec-6270
+ref: ilh-2017-dec-6270-2
 tipo: decreto
 numero: 6270
 ano: 2017

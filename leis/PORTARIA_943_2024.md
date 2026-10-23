@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 943/2024
   - Portaria 943
   - Portaria nº 943
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024943"
 coletado_em: "2026-10-11"
 sha256_raw: "2cda8220e128512182a8ea279d97885c64c522f381a94483634cab1d8efb01c7"

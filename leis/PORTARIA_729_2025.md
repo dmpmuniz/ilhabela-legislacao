@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 729/2025
   - Portaria 729
   - Portaria nº 729
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025729"
 coletado_em: "2026-10-11"
 sha256_raw: ce47d115dbd9fdec6e2d8e8bc558c3e4f2eaf9a4b64f65b8399c0060d79f1244

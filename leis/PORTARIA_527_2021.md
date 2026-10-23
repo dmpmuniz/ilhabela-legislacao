@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 527/2021
   - Portaria 527
   - Portaria nº 527
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210527"
 coletado_em: "2026-10-11"
 sha256_raw: "5fa71534790d619a866036badd43aab584688f7a0e740a73455737c32f059f05"

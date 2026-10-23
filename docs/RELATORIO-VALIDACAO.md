@@ -1,0 +1,117 @@
+# RELATORIO-VALIDACAO.md — 3 lotes de 30 normas + 5 partes inteiras (23/10/2026)
+
+> Execução do protocolo [`VALIDACAO-PARTES.md`](VALIDACAO-PARTES.md) sobre a
+> geração pós-splits (**41 partes + `00-INSTRUCOES.md` + `01-INDICE-GERAL.md` =
+> 43 fontes**). Os 30 refs abaixo são a evidência durável: qualquer linha pode
+> ser reexecutada depois de uma correção. As 5 partes inteiras foram auditadas
+> bloco a bloco contra o corpus e a documentação.
+
+## Estado verificado nesta data
+
+- `leis/`: **35.776 normas**; refs únicas **35.776/35.776**; **0 erros**,
+  8 avisos (6 ementas curtas + 2 aliases vazios) e 4 problemas de qualidade
+  (registro histórico de 1805 e Lei Orgânica).
+- `notebooklm/`: **41 partes**, **35.776 blocos = 35.776 refs**, **10.172.313
+  palavras**, maior parte **394.876 palavras** (teto 500k), `notebooklm:check`
+  = saída íntegra — agora conferindo também **título e ementa** de cada bloco
+  contra o frontmatter.
+- `npm test`: **70/70** · `check:samples`: **0 erros** (exit 0).
+
+## Método
+
+- **3 lotes × 10 normas**: 6 sorteadas do acervo inteiro + 4 de uma parte
+  afetada pelos splits (rodízio; o sorteio puro nunca pescaria as partes
+  pequenas). Lote 1 usou `decretos-de-nomeacao-e-exoneracao-2015-2017`, o
+  lote 2 `portarias-de-provimento-e-posse-2023-2026` e o lote 3
+  `portarias-disciplinares-2018-2026`.
+- **Integridade**: corpo do bloco na parte comparado **byte a byte** com
+  `leis/`, com a ref ancorada em `^ref: $REF$` (para não casar a ref irmã `-2`).
+- **Classificação**: julgada contra o gabarito do gerador (tabela da Etapa 1A),
+  já com os grupos novos.
+
+## Resultado dos 3 lotes
+
+| Lote | Arquivo | Ref | Parte | Integridade | Classificação | Observação |
+|---|---|---|---|---|---|---|
+| 1 | `DECRETO_MUNICIPAL_375_2002.md` | `ilh-2002-dec-375` | `normas-expiradas-e-cassadas-1956-2007.md` | OK | OK | fora de vigor (título atualizado) |
+| 1 | `DECRETO_MUNICIPAL_1372_1995.md` | `ilh-1995-dec-1372` | `decretos-1975-2013.md` | OK | OK | — |
+| 1 | `DECRETO_MUNICIPAL_10921_2025.md` | `ilh-2025-dec-10921` | `decretos-2022-2025.md` | OK | OK | — |
+| 1 | `PORTARIA_4649_2020.md` | `ilh-2020-port-4649` | `portarias-de-ferias-e-licencas-2020.md` | OK | OK | — |
+| 1 | `PORTARIA_389_2017.md` | `ilh-2017-port-389` | `portarias-de-ferias-e-licencas-2017-2018.md` | OK | OK | — |
+| 1 | `DECRETO_MUNICIPAL_1937_2000.md` | `ilh-2000-dec-1937` | `decretos-de-nomeacao-e-exoneracao-1995-2010.md` | OK | OK | split: decreto de exoneração |
+| 1 | `DECRETO_MUNICIPAL_6556_2017.md` | `ilh-2017-dec-6556` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de nomeação |
+| 1 | `DECRETO_MUNICIPAL_5420_2016.md` | `ilh-2016-dec-5420` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de nomeação |
+| 1 | `DECRETO_MUNICIPAL_5628_2016.md` | `ilh-2016-dec-5628` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de exoneração |
+| 1 | `DECRETO_MUNICIPAL_4680_2015.md` | `ilh-2015-dec-4680` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de nomeação |
+| 2 | `PORTARIA_2512_2018.md` | `ilh-2018-port-2512` | `portarias-de-ferias-e-licencas-2018-2019.md` | OK | OK | — |
+| 2 | `PORTARIA_1322_2017.md` | `ilh-2017-port-1322` | `portarias-de-designacao-e-comissoes-2015-2025.md` | OK | OK | — |
+| 2 | `DECRETO_MUNICIPAL_4834_2015.md` | `ilh-2015-dec-4834` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de nomeação |
+| 2 | `DECRETO_MUNICIPAL_10149_2023.md` | `ilh-2023-dec-10149` | `decretos-2022-2025.md` | OK | OK | — |
+| 2 | `DECRETO_MUNICIPAL_1598_2008.md` | `ilh-2008-dec-1598` | `decretos-de-nomeacao-e-exoneracao-1995-2010.md` | OK | OK | split: decreto de exoneração |
+| 2 | `LEI_MUNICIPAL_255_1986.md` | `ilh-1986-lei-255` | `normas-expiradas-e-cassadas-1956-2007.md` | OK | OK | fora de vigor (título atualizado) |
+| 2 | `PORTARIA_687_2023.md` | `ilh-2023-port-687` | `portarias-de-provimento-e-posse-2023-2026.md` | OK | OK | grupo novo: provimento/posse |
+| 2 | `PORTARIA_158_2024.md` | `ilh-2024-port-158` | `portarias-de-provimento-e-posse-2023-2026.md` | OK | OK | grupo novo: provimento/posse |
+| 2 | `PORTARIA_162_2026.md` | `ilh-2026-port-162` | `portarias-de-provimento-e-posse-2023-2026.md` | OK | OK | grupo novo: provimento/posse |
+| 2 | `PORTARIA_389_2023.md` | `ilh-2023-port-389` | `portarias-de-provimento-e-posse-2023-2026.md` | OK | OK | grupo novo: provimento/posse |
+| 3 | `DECRETO_MUNICIPAL_5136_2015.md` | `ilh-2015-dec-5136` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de nomeação |
+| 3 | `DECRETO_MUNICIPAL_2945_2012.md` | `ilh-2012-dec-2945` | `decretos-de-nomeacao-e-exoneracao-2010-2015.md` | OK | OK | split: decreto de nomeação |
+| 3 | `PORTARIA_3161_2020.md` | `ilh-2020-port-3161` | `portarias-de-ferias-e-licencas-2020.md` | OK | OK | — |
+| 3 | `DECRETO_MUNICIPAL_2849_2011.md` | `ilh-2011-dec-2849` | `decretos-de-nomeacao-e-exoneracao-2010-2015.md` | OK | OK | split: decreto de nomeação |
+| 3 | `DECRETO_MUNICIPAL_6539_2017.md` | `ilh-2017-dec-6539` | `decretos-de-nomeacao-e-exoneracao-2015-2017.md` | OK | OK | split: decreto de nomeação |
+| 3 | `PORTARIA_931_2015.md` | `ilh-2015-port-931` | `portarias-de-gratificacao-e-premios-2015-2026.md` | OK | OK | — |
+| 3 | `PORTARIA_456_2021.md` | `ilh-2021-port-456` | `portarias-disciplinares-2018-2026.md` | OK | OK | grupo novo: PAD/sindicância |
+| 3 | `PORTARIA_153_2026.md` | `ilh-2026-port-153` | `portarias-disciplinares-2018-2026.md` | OK | OK | grupo novo: PAD/sindicância |
+| 3 | `PORTARIA_797_2022.md` | `ilh-2022-port-797` | `portarias-disciplinares-2018-2026.md` | OK | OK | grupo novo: PAD/sindicância |
+| 3 | `PORTARIA_461_2025.md` | `ilh-2025-port-461` | `portarias-disciplinares-2018-2026.md` | OK | OK | grupo novo: PAD/sindicância |
+
+**30/30 íntegras. 30/30 aderentes ao gabarito atual**, incluindo os quatro
+clusters que motivaram os splits (decretos de exoneração, provimento/posse,
+PAD/sindicância e adicionais).
+
+## Auditoria de 5 partes inteiras
+
+Sorteio de 5 partes (semente real, sem repetição) e conferência de **todos** os
+blocos contra `leis/`: H1/título/período, contagem e palavras declaradas,
+amostra do cabeçalho, temas, ordem cronológica, metadados, palavras-chave,
+corpo byte a byte e classificação de cada norma.
+
+| Parte | Blocos | Palavras de texto | Resultado |
+|---|---|---|---|
+| `portarias-de-designacao-e-comissoes-2015-2025.md` | 959 | 139.625 | OK |
+| `lei-organica-e-emendas-1990.md` | 1 | 15.172 | OK |
+| `portarias-de-nomeacao-e-exoneracao-2016-2026.md` | 674 | 170.574 | OK |
+| `portarias-de-ferias-e-licencas-2020-2024.md` | 1.594 | 299.955 | OK |
+| `portarias-de-provimento-e-posse-2023-2026.md` | 223 | 53.677 | OK |
+
+**5/5 conformes** (3.451 blocos conferidos).
+
+### Bug real encontrado e corrigido
+
+A primeira passagem da auditoria falhou em `ilh-2020-port-1520`
+(`portarias-de-designacao-e-comissoes-2015-2025.md`): a ementa saía com as
+barras invertidas do frontmatter (`\"CAPUT\"` em vez de `"CAPUT"`). O gerador
+tinha um parser de frontmatter próprio que não desescapava aspas. Correção:
+
+1. O gerador passou a usar o `parseFrontmatter` compartilhado
+   (`scripts/lib/frontmatter.ts`), eliminando o parser duplicado.
+2. `scripts/verificar-saida.mjs` agora compara **título e ementa** de cada
+   bloco com o frontmatter — a classe inteira de erro (328 normas com `\"`)
+   passa a ser pega pelo `npm run notebooklm:check`.
+3. O parser compartilhado devolve campos numéricos como número (`ementa: 1`);
+   `fold()` passou a coagir para string, com testes dos casos reais
+   (`PORTARIA_2177_2017`, `DECRETO_MUNICIPAL_1217_2006`).
+
+## Lição da revisão
+
+O gabarito é o contrato da amostragem: **se ele codifica um gap, a amostra passa
+com o gap**. A primeira rodada de 30 normas aprovou 4 casos que estavam
+exatamente nos clusters depois separados. A Etapa 1 valida a **implementação**
+do gabarito; a revisão do **gabarito** é a §7.1 do plano de curadoria. Nenhuma
+parte foi editada à mão.
+
+## Reprodução
+
+A receita de integridade está na Etapa 1C do `VALIDACAO-PARTES.md` (com
+`grep -rl "^ref: $REF$"` para não casar a ref irmã `-2`). Para refazer um lote,
+basta passar os arquivos acima; o veredito de classificação é o confronto com a
+tabela da Etapa 1A.

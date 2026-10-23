@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 466/2025
   - Portaria 466
   - Portaria nº 466
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025466"
 coletado_em: "2026-10-11"
 sha256_raw: fe473aadb74d571c29d6790860f92853c6fc83720ea00c21ee7c8cdecd613290

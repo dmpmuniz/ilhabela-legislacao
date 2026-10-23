@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 817/2021
   - Portaria 817
   - Portaria nº 817
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021817"
 coletado_em: "2026-10-11"
 sha256_raw: "656dba60793d06e5ab9269a466e3020ef1a2e8b1941aa9e88d8aada25ae3197f"

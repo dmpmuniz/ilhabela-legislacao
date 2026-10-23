@@ -18,6 +18,16 @@ aliases:
   - Portaria 017
   - Portaria nº 17
   - Portaria nº 017
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026017"
 coletado_em: "2026-10-11"
 sha256_raw: "27e0b081b6077cf01cb5a97734df8b5006cb53ca7590a2d22ad5eed53853ab9a"

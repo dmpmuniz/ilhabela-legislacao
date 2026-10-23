@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 316/2026
   - Portaria 316
   - Portaria nº 316
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026316"
 coletado_em: "2026-10-11"
 sha256_raw: "2c7811faf204dea8bcd3b0cbe666c383276141cc77eee1bbf3c5dba5accdb786"

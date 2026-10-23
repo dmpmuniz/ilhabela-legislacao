@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 439/2026
   - Portaria 439
   - Portaria nº 439
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026439"
 coletado_em: "2026-10-11"
 sha256_raw: e431b996a1b37fc4e9752f5004b1a8ecbbafd21687346874e17332ee59a63bfd

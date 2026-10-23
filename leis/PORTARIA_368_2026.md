@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 368/2026
   - Portaria 368
   - Portaria nº 368
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026368"
 coletado_em: "2026-10-11"
 sha256_raw: "713e2406e55b00969d3fc79af773190f7c80dfae80eeca6309f954f25347ddc2"

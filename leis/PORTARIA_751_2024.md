@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 751/2024
   - Portaria 751
   - Portaria nº 751
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024751"
 coletado_em: "2026-10-21"
 sha256_raw: "2332ff60e74f38b39ac38e2d80311fe144d76eea2601f4f50a9fafa93f1bc9ee"

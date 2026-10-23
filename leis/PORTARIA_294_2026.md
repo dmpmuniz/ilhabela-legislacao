@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 294/2026
   - Portaria 294
   - Portaria nº 294
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026294"
 coletado_em: "2026-10-11"
 sha256_raw: "606e1fceb12fbc908d49ddeba31449d5d9c6015eca253aa002e3987dcd158594"

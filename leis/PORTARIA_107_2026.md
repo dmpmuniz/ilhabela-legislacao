@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 107/2026
   - Portaria 107
   - Portaria nº 107
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026107"
 coletado_em: "2026-10-11"
 sha256_raw: ac1c2ba17177387ec71f7c241d8a31e37bd89489672bf3de613dca366192491d

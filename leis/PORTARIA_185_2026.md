@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 185/2026
   - Portaria 185
   - Portaria nº 185
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026185"
 coletado_em: "2026-10-11"
 sha256_raw: cd91b5cbd50af9220daf8b9d841a3cc8a54c3438a8d43e6c15b274613ea0e7ab

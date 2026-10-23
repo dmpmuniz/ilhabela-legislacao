@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 433/2021
   - Portaria 433
   - Portaria nº 433
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210433"
 coletado_em: "2026-10-11"
 sha256_raw: af7d49b0953deb37042ea4c82e01fcd3767886a805850af70497455dc0afa986

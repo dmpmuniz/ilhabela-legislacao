@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 437/2026
   - Portaria 437
   - Portaria nº 437
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026437"
 coletado_em: "2026-10-11"
 sha256_raw: "3e79143b51bc9a0579e407ec95b6bb2153ac5b60598f7fce2fdb82f4ed85cba5"

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 366/2026
   - Portaria 366
   - Portaria nº 366
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026366"
 coletado_em: "2026-10-11"
 sha256_raw: d1acfc51777750344ba539f6b5da464239d529760bd4f287faf38657de25aaa1

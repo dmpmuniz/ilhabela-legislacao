@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 816/2021
   - Portaria 816
   - Portaria nº 816
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021816"
 coletado_em: "2026-10-11"
 sha256_raw: b1da83e694df459226ab5c75a7cebcc23b0a267d74be358bae06d48e3fb99fdf

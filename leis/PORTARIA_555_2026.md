@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 555/2026
   - Portaria 555
   - Portaria nº 555
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026555"
 coletado_em: "2026-10-21"
 sha256_raw: ba9f259301ee14d1a20002fb6cea3e3759615f26a88b163f39638a084b0391c4

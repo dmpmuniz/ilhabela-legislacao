@@ -18,6 +18,16 @@ aliases:
   - Portaria 011
   - Portaria nº 11
   - Portaria nº 011
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026011"
 coletado_em: "2026-10-11"
 sha256_raw: "7d3bd1114cd41f32b4fe92e3ad661e512b6e622209f0b8a51ba24a7b52ae5031"

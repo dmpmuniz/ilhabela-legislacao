@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 435/2026
   - Portaria 435
   - Portaria nº 435
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026435"
 coletado_em: "2026-10-11"
 sha256_raw: "0730a54ad8c4a73b7ca692c3b041752c80febfb53e8ba2a135987d56067728b9"

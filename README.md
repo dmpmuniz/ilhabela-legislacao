@@ -3,8 +3,9 @@
 **35.776 normas do município de Ilhabela/SP** — o **espelho integral** do portal
 público da legislação: leis, decretos, portarias, resoluções, e também os atos
 de pessoal (nomeações, exonerações, readaptações, aposentadorias, férias,
-licenças) e as normas fora de vigor (revogadas, expiradas, anuladas). Cada norma
-traz o seu `status`, e o histórico fica junto do vigente.
+licenças) e as normas fora de vigor (revogadas, expiradas, anuladas,
+inconstitucionais, suspensas). Cada norma traz o seu `status`, e o histórico
+fica junto do vigente.
 
 Pronto para:
 
@@ -25,7 +26,9 @@ organização é oferecida sob [CC0 1.0](LICENSE).
 | Pasta | Conteúdo |
 |---|---|
 | `leis/` | **35.776 arquivos** `.md` — uma norma por arquivo, com metadados no cabeçalho |
-| `notebooklm/` | **23 partes** prontas para o Google NotebookLM + `00-INSTRUCOES.md` (persona e regras para a IA) |
+| `notebooklm/` | **41 partes temáticas** + `00-INSTRUCOES.md` (persona e regras para a IA) + `01-INDICE-GERAL.md` (mapa do acervo) |
+| `docs/` | documentação do projeto: pipeline, schema, decisões (ADRs) e plano do export |
+| `scripts/` | ferramentas que mantêm o acervo (Node ≥ 22.6, sem dependências) — veja o [AGENTS.md](AGENTS.md) |
 
 ## Composição do acervo (retrato de out/2026)
 
@@ -79,7 +82,7 @@ DECRETO MUNICIPAL Nº 001, DE 01/01/2001
 - `ref` é a referência legível: `{cidade}-{ano}-{tipo}-{número}` (ex.: `ilh-2001-dec-001`)
 - `status`: `em_vigor` · `revogada` · `expirada` · `inconstitucional` · `suspensa` · `anulada`
 - artigos estão marcados como `##### Art. Nº` — facilita localizar e citar
-- arquivos com `_2` no nome = **dois atos distintos com mesmo número e ano**,
+- arquivos com `_2`/`_3` no nome = **dois atos distintos com mesmo número e ano**,
   publicados pela fonte em datas diferentes (defeito do dado-fonte, não da
   conversão). São atos diferentes: confira a data no título antes de citar.
 
@@ -102,15 +105,20 @@ grep -ril "readapta" leis/ | grep PORTARIA
 
 ### Google NotebookLM
 
-1. Crie um notebook em [notebooklm.google.com](https://notebooklm.google.com)
-2. Adicione `00-INSTRUCOES.md` e as 23 partes como fontes
+1. Crie um notebook em [notebook.google.com](https://notebook.google.com) — o NotebookLM virou **Gemini Notebook** em jul/2026
+2. Adicione as **43 fontes**: `00-INSTRUCOES.md`, `01-INDICE-GERAL.md` e as 41 partes temáticas
 
 Detalhes que valem saber:
 
-- **Por que 23 arquivos:** o NotebookLM limita cada fonte em **500.000 palavras
-  ou 200 MB** (o que vier primeiro, em todos os planos). O acervo tem ~10
-  milhões de palavras, dividido em partes de ≤450 mil — as 24 fontes (instruções
-  + 23 partes) cabem num único notebook (o plano gratuito aceita 50).
+- **Por que 43 fontes:** o Gemini Notebook limita cada fonte em **500.000 palavras
+  ou 200 MB** (o que vier primeiro, em todos os planos). O acervo tem ~10,2
+  milhões de palavras, dividido em partes temáticas (a maior tem ~395 mil) —
+  as 43 fontes (instruções + índice + 41 partes) cabem num único notebook
+  (o plano gratuito aceita 50).
+- **Partes temáticas, não cronológicas:** cada parte reúne um tipo de norma por
+  período (`leis-2003-2015`, `portarias-de-ferias-e-licencas-2015-2017`,
+  `decretos-revogados-2022-2026`…), com nome descritivo — o nome da fonte
+  aparece na busca e nas citações.
 - **Ordem de upload não importa:** o NotebookLM recupera trechos relevantes de
   todas as fontes a cada pergunta. O que faz o `00-INSTRUCOES.md` funcionar é o
   **conteúdo** (regras explícitas), não a posição na fila.

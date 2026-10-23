@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 940/2024
   - Portaria 940
   - Portaria nº 940
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024940"
 coletado_em: "2026-10-11"
 sha256_raw: "4a0a2185d0e01e55be159fc23d03d1b217339219e93275e5ec0b8df7516f84e8"

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 295/2026
   - Portaria 295
   - Portaria nº 295
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026295"
 coletado_em: "2026-10-11"
 sha256_raw: bd84d0ad2e700355c22fcc7d9339441e9b5c360b20e1077715a1858d0d4a9832

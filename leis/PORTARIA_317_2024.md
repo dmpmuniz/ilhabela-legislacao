@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 317/2024
   - Portaria 317
   - Portaria nº 317
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024317"
 coletado_em: "2026-10-11"
 sha256_raw: "195e50e95931cc15632e91a6b8ea2a00d8a74d0155ed6abd33a0c316945c3017"

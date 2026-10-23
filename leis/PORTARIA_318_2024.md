@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 318/2024
   - Portaria 318
   - Portaria nº 318
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024318"
 coletado_em: "2026-10-11"
 sha256_raw: "839e8ce310240833a7ad034f4af19bf5d218e7d9edcdad74e7fe868c00878ea5"

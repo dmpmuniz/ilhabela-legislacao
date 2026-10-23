@@ -18,6 +18,16 @@ aliases:
   - Portaria 010
   - Portaria nº 10
   - Portaria nº 010
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026010"
 coletado_em: "2026-10-11"
 sha256_raw: d86b3b54f71772042131b9fd45e329cd7b12b2c40bcef88023f9ed6ed6314313

@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lei / norma municipal — schema v1.1",
+  "type": "object",
+  "required": ["id", "ref", "tipo", "numero", "ano", "cidade", "estado", "status", "titulo", "ementa", "url_fonte"],
+  "properties": {
+    "id": { "type": "string", "description": "Identificador estável do scraper (pode ser numérico)." },
+    "ref": { "type": "string", "pattern": "^[a-z]{2,4}-\\d{4}-[a-z]{2,4}-\\d{3,}$", "description": "Referência legível: {sigla-cidade}-{ano}-{tipo}-{numero}." },
+    "tipo": { "type": "string", "enum": ["lei", "lei_complementar", "lei_organica", "decreto", "decreto_legislativo", "portaria", "resolucao", "emenda"] },
+    "numero": { "type": "integer", "minimum": 1 },
+    "ano": { "type": "integer", "minimum": 1900, "maximum": 2100 },
+    "cidade": { "type": "string" },
+    "estado": { "type": "string", "pattern": "^[A-Z]{2}$" },
+    "esfera": { "type": "string", "enum": ["municipal", "estadual", "federal"] },
+    "status": { "type": "string", "enum": ["em_vigor", "revogada", "inconstitucional", "suspensa", "expirada", "anulada"] },
+    "data_vigencia": { "type": ["string", "null"], "format": "date" },
+    "revogada_em": { "type": ["string", "null"], "format": "date" },
+    "titulo": { "type": "string", "minLength": 5 },
+    "ementa": { "type": "string", "minLength": 10 },
+    "observacoes": { "type": "string" },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "palavras_chave": { "type": "array", "items": { "type": "string" } },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "url_fonte": { "type": "string", "format": "uri" },
+    "fonte_nome": { "type": "string" },
+    "coletado_em": { "type": "string" },
+    "validado_em": { "type": ["string", "null"] },
+    "sha256_raw": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "referencias": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "relacao"],
+        "properties": {
+          "id": { "type": "string" },
+          "artigo": { "type": "string" },
+          "relacao": { "type": "string", "enum": ["revogada_por", "revoga", "altera", "citada_em", "referencia", "regulamenta", "deriva"] },
+          "contexto": { "type": "string" }
+        }
+      }
+    },
+    "versao_formato": { "type": "string", "pattern": "^\\d+\\.\\d+$" }
+  },
+  "additionalProperties": true
+}

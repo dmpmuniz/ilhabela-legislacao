@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 272/2026
   - Portaria 272
   - Portaria nº 272
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026272"
 coletado_em: "2026-10-11"
 sha256_raw: c345dd42822ac3761ccd0004084a480e6f03cd04ca708c9ef123e3662c372e71

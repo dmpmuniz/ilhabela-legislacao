@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 797/2017
   - Portaria 797
   - Portaria nº 797
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20170797"
 coletado_em: "2026-10-11"
 sha256_raw: f41299af4b19a83fa7a5325c349d9ffd95d01e60a8c35409f5d62c82b66e4964

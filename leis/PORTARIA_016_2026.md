@@ -18,6 +18,16 @@ aliases:
   - Portaria 016
   - Portaria nº 16
   - Portaria nº 016
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026016"
 coletado_em: "2026-10-11"
 sha256_raw: d3e67733a1a10eca9d901bb62ee9a8283a527d2fa39ffbfa4232785690fc23c8

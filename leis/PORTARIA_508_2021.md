@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 508/2021
   - Portaria 508
   - Portaria nº 508
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210508"
 coletado_em: "2026-10-11"
 sha256_raw: "029bc97e07b4279f33c3b58d399d951218774c18db6ed8b24f54801f2a762487"

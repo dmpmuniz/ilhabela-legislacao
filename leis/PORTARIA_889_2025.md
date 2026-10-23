@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 889/2025
   - Portaria 889
   - Portaria nº 889
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025889"
 coletado_em: "2026-10-11"
 sha256_raw: cd225e5d1e5a12708356dc4f098e840d313d67e42b3d3cd77f18a413ab7e1af5

@@ -18,6 +18,16 @@ aliases:
   - Portaria 012
   - Portaria nº 12
   - Portaria nº 012
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026012"
 coletado_em: "2026-10-11"
 sha256_raw: a4dc5f7e64749db718cc50a757ca01f8aa1a99b0a58592ec67a3af8dd573ff42

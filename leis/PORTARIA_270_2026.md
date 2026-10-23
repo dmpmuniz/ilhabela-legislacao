@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 270/2026
   - Portaria 270
   - Portaria nº 270
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026270"
 coletado_em: "2026-10-11"
 sha256_raw: a948ce4cfe439052093106cb971fd7c265b20314c035815127e90baff2c953c7

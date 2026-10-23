@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 695/2025
   - Portaria 695
   - Portaria nº 695
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025695"
 coletado_em: "2026-10-11"
 sha256_raw: "5220563d7adc06d7366a627dc128bad91b6dcf6c84289e5cfcdc297e71580abd"

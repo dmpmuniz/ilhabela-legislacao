@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 654/2025
   - Portaria 654
   - Portaria nº 654
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025654"
 coletado_em: "2026-10-11"
 sha256_raw: dccefc6251c914669b6471a3fb2a6ddd08689da38c35ed6506c2a90114d677ad

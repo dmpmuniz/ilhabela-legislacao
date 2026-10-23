@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 513/2021
   - Portaria 513
   - Portaria nº 513
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210513"
 coletado_em: "2026-10-11"
 sha256_raw: "650a04225b1e9fd9fdc836bf0950f602120dcd227c321493715a1c53d3c6024a"

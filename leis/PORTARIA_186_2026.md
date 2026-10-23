@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 186/2026
   - Portaria 186
   - Portaria nº 186
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026186"
 coletado_em: "2026-10-11"
 sha256_raw: c571dc677b8a32f83cbe2a8c575a21b09447b9f02a3d725fedb689be48dae2bc

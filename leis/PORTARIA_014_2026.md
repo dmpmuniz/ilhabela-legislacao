@@ -18,6 +18,16 @@ aliases:
   - Portaria 014
   - Portaria nº 14
   - Portaria nº 014
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026014"
 coletado_em: "2026-10-11"
 sha256_raw: "3f19e56042d4c383cad379a34093ba36dfbad6ad7ed93300c50f9f53f8c25b5a"

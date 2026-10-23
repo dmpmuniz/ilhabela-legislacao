@@ -18,6 +18,16 @@ aliases:
   - Portaria 015
   - Portaria nº 15
   - Portaria nº 015
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026015"
 coletado_em: "2026-10-11"
 sha256_raw: cca446424e1e74181cf431579b19329eac4c43fdb12b389852b3facb664e06d9

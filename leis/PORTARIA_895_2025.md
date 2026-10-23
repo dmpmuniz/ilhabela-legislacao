@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 895/2025
   - Portaria 895
   - Portaria nº 895
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025895"
 coletado_em: "2026-10-11"
 sha256_raw: f7813820d251a4271fd35778a0f0d71b9ee8e77ad1d9f1efff163a14e1efeea9

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 314/2024
   - Portaria 314
   - Portaria nº 314
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024314"
 coletado_em: "2026-10-11"
 sha256_raw: "07e56f70621d6f1a5ac4832bac4a5c57377035c080d8b6ce5cc123e84c37ccb3"

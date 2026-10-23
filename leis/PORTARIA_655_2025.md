@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 655/2025
   - Portaria 655
   - Portaria nº 655
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025655"
 coletado_em: "2026-10-11"
 sha256_raw: "3e93bbc4daff27948c55c15263f258bdadca709a8e971ed53e6422cf6eae693e"

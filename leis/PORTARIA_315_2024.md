@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 315/2024
   - Portaria 315
   - Portaria nº 315
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024315"
 coletado_em: "2026-10-11"
 sha256_raw: "904a6ae9b9cd3cbc62bc1ab1f33d2be8d7328480ba1856a4eb0fb1ef901086cc"

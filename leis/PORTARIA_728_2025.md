@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 728/2025
   - Portaria 728
   - Portaria nº 728
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025728"
 coletado_em: "2026-10-11"
 sha256_raw: "5488f5a2017e830e8ddb29fcf7cb12f23c364e59db47b5d5497cd7f59a8a7ee2"

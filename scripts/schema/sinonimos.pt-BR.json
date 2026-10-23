@@ -1,0 +1,86 @@
+{
+  "versao": "1.0",
+  "descricao": "Dicionário inicial de sinônimos jurídicos pt-BR. Casa com o assunto DECLARADO (título + ementa + aliases) por fronteira de palavra. Prefira frases a termos genéricos para reduzir falso positivo.",
+  "regras": [
+    {
+      "match": ["readapta", "readaptacao", "readaptar", "readaptado", "readaptada", "readaptando", "readaptou"],
+      "tags": ["readaptacao_funcional", "rh"],
+      "palavras_chave": ["readaptação funcional", "readaptação de servidor", "readaptação permanente", "readaptação temporária", "readaptação e invalidez", "estatuto dos servidores"]
+    },
+    {
+      "match": ["defesa civil", "ppdc", "desastre", "deslizamento", "alagamento", "enchente", "inundação", "movimento de massa", "encosta", "plano preventivo"],
+      "tags": ["defesa_civil", "emergencia", "risco_geologico"],
+      "palavras_chave": ["defesa civil", "plano preventivo de defesa civil", "deslizamento", "alagamento", "remoção de famílias", "níveis de alerta"]
+    },
+    {
+      "match": ["licitação", "licitações", "pregão", "tomada de preços", "carta convite", "registro de preços", "dispensa de licitação", "inexigibilidade de licitação", "edital de licitação", "contrato administrativo"],
+      "tags": ["licitacao", "contratos"],
+      "palavras_chave": ["licitação", "pregão", "edital de licitação", "dispensa de licitação", "contrato administrativo"]
+    },
+    {
+      "match": ["servidor público", "cargo em comissão", "concurso público", "plano de cargos", "estatuto do servidor", "função gratificada", "quadro de pessoal", "vencimento", "comissionado"],
+      "tags": ["servidor_publico", "rh", "cargos"],
+      "palavras_chave": ["servidor público", "cargo em comissão", "concurso público", "plano de cargos", "vencimentos"]
+    },
+    {
+      "match": ["iptu", "iss", "imposto", "tributo", "taxa de licença", "contribuição de melhoria", "alíquota", "isenção", "lançamento tributário", "código tributário"],
+      "tags": ["tributos", "fiscalizacao"],
+      "palavras_chave": ["tributo municipal", "IPTU", "ISS", "alíquota", "isenção fiscal", "lançamento tributário"]
+    },
+    {
+      "match": ["meio ambiente", "licenciamento ambiental", "resíduos sólidos", "saneamento", "poluição", "unidade de conservação", "fauna", "flora", "ambiental"],
+      "tags": ["meio_ambiente", "sustentabilidade"],
+      "palavras_chave": ["meio ambiente", "licenciamento ambiental", "resíduos sólidos", "saneamento básico", "poluição"]
+    },
+    {
+      "match": ["zoneamento", "plano diretor", "parcelamento do solo", "loteamento", "uso e ocupação do solo", "coeficiente de aproveitamento", "gabarito"],
+      "tags": ["urbanismo", "uso_do_solo"],
+      "palavras_chave": ["zoneamento", "plano diretor", "uso e ocupação do solo", "loteamento", "parcelamento do solo"]
+    },
+    {
+      "match": ["saúde pública", "sus", "vigilância sanitária", "unidade de saúde", "atenção básica", "fundo municipal de saúde", "epidemia"],
+      "tags": ["saude", "servicos_publicos"],
+      "palavras_chave": ["saúde pública", "SUS", "vigilância sanitária", "unidade de saúde", "atenção básica"]
+    },
+    {
+      "match": ["educação", "ensino", "escola", "creche", "professor", "magistério", "merenda escolar", "fundo de educação"],
+      "tags": ["educacao"],
+      "palavras_chave": ["educação municipal", "ensino fundamental", "professor", "merenda escolar", "creche"]
+    },
+    {
+      "match": ["transporte público", "mobilidade urbana", "trânsito", "estacionamento", "tarifa de ônibus", "táxi", "ciclovia"],
+      "tags": ["transporte", "mobilidade_urbana"],
+      "palavras_chave": ["transporte público", "mobilidade urbana", "trânsito", "estacionamento", "tarifa de ônibus"]
+    },
+    {
+      "match": ["obra pública", "construção civil", "infraestrutura urbana", "pavimentação", "edificação", "demolição"],
+      "tags": ["obras", "infraestrutura"],
+      "palavras_chave": ["obra pública", "construção civil", "infraestrutura urbana", "pavimentação"]
+    },
+    {
+      "match": ["orçamento", "orçamentária", "receita", "despesa", "dotação", "crédito adicional", "plano plurianual", "diretrizes orçamentárias", "ppa", "ldo"],
+      "tags": ["orcamento", "financas"],
+      "palavras_chave": ["orçamento municipal", "receita", "despesa", "plano plurianual", "diretrizes orçamentárias", "crédito adicional"]
+    },
+    {
+      "match": ["assistência social", "cras", "creas", "benefício socioassistencial", "vulnerabilidade social"],
+      "tags": ["assistencia_social"],
+      "palavras_chave": ["assistência social", "CRAS", "benefício socioassistencial", "vulnerabilidade social"]
+    },
+    {
+      "match": ["cultura", "turismo", "patrimônio histórico", "tombamento", "evento cultural"],
+      "tags": ["cultura", "turismo", "patrimonio"],
+      "palavras_chave": ["cultura", "turismo", "patrimônio histórico", "tombamento", "evento cultural"]
+    },
+    {
+      "match": ["segurança pública", "guarda municipal", "policiamento", "defesa do consumidor", "procon"],
+      "tags": ["seguranca"],
+      "palavras_chave": ["segurança pública", "guarda municipal", "defesa do consumidor"]
+    },
+    {
+      "match": ["estrutura administrativa", "secretaria municipal", "criação de órgão", "criação de secretaria", "estrutura organizacional"],
+      "tags": ["administracao_publica", "estrutura"],
+      "palavras_chave": ["estrutura administrativa", "secretaria municipal", "criação de órgão", "estrutura organizacional"]
+    }
+  ]
+}

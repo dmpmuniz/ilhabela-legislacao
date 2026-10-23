@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 696/2025
   - Portaria 696
   - Portaria nº 696
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025696"
 coletado_em: "2026-10-11"
 sha256_raw: d56737e161d0e11f69212c62ab3570749cb46d6c485a4adc963f827a7d22f6a4

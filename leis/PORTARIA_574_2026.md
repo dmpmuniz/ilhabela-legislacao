@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 574/2026
   - Portaria 574
   - Portaria nº 574
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026574"
 coletado_em: "2026-10-21"
 sha256_raw: aad9e996deefec5724e1a49023d52fa16ee78dd4428d60c6ec561d4dd186fe6e

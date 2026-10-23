@@ -16,14 +16,21 @@ aliases:
   - Portaria 167
   - Portaria nº 167
 palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
   - servidor público
   - cargo em comissão
   - concurso público
   - plano de cargos
   - vencimentos
 tags_auto:
-  - servidor_publico
+  - readaptacao_funcional
   - rh
+  - servidor_publico
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022167"
 coletado_em: "2026-10-21"

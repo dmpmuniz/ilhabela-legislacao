@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 819/2021
   - Portaria 819
   - Portaria nº 819
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021819"
 coletado_em: "2026-10-11"
 sha256_raw: "014545bffbb4bef6cff349e03f9b06c20463b713f0388c9b630829a0686b9acb"

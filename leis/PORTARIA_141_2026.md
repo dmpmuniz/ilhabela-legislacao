@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 141/2026
   - Portaria 141
   - Portaria nº 141
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026141"
 coletado_em: "2026-10-11"
 sha256_raw: "58ae6c29614928cffde6affa195ab63214ff230f22a39231fad4153668432a50"

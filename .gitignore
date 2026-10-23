@@ -1,0 +1,13 @@
+node_modules/
+idx/
+*.log
+.DS_Store
+Thumbs.db
+
+# dados pessoais e pacote bruto (nunca versionar)
+config.json
+Documentos/
+legislacao_ilhabela/
+
+# gerado pelo `npm run notebooklm:revisao` (regenerável)
+notebooklm/REVISAO-HUMANA.md

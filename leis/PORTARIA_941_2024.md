@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 941/2024
   - Portaria 941
   - Portaria nº 941
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024941"
 coletado_em: "2026-10-11"
 sha256_raw: d10ae66ffdad053d5c32ca306fb37193fd6b36c00b5757358c1ce89723bd1e9f

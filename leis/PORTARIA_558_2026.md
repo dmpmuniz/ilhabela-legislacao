@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 558/2026
   - Portaria 558
   - Portaria nº 558
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026558"
 coletado_em: "2026-10-21"
 sha256_raw: "9aa8340c57eeb298ad2a46563b33fb5e4b09a4f9a5c526a017bccfeb1a359b1d"

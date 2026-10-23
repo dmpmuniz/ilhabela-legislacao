@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 586/2025
   - Portaria 586
   - Portaria nº 586
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025586"
 coletado_em: "2026-10-11"
 sha256_raw: b3c7355035e088de6b2c58eeeae82e71852d7eebce85c4d2c156eb8f46e5b3ff

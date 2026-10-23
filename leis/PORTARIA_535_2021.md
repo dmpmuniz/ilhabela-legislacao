@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 535/2021
   - Portaria 535
   - Portaria nº 535
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210535"
 coletado_em: "2026-10-11"
 sha256_raw: "46223fea8a7ee747f45515e3335369044a1069d54a2fd681f5d317697ebd647b"

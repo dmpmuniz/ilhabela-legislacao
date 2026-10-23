@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 753/2024
   - Portaria 753
   - Portaria nº 753
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024753"
 coletado_em: "2026-10-11"
 sha256_raw: "0dc58ba2a46f15495ca06d94b85a1e297442a80f16fcf749b3a09b83a283cecc"

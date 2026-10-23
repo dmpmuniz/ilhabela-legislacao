@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 585/2025
   - Portaria 585
   - Portaria nº 585
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025585"
 coletado_em: "2026-10-11"
 sha256_raw: "807f8672e02a05820eaadf3fd31c87312be1fbbf090ab51d508aede6d7a1946a"

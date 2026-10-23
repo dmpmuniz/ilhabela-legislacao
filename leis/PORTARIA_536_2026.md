@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 536/2026
   - Portaria 536
   - Portaria nº 536
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026536"
 coletado_em: "2026-10-21"
 sha256_raw: "6b983057a77e341df7218ce210b2f5a50c97a5979c488d202ed74a8916e1f590"

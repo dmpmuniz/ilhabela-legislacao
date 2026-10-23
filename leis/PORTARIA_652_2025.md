@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 652/2025
   - Portaria 652
   - Portaria nº 652
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025652"
 coletado_em: "2026-10-11"
 sha256_raw: b7eb8386234f1d05be0637c60c9a4351c11218b911ab83de38d98cb2e4ffe831

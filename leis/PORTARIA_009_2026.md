@@ -18,6 +18,16 @@ aliases:
   - Portaria 009
   - Portaria nº 9
   - Portaria nº 009
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026009"
 coletado_em: "2026-10-11"
 sha256_raw: "1828456b5cd32a705d2ca8569e8d92b0bba26d9c66eed0f97079c08fc2899455"

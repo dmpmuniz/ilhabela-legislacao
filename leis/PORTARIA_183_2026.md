@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 183/2026
   - Portaria 183
   - Portaria nº 183
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026183"
 coletado_em: "2026-10-11"
 sha256_raw: "9f8bbd96bf8b064cde7eae5790537dc30f2101d128b4e14959f8c6f0d1f1441b"

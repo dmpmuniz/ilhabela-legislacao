@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 539/2026
   - Portaria 539
   - Portaria nº 539
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026539"
 coletado_em: "2026-10-21"
 sha256_raw: f5d23e07d876e987d0b61c5e7991b13146b943f0c355bce8e75802f6973608fc

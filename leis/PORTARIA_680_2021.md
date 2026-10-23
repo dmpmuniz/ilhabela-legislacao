@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 680/2021
   - Portaria 680
   - Portaria nº 680
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210680"
 coletado_em: "2026-10-11"
 sha256_raw: a9a1f28c60b9673a2fa929c239dd72ab1d9cf143fe626077d489c624a664aee3

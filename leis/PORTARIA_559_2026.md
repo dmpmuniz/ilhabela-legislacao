@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 559/2026
   - Portaria 559
   - Portaria nº 559
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026559"
 coletado_em: "2026-10-21"
 sha256_raw: b373dd38664c082af30ef5adc6e03ee63aabf9ccf4ceb26b7e5a7f9c4224bab0

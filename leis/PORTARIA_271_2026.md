@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 271/2026
   - Portaria 271
   - Portaria nº 271
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026271"
 coletado_em: "2026-10-11"
 sha256_raw: "15eccedeaa4fe50ded4b04af791a8be45678886281a5a7d4a815c247935ac8f7"

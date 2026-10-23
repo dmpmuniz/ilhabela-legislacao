@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 532/2024
   - Portaria 532
   - Portaria nº 532
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024532"
 coletado_em: "2026-10-11"
 sha256_raw: "473baf4325dcf8e70a3f7945aff7532cfe0cadb0cf33226394e2ffacaa516fc1"

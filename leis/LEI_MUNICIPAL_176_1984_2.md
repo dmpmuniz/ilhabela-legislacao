@@ -1,6 +1,6 @@
 ---
 id: 19840176
-ref: ilh-1984-lei-176
+ref: ilh-1984-lei-176-2
 tipo: lei
 numero: 176
 ano: 1984

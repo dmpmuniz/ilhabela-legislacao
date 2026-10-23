@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 530/2021
   - Portaria 530
   - Portaria nº 530
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210530"
 coletado_em: "2026-10-11"
 sha256_raw: f619c86492be07a6c08a2e2d4bc6d7342f7a278f40d30154034fffbcf187ebb9

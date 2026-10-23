@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 483/2025
   - Portaria 483
   - Portaria nº 483
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025483"
 coletado_em: "2026-10-11"
 sha256_raw: d1c3856756ee989340fdc1452706bd2e6e9383c994a18d6d43425033b4f67632

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 529/2024
   - Portaria 529
   - Portaria nº 529
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024529"
 coletado_em: "2026-10-11"
 sha256_raw: "3b79cfa99a0f9dc7aa4445006226e252b0d520a1048f78d9bd79607c9496b409"

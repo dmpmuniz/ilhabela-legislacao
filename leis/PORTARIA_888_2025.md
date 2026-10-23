@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 888/2025
   - Portaria 888
   - Portaria nº 888
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025888"
 coletado_em: "2026-10-11"
 sha256_raw: aa99904291cc00d2ec2915bf43f29fd1cb7dd807133b4af7118cc5cce6ba6b91

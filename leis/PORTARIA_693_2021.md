@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 693/2021
   - Portaria 693
   - Portaria nº 693
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021693"
 coletado_em: "2026-10-11"
 sha256_raw: "85ff67bca65a4743a6779d4cc3f4daf23b74cb68e9daa5ca659a948a247840bc"

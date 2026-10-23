@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 458/2025
   - Portaria 458
   - Portaria nº 458
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025458"
 coletado_em: "2026-10-11"
 sha256_raw: "58ffe35b01b9fb1f269b01d531db915da8e119615c447e9518317d461962ac86"

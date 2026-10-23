@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 584/2025
   - Portaria 584
   - Portaria nº 584
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025584"
 coletado_em: "2026-10-11"
 sha256_raw: a8e539a38153c175cb189deaf08c0786a50c27f75ba2721fc18037cf73767b12

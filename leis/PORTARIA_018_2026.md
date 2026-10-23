@@ -18,6 +18,16 @@ aliases:
   - Portaria 018
   - Portaria nº 18
   - Portaria nº 018
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026018"
 coletado_em: "2026-10-11"
 sha256_raw: "0ac87d3fae11d4232b2d08e09b0c5302308d2e7a4988f2163be7aa10e3723e02"

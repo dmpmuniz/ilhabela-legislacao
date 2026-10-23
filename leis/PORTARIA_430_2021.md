@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 430/2021
   - Portaria 430
   - Portaria nº 430
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20210430"
 coletado_em: "2026-10-11"
 sha256_raw: "2f4693983785c04a792d6938115beb05c1217b6987620195b0f7444dbdf41be6"

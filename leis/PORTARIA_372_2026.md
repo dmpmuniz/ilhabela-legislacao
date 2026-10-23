@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 372/2026
   - Portaria 372
   - Portaria nº 372
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026372"
 coletado_em: "2026-10-11"
 sha256_raw: "5f5e86d1125310dce46695a2a0177ecf1364ccad011bf16efa43a100e3718644"

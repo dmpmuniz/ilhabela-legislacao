@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 457/2026
   - Portaria 457
   - Portaria nº 457
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026457"
 coletado_em: "2026-10-11"
 sha256_raw: d30eadb27f4c9c2c599e5ba1165ee21add12be7cdcbc9adc5d92eed40ba91f0d

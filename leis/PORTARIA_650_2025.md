@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 650/2025
   - Portaria 650
   - Portaria nº 650
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025650"
 coletado_em: "2026-10-11"
 sha256_raw: ea03bcc8bbc571b491409633cb52ad904bae7cb5dffd00bf4d9d4ce8bb4b245b

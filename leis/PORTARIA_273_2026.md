@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 273/2026
   - Portaria 273
   - Portaria nº 273
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026273"
 coletado_em: "2026-10-11"
 sha256_raw: "5932d363d005ab0f0d9f092f2f877a7271984de7d284d86336072bea52d86669"

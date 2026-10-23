@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 534/2024
   - Portaria 534
   - Portaria nº 534
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024534"
 coletado_em: "2026-10-11"
 sha256_raw: "459e90d5102c1bb47b4607e094cc203fcb332a03a01e032f2ebdae4f9b92ad03"

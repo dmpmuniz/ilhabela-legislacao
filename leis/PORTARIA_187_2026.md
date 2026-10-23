@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 187/2026
   - Portaria 187
   - Portaria nº 187
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026187"
 coletado_em: "2026-10-11"
 sha256_raw: "120ffed7ad401149b65027ab4b47f9fcb2581175adaecdbb4153f5c377ff88e9"

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 587/2025
   - Portaria 587
   - Portaria nº 587
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025587"
 coletado_em: "2026-10-11"
 sha256_raw: "32a4bacac6cc3652c66771c10e065b9908e3030dd5ea30d50a2ca8278b5f515c"

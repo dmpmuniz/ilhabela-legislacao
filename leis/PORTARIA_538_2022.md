@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 538/2022
   - Portaria 538
   - Portaria nº 538
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022538"
 coletado_em: "2026-10-11"
 sha256_raw: "0bfd4c2d070aa3a8dee610adf554691cefbe4b10b930f8efdb04e15b4384ae89"

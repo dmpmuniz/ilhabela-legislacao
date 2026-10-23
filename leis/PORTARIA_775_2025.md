@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 775/2025
   - Portaria 775
   - Portaria nº 775
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2025775"
 coletado_em: "2026-10-11"
 sha256_raw: "8233eeeb29dabf86209ed7454e1200f8828bbada518e3bd6f6ffe36047a4c8ed"

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 537/2022
   - Portaria 537
   - Portaria nº 537
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022537"
 coletado_em: "2026-10-11"
 sha256_raw: "669c8578fa972af8d6bff8611b195836514b144dd4e0e46edec8f496a35a9859"

@@ -1,0 +1,28 @@
+{
+  "name": "ilhabela-legislacao",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Acervo público de legislação municipal de Ilhabela/SP em Markdown + export para o Google NotebookLM.",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "ingest": "node --experimental-strip-types scripts/ingest.ts",
+    "atualizar": "node --experimental-strip-types scripts/atualizar.ts",
+    "enrich": "node --experimental-strip-types scripts/enrich.ts",
+    "enrich:force": "node --experimental-strip-types scripts/enrich.ts --force",
+    "validate": "node --experimental-strip-types scripts/validate.ts",
+    "manifest": "node --experimental-strip-types scripts/build-manifest.ts",
+    "index": "node --experimental-strip-types scripts/build-index.ts",
+    "search": "node --experimental-strip-types scripts/search.ts",
+    "pipeline": "npm run enrich && npm run validate && npm run manifest && npm run index",
+    "check:samples": "npm run enrich -- --laws scripts/samples/leis --idx scripts/samples/idx && npm run validate -- --laws scripts/samples/leis --idx scripts/samples/idx && npm run manifest -- --laws scripts/samples/leis --idx scripts/samples/idx && npm run index -- --laws scripts/samples/leis --idx scripts/samples/idx",
+    "test": "node --experimental-strip-types --test scripts/tests/**/*.test.ts",
+    "notebooklm": "node --experimental-strip-types scripts/gerar-notebooklm-v2.mjs",
+    "notebooklm:check": "node --experimental-strip-types scripts/verificar-saida.mjs",
+    "notebooklm:revisao": "node scripts/gerar-revisao.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

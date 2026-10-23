@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 533/2024
   - Portaria 533
   - Portaria nº 533
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024533"
 coletado_em: "2026-10-11"
 sha256_raw: fe76b409de6957c8f9e5585275e381a97d203a1d33d515a0261bbb49d795b891

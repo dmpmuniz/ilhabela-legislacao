@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 791/2024
   - Portaria 791
   - Portaria nº 791
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024791"
 coletado_em: "2026-10-11"
 sha256_raw: bcb45369927d13a8c31827dc6dd325a394182c26881060d8272703224167ad87

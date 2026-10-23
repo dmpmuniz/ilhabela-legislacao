@@ -1,7 +1,7 @@
 ---
 id: 9999
-ref: ilh-1990-lei-000
-tipo: lei_orgâ
+ref: ilh-1990-lo-000
+tipo: lei_organica
 ano: 1990
 cidade: Ilhabela
 estado: SP

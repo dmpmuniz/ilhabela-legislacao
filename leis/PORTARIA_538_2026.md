@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 538/2026
   - Portaria 538
   - Portaria nº 538
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026538"
 coletado_em: "2026-10-21"
 sha256_raw: "7b5cbe3880ec236adebe9e7ac187d1803f7da6451a7d5ed6d9f0b1c181a1222f"

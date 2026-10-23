@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 688/2021
   - Portaria 688
   - Portaria nº 688
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021688"
 coletado_em: "2026-10-11"
 sha256_raw: "17071218e75afd5e95a5de271c77ed6bbd9571e5f99f8e426638586fb554722f"

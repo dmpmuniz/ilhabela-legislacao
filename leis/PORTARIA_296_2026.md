@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 296/2026
   - Portaria 296
   - Portaria nº 296
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026296"
 coletado_em: "2026-10-11"
 sha256_raw: a38a8ac62715f2516bb077535c0a4b538455f95fd4232113b482fd99a7ef8479

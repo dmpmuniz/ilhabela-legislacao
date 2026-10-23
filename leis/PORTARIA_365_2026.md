@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 365/2026
   - Portaria 365
   - Portaria nº 365
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026365"
 coletado_em: "2026-10-11"
 sha256_raw: f2b153932d3417577f41d27e512cc512de24712ae5dc54ad50ddfdeeea92437e

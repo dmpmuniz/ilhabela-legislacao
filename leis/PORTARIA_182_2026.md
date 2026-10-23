@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 182/2026
   - Portaria 182
   - Portaria nº 182
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026182"
 coletado_em: "2026-10-11"
 sha256_raw: e979f05e81f4804c7d32f36a519b9aca3c76c2946c2e47f05e8b317b0dd78d99

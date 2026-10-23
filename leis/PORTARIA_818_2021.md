@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 818/2021
   - Portaria 818
   - Portaria nº 818
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021818"
 coletado_em: "2026-10-11"
 sha256_raw: f1a81c1a2f5fbd765bad3b661aa01ddc915611f9fefac96d0760c78e84f92d97

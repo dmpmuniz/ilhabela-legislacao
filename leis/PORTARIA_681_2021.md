@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 681/2021
   - Portaria 681
   - Portaria nº 681
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2021681"
 coletado_em: "2026-10-11"
 sha256_raw: "3809e2072ba3ad934966232716a8adaa7fbe143d523ec85f92b1ae86b1749790"

@@ -15,6 +15,16 @@ aliases:
   - Portaria nº 944/2024
   - Portaria 944
   - Portaria nº 944
+palavras_chave_auto:
+  - readaptação funcional
+  - readaptação de servidor
+  - readaptação permanente
+  - readaptação temporária
+  - readaptação e invalidez
+  - estatuto dos servidores
+tags_auto:
+  - readaptacao_funcional
+  - rh
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024944"
 coletado_em: "2026-10-11"
 sha256_raw: b5b5919891691f5cd2cb9e465d0fc377f1b51657a52058514c9658f81d430e6b
