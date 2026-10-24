@@ -49,7 +49,16 @@ async function snippet(relPath: string, terms: string[]): Promise<string> {
 }
 
 const terms = [...new Set(fold(query).match(/[a-z0-9]+/g) ?? [])]
-const out: any[] = []
+type Resultado = {
+  pos: number
+  score: number
+  id: string
+  ref: string
+  titulo: string
+  path: string
+  trecho: string
+}
+const out: Resultado[] = []
 for (let i = 0; i < results.length; i++) {
   const { doc, score } = results[i]
   const meta = index.docs[doc]

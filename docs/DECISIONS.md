@@ -95,7 +95,7 @@ levando de 41 para 43 fontes, ainda abaixo do teto de 48.
 
 **Decisão:** a conferência de fonte é automática: `npm run verificar:cespro`
 baixa o diploma oficial e compara título, ementa, status e corpo de cada
-bloco. O antigo `REVISAO-HUMANA.md` foi removido em 24/10/2026.
+bloco. O antigo checklist humano foi removido em 24/10/2026.
 
 **Por quê:** o checklist humano era amostral e não pegava defasagem do
 snapshot. A comparação com o portal cobre 1 norma por parte por padrão e

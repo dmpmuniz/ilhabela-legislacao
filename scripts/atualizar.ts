@@ -1,7 +1,7 @@
 // atualizar.ts — sincronização INCREMENTAL do corpus com o portal Cespro.
 //
-// Substitui, em Node zero-dep, o fluxo Python antigo (script-antigos/):
-// scraper.py + cleaner.py + ingestão. Num único passo:
+// Substitui, em Node zero-dep, o fluxo Python que originou o acervo
+// (scraper + cleaner + ingestão). Num único passo:
 //
 //   1. varre a listagem do portal (sempre FRESCA — o fluxo antigo cacheara o
 //      listing.json e nunca mais via lei nova sem apagar o cache à mão);
@@ -17,8 +17,8 @@
 //   5. reexecuta o pipeline (enrich → validate → manifest → index), que é
 //      incremental por cache SHA256 — só o que mudou é reprocessado.
 //
-// Politônica igual à do scraper antigo: sleep aleatório entre pedidos, retries
-// com backoff exponencial, downloads paralelos limitados.
+// Polidez de rede igual à do scraper antigo: sleep aleatório entre pedidos,
+// retries com backoff exponencial, downloads paralelos limitados.
 
 import { readFile } from "node:fs/promises"
 import { existsSync } from "node:fs"
@@ -57,6 +57,9 @@ const TETO_PEDIDO_MS = 30_000
  * sincronização (~18k diplomas), polido o bastante para o portal pequeno.
  */
 const WORKERS_PADRAO = 16
+
+/** Status que tiram a norma de vigor; a listagem manda e o corpus acompanha. */
+const FORA_DE_VIGOR = new Set(["revogada", "expirada", "anulada", "inconstitucional", "suspensa"])
 
 const SLEEP_MIN = () => Number(process.env.SCRAPER_SLEEP_MIN ?? 0.1)
 const SLEEP_MAX = () => Number(process.env.SCRAPER_SLEEP_MAX ?? 0.3)
@@ -104,9 +107,9 @@ export async function chamarApi(
       if (tentativa >= MAX_RETRIES) {
         throw new Error(`falha definitiva: ${(e as Error).message}`)
       }
-      // Backoff curto com teto: falha transitória (rede/pico) se resolve no
-      // 1º retry de 1s — a espera de 5s do fluxo antigo punia todos por causa
-      // de uma soluço. Esperas: 1s, 2s, 4s, 8s, teto 15s.
+      // Backoff curto: falha transitória (rede/pico) se resolve no 1º retry
+      // de 1s — a espera de 5s do fluxo antigo punia todos por causa de um
+      // soluço. Esperas: 1s, 2s, 4s, 8s.
       await new Promise((r) =>
         setTimeout(r, Math.min(15_000, 1_000 * 2 ** (tentativa - 1)) + Math.random() * 500),
       )
@@ -234,7 +237,8 @@ export type ResultadoSincronizar = {
   novos: number
   /** normas já no acervo cujo TEXTO mudou no portal (reescritas) */
   atualizadas: number
-  revogadas: number
+  /** normas já no acervo que o portal passou a listar fora de vigor */
+  foraDeVigor: number
   iguais: number
   vazios: number
   erros: number
@@ -250,14 +254,18 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
   const cdMunicipio = opcoes.cdMunicipio ?? "8969"
   const corpusDir = resolve(opcoes.corpusDir ?? "leis")
   const idxDir = resolve(opcoes.idxDir ?? "idx")
-  const workers = Math.max(1, opcoes.workers ?? WORKERS_PADRAO)
-  const limite = opcoes.limite != null ? Math.max(0, opcoes.limite) : Infinity
+  const workers = opcoes.workers != null && Number.isFinite(opcoes.workers)
+    ? Math.max(1, opcoes.workers)
+    : WORKERS_PADRAO
+  const limite = opcoes.limite != null && Number.isFinite(opcoes.limite)
+    ? Math.max(0, opcoes.limite)
+    : Infinity
   const cidade = opcoes.cidade ?? "Ilhabela"
   const estado = opcoes.estado ?? "SP"
   const esfera = opcoes.esfera ?? "municipal"
   const hoje = new Date().toISOString().slice(0, 10)
 
-  const resultado: ResultadoSincronizar = { varridos: 0, importadas: 0, novos: 0, atualizadas: 0, revogadas: 0, iguais: 0, vazios: 0, erros: 0, detalhes: [] }
+  const resultado: ResultadoSincronizar = { varridos: 0, importadas: 0, novos: 0, atualizadas: 0, foraDeVigor: 0, iguais: 0, vazios: 0, erros: 0, detalhes: [] }
 
   // PACOTE BRUTO primeiro (se existir): as leis dele entram como "já
   // conhecidas" na sincronização — sem isso, uma primeira instalação baixaria
@@ -292,7 +300,7 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
 
   // COMPARAÇÃO — três destinos possíveis para cada item da listagem:
   const paraBaixar: Array<{ item: ItemListagem; caminho?: string }> = []
-  const paraRevogar: Array<{ item: ItemListagem; caminho: string }> = []
+  const paraAtualizarStatus: Array<{ item: ItemListagem; caminho: string }> = []
   for (const item of itens) {
     // acabou de sair do pacote: já está no corpus — baixar de novo seria
     // desperdiçar a entrega local inteira (o pipeline a seguir o registra
@@ -306,10 +314,11 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
         continue
       }
       // a lei JÁ ESTÁ no acervo; o que pode ter mudado é o status —
-      // saiu de vigor no portal (revogada, expirada ou anulada), precisa refletir aqui
+      // saiu de vigor no portal (revogada, expirada, anulada, inconstitucional
+      // ou suspensa), precisa refletir aqui
       const statusPortal = mapearStatus(item.ds_status)
-      if (["revogada", "expirada", "anulada"].includes(statusPortal ?? "") && existente.status === "em_vigor") {
-        paraRevogar.push({ item, caminho: join(corpusDir, existente.path) })
+      if (FORA_DE_VIGOR.has(statusPortal ?? "") && existente.status === "em_vigor") {
+        paraAtualizarStatus.push({ item, caminho: join(corpusDir, existente.path) })
       }
       continue
     }
@@ -322,7 +331,7 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
   }
 
   const filaBaixar = paraBaixar.slice(0, limite === Infinity ? paraBaixar.length : limite)
-  console.log(`[diff] baixar: ${filaBaixar.length}${paraBaixar.length !== filaBaixar.length ? ` (limitado de ${paraBaixar.length})` : ""} | a marcar revogada: ${paraRevogar.length}`)
+  console.log(`[diff] baixar: ${filaBaixar.length}${paraBaixar.length !== filaBaixar.length ? ` (limitado de ${paraBaixar.length})` : ""} | a marcar fora de vigor: ${paraAtualizarStatus.length}`)
 
   // -----------------------------------------------------------------------
   // Download + conversão + gravação (pool de workers como no scraper antigo)
@@ -453,9 +462,10 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
   await Promise.all(Array.from({ length: Math.min(workers, filaBaixar.length) }, trabalhadora))
 
   // -----------------------------------------------------------------------
-  // Saídas de vigor (revogada/expirada/anulada): status in-place, resto intacto
+  // Saídas de vigor (revogada/expirada/anulada/inconstitucional/suspensa):
+  // status in-place, resto intacto
   // -----------------------------------------------------------------------
-  for (const { item, caminho } of paraRevogar) {
+  for (const { item, caminho } of paraAtualizarStatus) {
     try {
       const conteudo = await readText(caminho)
       const { data, body } = parseFrontmatter(conteudo)
@@ -466,11 +476,11 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
       }
       data.status = novoStatus
       await writeText(caminho, serializeFrontmatter(data, body))
-      resultado.revogadas++
+      resultado.foraDeVigor++
       resultado.detalhes.push(`${novoStatus}: ${basename(caminho)}`)
     } catch (e) {
       resultado.erros++
-      resultado.detalhes.push(`erro ao marcar revogada (${caminho}): ${(e as Error).message}`)
+      resultado.detalhes.push(`erro ao atualizar status (${caminho}): ${(e as Error).message}`)
     }
   }
 
@@ -529,13 +539,13 @@ export async function main(argv: string[] = process.argv.slice(2)): Promise<void
 
   console.log(
     `\n[atualizar] varridos ${r.varridos}${r.importadas ? ` | importadas do pacote ${r.importadas}` : ''} | ` +
-    `novos ${r.novos} | atualizadas ${r.atualizadas} | revogadas ${r.revogadas} | ` +
+    `novos ${r.novos} | atualizadas ${r.atualizadas} | fora de vigor ${r.foraDeVigor} | ` +
     `iguais ${r.iguais} | sem conteúdo ${r.vazios} | erros ${r.erros}`,
   )
   for (const d of r.detalhes.slice(0, 20)) console.log(`  ${d}`)
   if (r.detalhes.length > 20) console.log(`  … +${r.detalhes.length - 20}`)
 
-  const houveMudanca = r.importadas > 0 || r.novos > 0 || r.atualizadas > 0 || r.revogadas > 0 || r.erros > 0
+  const houveMudanca = r.importadas > 0 || r.novos > 0 || r.atualizadas > 0 || r.foraDeVigor > 0 || r.erros > 0
   if (!houveMudanca) {
     console.log("[atualizar] nada mudou — pipeline dispensado")
     return

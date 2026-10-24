@@ -2,6 +2,7 @@
   "name": "ilhabela-legislacao",
   "version": "1.0.0",
   "private": true,
+  "license": "CC0-1.0",
   "type": "module",
   "description": "Acervo público de legislação municipal de Ilhabela/SP em Markdown + export para o Google NotebookLM.",
   "engines": {
@@ -19,7 +20,7 @@
     "pipeline": "npm run enrich && npm run validate && npm run manifest && npm run index",
     "check:samples": "npm run enrich -- --laws scripts/samples/leis --idx scripts/samples/idx && npm run validate -- --laws scripts/samples/leis --idx scripts/samples/idx && npm run manifest -- --laws scripts/samples/leis --idx scripts/samples/idx && npm run index -- --laws scripts/samples/leis --idx scripts/samples/idx",
     "test": "node --experimental-strip-types --test scripts/tests/**/*.test.ts",
-    "notebooklm": "node --experimental-strip-types scripts/gerar-notebooklm-v2.mjs",
+    "notebooklm": "node --experimental-strip-types scripts/gerar-notebooklm.mjs",
     "notebooklm:check": "node --experimental-strip-types scripts/verificar-saida.mjs",
     "verificar:cespro": "node --experimental-strip-types scripts/verificar-cespro.mjs"
   },

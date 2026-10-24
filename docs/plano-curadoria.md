@@ -1,14 +1,15 @@
-# Plano de Ação — State of the Art: NotebookLM para Legislação Municipal de Ilhabela/SP
+# Plano de Ação — Acervo de Ilhabela/SP e export para o NotebookLM
 
 > **Objetivo:** entregar confiabilidade e precisão máxima no Google NotebookLM
 > (Gemini Notebook) para consulta jurídica das 35.776 normas municipais de
 > Ilhabela/SP, com base em pesquisa acadêmica e boas práticas de RAG.
 >
-> **Estado (23/10/2026):** as **43 fontes estão geradas e validadas** neste repo
+> **Estado (24/10/2026):** as **43 fontes estão geradas e validadas** neste repo
 > (refs únicas 35.776/35.776, 0 erros, 30 normas amostradas em 3 lotes sem
-> falha — protocolo em `VALIDACAO-PARTES.md`). Pendentes: Lote 5 (upload +
-> 10 perguntas-caveira no Gemini Notebook, ex-NotebookLM) e Lote 6 (push).
-> A conferência de fonte é automática: `npm run verificar:cespro`.
+> falha — protocolo em `VALIDACAO-PARTES.md`). A conferência de fonte é
+> automática: `npm run verificar:cespro` (35.776/35.776 conformes). Pendentes:
+> Lote 5 (upload + 10 perguntas-caveira no Gemini Notebook) e Lote 6 (push;
+> o commit local já foi feito).
 > **Aprofundamento teórico (out/2026):** [`RAG-NOTEBOOKLM.md`](RAG-NOTEBOOKLM.md) —
 > como o Gemini Notebook recupera informação e as alavancas do acervo.
 
@@ -36,9 +37,9 @@
 - 35.776 normas · **0 erros** de validação · **refs únicas 35.776/35.776**
 - **41 partes temáticas** + `00-INSTRUCOES.md` + `01-INDICE-GERAL.md` = **43 fontes**
 - maior arquivo: **394.876 palavras** (teto de 500k do NotebookLM)
-- 6.081 normas com palavras-chave automáticas (`palavras_chave_auto`; 0 curadas); 2.467 com data de efeitos; 18 refs desempatadas (`-2`/`-3`)
+- 6.082 normas com palavras-chave automáticas (`palavras_chave_auto`; 0 curadas); 2.467 com data de efeitos; 18 refs desempatadas (`-2`/`-3`)
 - índice com 906 palavras; instruções com 509 palavras
-- `npm test`: **70/70** · `scripts/verificar-saida.mjs`: saída íntegra (título e ementa conferidos)
+- `npm test`: **84/84** · `scripts/verificar-saida.mjs`: saída íntegra (título e ementa conferidos)
 
 ---
 
@@ -92,10 +93,10 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 |---|---|---|
 | Lei Orgânica e Emendas | `lei-organica-e-emendas-1990.md` | 1 |
 | Estatuto dos Servidores e Alterações | `estatuto-dos-servidores-e-alteracoes-2003-2026.md` | 18 |
-| Leis Municipais | `leis-1956-2003.md`, `leis-2003-2015.md`, `leis-2015-2026.md`, `leis-2026.md` | 1.871 |
+| Leis Municipais | `leis-1956-2003.md`, `leis-2003-2015.md`, `leis-2015-2026.md`, `leis-2026.md` | 1.870 |
 | Leis Complementares | `leis-complementares-2001-2026.md` | 60 |
-| Decretos Municipais | `decretos-1975-2013.md` … `decretos-2025-2026.md` (5) | 3.715 |
-| Decretos de Nomeação e Exoneração | `decretos-de-nomeacao-e-exoneracao-1995-2010.md` … `-2024-2026.md` (5) | 7.262 |
+| Decretos Municipais | `decretos-1975-2013.md` … `decretos-2025-2026.md` (5) | 3.708 |
+| Decretos de Nomeação e Exoneração | `decretos-de-nomeacao-e-exoneracao-1995-2010.md` … `-2024-2026.md` (5) | 7.260 |
 | Portarias de Readaptação | `portarias-de-readaptacao-2017-2026.md` | 191 |
 | Portarias de Nomeação e Exoneração | `portarias-de-nomeacao-e-exoneracao-2016-2026.md` | 674 |
 | Portarias de Provimento e Posse | `portarias-de-provimento-e-posse-2023-2026.md` | 223 |
@@ -105,10 +106,10 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 | Portarias de Gratificação, Adicionais e Prêmios | `portarias-de-gratificacao-e-premios-2015-2026.md` | 794 |
 | Portarias Diversas | `portarias-diversas-2015-2020.md`, `-2020-2026.md` | 2.786 |
 | Resoluções e Atos Especiais | `resolucoes-e-atos-especiais-1805-2024.md` | 13 |
-| Leis Revogadas | `leis-revogadas-1956-2003.md`, `-2003-2024.md` | 519 |
-| Decretos Revogados | `decretos-revogados-1997-2022.md`, `-2022-2026.md` | 1.119 |
+| Leis Revogadas | `leis-revogadas-1956-2003.md`, `-2003-2024.md` | 520 |
+| Decretos Revogados | `decretos-revogados-1997-2022.md`, `-2022-2026.md` | 1.127 |
 | Portarias Revogadas | `portarias-revogadas-2015-2026.md` | 392 |
-| Normas Expiradas, Anuladas, Inconstitucionais e Suspensas | `normas-expiradas-e-cassadas-1956-2007.md` … (3) | 1.538 |
+| Normas Expiradas, Anuladas, Inconstitucionais e Suspensas | `normas-expiradas-e-cassadas-1956-2007.md` … (3) | 1.539 |
 | **Total** | **41 partes** | **35.776** |
 
 ### 3.1 Padrão de cada parte
@@ -131,16 +132,17 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 |---|---|---|---|
 | 1 | Partes temáticas | **executado** | 41 partes, 35.776 normas, máx. 395k palavras |
 | 2 | Índice geral | **executado** | inventário completo + mapa assunto → tipo |
-| 3 | Metadados por norma | **executado** | 6.081 com palavras-chave automáticas; 2.467 com data de efeitos; refs `-2`/`-3` |
+| 3 | Metadados por norma | **executado** | 6.082 com palavras-chave automáticas; 2.467 com data de efeitos; refs `-2`/`-3` |
 | 4 | Instruções v2 | **executado** | 13 regras, 509 palavras |
 | 5 | Validação empírica | **pendente** | 10 perguntas-caveira no NotebookLM; fonte conferida por `verificar:cespro` |
-| 6 | Publicação | **pendente** | push exige token do GitHub |
+| 6 | Publicação | **pendente** | commit local feito; push pendente |
 
 ### Lote 5 — metodologia (quando houver upload)
 
 1. Enviar as 43 fontes ao NotebookLM.
-2. Fazer as 10 perguntas-caveira (poda, ZU2, alvará, readaptação,
-   LC 789/2010, Lei 745/2009, meio ambiente, IPTU, árvores nativas, código de obras).
+2. Fazer as 10 perguntas-caveira (licitação, servidores públicos, zoneamento,
+   meio ambiente, tributos municipais, educação, saúde, mobilidade urbana,
+   patrimônio histórico, saneamento básico).
 3. Comparar com o gabarito do BM25 local (`npm run search -- --q "…" --k 3`).
 4. Critérios: ≥80% de acerto, ≥90% de citações corretas, ≤1 falso negativo,
    **zero** ref inexistente.
@@ -149,7 +151,7 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 
 1. Gerar as partes (`npm run notebooklm`) e conferir (`npm run notebooklm:check`).
 2. Commitar as 43 fontes, scripts e docs (as partes são regeneráveis, mas versionadas para o release).
-3. Push para o GitHub (`dmpmuniz/ilhabela-legislacao`).
+3. Push para o GitHub (pendente).
 
 ---
 
@@ -184,7 +186,7 @@ A conferência de fonte é automática; a interpretação jurídica final é do 
 | Refs únicas | 100% | **35.776/35.776** |
 | Índice geral | ≤5k palavras | **906** |
 | Instruções | ≤3k palavras | **509** |
-| Palavras-chave | normas-chave cobertas | **6.081** (191/191 readaptações) |
+| Palavras-chave | normas-chave cobertas | **6.082** (191/191 readaptações) |
 | Acerto nas perguntas-caveira | ≥80% | pendente (Lote 5) |
 | Citações corretas | ≥90% | pendente (Lote 5) |
 | Falso negativo | ≤1 em 10 | pendente (Lote 5) |
@@ -266,6 +268,6 @@ Efeito real: **41 → 43 fontes** (2 partes novas; os decretos gerais passaram d
 
 ---
 
-*Plano criado em 22/10/2026 e revisado na auditoria completa da mesma data.
+*Plano criado em 22/10/2026 e revisado na auditoria completa de 24/10/2026.
 Baseado em pesquisa acadêmica (IEEE, ACL, LREC, PROPOR, COMPSAC) e documentação
 oficial do Google NotebookLM / Gemini Notebook.*

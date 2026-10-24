@@ -1,13 +1,13 @@
 // cespro.ts — helpers puros do portal Cespro (sem rede, sem I/O).
 //
-// Porta, em Node zero-dep, o que os scripts Python antigos faziam com
-// requests + BeautifulSoup (script-antigos/scraper.py e cleaner.py):
+// Porta, em Node zero-dep, o que o fluxo Python que originou o acervo fazia
+// com requests + BeautifulSoup:
 //   - as duas operações da API (_data/api.php): content-pesquisa (listagem
 //     paginada, 50 itens/página, ordem DECRESCENTE por id) e content-diploma
 //     (html do diploma em 3 blocos);
 //   - a limpeza do HTML da plataforma (blocos/elementos de lixo fixos);
 //   - a hierarquia jurídica em Markdown (# LIVRO … ##### Art. Nº) que o
-//     corpus já usa — o adapter (rag/adapter.ts) navega nessas marcas.
+//     corpus inteiro usa.
 //
 // Puro de propósito: tudo aqui é testável com assert simples e sem mock.
 
@@ -95,24 +95,6 @@ export function mapearStatus(ds: string | undefined | null): string | null {
   return "em_vigor"
 }
 
-const RH_KEYWORDS = [
-  "NOMEAR", "EXONERAR", "LICENCA", "LICENÇA",
-  "FERIAS", "FÉRIAS", "DISPENSAR", "ADMITIR",
-  "GRATIFICACAO", "GRATIFICAÇÃO", "LOTACAO", "LOTAÇÃO",
-  "AFASTAMENTO", "ABONO", "CONCURSO", "PROVISÃO",
-] as const
-
-/**
- * Portarias de RH (nomeação, exoneração, férias…) são ruído para a pesquisa
- * jurídica — o scraper antigo já as descartava e o corpus as segue sem elas.
- */
-export function ePortariaRH(item: Pick<ItemListagem, "ds_title" | "ds_resumo">): boolean {
-  const titulo = String(item.ds_title ?? "").toUpperCase()
-  if (!titulo.includes("PORTARIA")) return false
-  const texto = titulo + " " + String(item.ds_resumo ?? "").toUpperCase()
-  return RH_KEYWORDS.some((kw) => texto.includes(kw))
-}
-
 /**
  * Tipo e número extraídos do TÍTULO oficial (fonte autoritativa — o mesmo
  * princípio do enrich). Corrige de quebra o `tipo` truncado que a API às
@@ -160,7 +142,7 @@ const BLOCOS_LIXO: Array<[RegExp, string]> = [
   [/<div[^>]*align\s*=\s*['"]?right['"]?[^>]*>[\s\S]*?(?:box_diploma_publicado_footer|Publicado no portal)[\s\S]*?<\/div>/gi, " "],
   [/<div[^>]*align\s*=\s*['"]?left['"]?[^>]*>[\s\S]*?(?:link_arquivo_fonte|ArquivoFonte\.png)[\s\S]*?<\/div>/gi, " "],
   [/<div[^>]*class\s*=\s*['"][^'"]*ferramenta[^'"]*['"][^>]*>[\s\S]*?<\/div>/gi, " "],
-  // divs com id/classe de lixo conhecido (port dos seletores #foo/.bar do BS4)
+  // divs com id/classe de lixo conhecido (seletores do BeautifulSoup)
   [/<div[^>]*(?:id|class)\s*=\s*["']?[^"'>]*(?:box_diploma_publicado_footer|box_img_indice_sistematico|box_versionamento_diploma_novo_layout|div_versionamento_popup|link_arquivo_fonte|div_display_none|barra-ferramenta|back-to-top)[^"'>]*["']?[^>]*>[\s\S]*?<\/div>/gi, " "],
   [/<(?:script|style|noscript|iframe|form|button|nav|footer|header|input|select|textarea|canvas|svg)\b[^>]*>[\s\S]*?<\/(?:script|style|noscript|iframe|form|button|nav|footer|header|input|select|textarea|canvas|svg)>/gi, " "],
 ]
@@ -197,9 +179,9 @@ export function decodificarEntidades(s: string): string {
   return String(s ?? "")
     .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
     .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
-    .replace(/&([a-z][a-z0-9]*);/gi, (nome, nomeSemE: string) => {
-      const ent = ENTIDADES[nomeSemE.toLowerCase()]
-      return ent !== undefined ? ent : nome
+    .replace(/&([a-z][a-z0-9]*);/gi, (bruto, nome: string) => {
+      const ent = ENTIDADES[nome.toLowerCase()]
+      return ent !== undefined ? ent : bruto
     })
 }
 
@@ -232,7 +214,7 @@ export function removerDivPorId(html: string, id: string): string {
  * fronteira de tag vira quebra de linha — inclusive de tags inline, porque o
  * get_text separa cada NavigableString. É isso que deixa `##### Art. 1º`
  * sozinho na linha, com o caput na seguinte — formato que o corpus inteiro
- * segue e que o adapter de leitura focada (rag/adapter.ts) espera.
+ * segue.
  */
 export function htmlParaTexto(html: string): string {
   // o bloco de versionamento é um div aninhado com display:none no header
@@ -244,7 +226,11 @@ export function htmlParaTexto(html: string): string {
   for (const re of TEXTO_LIXO) s = s.replace(re, "")
   const linhas: string[] = []
   for (const linhaBruta of s.split("\n")) {
-    const linha = linhaBruta.replace(/[ \t\u00a0]+/g, " ").trim()
+    // o portal às vezes manda controle solto no texto (LEI 497/2007: "S\u0006ituação")
+    const linha = linhaBruta
+      .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "")
+      .replace(/[ \t\u00a0]+/g, " ")
+      .trim()
     if (!linha) continue
     if (LINHAS_ORFAS.some((re) => re.test(linha))) continue
     linhas.push(linha)

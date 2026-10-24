@@ -125,7 +125,7 @@ grep -o '· \*\*Ano:\*\* [0-9]*' $P | tail -1  # último ano
 
 | Situação | O que fazer |
 |---|---|
-| Erro de classificação | corrigir `classificar()`/`SUBTIPO_PORTARIA` em `scripts/lib/notebooklm-classificar.mjs` → **regra de ouro 7: o caso real que revelou vira teste** (`scripts/tests/notebooklm-classificar.test.ts`) → regenerar → Etapa 0 de novo → **recomeçar a amostragem** |
+| Erro de classificação | corrigir `classificar()`/`subtipoPortaria()` em `scripts/lib/notebooklm-classificar.mjs` → **regra de ouro 7: o caso real que revelou vira teste** (`scripts/tests/notebooklm-classificar.test.ts`) → regenerar → Etapa 0 de novo → **recomeçar a amostragem** |
 | Erro de integridade | NUNCA editar a parte na mão; o bug é do gerador ou do corpus — corrigir na fonte, regenerar, validar |
 | Surpresa aceitável (ex.: portarias de aposentadoria em "diversas") | registrar no relatório como observação — é insumo para criar grupo novo, com evidência |
 | **Parada** | **2 lotes limpos consecutivos** (20 normas sem erro) → protocolo fechado |

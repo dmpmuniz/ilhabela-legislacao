@@ -10,9 +10,9 @@ precisa mudar.
 |---|---|---|---|
 | `id` | sim | scraper | Identificador estável (pode ser numérico). Nunca reescrito. |
 | `ref` | sim | enrich | Referência legível `{sigla}-{ano}-{tipo}-{numero}` (ex.: `ilh-2001-dec-001`). |
-| `tipo` | sim | enrich normaliza | `lei`, `lei_complementar`, `lei_organica`, `decreto`, `decreto_legislativo`, `portaria`, `resolucao`, `emenda`. |
-| `numero` | sim | enrich normaliza | Inteiro (perde zeros à esquerda). |
-| `ano` | sim | scraper | 1900–2100. |
+| `tipo` | sim | enrich normaliza | `lei`, `lei_complementar`, `lei_organica`, `decreto`, `decreto_legislativo`, `portaria`, `portaria_conjunta`, `resolucao`, `emenda`. |
+| `numero` | sim¹ | enrich normaliza | Inteiro ou string com sufixo de emenda (`"2000/A"`); zeros à esquerda são removidos. |
+| `ano` | sim | scraper | 1800–2100 (o registro histórico de 1805 é a exceção). |
 | `cidade` / `estado` | sim | enrich (default) | Ex.: `Ilhabela` / `SP`. |
 | `esfera` | — | enrich (default) | `municipal` \| `estadual` \| `federal`. |
 | `status` | sim | enrich normaliza | `em_vigor` \| `revogada` \| `expirada` \| `inconstitucional` \| `suspensa` \| `anulada`. |
@@ -27,25 +27,32 @@ precisa mudar.
 | `referencias` | — | fase 2 | Relações entre normas (revoga/altera/referencia). |
 | `versao_formato` | — | enrich | `"1.1"`. |
 
+¹ Ausente apenas nos atos sem número: a Lei Orgânica e o registro histórico de
+1805 (ambos usam `000` no segmento numérico da `ref`). Este último também
+mantém o tipo bruto do portal (`criado_pela_portaria,_de_03/09/1805`) e o ano
+1805 — é um registro de histórico, não uma norma no sentido do schema.
+
 ## Referência única (`ref`)
 
-Formato: `{sigla-cidade}-{ano}-{tipo}-{numero}`, com tipo curto:
+Formato: `{sigla}-{ano}-{tipo}-{numero}`, com tipo curto:
 
 - `lei` → `lei`
 - `lei_complementar` → `lc`
 - `lei_organica` → `lo`
 - `decreto` → `dec`
 - `decreto_legislativo` → `dl`
-- `portaria` → `por`
+- `portaria` → `port`
+- `portaria_conjunta` → `portc`
 - `resolucao` → `res`
-- `emenda` → `emc`
+- `emenda` → `em`
 
 A Lei Orgânica de Ilhabela é **`ilh-1990-lo-000`** (tipo `lei_organica`), não
 `ilh-1990-lei-000`.
 
 Quando dois atos distintos têm o mesmo número e ano, o `ref` recebe sufixo
-`-2`, `-3` etc. O `read_document`/busca deve mostrar as alternativas em vez de
-escolher um ato às cegas.
+`-2`, `-3` etc. A busca deve mostrar as alternativas em vez de escolher um ato
+às cegas. O sufixo alfabético do próprio número (`Nº 2000/A`) também entra na
+`ref` (`ilh-2009-dec-2000a`).
 
 ## Status
 

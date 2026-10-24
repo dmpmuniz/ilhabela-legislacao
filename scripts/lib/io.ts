@@ -1,8 +1,8 @@
 // io.ts — utilitários de arquivos e CLI. Sem dependências externas.
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises"
-import { existsSync } from "node:fs"
+import type { Dirent } from "node:fs"
 import { createHash } from "node:crypto"
-import { dirname, join, relative, resolve } from "node:path"
+import { dirname, join, resolve } from "node:path"
 import { fileURLToPath } from "node:url"
 
 /** Raiz do repositório (…/ilhabela-legislacao). */
@@ -12,7 +12,7 @@ export const repoRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..", "
 export async function walkMarkdown(root: string): Promise<string[]> {
   const out: string[] = []
   async function rec(dir: string): Promise<void> {
-    let entries: Awaited<ReturnType<typeof readdir>> extends never ? never : any[]
+    let entries: Dirent[]
     try {
       entries = await readdir(dir, { withFileTypes: true })
     } catch {
@@ -74,12 +74,4 @@ export function parseArgs(argv: string[]): Record<string, string> {
     }
   }
   return out
-}
-
-export function rel(p: string, base = process.cwd()): string {
-  return relative(base, p)
-}
-
-export function exists(p: string): boolean {
-  return existsSync(p)
 }

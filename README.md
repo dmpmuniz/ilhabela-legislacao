@@ -34,16 +34,17 @@ organização é oferecida sob [CC0 1.0](LICENSE).
 
 | Status | Quantidade | O que significa |
 |---|---|---|
-| `em_vigor` | 32.208 | Vale integralmente hoje |
-| `revogada` | 2.030 | Foi revogada por outra norma |
-| `expirada` | 1.515 | Vigência esgotada (termo final), sem revogação |
+| `em_vigor` | 32.198 | Vale integralmente hoje |
+| `revogada` | 2.039 | Foi revogada por outra norma |
+| `expirada` | 1.516 | Vigência esgotada (termo final), sem revogação |
 | `inconstitucional` | 14 | Declarada em ação direta (ADI/ADIN) |
 | `suspensa` | 1 | Eficácia sustada por liminar |
 | `anulada` | 8 | Ato anulado pela própria Administração |
 
 E por tipo: **19.717 portarias** (incluindo atos de pessoal: nomeações,
 readaptações, férias, licenças), **12.810 decretos**, **3.158 leis**, **77 leis
-complementares**, 9 portarias conjuntas e 3 resoluções.
+complementares**, **9 portarias conjuntas**, **3 resoluções**, **1 Lei Orgânica**
+e **1 registro histórico de 1805**.
 
 **Por que o histórico junto do vigente?** Fato antigo julga-se pela lei da época
 (*tempus regit actum*), cadeias de revogação exigem o texto revogado, e direito
@@ -79,7 +80,7 @@ DECRETO MUNICIPAL Nº 001, DE 01/01/2001
 …
 ```
 
-- `ref` é a referência legível: `{cidade}-{ano}-{tipo}-{número}` (ex.: `ilh-2001-dec-001`)
+- `ref` é a referência legível: `{sigla}-{ano}-{tipo}-{número}` (ex.: `ilh-2001-dec-001`)
 - `status`: `em_vigor` · `revogada` · `expirada` · `inconstitucional` · `suspensa` · `anulada`
 - artigos estão marcados como `##### Art. Nº` — facilita localizar e citar
 - arquivos com `_2`/`_3` no nome = **dois atos distintos com mesmo número e ano**,
@@ -93,11 +94,11 @@ DECRETO MUNICIPAL Nº 001, DE 01/01/2001
 Qualquer editor busca em 35 mil arquivos. Exemplos:
 
 ```bash
-# quem fala de poda/corte de árvores?
-grep -ril "supressão de árvores" leis/
+# quem fala de licitação?
+grep -ril "licitação" leis/
 
-# o que a Lei 466/2007 diz?
-cat leis/LEI_MUNICIPAL_466_2007.md
+# o que diz a Lei Orgânica?
+cat leis/LEI_ORGANICA_MUNICIPAL_000_1990.md
 
 # portarias de readaptação de servidores (todas)?
 grep -ril "readapta" leis/ | grep PORTARIA
@@ -111,8 +112,8 @@ grep -ril "readapta" leis/ | grep PORTARIA
 Detalhes que valem saber:
 
 - **Por que 43 fontes:** o Gemini Notebook limita cada fonte em **500.000 palavras
-  ou 200 MB** (o que vier primeiro, em todos os planos). O acervo tem ~10,2
-  milhões de palavras, dividido em partes temáticas (a maior tem ~395 mil) —
+  ou 200 MB** (o que vier primeiro, em todos os planos). O acervo tem
+  **10.167.082 palavras**, dividido em partes temáticas (a maior tem ~395 mil) —
   as 43 fontes (instruções + índice + 41 partes) cabem num único notebook
   (o plano gratuito aceita 50).
 - **Partes temáticas, não cronológicas:** cada parte reúne um tipo de norma por

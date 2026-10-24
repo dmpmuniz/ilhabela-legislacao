@@ -25,9 +25,9 @@ tags_auto:
   - servidor_publico
   - rh
   - cargos
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070497&NroLei=497&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "9174fd97e74bf261606f308f10824ab9797cdd9440cbb0269ba72cf9c229e4bd"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070497"
+coletado_em: "2026-10-24"
+sha256_raw: "09636944bafedd86801045854b416ba5adfb22f319bb70cac07c8145ebbd2ebd"
 versao_formato: "1.1"
 ---
 LEI MUNICIPAL Nº 497, DE 09/08/2007
@@ -64,7 +64,7 @@ Autoria: Poder Executivo Municipal.
 Registrado em Livro próprio e afixado na data supra no lugar de costume.
 ANEXO I
 QUADRO DE PESSOAL - PARTE PERMANENTE - NÍVEL OPERACIONAL / SERVIÇOS PÚBLICOS
-Situação atual
+Situação atual
 Proposta
 Cargo
 Nº

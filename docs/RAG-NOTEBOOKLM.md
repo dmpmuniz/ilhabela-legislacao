@@ -107,11 +107,11 @@ chega ao mesmo ponto: chunk cortado do documento perde referências anafóricas
 bloco de metadados em linguagem natural:
 
 ```markdown
-# LEI MUNICIPAL Nº 466, DE 20/12/2007
+# DECRETO MUNICIPAL Nº 040, DE 10/01/2001
 
-> **Ref:** ilh-2007-lei-466 · **Tipo:** lei · **Ano:** 2007 · **Status:** revogada
-> **Ementa:** DISPÕE SOBRE O CÓDIGO FLORESTAL MUNICIPAL…
-> **Fonte:** https://www.cespro.com.br/…cdDiploma=200700466
+> **Ref:** ilh-2001-dec-040 · **Tipo:** decreto · **Ano:** 2001 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DA JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES "JARI".
+> **Fonte:** https://www.cespro.com.br/…cdDiploma=200100040
 
 ##### Art. 1º
 …
@@ -119,8 +119,8 @@ bloco de metadados em linguagem natural:
 
 Isso é *contextual retrieval feito em tempo de geração*: todo chunk que cair
 no meio da norma nasce perto do seu contexto (ref, tipo, ano, status, ementa).
-Quem responde "qual lei fala de poda de árvores?" recupera o chunk com a
-ementa colada; quem pergunta "o que diz a Lei 466/2007?" acerta pelo número no
+Quem responde "qual decreto nomeia a JARI?" recupera o chunk com a ementa
+colada; quem pergunta "o que diz o Decreto 040/2001?" acerta pelo número no
 título (casamento lexical).
 
 ### 4.3 Frontmatter em bloco Markdown, não YAML
@@ -287,10 +287,11 @@ fontes**, com ≥2 livres. Dividir temas hoje só para o catch-all evidente
 
 1. **Preparo:** notebook com as 43 fontes + `00-INSTRUCOES.md` + custom goal
    com o texto das instruções. Sem fontes web.
-2. **10 perguntas-caveira** (poda de árvore, ZU2, alvará, readaptação,
-   LC 789/2010, Lei 745/2009, meio ambiente, IPTU, árvores nativas, código de
-   obras) — cada uma em **duas formas**: sem nome de fonte e com nome
-   ("…na parte de portarias de férias…") para medir a dependência do roteamento.
+2. **10 perguntas-caveira** (licitação, servidores públicos, zoneamento, meio
+   ambiente, tributos municipais, educação, saúde, mobilidade urbana, patrimônio
+   histórico, saneamento básico) — cada uma em **duas formas**: sem nome de fonte
+   e com nome ("…na parte de portarias de férias…") para medir a dependência do
+   roteamento.
 3. **Gabarito local:** as mesmas 10 perguntas no BM25 do repo
    (`npm run search -- --q "…" --k 10`) — o que o NotebookLM responder deve
    cobrir o que o BM25 acha.

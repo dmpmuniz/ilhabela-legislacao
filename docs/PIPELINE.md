@@ -41,7 +41,8 @@ O comando:
 
 1. importa o pacote bruto `legislacao_ilhabela/` se ele existir na raiz;
 2. varre a listagem do portal Cespro e baixa só o que é novo;
-3. marca como `revogada` o que o portal passou a listar fora de vigor;
+3. marca com o status do portal o que passou a estar fora de vigor
+   (`revogada`, `expirada`, `anulada`, `inconstitucional` ou `suspensa`);
 4. roda o pipeline no fim.
 
 Opções:
@@ -49,7 +50,10 @@ Opções:
 | Opção | Uso |
 |---|---|
 | `--completo` | varre o portal inteiro (captura revogações antigas) |
+| `--refazer` | rebaixa o corpo de todas as normas a partir do manifesto |
 | `--limite N` | baixa no máximo N normas (teste) |
+| `--workers N` | downloads em paralelo (padrão 16) |
+| `--cd-municipio N` | código do município no Cespro (padrão 8969) |
 | `--origem DIR` | importa um pacote bruto alternativo |
 | `--corpus DIR` | pasta de destino (padrão `leis`) |
 | `--idx DIR` | pasta do manifesto/índice (padrão `idx`) |
@@ -66,6 +70,7 @@ Opções:
 | `bm25.index.json.gz` | índice invertido BM25 |
 | `validate-report.json` | relatório de saúde |
 | `enrich-cache.json` | hash por arquivo (para pular o que não mudou) |
+| `verificacao-cespro.json` | resultado da última conferência contra o portal |
 
 ## Como a busca pontua
 
@@ -100,6 +105,6 @@ Quando a página do diploma diz "em vigor" mas a listagem ou a nota do corpo
 registram a saída, o `verificar:cespro` aceita o status local confirmado;
 local `em_vigor` contra portal fora de vigor continua sendo erro.
 
-O gerador **não** apaga arquivos de mão: ele remove apenas nomes que reconhece
+O gerador **não** apaga arquivos à mão: ele remove apenas nomes que reconhece
 (partes antigas e `00`/`01`). O plano de curadoria ficará em
 `docs/plano-curadoria.md`, fora do alcance do gerador.

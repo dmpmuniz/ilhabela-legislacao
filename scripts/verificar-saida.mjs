@@ -4,7 +4,7 @@
 // pega erro de classificação (ex.: a Lei Orgânica foi parar na parte errada
 // porque o tipo normalizado mudou). Roda rápido: sem rede, sem índice.
 //
-// Uso: node scripts/verificar-saida.mjs (da raiz do repo)
+// Uso: npm run notebooklm:check (da raiz do repo)
 
 import { readdir, readFile } from 'node:fs/promises'
 import { join } from 'node:path'

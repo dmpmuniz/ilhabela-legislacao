@@ -1,6 +1,6 @@
-// gerar-notebooklm-v2.mjs — State of the art: partes temáticas para NotebookLM
+// gerar-notebooklm.mjs — gera as 43 fontes do export para o NotebookLM.
 //
-// Baseado na pesquisa (papers IEEE/ACL/LREC/PROPOR/COMPSAC + docs Google):
+// Decisões de desenho (fundamentadas em docs/RAG-NOTEBOOKLM.md):
 //   1. Nome descritivo por arquivo → retriever híbrido tem mais pistas
 //   2. Cabeçalho com lista de normas + temas → contexto para o retriever
 //   3. palavras_chave_auto no cabeçalho de cada norma → busca semântica acerta
@@ -9,12 +9,12 @@
 //   6. Partes fora de vigor separadas → não confundem busca de normas vigentes
 //   7. Lei Orgânica + Estatuto separados → são as "constituições" locais
 //
-// Uso: node scripts/gerar-notebooklm-v2.mjs (da raiz do repo)
+// Uso: npm run notebooklm (da raiz do repo)
 
 import { readdir, readFile, writeFile, mkdir, rm } from 'node:fs/promises'
 import { join } from 'node:path'
 import { parseFrontmatter } from './lib/frontmatter.ts'
-import { fold, SUBTIPO_PORTARIA, classificar } from './lib/notebooklm-classificar.mjs'
+import { fold, classificar } from './lib/notebooklm-classificar.mjs'
 
 const CORPUS = 'leis'
 const PASTA = 'notebooklm'

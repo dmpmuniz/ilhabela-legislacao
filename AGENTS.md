@@ -28,14 +28,14 @@ resolve a triagem; o histórico fica junto do vigente.
 5. **pt-BR em tudo que o usuário vê**; comentários de código explicam o porquê.
 6. **Verificação contra o Cespro** — `npm run verificar:cespro` baixa o
    diploma oficial e compara título, ementa, status e corpo com o export;
-   o antigo checklist humano (`REVISAO-HUMANA.md`) foi removido.
+   o antigo checklist humano foi removido.
 7. **Todo bug corrigido ganha teste** com o caso real que o revelou.
 
 ## Comandos
 
 | Comando | Uso |
 |---|---|
-| `npm test` | testes do pipeline (atualizar + normalização) |
+| `npm test` | testes do pipeline, da normalização, da classificação e da conferência Cespro |
 | `npm run check:samples` | pipeline na amostra (deve dar 0 erros) |
 | `npm run pipeline` | enrich → validate → manifest → index em `leis/` |
 | `npm run atualizar` | importa pacote bruto + sincroniza novas do Cespro + pipeline |
@@ -50,7 +50,7 @@ resolve a triagem; o histórico fica junto do vigente.
 | Caminho | Responsabilidade |
 |---|---|
 | `scripts/*.ts` + `scripts/lib/` | pipeline: ingest/atualizar/enrich/validate/manifest/index/search |
-| `scripts/gerar-notebooklm-v2.mjs` | gerador das fontes do NotebookLM |
+| `scripts/gerar-notebooklm.mjs` | gerador das fontes do NotebookLM |
 | `scripts/verificar-saida.mjs` | verificação independente da saída |
 | `scripts/verificar-cespro.mjs` | compara a saída com o diploma oficial do Cespro |
 | `scripts/schema/` | `law.schema.json` + `sinonimos.pt-BR.json` |
@@ -78,7 +78,7 @@ resolve a triagem; o histórico fica junto do vigente.
 - **Norma nova/atualizada**: `npm run atualizar` (ou coloque o `.md` em `leis/`
   e rode `npm run pipeline`).
 - **Nova parte do NotebookLM**: ajuste a classificação/`NOMES` em
-  `scripts/gerar-notebooklm-v2.mjs`; rode `npm run notebooklm` e
+  `scripts/gerar-notebooklm.mjs`; rode `npm run notebooklm` e
   `npm run notebooklm:check`; valide os lotes de amostragem do
   `docs/VALIDACAO-PARTES.md` antes de commitar.
 - **Nova palavra-chave/sinônimo**: `scripts/schema/sinonimos.pt-BR.json`; o

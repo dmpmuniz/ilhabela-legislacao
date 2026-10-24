@@ -2389,7 +2389,7 @@ Os pedidos de licença de anúncios indicativos e de autorização de anúncios 
 LC 611/2008
 )
 ##### Art. 225.
-Os anúncios que apresentem características gráficas diferenciadas ou estejam incorporados à paisagem da área, em razão do tempo de sua existência e especificidade, serão objeto de análise e aprovação, caso a caso, a partir de critérios objetivos, pelo Conselho Municipal de Turismo - Contur.
+Os anúncios que apresentem características gráficas diferenciadas ou estejam incorporados à paisagem da área, em razão do tempo de sua existência e especificidade, serão objeto de análise e aprovação, caso a caso, a partir de critérios objetivos, pelo Conselho Municipal de Turismo - Contur.
 (AC
 LC 611/2008
 )

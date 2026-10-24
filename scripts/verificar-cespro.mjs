@@ -2,7 +2,7 @@
 //
 // O export é derivado de `leis/`, que veio do Cespro. Esta é a conferência de
 // fonte: baixa o diploma oficial e compara título, ementa, status e corpo de
-// cada bloco. Substitui o antigo checklist humano (`REVISAO-HUMANA.md`).
+// cada bloco. Não depende de checklist humano.
 //
 // Uso:
 //   npm run verificar:cespro                    # 1 norma por parte (41)

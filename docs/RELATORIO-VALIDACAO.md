@@ -15,7 +15,7 @@
   palavras**, maior parte **394.876 palavras** (teto 500k), `notebooklm:check`
   = saída íntegra — conferindo também **título e ementa** de cada bloco
   contra o frontmatter.
-- `npm test`: **85/85** · `check:samples`: **0 erros** (exit 0).
+- `npm test`: **84/84** · `check:samples`: **0 erros** (exit 0).
 - `npm run verificar:cespro` (1 norma por parte): **41/41 conformes**.
 - `npm run verificar:cespro -- --tudo`: **35.776/35.776 conformes**;
   0 divergências (11 status confirmados pela listagem/nota do corpo).
@@ -128,7 +128,8 @@ estava correto: 8 `revogada` confirmadas pela listagem (`REVOGADO`) e 3
 `expirada` confirmadas pela listagem (`EFEITOS CESSADOS`) ou pela nota do corpo
 (“Efeitos cessados…”). O re-sync também rebaixou 10 normas de `em_vigor` para
 `revogada`/`expirada`; todas têm nota expressa no corpo e a listagem estava
-desatualizada (`EM VIGOR`).
+desatualizada (`EM VIGOR`). Outras **4 normas vêm sem `ds_situacao`** no
+diploma; o status local foi mantido e a listagem não o contradiz.
 
 **Regra assimétrica do verificador:** local `em_vigor` contra portal fora de
 vigor é sempre erro; local fora de vigor contra diploma `em vigor` passa quando
@@ -146,6 +147,11 @@ Os casos de portal inconsistente ficam registrados em
 `PORTARIA_617_2022`) e 2 com comentário HTML não fechado
 (`DECRETO_MUNICIPAL_1472_1997`, `DECRETO_MUNICIPAL_7035_2018`) — o texto do
 portal é reproduzido como está e confere com a fonte.
+
+**Caracteres de controle:** 2 normas (`LEI_MUNICIPAL_497_2007` e
+`LEI_MUNICIPAL_529_2007`) traziam `\x06`/`\x01` no corpo, vindos do HTML do
+portal. O `htmlParaTexto` passou a removê-los; as duas foram rebaixadas pelo
+`--refazer` e o caso real virou teste (`scripts/tests/atualizar.test.ts`).
 
 ## Lição da revisão
 

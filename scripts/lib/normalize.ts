@@ -98,7 +98,7 @@ export function resolveTipo(opts: {
   // O título é a fonte autoritativa da natureza do ato. O campo `tipo` já
   // havia sido colapsado ("Portaria Conjunta" → "portaria") por execuções
   // antigas do enrich, e isso fazia atos distintos dividirem a mesma ref.
-  // Sobre os 18.028 arquivos do corpus, esta regra altera apenas 9 — todos
+  // Sobre o corpus inteiro, esta regra altera apenas 9 — todos
   // portarias conjuntas.
   return parseTipoTitulo(opts.titulo) ?? bruto
 }
@@ -142,10 +142,6 @@ export function numeroParaInteiro(v: FmValue | undefined): number | string {
   if (/^\d{1,3}(?:\.\d{3})+$/.test(s)) return parseInt(s.replace(/\./g, ""), 10)
   const n = parseInt(s, 10)
   return Number.isFinite(n) ? n : s
-}
-
-export function normalizeNumero(v: FmValue | undefined): number | string {
-  return numeroParaInteiro(v)
 }
 
 /**

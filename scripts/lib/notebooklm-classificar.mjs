@@ -7,7 +7,7 @@
 export const fold = (s) => String(s ?? '').normalize('NFD').toLowerCase().replace(/[\u0300-\u036f]/g, '')
 
 // Subtipos de portaria (para agrupar por tema)
-export const SUBTIPO_PORTARIA = (ementa) => {
+export const subtipoPortaria = (ementa) => {
   const e = fold(ementa)
   if (/readapta/.test(e)) return 'readaptacao'
   // PAD e sindicância são o mesmo tema disciplinar; vêm antes de nomeação
@@ -53,7 +53,7 @@ export function classificar(fm) {
   }
 
   if (tipo === 'portaria') {
-    const sub = SUBTIPO_PORTARIA(fm.ementa)
+    const sub = subtipoPortaria(fm.ementa)
     // nomeação e exoneração têm a mesma natureza (ato de pessoal) → juntas
     if (sub === 'nomeacao' || sub === 'exoneracao') return 'portaria-nomeacao-exoneracao'
     // subtipos raros (<50 normas) → portaria-outros

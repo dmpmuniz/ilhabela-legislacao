@@ -49,8 +49,8 @@ Para ampliar o recall, edite o dicionário (não o `enrich`):
 ```json
 {
   "regras": [
-    { "match": ["jaqueira", "artocarpus"], "palavras_chave": ["supressão de árvore", "licença ambiental"] },
-    { "match": ["ZU1", "zona urbana 1"], "palavras_chave": ["zoneamento", "uso misto", "recibo"] }
+    { "match": ["readapta", "readaptacao"], "palavras_chave": ["readaptação funcional", "servidor público"] },
+    { "match": ["defesa civil", "deslizamento"], "palavras_chave": ["defesa civil", "risco geológico"] }
   ]
 }
 ```

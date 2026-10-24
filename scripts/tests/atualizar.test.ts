@@ -16,7 +16,6 @@ import { join } from 'node:path';
 import {
   parsePaginacao,
   mapearStatus,
-  ePortariaRH,
   tipoENumeroDoTitulo,
   slugNorma,
   decodificarEntidades,
@@ -69,30 +68,6 @@ describe('mapearStatus', () => {
     assert.equal(mapearStatus('SEI LÁ'), 'em_vigor'); // badge sujo presume em vigor
     assert.equal(mapearStatus(undefined), null);
     assert.equal(mapearStatus(''), null);
-  });
-});
-
-describe('ePortariaRH', () => {
-  it('descarta portaria de nomeação/exoneração (ruído de RH)', () => {
-    assert.equal(
-      ePortariaRH({
-        id: '1',
-        ds_title: 'PORTARIA Nº 100, DE 01/01/2024',
-        ds_resumo: 'NOMEAR A SERVIDORA FULANA PARA O CARGO DE PROFESSOR.',
-      }),
-      true,
-    );
-  });
-
-  it('mantém decreto e portaria temática, mesmo citando cargos', () => {
-    assert.equal(
-      ePortariaRH({ id: '2', ds_title: 'DECRETO Nº 5.000, DE 01/01/2024', ds_resumo: 'NOMEIA RUA' }),
-      false,
-    );
-    assert.equal(
-      ePortariaRH({ id: '3', ds_title: 'PORTARIA Nº 200, DE 01/01/2024', ds_resumo: 'ZONA DE USO DO SOLO' }),
-      false,
-    );
   });
 });
 
@@ -163,6 +138,11 @@ describe('htmlParaTexto', () => {
       'Fica estabelecido o prazo.',
       '',
     ]);
+  });
+
+  it('remove caracteres de controle vindos do HTML do portal', () => {
+    // caso real: LEI 497/2007 trazia "S\u0006ituação atual" no diploma
+    assert.equal(htmlParaTexto('<b>S\u0006ituação atual</b>'), 'Situação atual\n');
   });
 
   it('remove o bloco de versionamento inteiro, inclusive divs aninhados', () => {
@@ -338,7 +318,7 @@ describe('sincronizar (fetch mockado)', () => {
         ],
         // página 2: só leis já conhecidas → a varredura incremental para aqui
         [
-          { id: '202000124', ds_title: 'LEI MUNICIPAL Nº 124, DE 11/06/2020', ds_status: 'EM VIGOR' },
+          { id: '202000124', ds_title: 'LEI MUNICIPAL Nº 124, DE 11/06/2020', ds_status: 'INCONSTITUCIONAL - ADI Nº 2270133-83.2022.8.26.0000' },
         ],
       ],
       {
@@ -354,7 +334,7 @@ describe('sincronizar (fetch mockado)', () => {
     const r = await sincronizar({ corpusDir, idxDir, workers: 1 });
     assert.equal(r.varridos, 3); // 2 da página 1 + 1 da página 2 (antes de parar)
     assert.equal(r.novos, 1);
-    assert.equal(r.revogadas, 1);
+    assert.equal(r.foraDeVigor, 2); // revogada (123) + inconstitucional (124)
     assert.equal(r.erros, 0);
 
     // nova norma: no formato do corpus, com frontmatter completo
@@ -373,6 +353,10 @@ describe('sincronizar (fetch mockado)', () => {
     assert.match(antiga, /status: revogada/);
     assert.match(antiga, /- defesa civil/); // palavras_chave de curadoria preservada
     assert.match(antiga, /Corpo antigo\./); // corpo intacto (só o status muda)
+
+    // a listagem também manda no status constitucional
+    const inconstitucional = await readFile(join(corpusDir, 'LEI_MUNICIPAL_124_2020.md'), 'utf8');
+    assert.match(inconstitucional, /status: inconstitucional/);
   });
 
   it('re-download da mesma norma não duplica nem reescreve sem mudança', async () => {
