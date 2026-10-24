@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11509
   - Decreto Municipal 11509
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511509"
-coletado_em: "2026-10-11"
-sha256_raw: "9c355b0693ef68e4bd48a312127c6a3b87da17086e4d4baa2235214acc1ea0ad"
+coletado_em: "2026-10-24"
+sha256_raw: "9361602aeb8a3998617f10f4228db60434caa315bac079ff06d14972d5a30acf"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.509, DE 01/10/2025
 DISPÕE SOBRE O PROCESSAMENTO DAS CONSIGNAÇÕES EM FOLHA DE PAGAMENTO DOS SERVIDORES DO PODER EXECUTIVO MUNICIPAL.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

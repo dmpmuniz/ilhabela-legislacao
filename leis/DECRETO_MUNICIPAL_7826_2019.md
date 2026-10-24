@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7826
   - Decreto Municipal 7826
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907826"
-coletado_em: "2026-10-11"
-sha256_raw: bd9db227f2df010592e2d75e66b5dbfe766df23375145a3a801c7ee201ad2007
+coletado_em: "2026-10-24"
+sha256_raw: "4c1da8b2ad924c26d083221c9514b125d73a9de7ab4026714383f26fe9b6963b"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.826, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

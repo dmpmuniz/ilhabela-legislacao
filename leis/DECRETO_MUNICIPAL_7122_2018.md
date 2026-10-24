@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 7.122, DE 30/08/2018"
-ementa: "DECLARA VACÂNCIA DE CARGO PÚBLICO, A PEDIDO, CONFORME ESPECIFICA. ➭ (NR DM 7.128/2018 )"
+ementa: "DISPÕE SOBRE A EXONERAÇÃO DA SENHORA ROSILEIA SANTANA DOS SANTOS, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR ADMINISTRATIVO."
 aliases:
   - Decreto 7122/2018
   - Decreto nº 7122/2018
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7122
   - Decreto Municipal 7122
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807122"
-coletado_em: "2026-10-11"
-sha256_raw: bbc15b7649214ff830655ca14944dfac9cd7ae5651fb0547b6f8641fce2409e0
+coletado_em: "2026-10-24"
+sha256_raw: afbce9f0200c5d2d20d855a688e6190c53df9c9173f4b340841bf8870a327a3d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.122, DE 30/08/2018
 DISPÕE SOBRE A EXONERAÇÃO DA SENHORA ROSILEIA SANTANA DOS SANTOS, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR ADMINISTRATIVO.
 MARCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições legais;

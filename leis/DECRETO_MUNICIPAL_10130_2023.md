@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310130"
-coletado_em: "2026-10-11"
-sha256_raw: "8d93de8afa2c07e080c2fc5f379b732b3976382c6959f4645c55ab5270004242"
+coletado_em: "2026-10-24"
+sha256_raw: "6835dec67602089cf7c9246fde68c25e89dcb2764babed250c253f09f4d07504"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.130, DE 24/11/2023
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE EDUCAÇÃO - CME, PARA MANDATO DE 2 (DOIS) ANOS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

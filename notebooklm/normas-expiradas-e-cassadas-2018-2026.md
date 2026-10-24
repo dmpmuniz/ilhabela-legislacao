@@ -8,9 +8,9 @@
 - DECRETO MUNICIPAL Nº 7.709, DE 02/09/2019 (ilh-2019-dec-7709, expirada)
 - DECRETO MUNICIPAL Nº 7.894, DE 26/12/2019 (ilh-2019-dec-7894, expirada)
 - DECRETO MUNICIPAL Nº 8.002, DE 18/02/2020 (ilh-2020-dec-8002, expirada)
-- DECRETO MUNICIPAL Nº 8.043, DE 03/04/2020 (ilh-2020-dec-8043, expirada)
-- DECRETO MUNICIPAL Nº 8.122, DE 03/06/2020 (ilh-2020-dec-8122, expirada)
-- DECRETO MUNICIPAL Nº 8.191, DE 03/08/2020 (ilh-2020-dec-8191, expirada)
+- DECRETO MUNICIPAL Nº 8.044, DE 03/04/2020 (ilh-2020-dec-8044, expirada)
+- DECRETO MUNICIPAL Nº 8.123, DE 04/06/2020 (ilh-2020-dec-8123, expirada)
+- DECRETO MUNICIPAL Nº 8.192, DE 03/08/2020 (ilh-2020-dec-8192, expirada)
 - DECRETO MUNICIPAL Nº 8.314, DE 01/12/2020 (ilh-2020-dec-8314, expirada)
 - PORTARIA Nº 624, DE 17/08/2021 (ilh-2021-port-624, expirada)
 - PORTARIA Nº 634, DE 17/08/2021 (ilh-2021-port-634, expirada)
@@ -21,19 +21,19 @@
 - DECRETO MUNICIPAL Nº 8.655, DE 20/05/2021 (ilh-2021-dec-8655, expirada)
 - DECRETO MUNICIPAL Nº 8.793, DE 20/09/2021 (ilh-2021-dec-8793, expirada)
 - DECRETO MUNICIPAL Nº 8.912, DE 17/12/2021 (ilh-2021-dec-8912, expirada)
-- DECRETO MUNICIPAL Nº 9.001, DE 07/02/2022 (ilh-2022-dec-9001, expirada)
-- DECRETO MUNICIPAL Nº 9.320, DE 27/06/2022 (ilh-2022-dec-9320, expirada)
-- DECRETO MUNICIPAL Nº 9.427, DE 01/09/2022 (ilh-2022-dec-9427, expirada)
-- DECRETO MUNICIPAL Nº 9.561, DE 15/12/2022 (ilh-2022-dec-9561, expirada)
+- DECRETO MUNICIPAL Nº 9.047, DE 21/02/2022 (ilh-2022-dec-9047, expirada)
+- DECRETO MUNICIPAL Nº 9.324, DE 27/06/2022 (ilh-2022-dec-9324, expirada)
+- DECRETO MUNICIPAL Nº 9.436, DE 09/09/2022 (ilh-2022-dec-9436, expirada)
+- DECRETO MUNICIPAL Nº 9.564, DE 19/12/2022 (ilh-2022-dec-9564, expirada)
 - PORTARIA Nº 184, DE 22/02/2023 (ilh-2023-port-184, anulada)
 - DECRETO MUNICIPAL Nº 9.699, DE 13/02/2023 (ilh-2023-dec-9699, expirada)
 - DECRETO MUNICIPAL Nº 9.927, DE 11/07/2023 (ilh-2023-dec-9927, expirada)
 - DECRETO MUNICIPAL Nº 9.994, DE 30/08/2023 (ilh-2023-dec-9994, expirada)
 - DECRETO MUNICIPAL Nº 10.064, DE 03/10/2023 (ilh-2023-dec-10064, expirada)
 - DECRETO MUNICIPAL Nº 10.118, DE 14/11/2023 (ilh-2023-dec-10118, expirada)
-- DECRETO MUNICIPAL Nº 10.178, DE 18/12/2023 (ilh-2023-dec-10178, expirada)
-- DECRETO MUNICIPAL Nº 10.246, DE 29/01/2024 (ilh-2024-dec-10246, expirada)
-- DECRETO MUNICIPAL Nº 10.305, DE 12/03/2024 (ilh-2024-dec-10305, expirada)
+- DECRETO MUNICIPAL Nº 10.176, DE 14/12/2023 (ilh-2023-dec-10176, expirada)
+- DECRETO MUNICIPAL Nº 10.225, DE 09/01/2024 (ilh-2024-dec-10225, expirada)
+- DECRETO MUNICIPAL Nº 10.298, DE 06/03/2024 (ilh-2024-dec-10298, expirada)
 - DECRETO MUNICIPAL Nº 10.422, DE 24/04/2024 (ilh-2024-dec-10422, expirada)
 - DECRETO MUNICIPAL Nº 10.553, DE 17/06/2024 (ilh-2024-dec-10553, expirada)
 - DECRETO MUNICIPAL Nº 10.633, DE 09/08/2024 (ilh-2024-dec-10633, expirada)
@@ -41,13 +41,13 @@
 - DECRETO MUNICIPAL Nº 10.734, DE 12/11/2024 (ilh-2024-dec-10734, expirada)
 - DECRETO MUNICIPAL Nº 10.770, DE 30/12/2024 (ilh-2024-dec-10770, expirada)
 - DECRETO MUNICIPAL Nº 11.913, DE 27/05/2026 (ilh-2026-dec-11913, expirada)
-- … e mais 309 normas (lista completa no corpo)
+- … e mais 310 normas (lista completa no corpo)
 
 ## Temas frequentes
 receita, despesa, orcamento municipal, plano plurianual, diretrizes orcamentarias, credito adicional, credito, orcamento, vigente, suplementar, recursos, adicional, promove, realocacao, orcamentarios, outras, estancia, balnearia, concessao, servidores, cargo, ferias, autorizado, declara, especial, designa, substituir, exercicio, publicas, facultativo
 
 ## Período
-2018 a 2026 · 349 normas · ~162.094 palavras de texto
+2018 a 2026 · 350 normas · ~162.328 palavras de texto
 
 Parte 3 de 3
 
@@ -5423,13 +5423,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, PARA O MANDATO 2020/2022.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007956
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.956, de 28/01/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.956, DE 28/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, PARA O MANDATO 2020/2022.
 (vigência esgotada)
@@ -6787,12 +6780,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008149
 > **Palavras-chave:** orçamento municipal, receita, despesa, plano plurianual, diretrizes orçamentárias, crédito adicional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.149, DE 17/06/2020
 ABRE CRÉDITO EXTRAORDINÁRIO NO ORÇAMENTO MUNICIPAL VIGENTE, DE ACORDO COM A LEI MUNICIPAL Nº 1.425 DE 03 DE JUNHO DE 2020, QUE INSTITUIU O PROGRAMA EMERGENCIAL ILHABELA UNIDA PELA GERAÇÃO DE RENDA, OBJETIVANDO A ADOÇÃO DE MEDIDAS TEMPORÁRIAS DE MITIGAÇÃO DOS IMPACTOS ECONÔMICOS SOFRIDOS POR MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE DO MUNICÍPIO DE ILHABELA EM DECORRÊNCIA DO ENFRENTAMENTO DA PANDEMIA PELO NOVO CORONAVÍRUS (COVID-19), REGULAMENTADA PELO DECRETO MUNICIPAL Nº 8.145 DE 12 DE JUNHO DE 2020.
 (vigência esgotada)
@@ -13351,12 +13338,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108793
 > **Palavras-chave:** orçamento municipal, receita, despesa, plano plurianual, diretrizes orçamentárias, crédito adicional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.793, DE 20/09/2021
 ABRE CRÉDITO SUPLEMENTAR NO ORÇAMENTO MUNICIPAL VIGENTE.
 (vigência esgotada)
@@ -15845,15 +15826,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209561
 > **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.561, de 15/12/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.561, de 15/12/2022
-3ª Versão corresponde a DECRETO MUNICIPAL9.561, de 15/12/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.561, DE 15/12/2022
 DISPÕE SOBRE PERMISSÃO DE USO EM LOGRADOUROS PÚBLICOS PARA UTILIZAÇÃO DE ESTACIONAMENTO REMUNERADO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei;
@@ -16114,6 +16086,86 @@ ANTÔNIO LUIZ COLUCCI
 Prefeito Municipal
 SMG/FRMS/abn
 Registrado em Livro próprio e afixado na data supra no lugar de costume.
+
+---
+
+# DECRETO MUNICIPAL Nº 9.572, DE 21/12/2022
+
+> **Ref:** ilh-2022-dec-9572 · **Tipo:** Decreto · **Ano:** 2022 · **Status:** expirada
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2023/2024.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209572
+
+DECRETO MUNICIPAL Nº 9.572, DE 21/12/2022
+DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2023/2024.
+(vigência esgotada)
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei,
+DECRETA:
+##### Art. 1º
+Ficam nomeados, nos termos da
+Lei Municipal nº 1.359
+, de 15 de maio de 2019, os seguintes membros para compor o Conselho Municipal de Acompanhamento Municipal de Aplicação dos Royalties - CONFIRO, para o mandato 2023/2024:
+I -
+Representantes de associações de moradores de bairro:
+Associação Amigos e Moradores do bairro da Barra Velha
+a
+)
+Rodrigo dos Santos - Titular
+b
+)
+Paulo Roberto Souza da Silva - suplente.
+II -
+Representantes de organização de defesa do meio ambiente local:
+Associação Elementos da Natureza
+a)
+Gabriela Carvalho Cunha Castro - titular;
+b)
+Daniella de Souza Marcondes - suplente.
+Instituto Ilhabela Sustentável:
+c)
+Carlos Roberto Nunes - titular;
+d)
+Gilda Helena Leôncio Nunes - suplente.
+III -
+Representantes da associação de comerciários local:
+Associação Comercial e Empresarial de Ilhabela
+a)
+Gustavo Farah Oliva - titular;
+b)
+Eugen de Albuquerque Schoof - suplente.
+I
+V -
+Representantes de entidade de turismo local:
+Associação dos Jipeiros de Ilhabela
+a)
+Benedito Cássio da Silva - titular;
+b)
+Luiz Carlos de Oliveira - suplente.
+V -
+Representantes da OAB de Ilhabela:
+a)
+Edinalva de Oliveira Silva - titular;
+b)
+Vladimir Sampaio Soares de Lima - suplente.
+VI -
+Representantes do Poder Executivo Municipal pela Secretaria de Gestão Financeira:
+a)
+Rosa de Fátima Rangel França - titular;
+b)
+Fernando Crésio - suplente.
+VII -
+Representantes do Poder Executivo Municipal pela Secretaria de Assuntos Jurídicos:
+a)
+Anísio Antônio de Oliveira Filho - Titular
+b)
+Dayhame Demétrio de Oliveira Sampaio - Suplente
+##### Art. 2º
+O Presidente do CONFIRO será o Secretário de Gestão Financeira ou cargo correlato consoante legislação específica.
+##### Art. 3º
+Este Decreto entra em vigor na data de sua publicação.
+Ilhabela, 21 de dezembro de 2022
+ANTÔNIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume. SAJ/LHHA/AAOF
 
 ---
 

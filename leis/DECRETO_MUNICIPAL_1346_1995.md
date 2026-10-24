@@ -27,9 +27,9 @@ palavras_chave_auto:
 tags_auto:
   - orcamento
   - financas
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19951346&NroLei=1.346&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "40b5e6ad73eb5fc8859e6a0c6754cb5617e24e6bd9fea891f08879322af8ea9e"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19951346"
+coletado_em: "2026-10-24"
+sha256_raw: "3c41ac579aad49b5eb1324e6d97ba432a94c3199268122ad37d5b0743d1d5588"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 1.346, DE 01/08/1995
@@ -40,8 +40,7 @@ ou está revogado por norma posterior.
 (
 VIDE ATO NA ÍNTEGRA
 )
-MACRO EXECUTADA!!! --->
-Prefeitura Municipal da Estância Balneária de Olhabela
+MACRO EXECUTADA!!! ---> Prefeitura Municipal da Estância Balneária de Olhabela
 Rua Dr. Carvalho, 80 - (CEP 11630-000) - Estado de São Paulo - Brasil
 ILHABELA
 CAPITAL DA VELA

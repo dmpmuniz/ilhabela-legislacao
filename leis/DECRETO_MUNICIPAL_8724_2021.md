@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8724
   - Decreto Municipal 8724
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108724"
-coletado_em: "2026-10-11"
-sha256_raw: "486a483d38c9d40d7f2e07db9e5af24fe13114c515365902463135b07cc1d9d6"
+coletado_em: "2026-10-24"
+sha256_raw: ea6089342dc92b4f5d200d0d8e05e49210e94c0b113970ff62725b5997c74632
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.724, DE 28/06/2021
 PROMOVE RECLASSIFICAÇÃO CONTÁBIL COM A REALOCAÇÃO DE RECURSOS ORÇAMENTÁRIOS ENTRE DOTAÇÕES REFERENTES AO CUSTEIO DE DESPESAS COM REPASSES AO TERCEIRO SETOR, PARA FINS DE ATENDIMENTO À ATUALIZAÇÃO DO ANEXO II DO PLANO DE CONTAS AUDESP DO TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO.
 ANTÔNIO LUIZ COLUCCI, PREFEITO MUNICIPAL da Estância Balneária de Ilhabela, no uso de suas atribuições legais que lhe conferem o

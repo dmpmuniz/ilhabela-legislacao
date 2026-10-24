@@ -16,16 +16,10 @@ aliases:
   - Lei 1242
   - Lei nº 1242
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171242"
-coletado_em: "2026-10-11"
-sha256_raw: ba7241c0763b185ec203a3fbfd17f707b2d2d148e4783d479aa403b18b88cd95
+coletado_em: "2026-10-24"
+sha256_raw: "855a1048125195b56f920f12c5981aa2ee63b40aa1fa20ec16f4cdce4e6086f0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.242, DE 04/12/2017
 DISPÕE SOBRE A OBRIGATORIEDADE DO APARELHO DESFIBRILADOR EXTERNO AUTOMÁTICO (DEA) EM ESTABELECIMENTOS QUE MENCIONA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

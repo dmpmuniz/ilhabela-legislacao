@@ -27,16 +27,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209060"
-coletado_em: "2026-10-11"
-sha256_raw: f70a1e28b105ef968684e0b2d4cc3e489dc9ded78c83bfe632a9dc7e46cfada9
+coletado_em: "2026-10-24"
+sha256_raw: c40b1741c60573891fa09aca22fd9820e9eedc8bd0faa63a062ea2e321fcadc5
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.060, DE 23/02/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO O IMÓVEL QUE ESPECIFICA, DESTINADO AMPLIAÇÃO DAS INSTALAÇÕES DO DEPARTAMENTO DE TRÂNSITO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

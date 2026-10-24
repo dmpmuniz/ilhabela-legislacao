@@ -27,16 +27,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108563"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: f7167188dc0f1a5edda8154414b357b9359bcde2cf21a199951e623af75c230c
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.563, DE 05/04/2021
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

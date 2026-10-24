@@ -26,12 +26,15 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611816"
-coletado_em: "2026-10-11"
-sha256_raw: "7c561401f1eec593c3ea0dc4b016c2320bd7063c0ea963a6cd3dcb101e5280bd"
+coletado_em: "2026-10-24"
+sha256_raw: df0fed78c069d946242d9708116ba30d45437ad29fe631b03660650a10cc88cf
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 11.816, DE 08/04/2026
 DISPÕE SOBRE A DESIGNAÇÃO DE CRISTIANO DEROTIDES FERNANDES DE SÁ PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISOR DO PÍER, ESTALEIRO E RANCHOS MUNICIPAIS, NA SECRETARIA MUNICIPAL DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
+(Revogado pelo
+Decreto Municipal nº 12.123
+, de 15.10.2026)
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
 DECRETA:
 ##### Art. 1º

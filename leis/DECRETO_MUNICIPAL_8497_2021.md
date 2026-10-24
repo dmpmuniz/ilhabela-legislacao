@@ -32,16 +32,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108497"
-coletado_em: "2026-10-11"
-sha256_raw: "792941637b281691295f440ab3b791b59f7df38769ac382f4f82c74dc0e1670e"
+coletado_em: "2026-10-24"
+sha256_raw: ab5a23d11348a56f484502cf5211bc27c4571a1d3f852b2a960ce77d8abff358
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.497, DE 12/03/2021
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES LOTADOS NA SECRETARIA MUNICIPAL DE EDUCAÇÃO PARA O EXERCÍCIO DEFUNÇÃO DE CONFIANÇA DA CLASSE DE GESTÃO EDUCACIONAL, NOS TERMOS DA LEI 1.327, DE 26 DE OUTUBRO DE 2018.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

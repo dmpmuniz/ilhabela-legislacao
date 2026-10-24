@@ -96,6 +96,9 @@ npm run verificar:cespro  # compara com o diploma oficial (1 por parte; --tudo =
 Para rebaixar o corpo de normas já existentes (defasagem do snapshot), use
 `npm run atualizar -- --refazer`: a fila vem do manifesto, o status só pode
 sair de vigor (nunca volta a `em_vigor` sozinho) e a curadoria é preservada.
+Quando a página do diploma diz "em vigor" mas a listagem ou a nota do corpo
+registram a saída, o `verificar:cespro` aceita o status local confirmado;
+local `em_vigor` contra portal fora de vigor continua sendo erro.
 
 O gerador **não** apaga arquivos de mão: ele remove apenas nomes que reconhece
 (partes antigas e `00`/`01`). O plano de curadoria ficará em

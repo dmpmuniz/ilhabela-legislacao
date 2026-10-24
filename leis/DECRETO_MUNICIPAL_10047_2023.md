@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10047
   - Decreto Municipal 10047
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310047"
-coletado_em: "2026-10-11"
-sha256_raw: "5d70af071637433268475b4848e0cf572c1492f393a1c4623114c6b194c95643"
+coletado_em: "2026-10-24"
+sha256_raw: "3389450edab677be58b6c4b58cfc17315e09404f716d171cd6c84d09cde750e5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.047, DE 02/10/2023
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

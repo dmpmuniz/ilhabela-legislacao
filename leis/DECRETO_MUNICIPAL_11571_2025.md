@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511571"
-coletado_em: "2026-10-11"
-sha256_raw: "4ae488f568c949ebf3f81b69a59b3713749e69f62093334313200759af0878ea"
+coletado_em: "2026-10-24"
+sha256_raw: df39747d478ed3dac8cd1e888c609ba55895ea4b60a64939438cd15be8d7bd30
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.571, DE 11/11/2025
 DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA DE EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

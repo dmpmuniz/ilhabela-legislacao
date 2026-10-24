@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7070
   - Decreto Municipal 7070
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807070"
-coletado_em: "2026-10-11"
-sha256_raw: "316ccf57ac2abba836f418ea2006cb7c42b1dba5f8783603e6bb8389963fe075"
+coletado_em: "2026-10-24"
+sha256_raw: a69abef5f2e8337a772fe320329f41c839e7dc2c8c2618e7622275284668f9fd
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.070, DE 10/07/2018
 DISPÕE SOBRE A NOMEAÇÃO DA SENHORA ANGÉLICA DE JESUS PEREIRA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR ADMINISTRATIVO.
 MARCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições legais;

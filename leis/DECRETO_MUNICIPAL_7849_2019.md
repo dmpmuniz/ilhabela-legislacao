@@ -34,16 +34,10 @@ tags_auto:
   - cargos
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907849"
-coletado_em: "2026-10-11"
-sha256_raw: "538bb5a9be2864f9a66e27e5bde55523cdefe666ebf5ec9f16e15afe57f6df20"
+coletado_em: "2026-10-24"
+sha256_raw: "943330e4189ad06378c01236fea3761cfb96bdeb4d03ab62da9b346303b643a6"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.849, DE 05/12/2019
 REGULAMENTA O PLANO DE CARGOS, CARREIRAS E VENCIMENTOS E O SISTEMA DE AVALIAÇÃO DE DESEMPENHO DO QUADRO DO MAGISTÉRIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, PARA FINS DO PRIMEIRO PROCESSO DE EVOLUÇÃO FUNCIONAL APLICÁVEL AO ANO DE 2019.
 MARIA DAS GRAÇAS DOS SANTOS SOUZA, Prefeita da Estância Balneária de Ilhabela, usando das atribuições que lhe são conferidas por lei,

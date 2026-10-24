@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8357
   - Decreto Municipal 8357
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008357"
-coletado_em: "2026-10-11"
-sha256_raw: "3bcd3d3f0958ac27ef109ce9d9806e3a7797f48ef5dafbba7817a64efa617f73"
+coletado_em: "2026-10-24"
+sha256_raw: fc70311c6fd900c9570a3459594830caf02e997ffaf2d21bf945b56a0e23b9bf
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.357, DE 30/12/2020
 REGULAMENTA A CONCESSÃO DOS ADICIONAIS DE INSALUBRIDADE E DE PERICULOSIDADE, NOS TERMOS DO TÍTULO IV, CAPÍTULO IV, BEM COMO OS EVENTOS DISCIPLINADOS PELOS ARTS. 65 E 67 DA LEI COMPLEMENTAR Nº 1.326, DE 26 DE OUTUBRO DE 2018.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita do Município da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

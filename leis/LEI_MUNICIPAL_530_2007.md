@@ -15,17 +15,11 @@ aliases:
   - Lei nº 530/2007
   - Lei 530
   - Lei nº 530
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070530&NroLei=530&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: f2b55cf4d8a3876af0475959b0beee39fcc08511e3c45aba8907fbb6db628d73
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070530"
+coletado_em: "2026-10-24"
+sha256_raw: "84dc7d3e2492abe2e2d5f33b7bfa798b27b642ba5d60a27596acbd8611924f47"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 530, DE 26/11/2007
 DISPÕE SOBRE O REGIME DE PLANTÃO DAS FARMÁCIAS E DROGARIAS EXISTENTES NO MUNICÍPIO DE ILHABELA, E DÁ OUTRAS PROVIDÊNCIAS.
 FAÇO SABER QUE A CÂMARA MUNICIPAL MANTEVE E EU PROMULGO, NOS TERMOS DA

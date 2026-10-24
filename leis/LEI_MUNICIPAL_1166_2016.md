@@ -9,23 +9,17 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "LEI MUNICIPAL Nº 1.166, DE 21/07/2016"
-ementa: "DISPÕE SOBRE A APRESENTAÇÃO DE ARTISTAS LOCAIS NA ABERTURA DE SHOWS MUSICAIS NACIONAIS E INTERNACIONAIS, INAUGURAÇÕES, EVENTOS CULTURAIS, ESPORTIVOS, TURÍSTICOS E GASTRONÔMICOS REALIZADOS NO MUNICÍPIO DE ILHABELA. (NR LM 1.395/2019 )"
+ementa: DISPÕE SOBRE A APRESENTAÇÃO DE ARTISTAS LOCAIS NA ABERTURA DE SHOWS MUSICAIS NACIONAIS E INTERNACIONAIS REALIZADOS NO MUNICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 aliases:
   - Lei 1166/2016
   - Lei nº 1166/2016
   - Lei 1166
   - Lei nº 1166
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20161166"
-coletado_em: "2026-10-11"
-sha256_raw: "51b605d0dd6c0323fd328db16d0ddb304b592a205ab9e58be613ff370ff36bb5"
+coletado_em: "2026-10-24"
+sha256_raw: ce000a2131af5ec0df476ccd906ee9a77ecfdbdee1487114e706e6f53b0468c1
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.166, DE 21/07/2016
 DISPÕE SOBRE A APRESENTAÇÃO DE ARTISTAS LOCAIS NA ABERTURA DE SHOWS MUSICAIS NACIONAIS E INTERNACIONAIS REALIZADOS NO MUNICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

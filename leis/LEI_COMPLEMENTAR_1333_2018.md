@@ -17,16 +17,10 @@ aliases:
   - Lei Complementar nº 1333
   - LC 1333/2018
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181333"
-coletado_em: "2026-10-11"
-sha256_raw: fbe5b63e81581898873259c53cc5916d7196060122958c33d261e3cdc6e7c9a3
+coletado_em: "2026-10-24"
+sha256_raw: fd4c98b8d63277187e2fb300842619d7a7dec8b4804b22b617c3913e51520f07
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.333, DE 21/11/2018
 CRIA O FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI, DISPÕE SOBRE SUA ESTRUTURA, FONTES DE RECURSOS E FORMAS DE APLICAÇÃO E DÁ OUTRAS PROVIDÊNCIAS
 MÁRCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balnearia de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara de Vereadores aprovou e ele sanciona a seguinte Lei:

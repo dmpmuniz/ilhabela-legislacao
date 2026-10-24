@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9449
   - Decreto Municipal 9449
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209449"
-coletado_em: "2026-10-11"
-sha256_raw: "67f9b3da955a7f73c5e0e0289da68b203e8fe80b48b7438ebbf9eb464fded155"
+coletado_em: "2026-10-24"
+sha256_raw: f0579522b04c7f794f3f21b8a94458bc096846562b0b4b618ed9cc732da15ed8
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.449, DE 23/09/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A AMPLIAÇÃO DA UBS BARRA VELHA ALTA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

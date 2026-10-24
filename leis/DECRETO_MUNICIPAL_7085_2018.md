@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7085
   - Decreto Municipal 7085
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807085"
-coletado_em: "2026-10-11"
-sha256_raw: "873dac4ad03fba9d03f4180a5f8d390912d2a16b5c7367443e15290096cc511e"
+coletado_em: "2026-10-24"
+sha256_raw: "1f3d2ef9e3122da11afee5f1b87b94fd9ebe51c1c46d2a4e857d86c8c275f34c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.085, DE 19/07/2018
 DISPÕE SOBRE A NOMEAÇÃO DE MEMBROS PARA COMPOR A COMISSÃO DE SELEÇÃO DE CREDENCIAMENTO, NOS TERMOS DO CHAMAMENTO PÚBLICO Nº 013/2017.
 MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;

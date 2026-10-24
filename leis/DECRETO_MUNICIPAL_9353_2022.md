@@ -7,9 +7,9 @@ ano: 2022
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 titulo: "DECRETO MUNICIPAL Nº 9.353, DE 11/07/2022"
-ementa: "DECLARA DE UTILIDADE PÚBLICA PARA FINS DE INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA DE PASSAGEM, O IMÓVEL QUE ESPECÍFICA, DESTINADA A IMPLANTAÇÃO DE VIA PÚBLICA DE ACESSO PARA AS COMUNIDADES TRADICIONAIS. ➭ (NR DM 9.460/2022 )"
+ementa: "DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO O IMÓVEL QUE ESPECÍFICA, DESTINA A IMPLANTAÇÃO DE VIA PÚBLICA DE ACESSO PARA AS COMUNIDADES TRADICIONAIS"
 aliases:
   - Decreto 9353/2022
   - Decreto nº 9353/2022
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9353
   - Decreto Municipal 9353
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209353"
-coletado_em: "2026-10-11"
-sha256_raw: "00068de618dd75af227179befacce93b36dd4b76bced95a125e4852c8a6ab41e"
+coletado_em: "2026-10-24"
+sha256_raw: be866947d09a61eb4681d6c49fdf857fa6d5ec6fa50ab23e12ded3ed7a9b5e4f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.353, DE 11/07/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO O IMÓVEL QUE ESPECÍFICA, DESTINA A IMPLANTAÇÃO DE VIA PÚBLICA DE ACESSO PARA AS COMUNIDADES TRADICIONAIS
 (Revogado pelo

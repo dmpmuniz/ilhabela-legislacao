@@ -21,17 +21,11 @@ palavras_chave_auto:
   - defesa do consumidor
 tags_auto:
   - seguranca
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20090702&NroLei=702&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a7e61e21373d146db44172030f802abe41bfcf55566de84599dd931eec0267a1
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20090702"
+coletado_em: "2026-10-24"
+sha256_raw: "1df9e93b161040e1c853dc8ca0ca3d25be1ff05333502f2f8b8a9671c941e82e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 702, DE 18/05/2009
 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CELEBRAR CONVÊNIOS COM O GOVERNO DO ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRETARIA DE SEGURANÇA PÚBLICA.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, usando suas atribuições legais,

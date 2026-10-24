@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8399
   - Decreto Municipal 8399
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108399"
-coletado_em: "2026-10-11"
-sha256_raw: "4824517be74c00a83a7b0d64c9541df29e32c4662f31bae71761e729a593f2aa"
+coletado_em: "2026-10-24"
+sha256_raw: "58f69b5dc7479a40dbba062c6f780b19b465dfb62deffd5a8a1ea6c5c0b3bf9b"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.399, DE 20/01/2021
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

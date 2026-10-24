@@ -27,12 +27,15 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202510861"
-coletado_em: "2026-10-11"
-sha256_raw: d4434dc9dc41fd922182fff8561210345a25ed7df015a48e6868253d1a86df18
+coletado_em: "2026-10-24"
+sha256_raw: a332592fa042f295a2ef41be6c4d64d253b807a2478007720ea575265d8459c9
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 10.861, DE 13/01/2025
 DISPÕE SOBRE A DESIGNAÇÃO DE ILZABETH DE OLIVEIRA PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISORA DE SEGURANÇA ALIMENTAR E NUTRICIONAL, NA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E INCLUSÃO SOCIAL.
+(Servidor(a) exonerado(a) pelo
+Decreto Municipal nº 12.092
+, de 24.09.2026)
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
 DECRETA:
 ##### Art. 1º

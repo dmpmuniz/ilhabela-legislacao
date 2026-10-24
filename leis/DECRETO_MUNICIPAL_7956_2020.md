@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 7956
   - Decreto Municipal 7956
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007956"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "352d3591969284bd3f2a8807ec6d8f41c8ecc9fb2d29bcc3a3f4114198aeff05"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.956, de 28/01/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.956, DE 28/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, PARA O MANDATO 2020/2022.
 (vigência esgotada)

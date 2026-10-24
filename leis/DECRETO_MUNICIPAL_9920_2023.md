@@ -26,21 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309920"
-coletado_em: "2026-10-11"
-sha256_raw: dd6c24023fbc3d23dbd6f177b243663bca305caed46974e6852f8d2c013ebec6
+coletado_em: "2026-10-24"
+sha256_raw: fa7616ea8ba69aca68c592842dc378117a96e14947107e3be226cd598df3f1e5
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.920, de 07/07/2023
-2ª Versão corresponde a DECRETO MUNICIPAL9.920, de 07/07/2023
-3ª Versão corresponde a DECRETO MUNICIPAL9.920, de 07/07/2023
-4ª Versão corresponde a DECRETO MUNICIPAL9.920, de 07/07/2023
-5ª Versão corresponde a DECRETO MUNICIPAL9.920, de 07/07/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.920, DE 07/07/2023
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - CACSFUNDEB, PARA O QUADRIÊNIO 2023/2026.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que the confere o

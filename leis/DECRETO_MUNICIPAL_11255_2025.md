@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11255
   - Decreto Municipal 11255
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511255"
-coletado_em: "2026-10-11"
-sha256_raw: cb45090e0f632120ed69b762af5b47c4c8840e22c10b6ff362eebf31128ee53d
+coletado_em: "2026-10-24"
+sha256_raw: "4fcd7d57b6f1f087db1ec4c3f5c4b3f9e842bd1889bc94771ef7fd89f69907cc"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.255, DE 24/03/2025
 CONVOCA A I CONFERÊNCIA MUNICIPAL DOS DIREITOS DAS PESSOAS LGBTQIAPN+ E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

@@ -1,53 +1,53 @@
 # Decretos de Nomeação e Exoneração (2024 a 2026) — Legislação de Ilhabela/SP
 
 ## O que contém
-- DECRETO MUNICIPAL Nº 10.504, DE 10/06/2024 (ilh-2024-dec-10504, em vigor)
-- DECRETO MUNICIPAL Nº 10.517, DE 10/06/2024 (ilh-2024-dec-10517, em vigor)
-- DECRETO MUNICIPAL Nº 10.529, DE 12/06/2024 (ilh-2024-dec-10529, em vigor)
-- DECRETO MUNICIPAL Nº 10.563, DE 01/07/2024 (ilh-2024-dec-10563, em vigor)
-- DECRETO MUNICIPAL Nº 10.594, DE 17/07/2024 (ilh-2024-dec-10594, em vigor)
-- DECRETO MUNICIPAL Nº 10.620, DE 02/08/2024 (ilh-2024-dec-10620, em vigor)
-- DECRETO MUNICIPAL Nº 10.649, DE 04/09/2024 (ilh-2024-dec-10649, em vigor)
-- DECRETO MUNICIPAL Nº 10.696, DE 15/10/2024 (ilh-2024-dec-10696, em vigor)
-- DECRETO MUNICIPAL Nº 10.760, DE 23/12/2024 (ilh-2024-dec-10760, em vigor)
-- DECRETO MUNICIPAL Nº 10.781, DE 02/01/2025 (ilh-2025-dec-10781, em vigor)
-- DECRETO MUNICIPAL Nº 10.793, DE 03/01/2025 (ilh-2025-dec-10793, em vigor)
-- DECRETO MUNICIPAL Nº 10.813, DE 07/01/2025 (ilh-2025-dec-10813, em vigor)
-- DECRETO MUNICIPAL Nº 10.832, DE 09/01/2025 (ilh-2025-dec-10832, em vigor)
-- DECRETO MUNICIPAL Nº 10.926, DE 13/01/2025 (ilh-2025-dec-10926, em vigor)
-- DECRETO MUNICIPAL Nº 11.001, DE 17/01/2025 (ilh-2025-dec-11001, em vigor)
-- DECRETO MUNICIPAL Nº 11.035, DE 20/01/2025 (ilh-2025-dec-11035, em vigor)
-- DECRETO MUNICIPAL Nº 11.173, DE 29/01/2025 (ilh-2025-dec-11173, em vigor)
-- DECRETO MUNICIPAL Nº 11.238, DE 25/02/2025 (ilh-2025-dec-11238, em vigor)
-- DECRETO MUNICIPAL Nº 11.292, DE 11/04/2025 (ilh-2025-dec-11292, em vigor)
-- DECRETO MUNICIPAL Nº 11.357, DE 03/06/2025 (ilh-2025-dec-11357, em vigor)
-- DECRETO MUNICIPAL Nº 11.389, DE 11/07/2025 (ilh-2025-dec-11389, em vigor)
-- DECRETO MUNICIPAL Nº 11.412, DE 04/08/2025 (ilh-2025-dec-11412, em vigor)
-- DECRETO MUNICIPAL Nº 11.469, DE 29/08/2025 (ilh-2025-dec-11469, em vigor)
-- DECRETO MUNICIPAL Nº 11.522, DE 14/10/2025 (ilh-2025-dec-11522, em vigor)
-- DECRETO MUNICIPAL Nº 11.557, DE 10/11/2025 (ilh-2025-dec-11557, em vigor)
-- DECRETO MUNICIPAL Nº 11.620, DE 17/12/2025 (ilh-2025-dec-11620, em vigor)
-- DECRETO MUNICIPAL Nº 11.654, DE 22/01/2026 (ilh-2026-dec-11654, em vigor)
-- DECRETO MUNICIPAL Nº 11.685, DE 23/01/2026 (ilh-2026-dec-11685, em vigor)
-- DECRETO MUNICIPAL Nº 11.717, DE 10/02/2026 (ilh-2026-dec-11717, em vigor)
-- DECRETO MUNICIPAL Nº 11.753, DE 13/03/2026 (ilh-2026-dec-11753, em vigor)
-- DECRETO MUNICIPAL Nº 11.781, DE 30/03/2026 (ilh-2026-dec-11781, em vigor)
-- DECRETO MUNICIPAL Nº 11.814, DE 08/04/2026 (ilh-2026-dec-11814, em vigor)
-- DECRETO MUNICIPAL Nº 11.845, DE 16/04/2026 (ilh-2026-dec-11845, em vigor)
-- DECRETO MUNICIPAL Nº 11.873, DE 06/05/2026 (ilh-2026-dec-11873, em vigor)
-- DECRETO MUNICIPAL Nº 11.897, DE 19/05/2026 (ilh-2026-dec-11897, em vigor)
-- DECRETO MUNICIPAL Nº 11.931, DE 16/06/2026 (ilh-2026-dec-11931, em vigor)
-- DECRETO MUNICIPAL Nº 11.972, DE 15/07/2026 (ilh-2026-dec-11972, em vigor)
+- DECRETO MUNICIPAL Nº 10.515, DE 10/06/2024 (ilh-2024-dec-10515, em vigor)
+- DECRETO MUNICIPAL Nº 10.527, DE 10/06/2024 (ilh-2024-dec-10527, em vigor)
+- DECRETO MUNICIPAL Nº 10.557, DE 19/06/2024 (ilh-2024-dec-10557, em vigor)
+- DECRETO MUNICIPAL Nº 10.587, DE 12/07/2024 (ilh-2024-dec-10587, em vigor)
+- DECRETO MUNICIPAL Nº 10.604, DE 17/07/2024 (ilh-2024-dec-10604, em vigor)
+- DECRETO MUNICIPAL Nº 10.641, DE 16/08/2024 (ilh-2024-dec-10641, em vigor)
+- DECRETO MUNICIPAL Nº 10.692, DE 15/10/2024 (ilh-2024-dec-10692, em vigor)
+- DECRETO MUNICIPAL Nº 10.738, DE 25/11/2024 (ilh-2024-dec-10738, em vigor)
+- DECRETO MUNICIPAL Nº 10.776, DE 02/01/2025 (ilh-2025-dec-10776, em vigor)
+- DECRETO MUNICIPAL Nº 10.789, DE 02/01/2025 (ilh-2025-dec-10789, em vigor)
+- DECRETO MUNICIPAL Nº 10.805, DE 06/01/2025 (ilh-2025-dec-10805, em vigor)
+- DECRETO MUNICIPAL Nº 10.826, DE 09/01/2025 (ilh-2025-dec-10826, em vigor)
+- DECRETO MUNICIPAL Nº 10.902, DE 13/01/2025 (ilh-2025-dec-10902, em vigor)
+- DECRETO MUNICIPAL Nº 10.958, DE 13/01/2025 (ilh-2025-dec-10958, em vigor)
+- DECRETO MUNICIPAL Nº 11.025, DE 17/01/2025 (ilh-2025-dec-11025, em vigor)
+- DECRETO MUNICIPAL Nº 11.070, DE 21/01/2025 (ilh-2025-dec-11070, em vigor)
+- DECRETO MUNICIPAL Nº 11.190, DE 10/02/2025 (ilh-2025-dec-11190, em vigor)
+- DECRETO MUNICIPAL Nº 11.262, DE 01/04/2025 (ilh-2025-dec-11262, em vigor)
+- DECRETO MUNICIPAL Nº 11.307, DE 28/04/2025 (ilh-2025-dec-11307, em vigor)
+- DECRETO MUNICIPAL Nº 11.367, DE 11/06/2025 (ilh-2025-dec-11367, em vigor)
+- DECRETO MUNICIPAL Nº 11.401, DE 25/07/2025 (ilh-2025-dec-11401, em vigor)
+- DECRETO MUNICIPAL Nº 11.439, DE 19/08/2025 (ilh-2025-dec-11439, em vigor)
+- DECRETO MUNICIPAL Nº 11.492, DE 11/09/2025 (ilh-2025-dec-11492, em vigor)
+- DECRETO MUNICIPAL Nº 11.536, DE 29/10/2025 (ilh-2025-dec-11536, em vigor)
+- DECRETO MUNICIPAL Nº 11.582, DE 13/11/2025 (ilh-2025-dec-11582, em vigor)
+- DECRETO MUNICIPAL Nº 11.642, DE 22/01/2026 (ilh-2026-dec-11642, em vigor)
+- DECRETO MUNICIPAL Nº 11.658, DE 22/01/2026 (ilh-2026-dec-11658, em vigor)
+- DECRETO MUNICIPAL Nº 11.689, DE 23/01/2026 (ilh-2026-dec-11689, em vigor)
+- DECRETO MUNICIPAL Nº 11.727, DE 20/02/2026 (ilh-2026-dec-11727, em vigor)
+- DECRETO MUNICIPAL Nº 11.759, DE 16/03/2026 (ilh-2026-dec-11759, em vigor)
+- DECRETO MUNICIPAL Nº 11.792, DE 01/04/2026 (ilh-2026-dec-11792, em vigor)
+- DECRETO MUNICIPAL Nº 11.818, DE 09/04/2026 (ilh-2026-dec-11818, em vigor)
+- DECRETO MUNICIPAL Nº 11.850, DE 22/04/2026 (ilh-2026-dec-11850, em vigor)
+- DECRETO MUNICIPAL Nº 11.875, DE 06/05/2026 (ilh-2026-dec-11875, em vigor)
+- DECRETO MUNICIPAL Nº 11.898, DE 19/05/2026 (ilh-2026-dec-11898, em vigor)
+- DECRETO MUNICIPAL Nº 11.932, DE 16/06/2026 (ilh-2026-dec-11932, em vigor)
+- DECRETO MUNICIPAL Nº 11.979, DE 21/07/2026 (ilh-2026-dec-11979, em vigor)
 - DECRETO MUNICIPAL Nº 12.010, DE 10/08/2026 (ilh-2026-dec-12010, em vigor)
-- DECRETO MUNICIPAL Nº 12.078, DE 15/09/2026 (ilh-2026-dec-12078, em vigor)
+- DECRETO MUNICIPAL Nº 12.079, DE 15/09/2026 (ilh-2026-dec-12079, em vigor)
 - DECRETO MUNICIPAL Nº 12.123, DE 15/10/2026 (ilh-2026-dec-12123, em vigor)
-- … e mais 453 normas (lista completa no corpo)
+- … e mais 442 normas (lista completa no corpo)
 
 ## Temas frequentes
-cargo, nomeacao, exoneracao, comissao, servidor publico, cargo em comissao, concurso publico, plano de cargos, vencimentos, estrutura administrativa, secretaria municipal, criacao de orgao, estrutura organizacional, gestao, chefe, diretoria, funcao, confianca, cultura, turismo, educacao, professor, educacao municipal, ensino fundamental, merenda escolar, creche, secretario, coordenador, pedido, lotado
+cargo, nomeacao, exoneracao, comissao, servidor publico, cargo em comissao, concurso publico, plano de cargos, vencimentos, estrutura administrativa, secretaria municipal, criacao de orgao, estrutura organizacional, gestao, funcao, chefe, confianca, diretoria, cultura, turismo, educacao, professor, educacao municipal, ensino fundamental, merenda escolar, creche, secretario, coordenador, pedido, lotado
 
 ## Período
-2024 a 2026 · 493 normas · ~99.080 palavras de texto
+2024 a 2026 · 482 normas · ~96.998 palavras de texto
 
 Parte 5 de 5
 
@@ -55,330 +55,6 @@ Parte 5 de 5
 Cada norma tem o seu status no cabeçalho: em_vigor, revogada, expirada, inconstitucional, suspensa ou anulada.
 
 ---
-# DECRETO MUNICIPAL Nº 10.504, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10504 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE LUIZ CARLOS DE JESUS JUNIOR PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE PROMOÇÃO DE PRÁTICA ESPORTIVA E EVENTOS, NA SECRETARIA DE ESPORTE E LAZER.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410504
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.504, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE LUIZ CARLOS DE JESUS JUNIOR PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE PROMOÇÃO DE PRÁTICA ESPORTIVA E EVENTOS, NA SECRETARIA DE ESPORTE E LAZER.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeado
-LUIZ CARLOS DE JESUS JUNIOR
-, brasileiro, portador da Cédula de Identidade RG nº 33599197X SSP/SP e do CPF/MF nº 315.817.518-50, para ocupar o cargo em comissão de Chefe de Diretoria de Promoção de Prática Esportiva e Eventos, na Secretaria de Esporte e Lazer, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.505, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10505 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE FLÁVIA LUCRÉCIA DE GOES PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410505
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.505, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE FLÁVIA LUCRÉCIA DE GOES PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeada
-FLÁVIA LUCRÉCIA DE GOES
-, brasileira, portadora da Cédula de Identidade RG nº 30844954-X SSP/SP e do CPF/MF nº 291.588.948-10, para ocupar o cargo em comissão de Assessor de Secretaria, na Secretaria de Mobilidade e Segurança, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.506, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10506 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE GABRIELLA LABATE FRUGIS PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410506
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.506, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE GABRIELLA LABATE FRUGIS PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeada
-GABRIELLA LABATE FRUGIS
-, brasileira, portadora da Cédula de Identidade RG nº 47.611.454 4 SSP/SP e do CPF/MF nº 403.725.978-82, para ocupar o cargo em comissão de Assessor de Secretaria, na Secretaria de Mobilidade e Segurança, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.507, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10507 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE DANIEL MARÇAL VIEIRA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE SEGURANÇA, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410507
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.507, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE DANIEL MARÇAL VIEIRA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE SEGURANÇA, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeado
-DANIEL MARÇAL VIEIRA
-, brasileiro, portador da Cédula de Identidade RG nº 247910302 SSP/SP e do CPF/MF nº 176.518.668-43, para ocupar o cargo em comissão de Chefe de Diretoria de Segurança, na Secretaria de Mobilidade e Segurança, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.508, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10508 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE JOSÉ GARCIA SOBRINHO PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRANSPORTE, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410508
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.508, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE JOSÉ GARCIA SOBRINHO PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRANSPORTE, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeado
-JOSÉ GARCIA SOBRINHO
-, brasileiro, portador da Cédula de Identidade RG nº 17.342.127 1 SSP/SP e do CPF/MF nº 064.746.968-50, para ocupar o cargo em comissão de Chefe de Diretoria de Transporte, na Secretaria de Mobilidade e Segurança, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.509, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10509 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410509
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
-
-DECRETO MUNICIPAL Nº 10.509, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeado
-MARCOS GOMES DE OLIVEIRA
-, brasileiro, portador da Cédula de Identidade RG nº 22146228 SSP/SP e do CPF/MF nº 135.922.218-92, para ocupar o cargo em comissão de Chefe de Diretoria de Trânsito, no Secretaria de Mobilidade e Segurança, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.510, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10510 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE CARLOS NORBERTO ZANATO PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE DEFESA CIVIL, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410510
-> **Palavras-chave:** defesa civil, plano preventivo de defesa civil, deslizamento, alagamento, remoção de famílias, níveis de alerta, servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.510, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE CARLOS NORBERTO ZANATO PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE DEFESA CIVIL, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeado
-CARLOS NORBERTO ZANATO
-, brasileiro, portador da Cédula de Identidade RG nº 19859741 SSP/SP e do CPF/MF nº 008.039.048-00, para ocupar o cargo em comissão de Chefe de Diretoria de Defesa Civil, na Secretaria de Mobilidade e Segurança, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.511, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10511 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE THAMIRES YAPONIRA CORDEIRO DE ALENCAR PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410511
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.511, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE THAMIRES YAPONIRA CORDEIRO DE ALENCAR PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeada
-THAMIRES YAPONIRA CORDEIRO DE ALENCAR
-, brasileira, portadora da Cédula de Identidade RG nº 498043733 SSP/SP e do CPF/MF nº 435.419.458-93, para ocupar o cargo em comissão de Assessor de Secretaria, na Secretaria das Comunidades Tradicionais, Pesca e Agricultura, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.512, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10512 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE CRISAMON DOS REIS MOURA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DAS COMUNIDADES TRADICIONAIS E DIREITOS FUNDAMENTAIS, NA SECRETARIA DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410512
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.512, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE CRISAMON DOS REIS MOURA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DAS COMUNIDADES TRADICIONAIS E DIREITOS FUNDAMENTAIS, NA SECRETARIA DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeado
-CRISAMON DOS REIS MOURA
-, brasileiro, portador da Cédula de Identidade RG nº 324828342 SSP/SP e do CPF/MF nº 292.301908-37, para ocupar o cargo em comissão de Chefe de Diretoria das Comunidades Tradicionais e Direitos Fundamentais, na Secretaria das Comunidades Tradicionais, Pesca e Agricultura, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.513, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10513 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MAIRA BARRETO DE OLIVEIRA COSTA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE PESCA, AGRICULTURA E AQUICULTURA, NA SECRETARIA DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410513
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
-
-DECRETO MUNICIPAL Nº 10.513, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE MAIRA BARRETO DE OLIVEIRA COSTA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE PESCA, AGRICULTURA E AQUICULTURA, NA SECRETARIA DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeada
-MAIRA BARRETO DE OLIVEIRA COSTA
-, brasileira, portadora da Cédula de Identidade RG nº 46.845.859 1 SSP/SP e do CPF/MF nº 350.801.238-77, para ocupar o cargo em comissão de Chefe de Diretoria de Pesca, Agricultura e Aquicultura, na Secretaria das Comunidades Tradicionais, Pesca e Agricultura, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
-# DECRETO MUNICIPAL Nº 10.514, DE 10/06/2024
-
-> **Ref:** ilh-2024-dec-10514 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE ANA CAROLINA DOS REIS WENCESLAU PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DE DESENVOLVIMENTO ECONÔMICO E TURISMO.
-> **Efeitos a partir de:** 2024-06-06
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410514
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, cultura, turismo, patrimônio histórico, tombamento, evento cultural
-
-DECRETO MUNICIPAL Nº 10.514, DE 10/06/2024
-DISPÕE SOBRE A NOMEAÇÃO DE ANA CAROLINA DOS REIS WENCESLAU PARA OCUPAR O CARGO EM COMISSÃO DE ASSESSOR DE SECRETARIA, NA SECRETARIA DE DESENVOLVIMENTO ECONÔMICO E TURISMO.
-(Servidor(a) Exonerado(a) pelo
-Decreto Municipal nº 10.759
-, de 23.12.2024)
-O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
-DECRETA:
-##### Art. 1º
-Fica nomeada
-ANA CAROLINA DOS REIS WENCESLAU
-, brasileira, portadora da Cédula de Identidade RG nº 419434574 SSP/SP e do CPF/MF nº 311.488.608-60, para ocupar o cargo em comissão de Assessor de Secretaria, na Secretaria de Desenvolvimento Econômico e Turismo, conforme estrutura administrativa e atribuições dispostas na
-Lei Complementar Municipal nº 1.517
-, de 03 de fevereiro de 2022 e alterações.
-##### Art. 2º
-Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 6 de junho de 2024.
-Ilhabela, 10 de junho de 2024.
-ANTONIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-
----
-
 # DECRETO MUNICIPAL Nº 10.515, DE 10/06/2024
 
 > **Ref:** ilh-2024-dec-10515 · **Tipo:** Decreto · **Ano:** 2024 · **Status:** em vigor
@@ -1174,12 +850,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DE MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS, E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410563
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.563, DE 01/07/2024
 DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DE MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e,
@@ -1535,16 +1205,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Efeitos a partir de:** 2024-02-21
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410587
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-2ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-3ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-4ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.587, DE 12/07/2024
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DE ILHABELA - CMDCAI, PARA O BIÊNIO 2024/2026.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
@@ -4190,12 +3850,6 @@ Prefeito Municipal
 > **Efeitos a partir de:** 2024-12-30
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410768
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.768, DE 27/12/2024
 DISPÕE SOBRE A EXONERAÇÃO DOS SERVIDORES DESIGNADOS PARA EXERCER FUNÇÃO DE CONFIANÇA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;
@@ -6798,13 +6452,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO ADMINISTRATIVO DO FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202510948
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.948, de 13/01/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.948, DE 13/01/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO ADMINISTRATIVO DO FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;
@@ -7956,13 +7603,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2025/2027.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511203
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.203, de 10/02/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.203, DE 10/02/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2025/2027.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;
@@ -8041,17 +7681,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511208
 > **Palavras-chave:** licitação, pregão, edital de licitação, dispensa de licitação, contrato administrativo
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-2ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-3ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-4ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-5ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.208, DE 11/02/2025
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, AGENTE DE CONTRATAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
@@ -8222,12 +7851,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO MUNICIPAL DO IDOSO DE ILHABELA - CMI.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511238
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.238, DE 25/02/2025
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO MUNICIPAL DO IDOSO DE ILHABELA - CMI.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
@@ -8441,12 +8064,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511260
 > **Palavras-chave:** cultura, turismo, patrimônio histórico, tombamento, evento cultural
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.260, DE 31/03/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE TURISMO DE ILHABELA - COMTUR, PARA MANDATO DE 02 (DOIS) ANOS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;
@@ -9053,12 +8670,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS REPRESENTANTES DA COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIO (CIPA) PARA O BIÊNIO 2025/2026.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511301
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.301, DE 23/04/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS REPRESENTANTES DA COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIO (CIPA) PARA O BIÊNIO 2025/2026.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;
@@ -9627,13 +9238,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DE MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511373
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.373, de 23/06/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.373, DE 23/06/2025
 DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DE MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;
@@ -10497,12 +10101,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DA COMISSÃO DOS CONSELHOS, NOS TERMOS DO ART. 4º DA LEI MUNICIPAL Nº 1.277/2018.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511433
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.433, DE 14/08/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DA COMISSÃO DOS CONSELHOS, NOS TERMOS DO ART. 4º DA LEI MUNICIPAL Nº 1.277/2018.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;
@@ -10549,12 +10147,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511434
 > **Palavras-chave:** educação municipal, ensino fundamental, professor, merenda escolar, creche, estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.434, DE 15/08/2025
 DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DE LÍDIA LÚCIA SARMENTO DE LIMA DO CARGO POLÍTICO DE SECRETÁRIA MUNICIPAL DE EDUCAÇÃO.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;
@@ -14883,12 +14475,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL, NOS TERMOS DO ART. 123 DA LEI MUNICIPAL Nº 421/2006.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611866
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.866, DE 05/05/2026
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL, NOS TERMOS DO ART. 123 DA LEI MUNICIPAL Nº 421/2006.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;
@@ -16110,12 +15696,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA - COMPCI, CRIADO PELA LEI MUNICIPAL N° 1.405, DE 14 DE JANEIRO DE 2020.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611962
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.962, DE 13/07/2026
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA - COMPCI, CRIADO PELA LEI MUNICIPAL N° 1.405, DE 14 DE JANEIRO DE 2020.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
@@ -17444,9 +17024,20 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 
 DECRETO MUNICIPAL Nº 12.110, DE 05/10/2026
 DISPÕE SOBRE A EXONERAÇÃO DE ELIANE BEATRIZ VELOSO LOPES DOS SANTOS DO CARGO DE GESTÃO EDUCACIONAL DE DIRETOR DE UNIDADE ESCOLAR.
-Obs:
-O texto desta norma está no processo de revisão!
-Para acesso ao seu conteúdo, basta acessar seu arquivo original.
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das atribuições que lhe são conferidas por lei,
+DECRETA:
+##### Art. 1º
+Fica exonerada do cargo de gestão educacional de Diretor de Unidade Escolar
+ELIANE BEATRIZ VELOSO LOPES DOS SANTOS
+, servidora efetiva, matrícula funcional nº 1.899, designada pelo
+Decreto Municipal nº 11.442
+, de 19 de agosto de 2025.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de outubro de 2026.
+Ilhabela, 5 de outubro de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em livro próprio e afixado na data supra no lugar de costume.
 
 ---
 
@@ -17458,9 +17049,20 @@ Para acesso ao seu conteúdo, basta acessar seu arquivo original.
 
 DECRETO MUNICIPAL Nº 12.111, DE 05/10/2026
 DISPÕE SOBRE A EXONERAÇÃO DE TANIA YABU FERREIRA MAIA VIEIRA DO CARGO DE GESTÃO EDUCACIONAL DE DIRETOR DE UNIDADE ESCOLAR.
-Obs:
-O texto desta norma está no processo de revisão!
-Para acesso ao seu conteúdo, basta acessar seu arquivo original.
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das atribuições que lhe são conferidas por lei,
+DECRETA:
+##### Art. 1º
+Fica exonerada do cargo de gestão educacional de Diretor de Unidade Escolar
+TANIA YABU FERREIRA MAIA VIEIRA
+, servidora efetiva, matrícula funcional nº 2.431, designada pelo
+Decreto Municipal nº 11.125
+, de 28 de janeiro de 2025.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de outubro de 2026.
+Ilhabela, 5 de outubro de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em livro próprio e afixado na data supra no lugar de costume.
 
 ---
 
@@ -17482,7 +17084,8 @@ alínea b do inciso I e a alínea a do inciso V do artigo 1º do Decreto nº 11.
 , de 3 de março de 2026, que passam a vigorar com as seguintes redações:
 "Art. 1º [...]
 I - 01 (um) representante da Secretaria de Desenvolvimento e Inclusão Social:
-[...]; Suplente: Tamires Silva Botelho.
+a) [...];
+b) Suplente: Tamires Silva Botelho.
 [...]
 V- 01 (um) representante da Defesa Civil, Secretaria Municipal de Mobilidade e Segurança:
 a) Titular: Marcel Luiz Giorgeti Santos
@@ -17493,7 +17096,8 @@ alínea b do inciso IV do artigo 2º do Decreto nº 11.738
 , de 3 de março de 2026, que passa a vigorar com a seguinte redação:
 "Art. 2º [...]
 IV - 01 (um) representante do atendimento às pessoas portadoras de deficiência:(Associação de Pais e Amigos dos Excepcionais - APAE de Ilhabela):
-[...]; Suplente: Karina de Souza Franco."
+a) [...];
+b) Suplente: Karina de Souza Franco."
 ##### Art. 3º
 Este Decreto entra em vigor na data de sua publicação.
 Ilhabela, 9 de outubro de 2026.
@@ -17512,8 +17116,19 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 
 DECRETO MUNICIPAL Nº 12.123, DE 15/10/2026
 DISPÕE SOBRE A EXONERAÇÃO DE CRISTIANO DEROTIDES FERNANDES DE SÁ DA FUNÇÃO DE CONFIANÇA DE SUPERVISOR DO PÍER, ESTALEIRO E RANCHOS MUNICIPAIS, NA SECRETARIA MUNICIPAL DAS COMUNIDADES TRADICIONAIS, PESCA E AGRICULTURA.
-Obs:
-O texto desta norma está no processo de revisão!
-Para acesso ao seu conteúdo, basta acessar seu arquivo original.
+O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das atribuições que lhe são conferidas por lei,
+DECRETA:
+##### Art. 1º
+Fica exonerado
+CRISTIANO DEROTIDES FERNANDES DE SÁ
+, servidor efetivo, matrícula funcional nº 4947, da função de confiança de Supervisor do Píer, Estaleiro e Ranchos Municipais, da Secretaria Municipal das Comunidades Tradicionais, Pesca e Agricultura, nomeado nos termos do
+Decreto Municipal nº 11.816
+, de 8 de abril de 2026.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação.
+Ilhabela, 15 de outubro de 2026.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
 
 ---

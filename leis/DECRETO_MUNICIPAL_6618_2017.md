@@ -7,7 +7,7 @@ ano: 2017
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 titulo: "DECRETO MUNICIPAL Nº 6.618, DE 18/09/2017"
 ementa: "FICA INSTITUÍDA A COMISSÃO PARA ACOMPANHAMENTO DAS ATIVIDADES DO CONVÊNIO, DO PROJETO ESTADUAL DO LEITE \"VIVA LEITE\" E DÁ OUTRAS PROVIDÊNCIAS."
 aliases:
@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 6618
   - Decreto Municipal 6618
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706618"
-coletado_em: "2026-10-11"
-sha256_raw: "5cee2bb386750e35360285e39b9cbf6cb37d6fe5692744e21cdd318d36bfda3d"
+coletado_em: "2026-10-24"
+sha256_raw: "24b8a926cfcb4e45a76abc5b8f0a66e804a885ee80367169d6e78b94e1c5e002"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.618, de 18/09/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.618, DE 18/09/2017
 FICA INSTITUÍDA A COMISSÃO PARA ACOMPANHAMENTO DAS ATIVIDADES DO CONVÊNIO, DO PROJETO ESTADUAL DO LEITE "VIVA LEITE" E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 2404
   - Decreto Municipal 2404
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201102404"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "92368798a77b60eb6c2c3cb617b1020cf91ee5ea45410c7978453406850af4a5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL2.404, de 14/01/2011
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 2.404, DE 14/01/2011
 REGULAMENTA O
 ##### ART. 141, DA LEI Nº 529/2007

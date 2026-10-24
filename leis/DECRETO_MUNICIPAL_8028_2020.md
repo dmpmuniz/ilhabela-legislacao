@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 8028
   - Decreto Municipal 8028
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008028"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "73deff066ad7c549b4b684196fe3ef7f935e9211d5b0740ca89c73eee9e3d410"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.028, de 18/03/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.028, de 18/03/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.028, de 18/03/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.028, DE 18/03/2020
 DISPÕE SOBRE A SUSPENSÃO DE ATENDIMENTO AO PÚBLICO NAS REPARTIÇÕES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DIRETA E INDIRETA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

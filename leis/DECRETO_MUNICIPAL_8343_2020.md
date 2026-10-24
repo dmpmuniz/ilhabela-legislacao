@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 8343
   - Decreto Municipal 8343
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008343"
-coletado_em: "2026-10-11"
-sha256_raw: a02ab1530942d72c26dba29a541e244f5371628c98df5f14fc9c9d79914d69ee
+coletado_em: "2026-10-24"
+sha256_raw: "0f64672ec9562839640a785f2f5f7e177eef3bf60eee66d4de5c185e520bef09"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.343, de 23/12/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.343, de 23/12/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.343, DE 23/12/2020
 REGULAMENTA A CONCESSÃO DE LICENÇAS POR ACIDENTE EM SERVIÇO OU DOENÇA OCUPACIONAL, PARA TRATAMENTO DE SAÚDE DO SERVIDOR E POR DOENÇA DE PESSOA NA FAMÍLIA, NOS TERMOS DO TÍTULO IV, CAPÍTULO II, BEM COMO OS EVENTOS DISCIPLINADOS PELOS ARTS. 93, 96 E 103 DA LEI COMPLEMENTAR Nº 1.326, DE 26 DE OUTUBRO DE 2018.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita do Município da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

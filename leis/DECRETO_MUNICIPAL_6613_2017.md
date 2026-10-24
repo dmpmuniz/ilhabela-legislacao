@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 6613
   - Decreto Municipal 6613
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706613"
-coletado_em: "2026-10-11"
-sha256_raw: "8cc5c470bd6b325be677be821c2738e65216c79b3fba5badb32816639af78a10"
+coletado_em: "2026-10-24"
+sha256_raw: dce5d901f92498a0353c86c3222cca5263b8838aafbecede2b412d83e640bfb2
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.613, de 18/09/2017
-2ª Versão corresponde a DECRETO MUNICIPAL6.613, de 18/09/2017
-3ª Versão corresponde a DECRETO MUNICIPAL6.613, de 18/09/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.613, DE 18/09/2017
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO DELIBERATIVO DO FUNDO SOCIAL DE SOLIDARIEDADE DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MÁRCIO BATISTA TENÓRIO, no uso de suas atribuições legais;

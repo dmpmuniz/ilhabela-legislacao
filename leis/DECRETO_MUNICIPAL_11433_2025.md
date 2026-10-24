@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11433
   - Decreto Municipal 11433
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511433"
-coletado_em: "2026-10-11"
-sha256_raw: "0084dfbf3ef230eebb5b6d898647e6260cb2ab8769b045dd5984e327b41936de"
+coletado_em: "2026-10-24"
+sha256_raw: "4f878490c664c27c0ff876a02c749eac221ab99ce84be6ff34d6ba5017981693"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.433, DE 14/08/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DA COMISSÃO DOS CONSELHOS, NOS TERMOS DO ART. 4º DA LEI MUNICIPAL Nº 1.277/2018.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

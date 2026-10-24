@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 8146
   - Decreto Municipal 8146
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008146"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "758abe082978fe8c6baf6bfe577f1a813529ce6dcaaaf1a97db3b31bc34b5410"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.146, de 16/06/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.146, de 16/06/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.146, DE 16/06/2020
 REGULAMENTA O ATENDIMENTO PRESENCIAL NO PAÇO MUNICIPAL DURANTE A PANDEMIA DO NOVO CORONAVÍRUS (COVID-19).
 (Revogado pelo

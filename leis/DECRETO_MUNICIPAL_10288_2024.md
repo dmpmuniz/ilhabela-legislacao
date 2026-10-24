@@ -19,18 +19,10 @@ aliases:
   - Decreto Municipal nº 10288
   - Decreto Municipal 10288
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410288"
-coletado_em: "2026-10-11"
-sha256_raw: "32a8a6850128454ea9f00bf0e6a671ba031f69a787251b27fe9d1e54745a0241"
+coletado_em: "2026-10-24"
+sha256_raw: ef2ec88acd05a7b1a321b6012c2a33cea100d74f243258d1590dbede9d286dc5
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.288, de 26/02/2024
-2ª Versão corresponde a DECRETO MUNICIPAL10.288, de 26/02/2024
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.288, DE 26/02/2024
 DISPÕE SOBRE A NOMEAÇÃO DOS REPRESENTANTES DA COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIO CIPA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei e;

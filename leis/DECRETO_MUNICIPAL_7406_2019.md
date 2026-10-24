@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 7406
   - Decreto Municipal 7406
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907406"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "9a90c9f20bb674a5c76a0a9125649b01e281a685c6b3d78671b71b05d254ff42"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.406, de 11/03/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.406, DE 11/03/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV.
 (Revogado pelo

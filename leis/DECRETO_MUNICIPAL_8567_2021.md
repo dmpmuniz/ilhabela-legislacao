@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 8567
   - Decreto Municipal 8567
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108567"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "4d4e38cee3f5277523d06a25a4e5345fbc00a5922894706d6bcc22bdab49354c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.567, de 07/04/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.567, de 07/04/2021
-3ª Versão corresponde a DECRETO MUNICIPAL8.567, de 07/04/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.567, DE 07/04/2021
 DISPÕE SOBRE NOVAS REGRAS DA FASE EMERGENCIAL DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 (Revogado pelo

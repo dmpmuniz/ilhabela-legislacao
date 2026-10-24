@@ -28,19 +28,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209561"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "6437b3827abcbeaeeaf177d6f7537aa2e2fbd6cb4349de4a0992dc54ff2d57ce"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.561, de 15/12/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.561, de 15/12/2022
-3ª Versão corresponde a DECRETO MUNICIPAL9.561, de 15/12/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.561, DE 15/12/2022
 DISPÕE SOBRE PERMISSÃO DE USO EM LOGRADOUROS PÚBLICOS PARA UTILIZAÇÃO DE ESTACIONAMENTO REMUNERADO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei;

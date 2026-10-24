@@ -17,17 +17,11 @@ aliases:
   - Decreto nº 1308
   - Decreto Municipal nº 1308
   - Decreto Municipal 1308
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200701308&NroLei=1.308&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: ee9c4521f8ecce211774c600f48a48d3e2bdfed14083d40b007875f417c36339
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200701308"
+coletado_em: "2026-10-24"
+sha256_raw: ab099c090bb9827e8b3d4f240ac8872553e43e877161cbcea04180bf2608c3a7
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 1.308, DE 09/03/2007
 REGULAMENTA O USO DE VEÍCULOS PELA ADMINISTRAÇÃO DIRETA E DÁ OUTRAS PROVIDÊNCIAS.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;

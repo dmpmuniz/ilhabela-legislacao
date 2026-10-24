@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7180
   - Decreto Municipal 7180
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807180"
-coletado_em: "2026-10-11"
-sha256_raw: "98c4a0e07a12538e1a8f23c019aacd009ffd0afb55f8e25055d4cc58d4c94aac"
+coletado_em: "2026-10-24"
+sha256_raw: "09cd94f1a087393fff6b97ffa3f8e642b63fb29de3db1afc545494fd9cd05b3b"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.180, DE 31/10/2018
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO MUNICIPAL DOS DIREITOS DA MULHER DE ILHABELA.
 MARCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso das atribuições que lhe são conferidas por Lei;

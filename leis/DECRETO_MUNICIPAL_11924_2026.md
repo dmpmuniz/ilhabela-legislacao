@@ -28,16 +28,10 @@ tags_auto:
   - tributos
   - fiscalizacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611924"
-coletado_em: "2026-10-11"
-sha256_raw: b5211255a006dcac9f251034bf2dc9ae38aef01760cdb169513887ba77e7d4a7
+coletado_em: "2026-10-24"
+sha256_raw: eddb01314bd47f02b8c7138e9159c9cbfface15ef701429bbbf47a9d4394d70b
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.924, DE 09/06/2026
 DISPÕE SOBRE A CRIAÇÃO DO GRUPO DE TRABALHO REFERENTE À REVISÃO DO CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

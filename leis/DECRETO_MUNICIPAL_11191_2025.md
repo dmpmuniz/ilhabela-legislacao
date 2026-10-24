@@ -26,12 +26,15 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511191"
-coletado_em: "2026-10-11"
-sha256_raw: fddeaefceb50e50015f606bf29f66cbbcd9eff61d0ad7db5fd66737cc50ee8cc
+coletado_em: "2026-10-24"
+sha256_raw: "00ae31bb02e5a7a859702d3b0269fec067c2cb7aea81a5fef4730cd94f280188"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 11.191, DE 10/02/2025
 DISPÕE SOBRE A DESIGNAÇÃO DE ELOISA CARDOSO GOMES PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISORA DE SERVIÇOS ADMINISTRATIVOS NO CRAS, NA SECRETARIA DE DESENVOLVIMENTO E INCLUSÃO SOCIAL.
+(Servidor(a) exonerado(a) pelo
+Decreto Municipal nº 12.094
+, de 24.09.2026)
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
 DECRETA:
 ##### Art. 1º

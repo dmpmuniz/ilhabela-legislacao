@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7237
   - Decreto Municipal 7237
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807237"
-coletado_em: "2026-10-11"
-sha256_raw: d81e222c1803b3efa2fba11c74fe7db2c3d314fbe6f55a8deb957543aff90b51
+coletado_em: "2026-10-24"
+sha256_raw: "1d7674b66133fe637079b827735c20e8c072b50ab8fc4276127e8f08dc1d1379"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.237, DE 12/12/2018
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO MUNICIPAL DO IDOSO DE ILHABELA – CMI, PARA O BIÊNIO 2017-2019.
 MÁRCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições legais;

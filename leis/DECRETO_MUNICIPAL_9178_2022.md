@@ -19,17 +19,10 @@ aliases:
   - Decreto Municipal nº 9178
   - Decreto Municipal 9178
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209178"
-coletado_em: "2026-10-11"
-sha256_raw: "58555cecb3f540185c8f939c1834ca54789512336c3ca578c0d2188e69b132e2"
+coletado_em: "2026-10-24"
+sha256_raw: f63006fecb03723a28bce19be8276a4156f49373829fc113f006df195a079a47
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.178, de 04/04/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.178, DE 04/04/2022
 DISPÕE SOBRE A ENTRADA, SAÍDA E CIRCULAÇÃO DE CAMINHÕES NO MUNICÍPIO DE ILHABELA NOS HORÁRIOS E DIAS QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

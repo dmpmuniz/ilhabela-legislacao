@@ -15,17 +15,11 @@ aliases:
   - Lei nº 211/2003
   - Lei 211
   - Lei nº 211
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20030211&NroLei=211&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "0c5ac09199ff4e1aa4d3fdce6ea272cc7a4764e7cc14da54678c9142efa5cbf7"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20030211"
+coletado_em: "2026-10-24"
+sha256_raw: f92a7e7c4bcf673950b0e74664a3945c4f58fffc0fd3122fa850906a05040786
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 211, DE 01/10/2003
 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CEDER EM COMODATO ÁREA PÚBLICA PARA O CLUBE DE MALHA AMIGOS DA BARRA VELHA.
 Faço saber que a câmara aprovou e eu, nos termos do

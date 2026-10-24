@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8196
   - Decreto Municipal 8196
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008196"
-coletado_em: "2026-10-11"
-sha256_raw: f31fb78e1b8c24156504f5d458de2325b89038f0c954ad6781823a38aed0e79c
+coletado_em: "2026-10-24"
+sha256_raw: d01ac3f21512c654d3f67c7e94622e44d87bfe9e3ef7337e93baa465da70bdba
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.196, DE 07/08/2020
 REGULAMENTA AS ATIVIDADES DE AMBULANTES E ARTESÃOS DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais, e;

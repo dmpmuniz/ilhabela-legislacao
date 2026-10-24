@@ -7,7 +7,7 @@ ano: 2018
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 titulo: "DECRETO MUNICIPAL Nº 6.807, DE 02/01/2018"
 ementa: "NOMEIA A COMISSÃO MUNICIPAL DE AVALIAÇÃO DE BENS INSERVÍVEIS, COM A ATRIBUIÇÃO DE IDENTIFICAR E AVALIAR BENS INSERVÍVEIS DO MUNICÍPIO DE ILHABELA."
 aliases:
@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 6807
   - Decreto Municipal 6807
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806807"
-coletado_em: "2026-10-11"
-sha256_raw: "2e78bd9b08d7bf9a583e38a3edfcb2c55b66f46fda398851c24344b6927c947c"
+coletado_em: "2026-10-24"
+sha256_raw: fb5a1e4816fe5d2bd9c2770b87065fc210e84370864277aca736f4a1e07a0055
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.807, de 02/01/2018
-2ª Versão corresponde a DECRETO MUNICIPAL6.807, de 02/01/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.807, DE 02/01/2018
 NOMEIA A COMISSÃO MUNICIPAL DE AVALIAÇÃO DE BENS INSERVÍVEIS, COM A ATRIBUIÇÃO DE IDENTIFICAR E AVALIAR BENS INSERVÍVEIS DO MUNICÍPIO DE ILHABELA.
 (Revogado pelo

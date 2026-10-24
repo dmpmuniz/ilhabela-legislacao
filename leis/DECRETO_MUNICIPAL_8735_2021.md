@@ -7,7 +7,7 @@ ano: 2021
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 titulo: "DECRETO MUNICIPAL Nº 8.735, DE 08/07/2021"
 ementa: DISPÕE SOBRE NOVAS REGRAS DE TRANSIÇÃO ENTRE AS FASES VERMELHA E LARANJA DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 aliases:
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8735
   - Decreto Municipal 8735
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108735"
-coletado_em: "2026-10-11"
-sha256_raw: "89ac9e1a2823e4126e99c3edcb8f103451b7fb6459158d7a5cca209e3b1d44a7"
+coletado_em: "2026-10-24"
+sha256_raw: "9f7f5a028ec34b561d7f25c21b11936a07e4bcc39a5a6e008a22b5673d86a69e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.735, DE 08/07/2021
 DISPÕE SOBRE NOVAS REGRAS DE TRANSIÇÃO ENTRE AS FASES VERMELHA E LARANJA DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 (Revogado pelo

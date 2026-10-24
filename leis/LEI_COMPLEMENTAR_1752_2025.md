@@ -17,16 +17,10 @@ aliases:
   - Lei Complementar nº 1752
   - LC 1752/2025
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20251752"
-coletado_em: "2026-10-11"
-sha256_raw: fe4ae53d78836f39e294f29c30a09b0ef0bd3b4a8af494691b20439eadf01859
+coletado_em: "2026-10-24"
+sha256_raw: def57c4a461cc6a47282fe53a30071e6d0db8bc6c0a8d9f6adb1d0a0314ef0ec
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.752, DE 04/12/2025
 DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO DE OBRAS E CONSTRUÇÕES IRREGULARES E/OU NÃO AUTORIZADAS NO MUNICÍPIO DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:

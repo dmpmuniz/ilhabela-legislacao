@@ -26,16 +26,10 @@ tags_auto:
   - rh
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221541"
-coletado_em: "2026-10-11"
-sha256_raw: "23f7251a5059bed89e3726288d4b5065035f71fc995c26c91fa145cd5c3cb14f"
+coletado_em: "2026-10-24"
+sha256_raw: "1fc70308b4ad9f4cd2a3b1decbc07a410d728dbbaf101bbd7b932addf9cc7120"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.541, DE 10/08/2022
 FIXA O VENCIMENTO-BASE DOS CARGOS DE AGENTE COMUNITÁRIO DE SAÚDE - ACS E AGENTE DE COMBATE A ENDEMIAS - ACE, ALTERA E INCLUI DISPOSITIVOS NA LEI Nº 1.328/2018 (PLANO DE CARGOS, CARREIRAS E VENCIMENTOS DO QUADRO GERAL DO MUNICÍPIO DE ILHABELA), EM CONSONÂNCIA COM A EMENDA CONSTITUCIONAL Nº 120, DE 05 DE MAIO DE 2022.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

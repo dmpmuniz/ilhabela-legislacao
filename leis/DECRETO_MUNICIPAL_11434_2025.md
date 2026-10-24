@@ -33,16 +33,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511434"
-coletado_em: "2026-10-11"
-sha256_raw: "6f91368ae6f74a01475baf5d2080832a479871bb5a9b5c8f00935b67216d9047"
+coletado_em: "2026-10-24"
+sha256_raw: a329eea32b586ae6b1a4bafdf6ad838bde4a2f0a243767f7299c6eae756d7f73
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.434, DE 15/08/2025
 DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DE LÍDIA LÚCIA SARMENTO DE LIMA DO CARGO POLÍTICO DE SECRETÁRIA MUNICIPAL DE EDUCAÇÃO.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

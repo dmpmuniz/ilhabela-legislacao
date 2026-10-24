@@ -33,17 +33,10 @@ tags_auto:
   - cargos
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181327"
-coletado_em: "2026-10-11"
-sha256_raw: "218964d5e7060e3e10cf9cdb6ffbb29b5b33a6e8eabf7210a31ced41c28d884b"
+coletado_em: "2026-10-24"
+sha256_raw: "603c5663cc2b662d7da659c16382ccea3fe697bf7f3f91f389de198e4bf232c5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.327, de 26/10/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.327, DE 26/10/2018
 DISPÕE SOBRE O
 PLANO DE CARGOS, CARREIRA E VENCIMENTOS DO MAGISTÉRIO PÚBLICO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA

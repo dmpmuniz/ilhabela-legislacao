@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8200
   - Decreto Municipal 8200
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008200"
-coletado_em: "2026-10-11"
-sha256_raw: "53f21bea295c42f1447f4b921cb7e0af9f9634ece0d49b85298fe9c12f0e5055"
+coletado_em: "2026-10-24"
+sha256_raw: b314a57a4a63a181540731c4321c4babf395175c5fa5624e4dd1e2083fca4aab
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.200, DE 10/08/2020
 REGULAMENTA A FORMA DE ACESSO ÀS PRAIAS DURANTE O ESTADO DE CALAMIDADE PÚBLICA DECORRENTE DO NOVO CORONAVÍRUS (COVID-19) E DÁ OUTRAS PROVIDÊNCIAS.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

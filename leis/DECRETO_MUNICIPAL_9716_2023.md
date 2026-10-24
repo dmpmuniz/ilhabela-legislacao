@@ -18,14 +18,17 @@ aliases:
   - Decreto Municipal nº 9716
   - Decreto Municipal 9716
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309716"
-coletado_em: "2026-10-11"
-sha256_raw: "88c1ecb99f5a1a01677f77c53595399040ded730697e17b26abc7e855975c8e9"
+coletado_em: "2026-10-24"
+sha256_raw: "956246effaa757964afb9ad20e731cd1b8574ed1d27a41d244b5e8a0f6fc2516"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 9.716, DE 27/02/2023
 DISPÕE SOBRE O PROLONGAMENTO DE VIA PÚBLICA EM CONSONÂNCIA COM O
 DECRETO MUNICIPAL Nº 8.667 DE 2021
 .
+(Revogado pelo
+Decreto Municipal nº 12.101
+, de 29.09.2026)
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o
 ##### art. 43, V da Lei Orgânica do Município
 ,

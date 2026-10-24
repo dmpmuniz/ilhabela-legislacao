@@ -16,16 +16,10 @@ aliases:
   - Lei 1545
   - Lei nº 1545
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221545"
-coletado_em: "2026-10-11"
-sha256_raw: c6f99010d4736b994b276e2e08c34ba96685315f685f708d2ff4a3bb185600d3
+coletado_em: "2026-10-24"
+sha256_raw: d1bb6776434a31ecbc93ee56dd0211b31c97864e5ed27f72160a18258cc013a6
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.545, DE 15/08/2022
 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CONCEDER ABONO AOS SERVIDORES PÚBLICOS MUNICIPAIS DE ILHABELA
 ANTÔNIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

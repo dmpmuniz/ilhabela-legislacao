@@ -18,24 +18,10 @@ aliases:
   - Decreto Municipal nº 9200
   - Decreto Municipal 9200
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209200"
-coletado_em: "2026-10-11"
-sha256_raw: a725a81a1aad32aca5b9076e7076c5c1538b1b504032c0b49a1fec69dc1cc11f
+coletado_em: "2026-10-24"
+sha256_raw: "7a5286a822252fd7320dd01a48ffe5f8707a90820e7768a9f843eb0d16099285"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-3ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-4ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-5ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-6ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-7ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-8ª Versão corresponde a DECRETO MUNICIPAL9.200, de 06/04/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.200, DE 06/04/2022
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR A JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES - JARI.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

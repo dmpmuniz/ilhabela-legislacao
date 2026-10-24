@@ -33,17 +33,11 @@ tags_auto:
   - fiscalizacao
   - meio_ambiente
   - sustentabilidade
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070547&NroLei=547&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: c8e5c63248fc2626b3c6da365acba6b9ded593e2ad7ebac04d387db7159c955a
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070547"
+coletado_em: "2026-10-24"
+sha256_raw: "59e6775285421133dc22cb519509d496d0c00aad116b0c2b07aecd243609fc9d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 547, DE 19/12/2007
 CRIA A TAXA DE PRESERVAÇÃO AMBIENTAL - TPA, ACRESCE DISPOSITIVO NO CÓDIGO TRIBUTÁRIO MUNICIPAL, E DÁ OUTRAS PROVIDÊNCIAS.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

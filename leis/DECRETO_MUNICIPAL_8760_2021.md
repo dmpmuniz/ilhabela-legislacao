@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8760
   - Decreto Municipal 8760
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108760"
-coletado_em: "2026-10-11"
-sha256_raw: "0ab083bd68f7f613d6ecde0b90bfe4b614fec424ed649bd8f2a035074e8da899"
+coletado_em: "2026-10-24"
+sha256_raw: b578d54b24fb9d876822677f40c2dc84523d2d022cec999e34d22b3f0bdd5e2d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.760, DE 02/08/2021
 DISPÕE SOBRE A INSTAURAÇÃO DA COMISSÃO SINDICANTE TRANSITÓRIA, BEM COMO A DESIGNAÇÃO DE SEUS RESPECTIVOS MEMBROS, NOS TERMOS DA LEI MUNICIPAL Nº 1.326/2018.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

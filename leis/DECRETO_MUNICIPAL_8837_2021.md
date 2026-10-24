@@ -18,12 +18,15 @@ aliases:
   - Decreto Municipal nº 8837
   - Decreto Municipal 8837
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108837"
-coletado_em: "2026-10-11"
-sha256_raw: "05dc7ca3664f5ebaf4006187f9126b4822838cf9f4154de8fde6516fca9a0240"
+coletado_em: "2026-10-24"
+sha256_raw: "37b8aa94e521da83ef5c80bab1d63e0975cd2361d3dcf57050c5dde721242c03"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 8.837, DE 07/10/2021
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
+(Revogado pelo
+Decreto Municipal nº 12.100
+, de 29.09.2026)
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o
 ##### art. 43, V, da Lei Orgânica do Município
 ,

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11455
   - Decreto Municipal 11455
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511455"
-coletado_em: "2026-10-11"
-sha256_raw: "70396af2aafd7e9a20bc30c3fa95b6487c9bbbef25469e6e9e21d120d0b776c8"
+coletado_em: "2026-10-24"
+sha256_raw: "61034c6784fa82dc513a5e5ba8f632303b02e4e51f139c6d9c6ca811e62832f5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.455, DE 20/08/2025
 DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, PELA VIA ADMINISTRATIVA OU JUDICIAL, PARTE DO IMÓVEL QUE ESPECIFICA, SITUADO NO BAIRRO RIBEIRÃO, NESTE MUNICÍPIO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

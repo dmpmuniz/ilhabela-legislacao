@@ -20,17 +20,11 @@ aliases:
   - Decreto nº 053
   - Decreto Municipal nº 053
   - Decreto Municipal 53
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=197500053&NroLei=053&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "28b76a5a16c7c138cee7d3af32e9f0a95b78457af72f6603e5e61cf53732be27"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=197500053"
+coletado_em: "2026-10-24"
+sha256_raw: "19633a6d2e60da2c004d784a7278295e53c8aa557ad1e2647ac0a5f51a00f6eb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 053, DE 01/10/1975
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 ROBERTO FAZZINI, Prefeito Municipal da Estân cia Balneária de Ilhabela, usando de suas atribuições legais,

@@ -15,17 +15,11 @@ aliases:
   - Lei nº 654/2008
   - Lei 654
   - Lei nº 654
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20080654&NroLei=654&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "223c6c3f641fe777221a78fd218b56666289566f6f8756e6dc7b934dfb9ec1e0"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20080654"
+coletado_em: "2026-10-24"
+sha256_raw: d3e0de1053182d58e320ed830c93fe66b8bcae3a73e8b44b8716e0246fa00c5f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 654, DE 03/10/2008
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 FAÇO SABER QUE A CÂMARA APROVOU E EU, NOS TERMOS DO

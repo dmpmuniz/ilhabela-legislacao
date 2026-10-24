@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 7539
   - Decreto Municipal 7539
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907539"
-coletado_em: "2026-10-11"
-sha256_raw: d02b52c77149e35b19d383d6cfe5e66fefc75e8e5dd30db2678960a798909b29
+coletado_em: "2026-10-24"
+sha256_raw: "9994b9f30e41cb3cef0cf5a6ec0713fce710cb7a97a338071e32e4b0376e80e5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.539, de 16/04/2019
-2ª Versão corresponde a DECRETO MUNICIPAL7.539, de 16/04/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.539, DE 16/04/2019
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO, O IMÓVEL QUE ESPECIFICA, DESTINADO À INSTALAÇÃO DO CIAMA (CENTRO DE INCENTIVO AO ALEITAMENTO MATERNO) EM ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais; com fundamento no

@@ -25,16 +25,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171210"
-coletado_em: "2026-10-11"
-sha256_raw: "0bf2c5e345248bc77e0a05ce3151990c9f08dc82eb31369129a04d05785fb3f7"
+coletado_em: "2026-10-24"
+sha256_raw: "222860d6bd107198f0a7249627b5d90c0ed1b1fb79688aecd3637d0fd3ee2e82"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.210, DE 04/09/2017
 DISPÕE SOBRE A REALIZAÇÃO DE PRÉVIA AUDIÊNCIA PÚBLICA PARA LICITAÇÃO PARA OBRAS, COMPRAS, SERVIÇOS E ALIENAÇÕES QUE ESPECIFICA.
 (Inconstitucional pela

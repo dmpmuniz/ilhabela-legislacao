@@ -16,16 +16,10 @@ aliases:
   - Lei 1225
   - Lei nº 1225
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171225"
-coletado_em: "2026-10-11"
-sha256_raw: "5faf2e3e7579460d85630fd4242176a6684f408304d5cebb69a3b8d7afc5d10b"
+coletado_em: "2026-10-24"
+sha256_raw: fe4c59c072065e7f07029a8fe7c44e3d0002052e0512e5b603af72cef954aa5a
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.225, DE 19/10/2017
 CRIA O TÍTULO DE EDUCADOR EXEMPLAR NO ÂMBITO DO MUNICÍPIO DA ESTÂNCIA BLANEÁRIA DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

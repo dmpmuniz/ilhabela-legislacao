@@ -15,17 +15,11 @@ aliases:
   - Lei nº 717/2009
   - Lei 717
   - Lei nº 717
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20090717&NroLei=717&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "6e3657b91e49a2f0e5e1bf7db37e07fd6d7f2eb55a595a8d57b5315a8d3fa217"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20090717"
+coletado_em: "2026-10-24"
+sha256_raw: "5f948031f6ed01f2cabbb2f716e7f346c83f97abc2cd49f952a23571668557d3"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 717, DE 21/07/2009
 CRIA O "PROGRAMA SOS TRABALHO, QUALIFICAÇÃO PROFISSIONAL E ALFABETIZAÇÃO" E DÁ PROVIDÊNCIAS CORRELATAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

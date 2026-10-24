@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8752
   - Decreto Municipal 8752
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108752"
-coletado_em: "2026-10-11"
-sha256_raw: c90dcb4b987ff8581b3f9cee069b84f1fd6d48f6007ced3ac4d6d388cbe092cd
+coletado_em: "2026-10-24"
+sha256_raw: "5c4e2f46b6fd3b5f1b72db8b9fc493fe83fcebd63184e613fa91773ab984f12f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.752, DE 22/07/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS, E DÁ OUTRAS PROVIDÊNCIAS.
 ANTÔNIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe confere o

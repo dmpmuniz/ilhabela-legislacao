@@ -47,7 +47,7 @@
 concessao, estancia, balnearia, servidores, ferias, licenca, concede, premio, servidora, maternidade, servidor, afastamento, trato, particulares, conversao, pecunia, cessa, remuneracao, assuntos, interesses, jesus, portaria, conceder, lopes, carolina, valeria, priscila, santana, azevedo, clemencio
 
 ## Período
-2020 a 2024 · 1.594 normas · ~299.955 palavras de texto
+2020 a 2024 · 1.594 normas · ~299.933 palavras de texto
 
 Parte 6 de 7
 
@@ -42439,12 +42439,6 @@ Registre-se, publique-se cumpra-se, operando seus efeitos a partir de
 > **Ementa:** DISPÕE SOBRE A CONCESSÃO DE LICENÇA PRÊMIO AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022846
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 846, DE 20/12/2022
 DISPÕE SOBRE A CONCESSÃO DE LICENÇA PRÊMIO AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:

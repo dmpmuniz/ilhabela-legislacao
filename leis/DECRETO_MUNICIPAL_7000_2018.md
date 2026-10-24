@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 7.000, DE 27/04/2018"
-ementa: "DISPÕE SOBRE A NOMEAÇÃO DA SENHORA MYRELLA CHAN SERAFIM, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR DA PRIMEIRA INFÂNCIA. (NR LM 7.425/2019 )"
+ementa: "DISPÕE SOBRE A NOMEAÇÃO DA SENHORA MYRELLA CHIAN SERAFIM, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR DA PRIMEIRA INFÂNCIA."
 aliases:
   - Decreto 7000/2018
   - Decreto nº 7000/2018
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7000
   - Decreto Municipal 7000
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807000"
-coletado_em: "2026-10-11"
-sha256_raw: c17516a0dd0dce0ceaf3d1e5d7bb53fc0c733c0a4163f6e4a600d5da188ebb59
+coletado_em: "2026-10-24"
+sha256_raw: "95d9c805b70b671e3ff8bbd7fab955c67b6e6cc1b1c0cf264ce2cbfe6b1e1ec0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.000, DE 27/04/2018
 DISPÕE SOBRE A NOMEAÇÃO DA SENHORA MYRELLA CHIAN SERAFIM, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 MARCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições legais;

@@ -32,18 +32,11 @@ tags_auto:
   - cargos
   - administracao_publica
   - estrutura
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070533&NroLei=533&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "9969a4a6366c630969495650be75c0745f643b3e1554063c6c8b39e91c061399"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070533"
+coletado_em: "2026-10-24"
+sha256_raw: dcbf2f73c57df46b350074739c6cdb1183a87b9b1da761a8ba939ad621db204c
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL533, de 04/12/2007
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 533, DE 04/12/2007
 REORGANIZA A
 ESTRUTURA ADMINISTRATIVA DA CÂMARA MUNICIPAL DE ILHABELA

@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201605621"
-coletado_em: "2026-10-11"
-sha256_raw: db1c2bde1076ba6b503fbf47f36519f79335675c345daff746176e51335df29a
+coletado_em: "2026-10-24"
+sha256_raw: e75cb65a9ef194e751e10bf4050e490b2d275e4d87531f9eaa071d5ace001622
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.621, DE 12/09/2016
 DISPÕE SOBRE A DENOMINAÇÃO DA ESCOLA MUNICIPAL DO BAIRRO BARRA VELHA.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;

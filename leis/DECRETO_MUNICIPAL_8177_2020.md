@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8177
   - Decreto Municipal 8177
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008177"
-coletado_em: "2026-10-11"
-sha256_raw: "497e0dbbfe96d35dd7f9e4cc0e38e285c2a063304a0fc1de64d01f46a11b9052"
+coletado_em: "2026-10-24"
+sha256_raw: "9c47a0fa41f59e6359279371dd03c886439d80c6779032f23db80672a8701d6a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.177, DE 17/07/2020
 DISPÕE SOBRE A FORMA E SISTEMÁTICA DE TRABALHO DOS SERVIDORES PÚBLICOS MUNICIPAIS EM CONDIÇÕES DE SAÚDE ESPECÍFICAS E DÁ OUTRAS PROVIDÊNCIAS.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso da atribuição que lhe confere o

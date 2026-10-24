@@ -27,16 +27,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309970"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "8905380f7445ea6d1388bf640a2f90f25d6a7ec2c9807c0b0d1f79adbc088ba1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.970, DE 14/08/2023
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, AGENTE DE CONTRATAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo

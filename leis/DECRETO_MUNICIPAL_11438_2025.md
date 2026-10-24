@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11438
   - Decreto Municipal 11438
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511438"
-coletado_em: "2026-10-11"
-sha256_raw: "7f4a07bf58f6109e206fe10e07f6272fea48c95ac3c0a0df17d11ddfe621e02f"
+coletado_em: "2026-10-24"
+sha256_raw: "4c2cf9d6d9d9c6042c2bc7dfc9ad9703f11a9272d1fbfab1a8c667078a2242a7"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.438, DE 19/08/2025
 DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, PELA VIA ADMINISTRATIVA OU JUDICIAL, PARTE DO IMÓVEL QUE ESPECIFICA, SITUADO NO BAIRRO RIBEIRÃO, NESTE MUNICÍPIO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

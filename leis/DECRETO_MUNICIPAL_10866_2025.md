@@ -27,12 +27,15 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202510866"
-coletado_em: "2026-10-11"
-sha256_raw: "3c878af4f1304389109c7873d3537ee37d8a5a69cff53ce641c092fbc9b2417e"
+coletado_em: "2026-10-24"
+sha256_raw: f52fcaf89c67cafac12d9e0dc09598f7e89d57b669c32d13dea9fb9b8757a13f
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 10.866, DE 13/01/2025
 DISPÕE SOBRE A DESIGNAÇÃO DE IZAIRA BARROS SILVA PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISORA DE SERVIÇOS ADMINISTRATIVOS DAS COMUNIDADES TRADICIONAIS, NA SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E INCLUSÃO SOCIAL.
+(Servidor(a) exonerado(a) pelo
+Decreto Municipal nº 12.093
+, de 24.09.2026)
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
 DECRETA:
 ##### Art. 1º

@@ -28,16 +28,10 @@ tags_auto:
   - rh
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907839"
-coletado_em: "2026-10-11"
-sha256_raw: bf7a88c3d9110268d20a671f51c62153aabe49c0d09e2121059a95e00f824ef3
+coletado_em: "2026-10-24"
+sha256_raw: "3b983ef6f1215b7eabc77ad26eb92e012f7eaa03f691e175637b05c9bbca95ce"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.839, DE 25/11/2019
 DISPÕE SOBRE A INSTITUIÇÃO DA COMISSÃO ESPECIAL DE CONCURSO PÚBLICO, A NOMEAÇÃO DE SEUS MEMBROS E DÁ OUTRAS PROVIDÊNCIAS.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das atribuições que lhe são conferidas por Lei;

@@ -15,19 +15,11 @@ aliases:
   - Lei nº 171/2003
   - Lei 171
   - Lei nº 171
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20030171&NroLei=171&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a4ab263d282408dfbecae1a8fd07218d20ff9a5b79052a897a2991918575e75c
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20030171"
+coletado_em: "2026-10-24"
+sha256_raw: "2fa7aeae862817a248793ee81856edf10e7f701e1f6c9f45519ea037e674c679"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL171, de 25/02/2003
-2ª Versão corresponde a LEI MUNICIPAL171, de 25/02/2003
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 171, DE 25/02/2003
 AUTORIZA O PODER EXECUTIVO A CONCEDER "PRÓ-LABORE, NO VALOR E NAS CONDIÇÕES QUE ESTABELECE, PARA OS POLICIAIS MILITARES PERTENCENTES DO 3º PELOTÃO DA POLÍCIA MILITAR DE ILHABELA, E DÁ OUTRAS PROVIDÊNCIAS.
 (NR

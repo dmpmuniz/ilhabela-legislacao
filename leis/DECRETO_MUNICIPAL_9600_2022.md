@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9600
   - Decreto Municipal 9600
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209600"
-coletado_em: "2026-10-11"
-sha256_raw: a5ebd700d3eeba3e9b090859ef123a863a482b43b8e005a82c9cc20cdfe633cc
+coletado_em: "2026-10-24"
+sha256_raw: "8cda736c2a5356ecfb2c981ca8319a4f94dbe0195432f752ff343199eb63d522"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.600, DE 28/12/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A AMPLIAÇÃO DO PARQUE DO GALERA NO BAIRRO DA ÁGUA BRANCA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

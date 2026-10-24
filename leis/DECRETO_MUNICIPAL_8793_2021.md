@@ -28,16 +28,10 @@ tags_auto:
   - orcamento
   - financas
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108793"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: c1bfeb2fefb34bc8db443d51e62e53f4249b2eef14ba68fa20d0e2f3486c81cc
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.793, DE 20/09/2021
 ABRE CRÉDITO SUPLEMENTAR NO ORÇAMENTO MUNICIPAL VIGENTE.
 (vigência esgotada)

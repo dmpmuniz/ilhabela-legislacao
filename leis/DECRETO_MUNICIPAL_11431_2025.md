@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11431
   - Decreto Municipal 11431
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511431"
-coletado_em: "2026-10-11"
-sha256_raw: "820b9b7c99c206e4fdda59991ea89b891655d2f199917763bf0c60e7b4b8e8de"
+coletado_em: "2026-10-24"
+sha256_raw: "9131e0cb7a53a1d5f618236e2f9b872365a786a30afdf2b08af59a33adc75d3a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.431, DE 14/08/2025
 DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, PELA VIA ADMINISTRATIVA OU JUDICIAL, PARTE DO IMÓVEL QUE ESPECIFICA, SITUADO NO BAIRRO BARRA VELHA, NESTE MUNICÍPIO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

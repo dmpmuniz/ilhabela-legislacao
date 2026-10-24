@@ -17,17 +17,11 @@ aliases:
   - Decreto nº 2354
   - Decreto Municipal nº 2354
   - Decreto Municipal 2354
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201002354&NroLei=2.354&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a90dcbc689899f656b754292c67c8ef51723468855aa9477e6a0cc283f3a73fe
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201002354"
+coletado_em: "2026-10-24"
+sha256_raw: c93beb162ac8d481952f9a52da5ff765da4dd235be7ab9f67a16ef06e81502e1
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 2.354, DE 03/11/2010
 DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO LOCALIZADO NO BAIRRO ENGENHO D’ÁGUA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais; com fundamento no

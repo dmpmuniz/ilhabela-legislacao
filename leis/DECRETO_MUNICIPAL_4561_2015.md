@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 4.561, DE 30/04/2015"
-ementa: "DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO FAZENDA ENGENHO D&RSQUO;ÁGUA."
+ementa: DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO FAZENDA ENGENHO D’ÁGUA.
 aliases:
   - Decreto 4561/2015
   - Decreto nº 4561/2015
@@ -17,13 +17,13 @@ aliases:
   - Decreto nº 4561
   - Decreto Municipal nº 4561
   - Decreto Municipal 4561
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504561&NroLei=4.561&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a178e906d213450250768fee24185f3b36a9bfcc6943ab3532dc0a0fd5bfe69f
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504561"
+coletado_em: "2026-10-24"
+sha256_raw: "7698ae3e6e7d626f7c47a5a58c80d5448c23e323e970e6253ed595a08e2d432d"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 4.561, DE 30/04/2015
-DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO FAZENDA ENGENHO D&RSQUOÁGUA.
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO FAZENDA ENGENHO D’ÁGUA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais; com fundamento no
 Decreto-Lei nº 3.365
 , de 21 de junho de 1941 e demais legislações atinentes a espécie,

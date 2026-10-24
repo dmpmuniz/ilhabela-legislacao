@@ -32,16 +32,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807145"
-coletado_em: "2026-10-11"
-sha256_raw: a52a14cbdb1c44a0901b5fc92750b245a0be3b7e6d48fe7ea79294d1a47f9f59
+coletado_em: "2026-10-24"
+sha256_raw: "1cd82dd3b78e0ab56659c5750af32d7402a032e0280e33b04e9682ba4cf4f2bb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.145, DE 01/10/2018
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO MUNICIPAL DE PROCESSO SELETIVO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais;

@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 6879
   - Decreto Municipal 6879
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806879"
-coletado_em: "2026-10-11"
-sha256_raw: be38f81090fbbcfaaef8e6ebdbd19cbb5f8667c3a46650c313c4e819f50940f3
+coletado_em: "2026-10-24"
+sha256_raw: "7f1272cecc0a5e5a6bbaab3dbb07b14fb568294df47a4c7837623b8ba65c97b7"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.879, de 06/02/2018
-2ª Versão corresponde a DECRETO MUNICIPAL6.879, de 06/02/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.879, DE 06/02/2018
 REGULAMENTA, NO ÂMBITO MUNICIPAL, O PROGRAMA BOLSA-ATLETA, CRIADO PELA LEI MUNICIPAL Nº 1.197/2017.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MÁRCIO BATISTA TENÓRIO, no uso da atribuição que lhe confere o

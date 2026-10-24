@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9175
   - Decreto Municipal 9175
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209175"
-coletado_em: "2026-10-11"
-sha256_raw: c1ad15ce79e43a78a2f7e0553e5325086f817544e1d7cf0cab894e3f96aac4dd
+coletado_em: "2026-10-24"
+sha256_raw: "9343c4afe98e5437f28f3c16deaa92e2fe101904aa3518782ed8fdc65146f9d8"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.175, DE 29/03/2022
 ALTERA A DESTINAÇÃO PÚBLICA DO IMÓVEL DESCRITO PELO DECRETO MUNICIPAL Nº 7.133/2020.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

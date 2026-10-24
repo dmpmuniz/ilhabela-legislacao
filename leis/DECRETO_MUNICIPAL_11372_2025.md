@@ -27,18 +27,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511372"
-coletado_em: "2026-10-11"
-sha256_raw: "1750c65f66a2b5ec62dc6570a3eafa0378ab46ac8f96546808e1b76889cb51bb"
+coletado_em: "2026-10-24"
+sha256_raw: "39b46259a033970e8458b19e5fb8f36b826f1a2d2916a4279d32604bf6a2d884"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.372, de 23/06/2025
-2ª Versão corresponde a DECRETO MUNICIPAL11.372, de 23/06/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.372, DE 23/06/2025
 DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE MEIO AMBIENTE – CMMA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

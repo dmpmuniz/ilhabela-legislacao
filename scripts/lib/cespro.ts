@@ -22,14 +22,14 @@ export type ItemListagem = {
 }
 
 /** POST content-pesquisa: uma página da listagem (50 itens, mais novos primeiro). */
-export function urlPesquisa(cdMunicipio: string, pagina: number): string {
+export function urlPesquisa(cdMunicipio: string, pagina: number, palavra = ""): string {
   const q = new URLSearchParams({
     cdMunicipio,
     LocalPesquisa: "Ementa",
     cdTipo: "Todos",
     dsStatus: "Todos",
     Submit: "Pesquisar",
-    Word: "",
+    Word: palavra,
     nPage: String(pagina),
     operacao: "content-pesquisa",
   })
@@ -322,8 +322,26 @@ export type BlocoGerado = {
   corpo: string
 }
 
-const ementaNormalizada = (s: string | null | undefined): string =>
-  !s || s === "(sem ementa)" ? "" : s
+const ementaNormalizada = (s: string | null | undefined): string => {
+  const t = !s || s === "(sem ementa)" ? "" : String(s).trim()
+  // ementa numérica: o portal zero-preenche ("01") e o corpus guarda "1"
+  return /^\d+$/.test(t) ? String(Number(t)) : t
+}
+
+/**
+ * Nota expressa de saída de vigor que o próprio portal publica no corpo
+ * ("(Revogado pelo ...)", "(Efeitos cessados ...)"). Só vale no início do
+ * texto: no meio do articulado a mesma expressão costuma revogar OUTRA norma.
+ */
+export function statusDaNota(corpo: string): string | null {
+  const inicio = String(corpo ?? "").slice(0, 1000)
+  if (/\(\s*revogad[ao]\b/i.test(inicio)) return "revogada"
+  if (/\(\s*(?:efeitos cessados|vig[êe]ncia esgotada)\b/i.test(inicio)) return "expirada"
+  if (/\(\s*anulad[ao]\b/i.test(inicio)) return "anulada"
+  if (/\(\s*inconstitucional\b/i.test(inicio)) return "inconstitucional"
+  if (/\(\s*suspens[ao]\b/i.test(inicio)) return "suspensa"
+  return null
+}
 
 /**
  * Compara um bloco do export com o diploma recém-baixado do Cespro.
@@ -331,10 +349,15 @@ const ementaNormalizada = (s: string | null | undefined): string =>
  *
  * `status` vazio no remoto é ausência de dado, não divergência: o antigo
  * checklist humano também não tinha como comparar o que o portal não informa.
+ *
+ * `statusListagem` é o `ds_status` da listagem, usado só para desempatar o
+ * caso em que a página do diploma diz "em vigor" mas a norma já saiu de vigor
+ * (o portal tem os dois campos inconsistentes em ~11 normas).
  */
 export function compararDiploma(
   local: BlocoGerado,
   remoto: DiplomaExtraido | null,
+  statusListagem?: string | null,
 ): string[] {
   if (!remoto) return ["portal sem conteúdo utilizável"]
   const erros: string[] = []
@@ -344,9 +367,20 @@ export function compararDiploma(
   if (ementaNormalizada(local.ementa) !== ementaNormalizada(remoto.ementa)) {
     erros.push("ementa")
   }
+  const statusLocal = String(local.status ?? "").replaceAll("_", " ")
   const statusRemoto = String(remoto.status ?? "").replaceAll("_", " ")
-  if (statusRemoto && String(local.status) !== statusRemoto) {
-    erros.push(`status: ${JSON.stringify(local.status)} != ${JSON.stringify(statusRemoto)}`)
+  if (statusRemoto && statusLocal !== statusRemoto) {
+    // Assimetria proposital: local "em vigor" contra portal fora de vigor é
+    // sempre erro (norma revogada não pode continuar sendo citada como
+    // vigente). O contrário — local fora de vigor e diploma dizendo "em
+    // vigor" — passa quando a listagem ou a nota do corpo confirmam a saída.
+    const confirmada =
+      statusLocal !== "em vigor" &&
+      statusRemoto === "em vigor" &&
+      (mapearStatus(statusListagem) === statusLocal || statusDaNota(remoto.corpo) === statusLocal)
+    if (!confirmada) {
+      erros.push(`status: ${JSON.stringify(statusLocal)} != ${JSON.stringify(statusRemoto)}`)
+    }
   }
   if (local.corpo.trim() !== remoto.corpo.trim()) erros.push("corpo")
   return erros

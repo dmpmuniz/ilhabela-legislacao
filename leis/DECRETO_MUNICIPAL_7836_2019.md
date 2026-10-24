@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7836
   - Decreto Municipal 7836
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907836"
-coletado_em: "2026-10-11"
-sha256_raw: "890efee78dec2c0a71e3f4b34852fa05ab38e3362c54d3de0d3509b37fce73b1"
+coletado_em: "2026-10-24"
+sha256_raw: b435681ddff16e09e276d79b8f51caf722a9b01814750958bf3207076c7ca233
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.836, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

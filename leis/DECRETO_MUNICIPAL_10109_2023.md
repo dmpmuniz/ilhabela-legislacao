@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10109
   - Decreto Municipal 10109
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310109"
-coletado_em: "2026-10-11"
-sha256_raw: a1c35bad5c25ca74b0deb04391a9f44e04a2ad2cb3da3738f2525d4e0e8ab99d
+coletado_em: "2026-10-24"
+sha256_raw: "20b93e92d4f4278c51deefd43ba2926c35d77bf8a9dd6a62e0647520b371bad1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.109, DE 31/10/2023
 DISPÕE SOBRE A INSTITUIÇÃO DA COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIO - CIPA, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

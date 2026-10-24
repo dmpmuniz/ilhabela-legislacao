@@ -15,17 +15,11 @@ aliases:
   - Lei nº 921/2011
   - Lei 921
   - Lei nº 921
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110921&NroLei=921&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "89ff548736cc3cb05ffd8a4beeb99136dfac7c87d79fd313992f037a5d62ef3f"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110921"
+coletado_em: "2026-10-24"
+sha256_raw: "20c72093082f32d1df5caadad21cd951a42c65b391a8bec576c28220f8b8d1c2"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 921, DE 08/12/2011
 AUTORIZA O CHEFE DO PODER EXECUTIVO A CRIAR O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

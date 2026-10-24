@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10185
   - Decreto Municipal 10185
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310185"
-coletado_em: "2026-10-11"
-sha256_raw: "7a8020d78542cedb6601a8516748951adbf41facf3827b5887c24bc972bf6509"
+coletado_em: "2026-10-24"
+sha256_raw: "49e1a24233b7737ad04b76d8ed7af69d41e57d7323c996a8ba5d6a71c4ae217e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.185, DE 19/12/2023
 DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, PELA VIA ADMINISTRATIVA OU JUDICIAL, AS ÁREAS QUE MENCIONA, DESTACADAS DO IMÓVEL SITUADO NO BAIRRO BARRA VELHA, NESTE MUNICÍPIO, DESTINADAS A IMPLANTAÇÃO DO CAPI - CENTRO DE APOIO PEDAGÓGICO E ADEQUAÇÃO DO SISTEMA VIÁRIO NO LOCAL.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

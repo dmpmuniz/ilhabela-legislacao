@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9687
   - Decreto Municipal 9687
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309687"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "57888c3dcdede38d7411ab0e494b50e685d0dc1d89a679d353a18504b6f59c93"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.687, de 06/02/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.687, DE 06/02/2023
 DISPÕE SOBRE A INSTAURAÇÃO DA COMISSÃO SINDICANTE TRANSITÓRIA, A DESIGNAÇÃO DE SEUS MEMBROS, NOS TERMOS DA LEI MUNICIPAL Nº 1.326/2018, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

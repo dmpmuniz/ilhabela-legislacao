@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 7192
   - Decreto Municipal 7192
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807192"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "974f21c81260c37a9454215bbdecaf320ddd0f1f33ed34e10bdfe7953b51d17e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.192, de 06/11/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.192, DE 06/11/2018
 REGULAMENTA A LEI MUNICIPAL Nº 1.267/2018, QUE INSTITUIU O VALE-REFEIÇÃO AOS SERVIDORES PÚBLICOS EFETIVOS DO PODER EXECUTIVO MUNICIPAL, DAS AUTARQUIAS E FUNDAÇÕES MUNICIPAIS DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

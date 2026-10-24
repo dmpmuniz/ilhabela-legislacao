@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8356
   - Decreto Municipal 8356
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008356"
-coletado_em: "2026-10-11"
-sha256_raw: "4ed687b170e0d6ebd71522ffa48ff8237d94b87ff3ac1a4dc05931546d4c076c"
+coletado_em: "2026-10-24"
+sha256_raw: "47e0fe738dbae718c64b7fb7de0ad89478744a14d481d71f130cc8660d91c9e3"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.356, de 30/12/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.356, DE 30/12/2020
 REGULAMENTA A CONCESSÃO DAS FÉRIAS, NOS TERMOS DO TÍTULO IV, CAPÍTULO IV, BEM COMO OS EVENTOS DISCIPLINADOS PELOS ARTS. 63 E 105 DA LEI COMPLEMENTAR Nº 1.326, DE 26 DE OUTUBRO DE 2018.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

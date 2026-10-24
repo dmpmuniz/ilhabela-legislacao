@@ -27,16 +27,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108405"
-coletado_em: "2026-10-11"
-sha256_raw: a06a0ac5354e8fb630cd4440ea45a1feccc2f4877b4ca05d47de7c1263cf9ed1
+coletado_em: "2026-10-24"
+sha256_raw: d89f776c8de29431f8a332de5550212b1fc92c836122f1d1cbec1a5874598c8e
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.405, DE 25/01/2021
 CRIA A COMISSÃO DE FARMÁCIA E TERAPÊUTICA - CFT DA SECRETARIA MUNICIPAL DE SAÚDE.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições e,

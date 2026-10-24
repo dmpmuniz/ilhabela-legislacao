@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8904
   - Decreto Municipal 8904
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108904"
-coletado_em: "2026-10-11"
-sha256_raw: "9a938b888bbf1bc9b29cb05462829e74d1ea4c350942a8b0a6ca6af14936dfe2"
+coletado_em: "2026-10-24"
+sha256_raw: "93ffd8abc9f429ad83d448961d415c8e0c74fe3cf1591c169fc85d27bf3e60d1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.904, DE 10/12/2021
 ESTABELECE PROIBIÇÃO DE ENTRADA E CIRCULAÇÃO DE CAMINHÕES NO MUNICÍPIO DE ILHABELA NOS HORÁRIOS E DIAS QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7372
   - Decreto Municipal 7372
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907372"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "5f0e7167b197d02e67ee72ffd1ed75545c1037f451bb54c04b9e9a252f8c3c62"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.372, DE 18/02/2019
 DISPÕE SOBRE A NOMEAÇÃO DA SENHORA EMILY CRISTINA SENA GODINHO DA ROSA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 (Servidor(a) Exonerado(a) pelo

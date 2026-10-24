@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 10310
   - Decreto Municipal 10310
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410310"
-coletado_em: "2026-10-11"
-sha256_raw: d55ee66a0038b70cabb721b6fb94954bd9008de1ba9405606df5a403732375b7
+coletado_em: "2026-10-24"
+sha256_raw: "3ab010bcbdcbd2c1733659a46daea7e586b28aa72582c68a83c1f2d20c0e93a0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.310, de 22/03/2024
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.310, DE 22/03/2024
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOR O CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA COM DEFICIÊNCIA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

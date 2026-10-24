@@ -27,17 +27,10 @@ tags_auto:
   - saude
   - servicos_publicos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209591"
-coletado_em: "2026-10-11"
-sha256_raw: "71a60fcdb95a04c93846d9c1a6be2a5bd638966893c4e8be820ce83e4b9f00e4"
+coletado_em: "2026-10-24"
+sha256_raw: "003aac23968f66cad99e9ad7d283c0f8337c21c2a373a1010955d89b53d0f975"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.591, de 28/12/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.591, DE 28/12/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A CONSTRUÇÃO DE NOVA UNIDADE DE SAÚDE DO ALTO DA BARRA VELHA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

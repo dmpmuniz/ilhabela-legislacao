@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 5188
   - Decreto Municipal 5188
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201505188"
-coletado_em: "2026-10-11"
-sha256_raw: f68bb8a8415ae0d7e04094e0af7797b2f9386b7ae863515124659cdcbe3705ab
+coletado_em: "2026-10-24"
+sha256_raw: "23b9ba6def9927a122d4608aafc8df0cc281b8263e83d2e43691d722228c866c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.188, DE 10/11/2015
 REGULAMENTAO CARTÃO ALIMENTAÇÃO DO PROGRAMA SOS TRABALHO, QUALIFICAÇÃO PROFISSIONAL E ALFABETIZAÇÃO, INSTITUÍDO PELA LEI MUNICIPAL Nº 717/2009.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

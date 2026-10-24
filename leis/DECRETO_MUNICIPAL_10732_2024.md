@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10732
   - Decreto Municipal 10732
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410732"
-coletado_em: "2026-10-11"
-sha256_raw: "7cd2831eaf58ac9df40425be6be73a35e1f68ed8d956a293677c22294f1a3541"
+coletado_em: "2026-10-24"
+sha256_raw: "2ddf1536557cc23517dede1b48018ab29435926580cf829a847c24007baeea0f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.732, DE 08/11/2024
 DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, PELA VIA ADMINISTRATIVA OU JUDICIAL, PARTE DO IMÓVEL QUE ESPECIFICA, SITUADO NO BAIRRO RIBEIRÃO, NESTE MUNICÍPIO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

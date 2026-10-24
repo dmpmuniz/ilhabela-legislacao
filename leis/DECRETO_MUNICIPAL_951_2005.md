@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 951, DE 22/03/2005"
-ementa: "DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO ENGENHO D&RSQUO;ÁGUA, DESTINADO A CONTINUIDADE DA CICLOVIA."
+ementa: "DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO ENGENHO D’ÁGUA, DESTINADO A CONTINUIDADE DA CICLOVIA."
 aliases:
   - Decreto 951/2005
   - Decreto nº 951/2005
@@ -26,13 +26,13 @@ palavras_chave_auto:
 tags_auto:
   - transporte
   - mobilidade_urbana
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200500951&NroLei=951&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: dfec904ffce165a1bc7d85701c545344125ee5afe6095aa44ace35a515f8dcd1
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200500951"
+coletado_em: "2026-10-24"
+sha256_raw: add7e15d0232b513ad87802cd3986a5bb277e3540d26650adce62a807958f956
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 951, DE 22/03/2005
-DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO ENGENHO D&RSQUOÁGUA, DESTINADO A CONTINUIDADE DA CICLOVIA.
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO LOCAL DENOMINADO ENGENHO D’ÁGUA, DESTINADO A CONTINUIDADE DA CICLOVIA.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
 DECRETA:
 ##### Art. 1º

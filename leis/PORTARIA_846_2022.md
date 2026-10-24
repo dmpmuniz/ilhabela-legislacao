@@ -16,16 +16,10 @@ aliases:
   - Portaria 846
   - Portaria nº 846
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022846"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "153185cb656e112eafc95c9482a1eb8acfee26eb8a4870d847530fe2a9160726"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 846, DE 20/12/2022
 DISPÕE SOBRE A CONCESSÃO DE LICENÇA PRÊMIO AOS SERVIDORES DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 MAURICIO BURIZIK CALIL, Secretário Municipal de Administração da Estância Balneária de Ilhabela, no uso de suas atribuições legais:

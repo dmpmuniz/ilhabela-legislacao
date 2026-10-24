@@ -32,17 +32,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706583"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "49c6fe95065de0099475696be5a86c0ca1b3cb212889eb7ae484c029db5331c1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.583, de 17/08/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.583, DE 17/08/2017
 DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

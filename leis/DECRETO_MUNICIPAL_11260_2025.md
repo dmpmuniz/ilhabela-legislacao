@@ -29,16 +29,10 @@ tags_auto:
   - turismo
   - patrimonio
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511260"
-coletado_em: "2026-10-11"
-sha256_raw: "1f9375daf9f5455089278542fce0ef946630ca8adeae15ad44afc275823eed64"
+coletado_em: "2026-10-24"
+sha256_raw: cf80042a9e433fa1c84ea42fe8b031788f33d97df1f57497090ccf821f1b28e3
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.260, DE 31/03/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE TURISMO DE ILHABELA - COMTUR, PARA MANDATO DE 02 (DOIS) ANOS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

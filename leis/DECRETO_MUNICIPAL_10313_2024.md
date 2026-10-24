@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10313
   - Decreto Municipal 10313
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410313"
-coletado_em: "2026-10-11"
-sha256_raw: "73ebd83bbd7fa4df37e04470077b46d1d1ddd7a079570f7c750ef3ef7f5e5e07"
+coletado_em: "2026-10-24"
+sha256_raw: "91943779c1ffd011a8bad27c996b982e8dc53b8ed50fd608b598dcac957f0e69"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.313, DE 26/03/2024
 DISPÕE SOBRE A DESIGNAÇÃO DE AGENTES DA CONTRATAÇÃO, PREGOEIROS, MEMBROS DAS COMISSÕES DE CONTRATAÇÃO E DAS EQUIPES DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

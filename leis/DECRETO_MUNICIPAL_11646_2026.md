@@ -28,16 +28,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026011646"
-coletado_em: "2026-10-11"
-sha256_raw: "699fa03fabfffc874bacfa7f5ce8816efc59182090b68c2a5a91abc73f476615"
+coletado_em: "2026-10-24"
+sha256_raw: ea4b3a1ecd81d2a7bbde304363a7c3d9754584a98100aa356bf10a5a49772a72
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.646, DE 22/01/2026
 DISPÕE SOBRE O REAJUSTE DA TARIFA DO TRANSPORTE PÚBLICO COLETIVO URBANO NO MUNICÍPIO.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei;

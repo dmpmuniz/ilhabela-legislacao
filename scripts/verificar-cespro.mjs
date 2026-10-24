@@ -16,7 +16,15 @@
 import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 import { parseArgs } from 'node:util'
-import { urlDiploma, corpoDiploma, extrairDiploma, compararDiploma } from './lib/cespro.ts'
+import {
+  urlDiploma,
+  corpoDiploma,
+  urlPesquisa,
+  corpoPesquisa,
+  tipoENumeroDoTitulo,
+  extrairDiploma,
+  compararDiploma,
+} from './lib/cespro.ts'
 import { chamarApi } from './atualizar.ts'
 
 const PASTA = 'notebooklm'
@@ -101,6 +109,37 @@ const sleepJitter = () => {
   return new Promise(r => setTimeout(r, min + Math.random() * (max - min)))
 }
 
+// ds_status da listagem para UMA norma. A varredura completa (716 páginas)
+// esbarrava em timeout quando rodava junto com os 16 workers dos diplomas;
+// a busca por número devolve o item exato e custa 1 pedido por divergência.
+const cacheListagem = new Map()
+async function statusNaListagem(cdMunicipio, id, titulo) {
+  const chave = `${cdMunicipio}:${id}`
+  if (cacheListagem.has(chave)) return cacheListagem.get(chave)
+  const { numero } = tipoENumeroDoTitulo(titulo)
+  let status = null
+  if (numero) {
+    // número repetido em vários anos: até 3 páginas (150 itens) para achar o id
+    for (let pagina = 1; pagina <= 3; pagina++) {
+      const data = await chamarApi(
+        urlPesquisa(cdMunicipio, pagina, numero),
+        corpoPesquisa(cdMunicipio),
+        cdMunicipio,
+      )
+      const itens = Object.values(data?.dados_legislacao_resultado_pesquisa_json ?? {})
+      const alvo = itens.find((i) => String(i?.id) === String(id))
+      if (alvo?.ds_status != null) {
+        status = String(alvo.ds_status)
+        break
+      }
+      if (itens.length < 50) break
+      await sleepJitter()
+    }
+  }
+  cacheListagem.set(chave, status)
+  return status
+}
+
 function primeiraDiferenca(a, b) {
   const x = a.trim()
   const y = b.trim()
@@ -132,18 +171,29 @@ async function verificar(job) {
       ds_resumo: api.dados_extra?.tx_ementa,
       ds_status: api.dados_diploma_original?.ds_situacao,
     })
-    const erros = compararDiploma(
-      { titulo: job.titulo, ementa: job.ementa, status: job.status, corpo: job.corpo },
-      remoto,
-    )
+    const local = { titulo: job.titulo, ementa: job.ementa, status: job.status, corpo: job.corpo }
+    let erros = compararDiploma(local, remoto)
+    if (remoto && erros.some(e => e.startsWith('status:'))) {
+      try {
+        erros = compararDiploma(local, remoto, await statusNaListagem(cdMunicipio, id, job.titulo))
+      } catch (e) {
+        erros = [...erros, `listagem: ${e.message}`]
+      }
+    }
     if (remoto && erros.includes('corpo')) {
       erros[erros.indexOf('corpo')] = `corpo: ${primeiraDiferenca(job.corpo, remoto.corpo)}`
     }
+    const portalInconsistente =
+      Boolean(remoto) &&
+      String(job.status) !== 'em vigor' &&
+      String(remoto.status) === 'em_vigor' &&
+      !erros.some(e => e.startsWith('status:'))
     return {
       parte: job.parte,
       ref: job.ref,
       erros,
       semStatus: !api.dados_diploma_original?.ds_situacao,
+      portalInconsistente,
     }
   } catch (e) {
     return { parte: job.parte, ref: job.ref, erros: [`rede: ${e.message}`] }
@@ -178,6 +228,7 @@ if (concluidos >= 500) process.stderr.write('\n')
 
 const falhas = resultados.filter(r => r.erros.length)
 const semStatus = resultados.filter(r => r.semStatus).length
+const inconsistentes = resultados.filter(r => r.portalInconsistente)
 const seg = ((Date.now() - inicio) / 1000).toFixed(0)
 
 // Relatório completo em idx/ (derivado, fora do git): o stdout corta em 100.
@@ -189,6 +240,7 @@ await writeFile(
     total: resultados.length,
     conformes: resultados.length - falhas.length,
     semStatus,
+    portalInconsistente: inconsistentes.map(({ parte, ref }) => ({ parte, ref })),
     falhas,
   }, null, 2),
 )
@@ -197,6 +249,12 @@ console.log(
   `\n${(resultados.length - falhas.length).toLocaleString('pt-BR')}/${resultados.length.toLocaleString('pt-BR')} conformes ` +
   `(${seg}s${semStatus ? `, ${semStatus} sem status no portal` : ''})`,
 )
+if (inconsistentes.length) {
+  console.log(
+    `  ${inconsistentes.length} status confirmado(s) pela listagem/nota do corpo ` +
+    `apesar de a página do diploma dizer "em vigor"`,
+  )
+}
 
 if (falhas.length) {
   console.log(`\n${falhas.length.toLocaleString('pt-BR')} divergência(s):`)

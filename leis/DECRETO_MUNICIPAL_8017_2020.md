@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 8017
   - Decreto Municipal 8017
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008017"
-coletado_em: "2026-10-11"
-sha256_raw: "5fded60b9f54fe1bba69fa115126d3f870930727678a29345061042d772c8936"
+coletado_em: "2026-10-24"
+sha256_raw: a6c1b281356030c3b00bf9988fa4370a7e8d55c8bd65a976fb3e4ea66ac5549b
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.017, de 05/03/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.017, de 05/03/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.017, DE 05/03/2020
 REGULAMENTA O CONTROLE DE FREQUÊNCIA, NOS TERMOS DO TÍTULO II, CAPÍTULO II, BEM COMO OS EVENTOS DISCIPLINADOS PELO ART. 104 DA LEI COMPLEMENTAR Nº 1.326, DE 26 DE OUTUBRO DE 2018.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

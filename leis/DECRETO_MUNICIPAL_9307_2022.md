@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9307
   - Decreto Municipal 9307
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209307"
-coletado_em: "2026-10-11"
-sha256_raw: bca50f31d173b50265d7d428feb1d086741dfcca9de2f14c67821e4b18ee76b5
+coletado_em: "2026-10-24"
+sha256_raw: f97960cbb2c8eb23bcd37b231a8074338c8ddb1a685d3067e5705e7bdcacd64b
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.307, DE 20/06/2022
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO ADMINISTRATIVO DO FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais;

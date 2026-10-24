@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11888
   - Decreto Municipal 11888
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611888"
-coletado_em: "2026-10-11"
-sha256_raw: "7186748315530b4b5980c6142d1c6dc729c1e21080c39420de1af1a3b8a025ad"
+coletado_em: "2026-10-24"
+sha256_raw: "66f79a7b3365f09d97a2a7b0335dde3ac4f26a77bfe8f8f9b4b4738b75bb0ba7"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.888, DE 12/05/2026
 DISPÕE SOBRE A CRIAÇÃO DO GRUPO DE TRABALHO REFERENTE À REVISÃO DO CÓDIGO DE POSTURAS DO MUNICÍPIO DE ILHABELA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

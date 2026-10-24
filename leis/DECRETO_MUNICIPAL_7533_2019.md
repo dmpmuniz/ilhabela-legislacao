@@ -27,17 +27,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907533"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "4894dbb5b532164276bbdcc1be52aa0a913c6d16504db414270ecc0a8d10987e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.533, de 06/04/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.533, DE 06/04/2019
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo

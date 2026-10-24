@@ -19,16 +19,10 @@ aliases:
   - Decreto Municipal nº 8127
   - Decreto Municipal 8127
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008127"
-coletado_em: "2026-10-11"
-sha256_raw: "00bb8adc8bc3b188131d7fa12876c0e910aceaa915b036e4ba849a5866ca55c9"
+coletado_em: "2026-10-24"
+sha256_raw: "3520402a19d2a6e3e793ad5f90e242d151f21a0e6108e878d4dc5f7c43e3cff5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.127, DE 05/06/2020
 REGULAMENTA AS ATIVIDADES DE MARINAS, GARAGENS NÁUTICAS E SIMILARES, DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

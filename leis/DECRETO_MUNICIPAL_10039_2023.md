@@ -26,16 +26,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310039"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "8d69d8a3525cb71c8706bacbd3bde7c8d36a02cb58b03a15a4200906f688a1cf"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.039, DE 21/09/2023
 DISPÕE SOBRE A DESIGNAÇÃO DE JOSIVÂNIA RUFINO DA SILVA, SERVIDORA LOTADA NA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO, PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISORA DE ACOMPANHAMENTO, CONTROLE E PROCESSAMENTO DA FOLHA.
 (Revogado tacitamente pelo

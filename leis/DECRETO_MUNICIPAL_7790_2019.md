@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7790
   - Decreto Municipal 7790
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907790"
-coletado_em: "2026-10-11"
-sha256_raw: a1f5a224eb3c2189a7fcc7517ce8cfc0c8f7d453015ea02839d96838f7b357cb
+coletado_em: "2026-10-24"
+sha256_raw: bf8f1e36490a181d14e104939c2e587f2f25d99de8fbe933bf33d574a7f5f9df
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.790, DE 08/11/2019
 DECLARA PONTO FACULTATIVO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NOS DIAS 24 E 31 DE DEZEMBRO DE 2019.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei;

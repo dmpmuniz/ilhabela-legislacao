@@ -26,16 +26,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209309"
-coletado_em: "2026-10-11"
-sha256_raw: "0c1866ac0507a93eb1d1619576315b23f17ec5a0409fa44b2d4bc4f18cf80517"
+coletado_em: "2026-10-24"
+sha256_raw: "00fa931e9916502339b7ab3894b015f95cac73ccb3fe167adf654b0f2dd8af75"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.309, DE 22/06/2022
 DISPÕE SOBRE A EXONERAÇÃO DE AMANDA PEREIRA GOES QUE OCUPAVA O CARGO DE ASSESSORA, LOTADA NA SECRETARIA MUNICIPAL DE HABITAÇÃO E GESTÃO TERRITORIAL
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

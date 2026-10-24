@@ -19,16 +19,10 @@ aliases:
   - Portaria Conjunta nº 1
   - Portaria Conjunta nº 001
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202001"
-coletado_em: "2026-10-11"
-sha256_raw: f0ade7c957f0f7a28a13d93fb28d5b932d74528198092f41688c9be2e2267140
+coletado_em: "2026-10-24"
+sha256_raw: "6c26c6012ff076c4079f769b171a82fe7920089e4b2e4abdfeda3339de19bab7"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA CONJUNTA Nº 001, DE 21/03/2020
 DISPÕE SOBRE OS ÓRGÃOS DO PODER MUNICIPAL CONSIDERADOS COMO PRESTADORES DE SERVIÇOS PÚBLICOS ESSENCIAIS, BEM COMO REGIME DE JORNADA LABORAL APLICÁVEIS AOS DEMAIS POR OCASIÃO DA EDIÇÃO DO DECRETO Nº 8.030 DE 20 DE MARÇO DE 2020.
 O SECRETÁRIO DE ADMINISTRAÇÃO DA PREFEITURA DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições e de acordo com o previsto no

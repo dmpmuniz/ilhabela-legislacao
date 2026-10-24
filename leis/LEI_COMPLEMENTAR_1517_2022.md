@@ -25,20 +25,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221517"
-coletado_em: "2026-10-11"
-sha256_raw: "64999154a4b33a553632e3beaff03f80ba91e3170c8ecc394eccdee88b0eab88"
+coletado_em: "2026-10-24"
+sha256_raw: cce214bc87863fad0565b4f82eabbbf20e1e810b7403398d8f7938943d821d22
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-2ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-3ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-4ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.517, DE 03/02/2022
 DISPÕE SOBRE A
 ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL

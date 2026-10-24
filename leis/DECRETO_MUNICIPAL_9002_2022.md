@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9002
   - Decreto Municipal 9002
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209002"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: e5fbf4085c94c825f382560aa9c1cd7fbb72294ad89d88e327a976e9928ceb5d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.002, DE 07/02/2022
 DISPÕE SOBRE A NOMEAÇÃO DE RAYSSA DOMITH DE PAIVA ALVES PARA OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

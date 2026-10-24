@@ -17,17 +17,11 @@ aliases:
   - Decreto nº 1197
   - Decreto Municipal nº 1197
   - Decreto Municipal 1197
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200601197&NroLei=1.197&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: f3f9006d7e3a56fdb520c47e5ec058bf042f153ba9eeea76f77583bec4444da8
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200601197"
+coletado_em: "2026-10-24"
+sha256_raw: dd0a7933a0a063bdc742025a75b67144a72cd215db7d73b48d7594fdf8869d8a
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 1.197, DE 10/07/2006
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;

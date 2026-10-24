@@ -25,8 +25,8 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612118"
-coletado_em: "2026-10-16"
-sha256_raw: f86c88daa039d81454778b3c6a01ac1b6d97a7df6953eda378eafab25cfe70d9
+coletado_em: "2026-10-24"
+sha256_raw: "5a154551006f9439201d41a1f9e59dc05f4e6b9fe7f27f16b592def14e02f240"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 12.118, DE 09/10/2026
@@ -40,7 +40,8 @@ alínea b do inciso I e a alínea a do inciso V do artigo 1º do Decreto nº 11.
 , de 3 de março de 2026, que passam a vigorar com as seguintes redações:
 "Art. 1º [...]
 I - 01 (um) representante da Secretaria de Desenvolvimento e Inclusão Social:
-[...]; Suplente: Tamires Silva Botelho.
+a) [...];
+b) Suplente: Tamires Silva Botelho.
 [...]
 V- 01 (um) representante da Defesa Civil, Secretaria Municipal de Mobilidade e Segurança:
 a) Titular: Marcel Luiz Giorgeti Santos
@@ -51,7 +52,8 @@ alínea b do inciso IV do artigo 2º do Decreto nº 11.738
 , de 3 de março de 2026, que passa a vigorar com a seguinte redação:
 "Art. 2º [...]
 IV - 01 (um) representante do atendimento às pessoas portadoras de deficiência:(Associação de Pais e Amigos dos Excepcionais - APAE de Ilhabela):
-[...]; Suplente: Karina de Souza Franco."
+a) [...];
+b) Suplente: Karina de Souza Franco."
 ##### Art. 3º
 Este Decreto entra em vigor na data de sua publicação.
 Ilhabela, 9 de outubro de 2026.

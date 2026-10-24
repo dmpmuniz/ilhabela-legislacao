@@ -338,8 +338,15 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
         await sleepJitter()
         const api = await chamarApi(urlDiploma(cdMunicipio, item.id), corpoDiploma(cdMunicipio), cdMunicipio)
         // re-sync lê o arquivo antes: título/ementa antigos são o fallback se
-        // o diploma vier sem esses campos
-        const existentePre = caminho ? parseFrontmatter(await readText(caminho)) : null
+        // o diploma vier sem esses campos (arquivo sumido = recria no lugar)
+        let existentePre: { data: Frontmatter; body: string } | null = null
+        if (caminho) {
+          try {
+            existentePre = parseFrontmatter(await readText(caminho))
+          } catch {
+            // manifesto aponta para arquivo ausente: grava de novo no caminho
+          }
+        }
         const norma = extrairDiploma(api, {
           ds_title: item.ds_title || String(existentePre?.data.titulo ?? ""),
           ds_resumo: item.ds_resumo ?? (existentePre?.data.ementa != null ? String(existentePre.data.ementa) : undefined),
@@ -368,9 +375,9 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
         }
 
         // status: o portal manda quando a norma está em vigor; norma que já
-        // saiu de vigor NUNCA volta a em_vigor sem revisão humana. No re-sync
+        // saiu de vigor NUNCA volta a em_vigor sozinha. No re-sync
         // não há listagem — o status vem do próprio diploma.
-        const statusPortal = mapearStatus(item.ds_status ?? api?.dados_diploma_original?.ds_situacao)
+        const statusPortal = mapearStatus(item.ds_status || api?.dados_diploma_original?.ds_situacao)
         const statusAtual = existente ? String(existente.data.status ?? "") : ""
         const status = statusAtual && statusAtual !== "em_vigor"
           ? statusAtual

@@ -18,20 +18,10 @@ aliases:
   - Decreto Municipal nº 7407
   - Decreto Municipal 7407
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907407"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: e3e69c4a2d92d8fdf1e845425919820e2d8efda9e96b9c89f7c9462b0fce8ba1
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-2ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-3ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-4ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.407, DE 11/03/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO FISCAL DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV.
 (Revogado pelo

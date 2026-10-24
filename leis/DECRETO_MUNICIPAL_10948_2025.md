@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 10948
   - Decreto Municipal 10948
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202510948"
-coletado_em: "2026-10-11"
-sha256_raw: "0738b0c78fba86c9450b5c0cf736b9baba5bf8fcff51c00100093ab7555cfca7"
+coletado_em: "2026-10-24"
+sha256_raw: "151f7ea595b0839a8bcbb573543728765b3178b515221ee3eaf236b74f80f8d4"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.948, de 13/01/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.948, DE 13/01/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO ADMINISTRATIVO DO FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

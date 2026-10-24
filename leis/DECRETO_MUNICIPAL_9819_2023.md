@@ -25,17 +25,10 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309819"
-coletado_em: "2026-10-11"
-sha256_raw: "43d173110a8e7ffa2b8706942b7650ac3d6e67db076cd21897a1156291d372ad"
+coletado_em: "2026-10-24"
+sha256_raw: "0687fa272506f4a8dd1ff1108de47a12dcd68c401e66d5fdc9b59aef9f97270e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.819, de 18/04/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.819, DE 18/04/2023
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL - CMAS, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

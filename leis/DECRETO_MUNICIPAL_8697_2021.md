@@ -27,18 +27,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108697"
-coletado_em: "2026-10-11"
-sha256_raw: febf6ac0afc58659af5d770c32f4da9c13526c599d83f0d745a774a6cf7d7490
+coletado_em: "2026-10-24"
+sha256_raw: ff1360178735515507144dcbb63dd2082f6345d1edd92d201db91cb31b5d24d8
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.697, de 31/05/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.697, de 31/05/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.697, DE 31/05/2021
 DISPÕE SOBRE A REGULAMENTAÇÃO DO FUNDO MUNICIPAL DE SANEAMENTO AMBIENTAL E DE INFRAESTRUTURA FMSAI, INSTITUÍDO PELA LEI COMPLEMENTAR MUNICIPAL Nº 1.397/ 2019.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEARIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais,

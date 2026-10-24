@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201505051"
-coletado_em: "2026-10-11"
-sha256_raw: "6eb10f28ba9e3aae401840823e111b20daa6027940dcb1f55ae6802691dfb369"
+coletado_em: "2026-10-24"
+sha256_raw: "46112cdf4cf9a0bc3d5347e5c19f3bb2ab0bf407fe6fbc80d595adc6e92ba0fe"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.051, DE 25/08/2015
 DISPÕE SOBRE PERMISSÃO DE USO DO SALÃO DE EVENTOS DO POLO DE EDUCAÇÃO INTEGRADA - PEI-I.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso legal de suas atribuições:

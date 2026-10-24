@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8440
   - Decreto Municipal 8440
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108440"
-coletado_em: "2026-10-11"
-sha256_raw: f083633324cb78cd98d5147a492cca9c6afe34ec42d6672e1a5ff1a285969f22
+coletado_em: "2026-10-24"
+sha256_raw: "2a9468b24c0fcd5688e4b5e4271609cb5dc5ccd795bb824f87bd6e32741f2c94"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.440, DE 08/02/2021
 DISPÕE SOBRE A DESIGNAÇÃO DO SERVIDOR ALEXANDRE SOARES BASTOS PARA EXERCER FUNÇÃO DE CONFIANÇA DA CLASSE DE GESTÃO EDUCACIONAL DE DIRETOR DE UNIDADE ESCOLAR.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

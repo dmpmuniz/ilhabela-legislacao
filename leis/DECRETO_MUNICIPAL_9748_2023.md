@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9748
   - Decreto Municipal 9748
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309748"
-coletado_em: "2026-10-11"
-sha256_raw: "87c5ba1c053f38d8e6a69865b4f00b3ac8b33b82faa5fa422262bdfaf3862304"
+coletado_em: "2026-10-24"
+sha256_raw: e7adf0ad79a2d9e49fd580511258b991e65b6383ecc47575f098c576d0b2ed04
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.748, DE 15/03/2023
 DISPÕE SOBRE A COMPOSIÇÃO E NOMEAÇÃO DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELAPREV.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

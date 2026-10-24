@@ -15,17 +15,11 @@ aliases:
   - Lei nº 232/2003
   - Lei 232
   - Lei nº 232
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20030232&NroLei=232&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: dce5374dd4358942a91ce02d47db8bd0f7b3c811dd39b3ba016e3691a6fe6855
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20030232"
+coletado_em: "2026-10-24"
+sha256_raw: "153593fd067e97bf3e162a954da37f531fbbe8613f344773ae6ccb2917096274"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 232, DE 08/12/2003
 DISPÕE SOBRE A PRESTAÇÃO DOS SERVIÇOS DE TRANSPORTE EM VEÍCULOS UTILITÁRIOS COM TRAÇÃO NAS QUATRO RODAS E DÁ OUTRAS PROVIDÊNCIAS.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

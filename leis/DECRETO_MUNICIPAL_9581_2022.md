@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9581
   - Decreto Municipal 9581
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209581"
-coletado_em: "2026-10-11"
-sha256_raw: c6c0205666531ccc02847b45c9653e72e1c90b63b2fb049ad787473366ed7fce
+coletado_em: "2026-10-24"
+sha256_raw: "235634fee0f7727faee5e2045af9257df4fb26b9f1894461af7261e6651f23be"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.581, DE 26/12/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A CONSTRUÇÃO DE UNIDADE ESCOLAR NA RUA DOS CARIJÓS NO BAIRRO BARRA VELHA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

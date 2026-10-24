@@ -19,17 +19,10 @@ aliases:
   - Portaria Conjunta nº 5
   - Portaria Conjunta nº 005
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202005"
-coletado_em: "2026-10-11"
-sha256_raw: fc6baccc643bc6db110181e10d59881d035f6c3ffbaf5b63a1fd6d52bd283ed8
+coletado_em: "2026-10-24"
+sha256_raw: f0885ce0fe7260f6f31bc685870eef7661e0d78569e53e85bc847285e746cab7
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a PORTARIA CONJUNTA005, de 24/03/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA CONJUNTA Nº 005, DE 24/03/2020
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR O COMITÊ EMERGENCIAL DE GESTÃO SOCIAL - COVID 19, PARA TRATAR E DELIBERAR SOBRE SITUAÇÕES RELACIONADAS AO ENFRENTAMENTO À PANDEMIA DO CORONAVIRUS - COVID 19.
 A PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, POR MEIO DOS SECRETÁRIOS MUNICIPAIS DE ADMINISTRAÇÃO E SAÚDE, no uso de suas atribuições legais, e de acordo com o disposto no

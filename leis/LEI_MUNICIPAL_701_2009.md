@@ -15,17 +15,11 @@ aliases:
   - Lei nº 701/2009
   - Lei 701
   - Lei nº 701
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20090701&NroLei=701&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "7a34056fd07bf08f2ca198d3044dc5028c068aca3089a6c7c6cd7806df2ff207"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20090701"
+coletado_em: "2026-10-24"
+sha256_raw: "64c949b2efadbacd44b85a675fdc8ee1ffa9cf06d16e4de28fe3d2a017dbe4ff"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 701, DE 28/04/2009
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 FAÇO SABER QUE A CÂMARA MUNICIPAL MANTEVE E EU PROMULGO, NOS TERMOS DA

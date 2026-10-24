@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 8.903, DE 10/12/2021"
-ementa: "ACRESCE O PARÁGRAFO ÚNICO AO ART. 1º DO DECRETO MUNICIPAL Nº 8.888/2021, QUE DECLARA PONTO FACULTATIVO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, AUTARQUIAS E FUNDAÇÕES NOS DIAS 24 E 31 DE DEZEMBRO DE 2021. (NR DM 8.908/2021 )"
+ementa: "ACRESCE O PARÁGRAFO ÚNICO AO ART. 1º DO DECRETO MUNICIPAL Nº 8.893/2021, QUE DECLARA PONTO FACULTATIVO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, AUTARQUIAS E FUNDAÇÕES NOS DIAS 24 E 31 DE DEZEMBRO DE 2021."
 aliases:
   - Decreto 8903/2021
   - Decreto nº 8903/2021
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8903
   - Decreto Municipal 8903
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108903"
-coletado_em: "2026-10-11"
-sha256_raw: "95ac50eee8d365929489ae8cb132f80e80061e573b9e3b9938793cc57ac73518"
+coletado_em: "2026-10-24"
+sha256_raw: "87b72c8fed41972f48a362edb1b70bae8af231d484dd29bb740a50bc8ad69df0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.903, DE 10/12/2021
 ACRESCE O PARÁGRAFO ÚNICO AO ART. 1º DO DECRETO MUNICIPAL Nº 8.893/2021, QUE DECLARA PONTO FACULTATIVO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, AUTARQUIAS E FUNDAÇÕES NOS DIAS 24 E 31 DE DEZEMBRO DE 2021.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

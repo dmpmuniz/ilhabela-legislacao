@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7091
   - Decreto Municipal 7091
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807091"
-coletado_em: "2026-10-11"
-sha256_raw: fb58a9052ea6a351c7a1c557bbfa3cec74eccc3b8ce529b6bf001e3b77e8c90e
+coletado_em: "2026-10-24"
+sha256_raw: ecf4411990ccf83149673425ea91c545cc1034c8ebc5d8e04971366cf71028a8
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.091, DE 01/08/2018
 DISPÕE SOBRE A EXONERAÇÃO DA SENHORA ROZIMAR RAMOS PEREIRA, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
 MARCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições legais;

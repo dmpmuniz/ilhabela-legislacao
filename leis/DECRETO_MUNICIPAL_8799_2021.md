@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 8799
   - Decreto Municipal 8799
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108799"
-coletado_em: "2026-10-11"
-sha256_raw: "01c2d406a40375b916e030936b9db33bcf53f1edf42136c33e6a419fb6fa5f1e"
+coletado_em: "2026-10-24"
+sha256_raw: eb11e23087534714e6fb2098a9d86761ea12d38425bfb68244e7232bd18289ee
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.799, de 21/09/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.799, de 21/09/2021
-3ª Versão corresponde a DECRETO MUNICIPAL8.799, de 21/09/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.799, DE 21/09/2021
 DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO MUNICIPAL DAS COMUNIDADES TRADICIONAIS, CRIADO PELA LEI MUNICIPAL Nº 1.384/2019.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

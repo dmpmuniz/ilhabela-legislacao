@@ -15,17 +15,11 @@ aliases:
   - Lei nº 575/2008
   - Lei 575
   - Lei nº 575
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20080575&NroLei=575&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: e9743bb0c7d348cb88cdef76bef15c0525f206a64d4f5a2d501c3a6ef39f4fd6
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20080575"
+coletado_em: "2026-10-24"
+sha256_raw: "9b03abf10d45912dc6aea6983ce70780130398886c3d6f4b55a82af1952972f2"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 575, DE 26/03/2008
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais

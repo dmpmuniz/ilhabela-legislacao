@@ -15,17 +15,11 @@ aliases:
   - Lei nº 543/2007
   - Lei 543
   - Lei nº 543
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070543&NroLei=543&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "760b3161b2ef4d3744cf8cc15698cc9f8f7e27b5596d077e92e6d8f9134b866a"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070543"
+coletado_em: "2026-10-24"
+sha256_raw: "4087d89def1e6911d8d4d0a177a44445e082028221515d001b1a1dfd976e35b5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 543, DE 19/12/2007
 DISPÕE SOBRE A CRIAÇÃO DO FUNDO MUNICIPAL DE HABITAÇÃO (FMHIS) E DO CONSELHO MUNICIPAL DE HABITAÇÃO.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, usando suas atribuições legais,

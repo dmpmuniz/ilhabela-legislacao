@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8482
   - Decreto Municipal 8482
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108482"
-coletado_em: "2026-10-11"
-sha256_raw: "14b3de5bea5f75836297e762b353b9be53a059d55978e6754fa5a1703ace87f5"
+coletado_em: "2026-10-24"
+sha256_raw: c13329b119983844d9dcfc6f67ae9bcdee2d8117d3cc5f2242d6465d3ef90722
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.482, de 02/03/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.482, DE 02/03/2021
 DISPÕE SOBRE A INSTITUIÇÃO DA COMISSÃO DE ESPORTES PREVISTA NA LEI MUNICIPAL Nº 7.784/2019, A NOMEAÇÃO DE SEUS MEMBROS, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

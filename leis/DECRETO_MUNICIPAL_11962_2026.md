@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11962
   - Decreto Municipal 11962
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611962"
-coletado_em: "2026-10-11"
-sha256_raw: "3e598a7f8f5b438ade7815ee063c859de89c6f8722e3b92a0473bf6afe0452d9"
+coletado_em: "2026-10-24"
+sha256_raw: "9733f867c85f6c4297dfeaa9260de461d025f5a5665efddbbb690f1359af4f0a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.962, DE 13/07/2026
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA - COMPCI, CRIADO PELA LEI MUNICIPAL N° 1.405, DE 14 DE JANEIRO DE 2020.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

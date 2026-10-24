@@ -15,17 +15,11 @@ aliases:
   - Lei nº 1064/2014
   - Lei 1064
   - Lei nº 1064
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141064&NroLei=1.064&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "62030c9d36bdec8420db52a5e5833df60c70dc29621d6e64b66336cb8625c7ae"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141064"
+coletado_em: "2026-10-24"
+sha256_raw: "45aad431be9d6c722fa4136324e92090b7cdf0f6308c016a2a72f0599616cccd"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.064, DE 19/12/2014
 ALTERA DISPOSITIVOS DA LEI 156, DE 20 DE DEZEMBRO DE 2002.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 6670
   - Decreto Municipal 6670
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706670"
-coletado_em: "2026-10-11"
-sha256_raw: "611eb4cfb2a32c75ee63ecb0de7f1eee3609fe97e7eda13ef86c58714cfeb26d"
+coletado_em: "2026-10-24"
+sha256_raw: b7571f594371bae3f92bc2e0c982540b326129ecc6e1120a840fc9847e7966e7
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.670, DE 09/10/2017
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO DE SELEÇÃO, NOS TERMOS DA LEI FEDERAL Nº 13.019/2014, PARA ATUAÇÃO NAS PARCERIAS CELEBRADAS COM ORGANIZAÇÕES DA SOCIEDADE CIVIL.
 MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais e

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7421
   - Decreto Municipal 7421
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907421"
-coletado_em: "2026-10-11"
-sha256_raw: c864ac0f9ef6a9bc4d54010fadf1f2477ba197c5e49abe10ea12ca954b8aeea5
+coletado_em: "2026-10-24"
+sha256_raw: "592ab65b7fb0cfd53ff7b636fc5d8868c8d9edd6b5165024e46fe25d40883c4d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.421, DE 15/03/2019
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO, O IMÓVEL QUE ESPECIFICA, DESTINADO PARA A SEDE DO CLUBE SOCIAL E RECREATIVO DOS FUNCIONÁRIOS PÚBLICOS MUNICIPAIS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais; com fundamento no

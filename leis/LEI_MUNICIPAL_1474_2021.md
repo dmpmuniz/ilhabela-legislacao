@@ -16,16 +16,10 @@ aliases:
   - Lei 1474
   - Lei nº 1474
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20211474"
-coletado_em: "2026-10-11"
-sha256_raw: "157f9822c50a56005dc8c27aae4c12dfa339430bc0e807fafdca14a9c99a9775"
+coletado_em: "2026-10-24"
+sha256_raw: "16135fd5b2c3ca4184c19b3c90ace73742c32724a3d81518f49697a646de6cc9"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.474, DE 21/05/2021
 DISPÕE SOBRE A PADRONIZAÇÃO DOS UNIFORMES DOS ATLETAS E DOS SERVIDORES PÚBLICOS DOS PODERES EXECUTIVO E LEGISLATIVO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

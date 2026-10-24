@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 8230
   - Decreto Municipal 8230
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008230"
-coletado_em: "2026-10-11"
-sha256_raw: d95ccae3155cbfadde9edf385a77660a5b209ed9cf513e08790344eb4155721c
+coletado_em: "2026-10-24"
+sha256_raw: "7e7efab5841b95428f76363ae1e89e3a982d051a564429069eb0ed9d3b654d9c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.230, de 27/08/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.230, de 27/08/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.230, de 27/08/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.230, DE 27/08/2020
 DISPÕE SOBRE A COMPOSIÇÃO DO COMITÊ MUNICIPAL DE VIGILÂNCIA, PREVENÇÃO E ENFRENTAMENTO À VIOLÊNCIA CONTRA AS MULHERES, CRIADO PELO DECRETO MUNICIPAL Nº 8.095, DE 18 DE MAIO DE 2020.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei,

@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706182"
-coletado_em: "2026-10-11"
-sha256_raw: "4e47e5ab2964898a947cf72f491662a1e8c46389445e9dd1f1c37054fc131ed1"
+coletado_em: "2026-10-24"
+sha256_raw: "76e574692cc5ce040f1d280319edc12c95efca83ba6ffd695435aae60d957d08"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.182, DE 20/03/2017
 REGULAMENTA O ARTIGO 3º DA LEI MUNICIPAL Nº 1.133/2015, QUE DISPÕE SOBRE A APROVAÇÃO DO PLANO MUNICIPAL DE EDUCAÇÃO DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso da atribuição que lhe confere o artigo 43, V, da Lei Orgânica do Município:

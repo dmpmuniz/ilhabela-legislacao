@@ -16,16 +16,10 @@ aliases:
   - Lei 1211
   - Lei nº 1211
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171211"
-coletado_em: "2026-10-11"
-sha256_raw: "945f4a86ad77d053fddbbdfae05e70ceb30faafd7c6c4f37e4eefe6078869255"
+coletado_em: "2026-10-24"
+sha256_raw: b0869554ccfb31bf4465259ab917d5d99e8b97915322f1fc45b70ab859102dfd
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.211, DE 04/09/2017
 AUTORIZA O CHEFE DO PODER EXECUTIVO MUNICIPAL A AUXILIAR FINANCEIRAMENTE, POR MEIO DE AJUDA DE CUSTO, ATLETAS E EQUIPES DE ESPORTES QUE PARTICIPEM DE COMPETIÇÕES REPRESENTANDO O MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA,MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

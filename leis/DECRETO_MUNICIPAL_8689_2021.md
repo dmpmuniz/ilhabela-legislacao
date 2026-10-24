@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8689
   - Decreto Municipal 8689
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108689"
-coletado_em: "2026-10-11"
-sha256_raw: da298567fd3976a784699c0812abde85853504205e21f45245ba833054e743db
+coletado_em: "2026-10-24"
+sha256_raw: aa1a4fc2f22c64da4548c3313cedc7b145b0289d2d0cd2112bf7cdff29625a19
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.689, DE 27/05/2021
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

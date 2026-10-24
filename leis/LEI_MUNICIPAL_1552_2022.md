@@ -16,17 +16,10 @@ aliases:
   - Lei 1552
   - Lei nº 1552
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221552"
-coletado_em: "2026-10-11"
-sha256_raw: fa8cfb2f933d291378c83e8ba08c1c021b868c9efb98ed99d7e19e28e58a9396
+coletado_em: "2026-10-24"
+sha256_raw: "5155ed40852977f51e2384141ce76b5ff6e8a5da1b975d0e84fe27ad894a3cad"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.552, de 27/09/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.552, DE 27/09/2022
 AUTORIZA O PODER EXECUTIVO A CONCEDER VALE REFEIÇÃO AOS BOMBEIROS DA POLÍCIA MILITAR E DÁ OUTRAS PROVIDÊNCIAS
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

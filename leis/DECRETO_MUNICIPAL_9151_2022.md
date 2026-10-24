@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9151
   - Decreto Municipal 9151
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209151"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: b95b5beb3e8831c9a239fffb58e28448afce04b8e977ccea2e6a89a4567cba91
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.151, de 17/03/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.151, DE 17/03/2022
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DE ILHABELA - CMDCAI, PARA O BIÊNIO 2022/2024.
 (Revogado pelo

@@ -10,44 +10,44 @@
 - DECRETO MUNICIPAL Nº 4.880, DE 13/07/2015 (ilh-2015-dec-4880, em vigor)
 - DECRETO MUNICIPAL Nº 4.925, DE 13/07/2015 (ilh-2015-dec-4925, em vigor)
 - DECRETO MUNICIPAL Nº 4.968, DE 14/07/2015 (ilh-2015-dec-4968, em vigor)
-- DECRETO MUNICIPAL Nº 5.012, DE 07/08/2015 (ilh-2015-dec-5012, em vigor)
+- DECRETO MUNICIPAL Nº 5.013, DE 07/08/2015 (ilh-2015-dec-5013, em vigor)
 - DECRETO MUNICIPAL Nº 5.068, DE 25/08/2015 (ilh-2015-dec-5068, em vigor)
-- DECRETO MUNICIPAL Nº 5.125, DE 28/09/2015 (ilh-2015-dec-5125, em vigor)
+- DECRETO MUNICIPAL Nº 5.126, DE 28/09/2015 (ilh-2015-dec-5126, em vigor)
 - DECRETO MUNICIPAL Nº 5.189, DE 10/11/2015 (ilh-2015-dec-5189, em vigor)
 - DECRETO MUNICIPAL Nº 5.258, DE 21/01/2016 (ilh-2016-dec-5258, em vigor)
-- DECRETO MUNICIPAL Nº 5.312, DE 15/02/2016 (ilh-2016-dec-5312, em vigor)
+- DECRETO MUNICIPAL Nº 5.313, DE 19/02/2016 (ilh-2016-dec-5313, em vigor)
 - DECRETO MUNICIPAL Nº 5.367, DE 31/03/2016 (ilh-2016-dec-5367, em vigor)
-- DECRETO MUNICIPAL Nº 5.422, DE 26/04/2016 (ilh-2016-dec-5422, em vigor)
+- DECRETO MUNICIPAL Nº 5.424, DE 26/04/2016 (ilh-2016-dec-5424, em vigor)
 - DECRETO MUNICIPAL Nº 5.488, DE 14/06/2016 (ilh-2016-dec-5488, em vigor)
 - DECRETO MUNICIPAL Nº 5.537, DE 01/07/2016 (ilh-2016-dec-5537, em vigor)
-- DECRETO MUNICIPAL Nº 5.607, DE 25/08/2016 (ilh-2016-dec-5607, em vigor)
+- DECRETO MUNICIPAL Nº 5.608, DE 25/08/2016 (ilh-2016-dec-5608, em vigor)
 - DECRETO MUNICIPAL Nº 5.670, DE 14/10/2016 (ilh-2016-dec-5670, em vigor)
-- DECRETO MUNICIPAL Nº 5.729, DE 23/11/2016 (ilh-2016-dec-5729, em vigor)
-- DECRETO MUNICIPAL Nº 5.801, DE 01/01/2017 (ilh-2017-dec-5801, em vigor)
+- DECRETO MUNICIPAL Nº 5.731, DE 23/11/2016 (ilh-2016-dec-5731, em vigor)
+- DECRETO MUNICIPAL Nº 5.802, DE 01/01/2017 (ilh-2017-dec-5802, em vigor)
 - DECRETO MUNICIPAL Nº 5.852, DE 04/01/2017 (ilh-2017-dec-5852, em vigor)
-- DECRETO MUNICIPAL Nº 5.893, DE 04/01/2017 (ilh-2017-dec-5893, em vigor)
+- DECRETO MUNICIPAL Nº 5.894, DE 04/01/2017 (ilh-2017-dec-5894, em vigor)
 - DECRETO MUNICIPAL Nº 5.936, DE 11/01/2017 (ilh-2017-dec-5936, em vigor)
-- DECRETO MUNICIPAL Nº 5.979, DE 11/01/2017 (ilh-2017-dec-5979, em vigor)
-- DECRETO MUNICIPAL Nº 6.022, DE 11/01/2017 (ilh-2017-dec-6022, em vigor)
+- DECRETO MUNICIPAL Nº 5.980, DE 11/01/2017 (ilh-2017-dec-5980, em vigor)
+- DECRETO MUNICIPAL Nº 6.023, DE 11/01/2017 (ilh-2017-dec-6023, em vigor)
 - DECRETO MUNICIPAL Nº 6.076, DE 01/02/2017 (ilh-2017-dec-6076, em vigor)
-- DECRETO MUNICIPAL Nº 6.128, DE 01/03/2017 (ilh-2017-dec-6128, em vigor)
+- DECRETO MUNICIPAL Nº 6.129, DE 01/03/2017 (ilh-2017-dec-6129, em vigor)
 - DECRETO MUNICIPAL Nº 6.173, DE 07/03/2017 (ilh-2017-dec-6173, em vigor)
-- DECRETO MUNICIPAL Nº 6.229, DE 04/04/2017 (ilh-2017-dec-6229, em vigor)
-- DECRETO MUNICIPAL Nº 6.286, DE 28/04/2017 (ilh-2017-dec-6286, em vigor)
-- DECRETO MUNICIPAL Nº 6.355, DE 22/06/2017 (ilh-2017-dec-6355, em vigor)
-- DECRETO MUNICIPAL Nº 6.404, DE 20/07/2017 (ilh-2017-dec-6404, em vigor)
-- DECRETO MUNICIPAL Nº 6.452, DE 01/08/2017 (ilh-2017-dec-6452, em vigor)
-- DECRETO MUNICIPAL Nº 6.499, DE 07/08/2017 (ilh-2017-dec-6499, em vigor)
-- DECRETO MUNICIPAL Nº 6.551, DE 17/08/2017 (ilh-2017-dec-6551, em vigor)
-- DECRETO MUNICIPAL Nº 6.608, DE 05/09/2017 (ilh-2017-dec-6608, em vigor)
-- DECRETO MUNICIPAL Nº 6.672, DE 09/10/2017 (ilh-2017-dec-6672, em vigor)
-- … e mais 1575 normas (lista completa no corpo)
+- DECRETO MUNICIPAL Nº 6.230, DE 05/04/2017 (ilh-2017-dec-6230, em vigor)
+- DECRETO MUNICIPAL Nº 6.287, DE 28/04/2017 (ilh-2017-dec-6287, em vigor)
+- DECRETO MUNICIPAL Nº 6.356, DE 22/06/2017 (ilh-2017-dec-6356, em vigor)
+- DECRETO MUNICIPAL Nº 6.405, DE 20/07/2017 (ilh-2017-dec-6405, em vigor)
+- DECRETO MUNICIPAL Nº 6.453, DE 01/08/2017 (ilh-2017-dec-6453, em vigor)
+- DECRETO MUNICIPAL Nº 6.500, DE 07/08/2017 (ilh-2017-dec-6500, em vigor)
+- DECRETO MUNICIPAL Nº 6.552, DE 17/08/2017 (ilh-2017-dec-6552, em vigor)
+- DECRETO MUNICIPAL Nº 6.609, DE 11/09/2017 (ilh-2017-dec-6609, em vigor)
+- DECRETO MUNICIPAL Nº 6.673, DE 09/10/2017 (ilh-2017-dec-6673, em vigor)
+- … e mais 1576 normas (lista completa no corpo)
 
 ## Temas frequentes
 nomeacao, comissao, cargo, funcao, quadro, funcionarios, permanentes, auxiliar, exoneracao, servicos, chefe, diretor, professor, ocupa, departamento, cargos, chefia, setor, coordenador, educacao municipal, ensino fundamental, merenda escolar, creche, infancia, administrativo, pedagogico, primeira, educacao, exerce, jesus
 
 ## Período
-2015 a 2017 · 1.615 normas · ~299.878 palavras de texto
+2015 a 2017 · 1.616 normas · ~299.947 palavras de texto
 
 Parte 3 de 5
 
@@ -236,11 +236,11 @@ SAJ/LHHA/dabsj.
 # DECRETO MUNICIPAL Nº 4.611, DE 20/05/2015
 
 > **Ref:** ilh-2015-dec-4611 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA SENHORA ROSANA APARECIDA DE SANT&RSQUO;ANNA SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504611&NroLei=4.611&Word=&Word2=
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA SENHORA ROSANA APARECIDA DE SANT’ANNA SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504611
 
 DECRETO MUNICIPAL Nº 4.611, DE 20/05/2015
-DISPÕE SOBRE A NOMEAÇÃO DA SENHORA ROSANA APARECIDA DE SANT&RSQUOANNA SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
+DISPÕE SOBRE A NOMEAÇÃO DA SENHORA ROSANA APARECIDA DE SANT’ANNA SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais;
 DECRETA:
 ##### Art. 1º
@@ -701,11 +701,11 @@ SAJ/LHHA/dabsj.
 # DECRETO MUNICIPAL Nº 4.632, DE 21/05/2015
 
 > **Ref:** ilh-2015-dec-4632 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA SENHORA CLÉLIA CRISTINA DA LUZ SANT&RSQUO;ANA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR ADMINISTRATIVO.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504632&NroLei=4.632&Word=&Word2=
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA SENHORA CLÉLIA CRISTINA DA LUZ SANT’ANA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR ADMINISTRATIVO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504632
 
 DECRETO MUNICIPAL Nº 4.632, DE 21/05/2015
-DISPÕE SOBRE A NOMEAÇÃO DA SENHORA CLÉLIA CRISTINA DA LUZ SANT&RSQUOANA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR ADMINISTRATIVO.
+DISPÕE SOBRE A NOMEAÇÃO DA SENHORA CLÉLIA CRISTINA DA LUZ SANT’ANA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR ADMINISTRATIVO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais;
 DECRETA:
 ##### Art. 1º
@@ -9935,11 +9935,11 @@ SAJ/LHHA/dabsj.
 # DECRETO MUNICIPAL Nº 5.066, DE 25/08/2015
 
 > **Ref:** ilh-2015-dec-5066 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JOSÉ JUVENAL D&RSQUO; ABREU, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JOSÉ JUVENAL D’ ABREU, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201505066
 
 DECRETO MUNICIPAL Nº 5.066, DE 25/08/2015
-DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JOSÉ JUVENAL D&RSQUO ABREU, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
+DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JOSÉ JUVENAL D’ ABREU, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais;
 DECRETA:
 ##### Art. 1º
@@ -19776,13 +19776,6 @@ SAJ/LHHA/dabsj.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS, PARA O BIÊNIO 2016/2018.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201605625
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL5.625, de 15/09/2016
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.625, DE 15/09/2016
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS, PARA O BIÊNIO 2016/2018.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das atribuições legais que lhe são conferidas por Lei;
@@ -21653,11 +21646,11 @@ SAJ/LHHA/dabsj.
 # DECRETO MUNICIPAL Nº 5.726, DE 21/11/2016
 
 > **Ref:** ilh-2016-dec-5726 · **Tipo:** Decreto · **Ano:** 2016 · **Status:** em vigor
-> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR &RSQUO;RENATO RIBEIRO DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE MECÂNICO.
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ’RENATO RIBEIRO DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE MECÂNICO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201605726
 
 DECRETO MUNICIPAL Nº 5.726, DE 21/11/2016
-DISPÕE SOBRE A NOMEAÇÃO DO SENHOR &RSQUORENATO RIBEIRO DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE MECÂNICO.
+DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ’RENATO RIBEIRO DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE MECÂNICO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais;
 DECRETA:
 ##### Art. 1º
@@ -41869,15 +41862,6 @@ Registrado em Livro Próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO DELIBERATIVO DO FUNDO SOCIAL DE SOLIDARIEDADE DE ILHABELA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706613
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.613, de 18/09/2017
-2ª Versão corresponde a DECRETO MUNICIPAL6.613, de 18/09/2017
-3ª Versão corresponde a DECRETO MUNICIPAL6.613, de 18/09/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.613, DE 18/09/2017
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO DELIBERATIVO DO FUNDO SOCIAL DE SOLIDARIEDADE DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MÁRCIO BATISTA TENÓRIO, no uso de suas atribuições legais;
@@ -42858,12 +42842,6 @@ Registrado em Livro Próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO DE SELEÇÃO, NOS TERMOS DA LEI FEDERAL Nº 13.019/2014, PARA ATUAÇÃO NAS PARCERIAS CELEBRADAS COM ORGANIZAÇÕES DA SOCIEDADE CIVIL.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706670
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.670, DE 09/10/2017
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO DE SELEÇÃO, NOS TERMOS DA LEI FEDERAL Nº 13.019/2014, PARA ATUAÇÃO NAS PARCERIAS CELEBRADAS COM ORGANIZAÇÕES DA SOCIEDADE CIVIL.
 MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais e
@@ -42994,6 +42972,34 @@ Auxiliar de Serviços Gerais
 Este Decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no Átrio do Paço Municipal.
 ##### Art. 3º
 Revogam-se as disposições em contrário.
+Ilhabela, 09 de outubro de 2017.
+MARCIO TENÓRIO
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VSJ/dabsj.
+
+---
+
+# DECRETO MUNICIPAL Nº 6.673, DE 09/10/2017
+
+> **Ref:** ilh-2017-dec-6673 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** em vigor
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA SENHORA CINTIA BENDAZZOLI SIMÕES, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE PATRIMÔNIO HISTÓRICO.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706673
+> **Palavras-chave:** cultura, turismo, patrimônio histórico, tombamento, evento cultural
+
+DECRETO MUNICIPAL Nº 6.673, DE 09/10/2017
+DISPÕE SOBRE A NOMEAÇÃO DA SENHORA CINTIA BENDAZZOLI SIMÕES, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE PATRIMÔNIO HISTÓRICO.
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica nomeada a partir de 19 de setembro de 2017, a Senhora
+CINTIA BENDAZZOLI SIMÕES
+, brasileira, portadora da Cédula de Identidade RG nº 26.239.330-X SSP/SP e do CPF/MF nº 257.852.758-05, para exercer em comissão nos termos da
+Lei Complementar nº 1.205
+, de 31 de julho de 2017, o cargo de
+Diretor de Departamento de Patrimônio Histórico
+, referência 18, de lotação da Secretaria Municipal de Meio Ambiente.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no Átrio do Paço Municipal.
 Ilhabela, 09 de outubro de 2017.
 MARCIO TENÓRIO
 Prefeito Municipal

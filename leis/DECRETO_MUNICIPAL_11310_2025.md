@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11310
   - Decreto Municipal 11310
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511310"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "8c0e4cc46ebd59c661e1f5a77f49b6441aede378585f46152edd2ab5ce95e048"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.310, DE 29/04/2025
 COMISSÃO DE ESPORTES PREVISTA NA LEI MUNICIPAL Nº 1.197/2017, A NOMEAÇÃO DE SEIS MEMBROS, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

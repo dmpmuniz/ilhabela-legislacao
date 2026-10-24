@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 8431
   - Decreto Municipal 8431
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108431"
-coletado_em: "2026-10-11"
-sha256_raw: b76627bd97a190c29cfadf16fe8960b905dca4c80ca3b7cfc529bf9c2aca85a2
+coletado_em: "2026-10-24"
+sha256_raw: "0450e72e19812bf2d231d9255b46d34895899e23637536306d53dce175ee96bb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.431, de 01/02/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.431, de 01/02/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.431, DE 01/02/2021
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR A JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES - JARI.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 11203
   - Decreto Municipal 11203
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511203"
-coletado_em: "2026-10-11"
-sha256_raw: "571c158ac06607734c180e09f6889488ed9d48d96282d32e74713cfa728fe060"
+coletado_em: "2026-10-24"
+sha256_raw: f5db41890c0844bfc0e4e9e53f1fab50c58886503a058dc23c05376a0878f817
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.203, de 10/02/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.203, DE 10/02/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2025/2027.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

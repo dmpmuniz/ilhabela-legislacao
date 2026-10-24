@@ -19,16 +19,10 @@ aliases:
   - Resolução nº 2
   - Resolução nº 002
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202000002"
-coletado_em: "2026-10-11"
-sha256_raw: a517d68ed3cd666dcf5f7996b2b22b7f52803fd5fe531c1079fb06ded76790a9
+coletado_em: "2026-10-24"
+sha256_raw: "342da85f6ef5a151624b23074cc6c63e5fff51444606c89615b0f1eb2423a088"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 RESOLUÇÃO Nº 002, DE 27/03/2020
 ALTERA A RESOLUÇÃO Nº 001 DE 24 DE MARÇO DE 2.020 E DISPÕE SOBRE OS CASOS OMISSOS RELACIONADOS ÀS RESTRIÇÕES IMPOSTAS PELO DECRETO Nº 8.030 DE 20 DE MARÇO DE 2020
 O PRESIDENTE DO COMITÊ EMERGENCIAL DE POSTURAS - COVID-19, no uso de suas atribuições e de acordo com o previsto na

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9582
   - Decreto Municipal 9582
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209582"
-coletado_em: "2026-10-11"
-sha256_raw: "0999b332d3d9a62cf3d345e289609929758bbe2ebf75a336957e1e8437a706f6"
+coletado_em: "2026-10-24"
+sha256_raw: a52a1f47973622be65fb13b4ab0e14ffe0e65dab48285491e09687d3fb9c24a0
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.582, DE 26/12/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A CONSTRUÇÃO DE ALOJAMENTO MUNICIPAL E READEQUAÇÃO VIÁRIA E ALARGAMENTO DE VIA PÚBLICA NA RUA JOAQUIM SAMPAIO DE OLIVEIRA NO BAIRRO PEREQUÊ.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

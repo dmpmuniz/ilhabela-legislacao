@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8892
   - Decreto Municipal 8892
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108892"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: d75e3d972d58fe2dcbdf51ffa110a61215f3cb36526fd4693d446c6a160f0116
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.892, de 03/12/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.892, DE 03/12/2021
 REGULAMENTA A UTILIZAÇÃO DE EQUIPAMENTOS E A RENOVAÇÃO DAS AUTORIZAÇÕES DOS AMBULANTES NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, NOS TERMOS DO ART. 121, PARÁGRAFO ÚNICO, DA LEI MUNICIPAL Nº 529/2007 (CÓDIGO DE POSTURAS DO MUNICÍPIO).
 (Revogado pelo

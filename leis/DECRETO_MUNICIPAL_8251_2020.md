@@ -28,16 +28,10 @@ tags_auto:
   - tributos
   - fiscalizacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008251"
-coletado_em: "2026-10-11"
-sha256_raw: "77fdc9deff51118059692528949e12974fd1ac70cdc17ffe23b30d44aad49a3f"
+coletado_em: "2026-10-24"
+sha256_raw: "0d5211fbac58869060b6e1e0024f408915ab300d302c6e8e4d9f6a810803e61c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.251, DE 29/09/2020
 PRORROGA, EM RAZÃO DA GREVE DOS CORREIOS, A DATA DE PAGAMENTO DO ISS E DAS TAXAS MUNICIPAIS.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso da atribuição que lhe confere o

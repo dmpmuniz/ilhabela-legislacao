@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8885
   - Decreto Municipal 8885
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108885"
-coletado_em: "2026-10-11"
-sha256_raw: "3e41777007562aba73601fc55d2ca6d8d8607aa70d8f34e6f4027555a6890d30"
+coletado_em: "2026-10-24"
+sha256_raw: "1f1d507b6d081729ce608bb8984c77caaddbbbb84679fb5e7e0339ffcf4cd914"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.885, DE 23/11/2021
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO, OS IMÓVEIS QUE ESPECIFICA, DESTINADOS À EXPANSÃO DO CENTRO CULTURAL DA VILA, NESTE MUNICÍPIO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

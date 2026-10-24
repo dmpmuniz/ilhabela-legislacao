@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9722
   - Decreto Municipal 9722
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309722"
-coletado_em: "2026-10-11"
-sha256_raw: "2ea341c67a5de9ab1e7efdfa3ba6c136978872babd9a0f52926d85757cdc2111"
+coletado_em: "2026-10-24"
+sha256_raw: "560d0c4ab39ef45baee75ba777d0e92207db31726af31fac0d0f392813366168"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.722, de 28/02/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.722, DE 28/02/2023
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS ELEITOS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL DO MUNICÍPIO DE ILHABELA - CMPDSA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais;

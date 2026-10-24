@@ -17,19 +17,11 @@ aliases:
   - Decreto nº 882
   - Decreto Municipal nº 882
   - Decreto Municipal 882
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200400882&NroLei=882&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "482c5d785d6817cb5df8bbbd47928ae19624ae3014985ef6f733de6fc6d070c9"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200400882"
+coletado_em: "2026-10-24"
+sha256_raw: "92b3790dfc9a00708313383082e151b0ca5f4367cf3de96fb04460b865975edc"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL882, de 30/12/2004
-2ª Versão corresponde a DECRETO MUNICIPAL882, de 30/12/2004
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 882, DE 30/12/2004
 CRIA O PARQUE MUNICIPAL DAS CACHOEIRAS, DEFINE OS LIMITES E DÁ OUTRAS PROVIDÊNCIAS.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso das atribuições legais que lhe conferem o

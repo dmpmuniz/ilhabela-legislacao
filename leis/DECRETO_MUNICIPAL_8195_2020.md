@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8195
   - Decreto Municipal 8195
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008195"
-coletado_em: "2026-10-11"
-sha256_raw: "37a06edd522bdb6965b9aecca927f9fd9aee45d47660a0664e12c777fedc940f"
+coletado_em: "2026-10-24"
+sha256_raw: "5662227d0101953db648b34ba898d33572427a6fecd581628fe2d8ad0aaa5ab3"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.195, de 07/08/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.195, DE 07/08/2020
 REGULAMENTA O FUNCIONAMENTO DE ACADEMIAS E ESTABELECIMENTOS SIMILARES DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais e;

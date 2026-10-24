@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8888
   - Decreto Municipal 8888
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108888"
-coletado_em: "2026-10-11"
-sha256_raw: a04ed920e2d1eba2b1cb721338d62872394816d3a27edeccf957f6b75464739f
+coletado_em: "2026-10-24"
+sha256_raw: "5d32bb9365be622020476661ff57b8d91d3dafe487cd825f02f9e5cf5d4b12f1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.888, DE 29/11/2021
 DECLARA PONTO FACULTATIVO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, AUTARQUIAS E FUNDAÇÕES NOS DIAS 24 E 31 DE DEZEMBRO DE 2021.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

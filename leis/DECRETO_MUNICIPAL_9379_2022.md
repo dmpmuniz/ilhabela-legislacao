@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9379
   - Decreto Municipal 9379
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209379"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "89fefbaf89d7c2b9a1e68b272b29b1ed0e74b34866f751f686085374cd57ae74"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.379, de 01/08/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.379, DE 01/08/2022
 DISPÕE SOBRE A INSTAURAÇÃO DA COMISSÃO SINDICANTE PERMANENTE, A DESIGNAÇÃODE SEUS RESPECTIVOS MEMBROS, NOS TERMOS DA LEI MUNICIPAL Nº 1.326/2018, E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

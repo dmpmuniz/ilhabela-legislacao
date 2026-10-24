@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 10169
   - Decreto Municipal 10169
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310169"
-coletado_em: "2026-10-11"
-sha256_raw: "1935744e999dc3a442c450ca0ebe6491ba65ccd042f88e31d0143ca548434a74"
+coletado_em: "2026-10-24"
+sha256_raw: "3f3f64c92521844383e71e747312b1620f80ee3ced28961579002b6e3447013b"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.169, de 07/12/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.169, DE 07/12/2023
 DISPÕE SOBRE A NOMEAÇÃO DE REPRESENTANTES PARA COMPOR O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER DE ILHABELA PARA MANDATO DE 02 (DOIS) ANOS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

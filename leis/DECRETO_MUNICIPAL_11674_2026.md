@@ -33,8 +33,8 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026011674"
-coletado_em: "2026-10-11"
-sha256_raw: c2a06c3a919dce27f76ec1b40d93102c06fe9a04615875090ce81dcf45309925
+coletado_em: "2026-10-24"
+sha256_raw: "8c045a96f05e9ee1fb8fcbeaf52aeca9e3725bd8545004be59ba6a93adc1000d"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 11.674, DE 22/01/2026
@@ -77,6 +77,10 @@ matrícula funcional nº 16.853;
 d)
 ERICA DE LIMA PEDROSO,
 matrícula funcional nº 15.693;
+➭
+(Vide
+DM 12.082/2026
+)
 e)
 ERICSSON AMORIM ARAUJO
 , matrícula funcional nº 16.349;

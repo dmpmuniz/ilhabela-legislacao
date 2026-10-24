@@ -27,16 +27,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907902"
-coletado_em: "2026-10-11"
-sha256_raw: "8e08140ff36d64a07dd89b53e91df02211acd7c25792797cc66a9e70b9d8c07f"
+coletado_em: "2026-10-24"
+sha256_raw: "9272eb834b5fb31d9089ca1913f9f13af9a9b10c4a4d809328ee6a75319816f3"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.902, DE 27/12/2019
 DISPÕE SOBRE O REAJUSTE DA TARIFA DE TRANSPORTE PÚBLICO COLETIVO URBANO NO MUNICÍPIO.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei e,

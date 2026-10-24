@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9477
   - Decreto Municipal 9477
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209477"
-coletado_em: "2026-10-11"
-sha256_raw: "109a017fc7178c2c5363bff83b9dfefa2379a27e6c71fac53a02ba7aadd0c66e"
+coletado_em: "2026-10-24"
+sha256_raw: "1744a6c881e9f4f2d897e43f0340e00a12e9a8dbca9ee1834bcbfe8826cb2dd5"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.477, de 14/10/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.477, DE 14/10/2022
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO MUNICIPAL DO IDOSO DE ILHABELA - CMI.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

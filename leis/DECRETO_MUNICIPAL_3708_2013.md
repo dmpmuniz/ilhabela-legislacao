@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 3.708, DE 19/09/2013"
-ementa: "DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO LOCALIZADO NO BAIRRO ENGENHO D&RSQUO;ÁGUA."
+ementa: DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO LOCALIZADO NO BAIRRO ENGENHO D’ÁGUA.
 aliases:
   - Decreto 3708/2013
   - Decreto nº 3708/2013
@@ -17,13 +17,13 @@ aliases:
   - Decreto nº 3708
   - Decreto Municipal nº 3708
   - Decreto Municipal 3708
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201303708&NroLei=3.708&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "4166dfab8d595232c2659482fc05b7406142fc11e845ccaf52c473b6f3195286"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201303708"
+coletado_em: "2026-10-24"
+sha256_raw: "6265f349651612f6f9c01966847bb157363bb5204b2024e2f3c1be6708bc1ae3"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 3.708, DE 19/09/2013
-DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO LOCALIZADO NO BAIRRO ENGENHO D&RSQUOÁGUA.
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO LOCALIZADO NO BAIRRO ENGENHO D’ÁGUA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais; com fundamento no
 Decreto-Lei nº 3.365
 , de 21 de junho de 1941 e demais legislações atinentes a espécie,

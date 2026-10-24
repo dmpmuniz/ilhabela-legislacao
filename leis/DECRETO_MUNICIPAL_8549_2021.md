@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8549
   - Decreto Municipal 8549
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108549"
-coletado_em: "2026-10-11"
-sha256_raw: "4f2f4f7208504e6d6663b0f083b0fab38521634d0de495715f5e22d20c4d3c02"
+coletado_em: "2026-10-24"
+sha256_raw: "8608dae1fbe7bc8f5ddc273b88c65256ceaf208924dec10a3bf5722370221e1d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.549, DE 31/03/2021
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

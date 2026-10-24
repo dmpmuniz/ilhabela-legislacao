@@ -16,17 +16,10 @@ aliases:
   - Lei 1331
   - Lei nº 1331
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181331"
-coletado_em: "2026-10-11"
-sha256_raw: b8f901bb02387977467921ffc21a53a3b0eda20d5f8d3a2fd986b3b9213586a7
+coletado_em: "2026-10-24"
+sha256_raw: "90513c28b24832b044150ac879af4f5b0e740709a070bf2a3d1c2833b2c3c1a0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.331, de 13/11/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.331, DE 13/11/2018
 DISPÕE SOBRE A RETIRADA DE VEÍCULOS DETERIORADOS E SEM CONDIÇÕES DE CIRCULAÇÃO, DE QUALQUER NATUREZA, CARCAÇAS DE BARCOS, CHASSIS, CAÇAMBAS E ASSEMELHADOS NOS LOGRADOUROS PÚBLICOS E DÁ OUTRAS PROVIDÊNCIAS.
 FAÇO SABER QUE A CÂMARA MUNICIPAL MANTEVE E EU PROMULGO, NOS TERMOS DA

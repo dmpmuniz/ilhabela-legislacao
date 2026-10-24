@@ -15,17 +15,11 @@ aliases:
   - Lei nº 827/1999
   - Lei 827
   - Lei nº 827
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19990827&NroLei=827&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: cd150b01a5b696ae6f0f73b57c98cadcac749b86d91e8a2d30007fb3d76ff6ec
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19990827"
+coletado_em: "2026-10-24"
+sha256_raw: "59d2745078112b6c262d92c6419bdce0b3d74c2676f2ed0a8a67b32e07ef2964"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 827, DE 27/09/1999
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais

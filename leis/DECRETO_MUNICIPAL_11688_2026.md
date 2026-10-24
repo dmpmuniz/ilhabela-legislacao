@@ -7,7 +7,7 @@ ano: 2026
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 data_vigencia: "2026-01-12"
 titulo: "DECRETO MUNICIPAL Nº 11.688, DE 23/01/2026"
 ementa: "DISPÕE SOBRE A DESIGNAÇÃO DE ELEANDRO ALVES RODRIGUES PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISOR DE SERVIÇOS DE MANUTENÇÃO DE PRAÇAS ESPORTIVAS, LOTADO NA SECRETARIA MUNICIPAL DE ESPORTE E LAZER."
@@ -27,12 +27,15 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2026011688"
-coletado_em: "2026-10-11"
-sha256_raw: fff5ff17185a3ebec6a4536c0283af292e55153714caaee84385200d05f994da
+coletado_em: "2026-10-24"
+sha256_raw: "4a2cd84be35934950144a278a6df558a586fc629c429891795c541a4f96a77d4"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 11.688, DE 23/01/2026
 DISPÕE SOBRE A DESIGNAÇÃO DE ELEANDRO ALVES RODRIGUES PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISOR DE SERVIÇOS DE MANUTENÇÃO DE PRAÇAS ESPORTIVAS, LOTADO NA SECRETARIA MUNICIPAL DE ESPORTE E LAZER.
+(Revogado pelo
+Decreto Municipal nº 12.127
+, de 21.10.2026)
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
 DECRETA
 ##### Art. 1º

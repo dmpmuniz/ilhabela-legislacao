@@ -26,17 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209598"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "76c39b1bd10525f36836efb551d39ddb5e546d5f169db6ee5307127ad68b6b4f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.598, de 28/12/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.598, DE 28/12/2022
 DISPÕE SOBRE A RECONDUÇÃO E SUBSTITUIÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DE EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB PARA O QUADRIÊNIO 2023-2026.
 (Revogado pelo

@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 9530
   - Decreto Municipal 9530
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209530"
-coletado_em: "2026-10-11"
-sha256_raw: "947d9df9559c0f6fa957dd0b17a0d4107cf75b9c75db16935cb1fd86790ec70d"
+coletado_em: "2026-10-24"
+sha256_raw: ed89154b3bc8ca3bda8443aede1af22627ea516acfc7eaf82090e276aa3c4e32
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.530, de 28/11/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.530, de 28/11/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.530, DE 28/11/2022
 REGULAMENTA O CONSELHO MUNICIPAL DE PARCERIAS PÚBLICO PRIVADAS DO MUNICÍPIO DE ILHABELA, NOS TERMOS DA
 LEI MUNICIPAL Nº 1.554

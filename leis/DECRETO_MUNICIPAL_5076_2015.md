@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 5076
   - Decreto Municipal 5076
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201505076"
-coletado_em: "2026-10-11"
-sha256_raw: "18008acbb142e73d424f04e0f05a399f540ccf1dfdd7fe728641badd1d76d508"
+coletado_em: "2026-10-24"
+sha256_raw: ec1dbc27906321c82c15133bdf5834aaf9c141898eed2ce8a5040bc4932fd3eb
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.076, DE 01/09/2015
 REGULAMENTA O PAGAMENTO DA REMUNERAÇÃO DOS FUNCIONÁRIOS PÚBLICOS DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, NOS TERMOS DO ART. 43, INCISO VI, DA LEI ORGÂNICA MUNICIPAL
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das atribuições que lhe são conferidas por lei;

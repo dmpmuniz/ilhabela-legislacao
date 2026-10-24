@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9660
   - Decreto Municipal 9660
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309660"
-coletado_em: "2026-10-11"
-sha256_raw: "5cc3d5ce23c415af047d19aa02f5c8a34a435ffe15ffd03966a8fa2c4c501120"
+coletado_em: "2026-10-24"
+sha256_raw: "2904c619d7de971c52e1e75ace0b15fa2fb64d66e939e7cb2b0a655c5d77c90f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.660, DE 25/01/2023
 DISPÕE SOBRE A PROIBIÇÃO DE COLOCAR MESAS E CADEIRAS NAS VIAS PÚBLICAS DO CENTRO HISTÓRICO DURANTE OS FESTEJOS CARNAVALESCOS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

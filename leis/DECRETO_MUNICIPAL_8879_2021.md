@@ -19,17 +19,10 @@ aliases:
   - Decreto Municipal nº 8879
   - Decreto Municipal 8879
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108879"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "6f75c97cfa0add0c77e89c0c776790a078cf61dd1fb871b6bf12c9b7774bbeea"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.879, de 19/11/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.879, DE 19/11/2021
 DISPÕE SOBRE MEDIDA DESTINADA AO ENFRENTAMENTO DA PANDEMIA PELA COVID-19 EM RAZÃO DA ATUAL SITUAÇÃO EPIDEMIOLÓGICA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo

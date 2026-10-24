@@ -19,16 +19,10 @@ aliases:
   - Decreto Municipal nº 8164
   - Decreto Municipal 8164
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008164"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: c7fc2af4f41d2dfbeb4de7719ef3d10f3be105fc9a33af98e52f5fd5d1edebf8
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.164, DE 10/07/2020
 REGULAMENTA O FUNCIONAMENTO DE RESTAURANTES, LANCHONETES, PADARIAS, BARES E SIMILARES DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 (Revogado pelo

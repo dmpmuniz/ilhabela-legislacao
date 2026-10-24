@@ -16,16 +16,10 @@ aliases:
   - Lei 1218
   - Lei nº 1218
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171218"
-coletado_em: "2026-10-11"
-sha256_raw: "171ad84965cf6924eb951391d75b33524738fc1e8f16df76d028805b9d3a5b5a"
+coletado_em: "2026-10-24"
+sha256_raw: "9dab6d410a66f86ddac67a2a940b306a3d5a2da77cbb002fdd11679f2e0268b1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.218, DE 22/09/2017
 INSTITUI A CRIAÇÃO DO PROGRAMA MEDICAMENTO NA DOSE CERTA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

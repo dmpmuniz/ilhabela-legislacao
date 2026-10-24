@@ -25,19 +25,11 @@ palavras_chave_auto:
 tags_auto:
   - tributos
   - fiscalizacao
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20020156&NroLei=156&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "3f02218903c2cb80fd3b2b14161e1620fa58518d247387a5ddd54844388be7cb"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20020156"
+coletado_em: "2026-10-24"
+sha256_raw: f10718cf2ce49175d7bd47c778227138fe4b03f4b28bb7ef5576ef48c69ae250
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL156, de 20/12/2002
-2ª Versão corresponde a LEI MUNICIPAL156, de 20/12/2002
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 156, DE 20/12/2002
 INSTITUI O
 NOVO CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA

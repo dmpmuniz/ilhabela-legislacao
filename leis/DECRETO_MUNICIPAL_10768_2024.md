@@ -19,16 +19,10 @@ aliases:
   - Decreto Municipal nº 10768
   - Decreto Municipal 10768
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410768"
-coletado_em: "2026-10-11"
-sha256_raw: "8904ae94b50758ac47092b8447a8c99e3729803da28e269b83b370d94812fcb1"
+coletado_em: "2026-10-24"
+sha256_raw: "916dc570987539e5b92cc8bf877febedfc1de03c3022d0481b37e1816689673f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.768, DE 27/12/2024
 DISPÕE SOBRE A EXONERAÇÃO DOS SERVIDORES DESIGNADOS PARA EXERCER FUNÇÃO DE CONFIANÇA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

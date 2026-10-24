@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10322
   - Decreto Municipal 10322
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410322"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "1d99a6464d99ac6fcb4dd3bbb187b60b8fae53b42ff7edfd38788da5a3a12490"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.322, DE 02/04/2024
 DISPÕE SOBRE A CRIAÇÃO E A NOMEAÇÃO DOS MEMBROS DA COMISSÃO DOS CONSELHOS, NOS TERMOS DO ART. 4º DA LEI MUNICIPAL Nº 1.277/2018.
 (Revogado pelo

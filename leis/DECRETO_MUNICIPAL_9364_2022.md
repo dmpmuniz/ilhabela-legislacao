@@ -27,17 +27,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209364"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: b2b789aedc5ea9ff4c4c6d1f565b90f131f636ed716c6114fcee925e8b6fbe13
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.364, de 18/07/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.364, DE 18/07/2022
 DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA DE EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

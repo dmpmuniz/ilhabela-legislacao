@@ -27,16 +27,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209311"
-coletado_em: "2026-10-11"
-sha256_raw: "82987fd4dc180158fae78ece6dba29ffbc9d08c32d02475471258b2c9c3e66a7"
+coletado_em: "2026-10-24"
+sha256_raw: "2c1796be678cddf1f2fb9725a73b23d9c450dbc0592f0137a5c34a7139d5b58e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.311, DE 22/06/2022
 DISPÕE SOBRE A EXONERAÇÃO DE ROSINÉIA MACHADO MIRANDA QUE OCUPAVA A FUNÇÃO DE CONFIANÇA DE COODENADOR DE CADASTRAMENTO, LOTADO NA SECRETARIA MUNICIPAL DE GESTÃO FINANCEIRA
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

@@ -16,16 +16,10 @@ aliases:
   - Lei 1580
   - Lei nº 1580
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20231580"
-coletado_em: "2026-10-11"
-sha256_raw: e7659271a357b41f2e791d29ec9bd40f9073063855d93d4afb637529193d941a
+coletado_em: "2026-10-24"
+sha256_raw: "399d5c00599ed5a66a5e5114e2435545da9e2ac64bdca02b0f6c8fcd48159c05"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.580, DE 23/02/2023
 CONCEDE REAJUSTE AOS VENCIMENTOS DOS SERVIDORES ATIVOS, INATIVOS E PENSIONISTAS DO PODER LEGISLATIVO MUNICIPAL, AUTORIZA A CONCESSÃO DE ABONO SALARIAL PROVISÓRIO E ESTENDE A REPOSIÇÃO ÀS VANTAGENS QUE ESPECIFICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

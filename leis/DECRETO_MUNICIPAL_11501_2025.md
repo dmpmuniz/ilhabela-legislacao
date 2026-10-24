@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11501
   - Decreto Municipal 11501
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511501"
-coletado_em: "2026-10-11"
-sha256_raw: c487ed547526863c93664939d47143de6c0478d4a82bf43e5205b18a8778dfd4
+coletado_em: "2026-10-24"
+sha256_raw: e376b78cfbd6379f47e9230f1251173a4892632956885930fac0d88819613249
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.501, DE 16/09/2025
 DISPÕE SOBRE A COMPOSIÇÃO DO CONSELHO MUNICIPAL DAS COMUNIDADES TRADICIONAIS, CRIADO PELA LEI MUNICIPAL Nº 1.384/2019, PARA O BIÊNIO 2025/2027.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

@@ -16,16 +16,10 @@ aliases:
   - Portaria 168
   - Portaria nº 168
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023168"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: df0ba1895a536f3aa3cff468231a0e0516321a453802a14be62709c6d70f729f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 168, DE 22/02/2023
 DISPÕE SOBRE A NOMEAÇÃO DE FABIO HILDEBRANDO RIBEIRO DELADEA PARA OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AGENTE DE ADMINISTRAÇÃO PÚBLICA.
 (Revogada pela

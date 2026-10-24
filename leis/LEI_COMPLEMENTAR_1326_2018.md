@@ -17,29 +17,10 @@ aliases:
   - Lei Complementar nº 1326
   - LC 1326/2018
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181326"
-coletado_em: "2026-10-11"
-sha256_raw: e51643ab4c4b82a5b532eb30267ca6dd48601cb329844b69bd7acbbd533da256
+coletado_em: "2026-10-24"
+sha256_raw: "1751133c9e2126c56a0102562ca9a06f380f6d7553b7831ca19d8c2df9d70516"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-2ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-3ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-4ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-5ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-6ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-7ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-8ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-9ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-10ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-11ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-12ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-13ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.326, DE 26/10/2018
 DISPÕE SOBRE O
 ESTATUTO DOS SERVIDORES PÚBLICOS MUNICIPAIS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA

@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8095
   - Decreto Municipal 8095
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008095"
-coletado_em: "2026-10-11"
-sha256_raw: b1c78bb5acd0a3bf79d317881e9fe2e743de809cfc54c253628158ead3cd78a1
+coletado_em: "2026-10-24"
+sha256_raw: "7e92daae6a79893742640188d075ded4712198ffff5739c2bbef05ed9ffe05e9"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.095, de 18/05/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.095, DE 18/05/2020
 DISPÕE SOBRE A CRIAÇÃO DO COMITÊ MUNICIPAL DE VIGILÂNCIA, PREVENÇÃO E ENFRENTAMENTO À VIOLÊNCIA CONTRA AS MULHERES E DÁ OUTRAS PROVIDÊNCIAS.
 A Prefeita Municipal, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais que lhe são conferidas por lei,

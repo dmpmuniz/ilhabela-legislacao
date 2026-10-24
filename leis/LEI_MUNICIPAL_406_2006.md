@@ -15,17 +15,11 @@ aliases:
   - Lei nº 406/2006
   - Lei 406
   - Lei nº 406
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20060406&NroLei=406&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "21557e2e9e582ea6130ccf6f535d5ef358f7be839c83cc5c33ca8697bb743db3"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20060406"
+coletado_em: "2026-10-24"
+sha256_raw: da70284ebb96d85ee6aefb74ea2ea179b53657ff7f844991c3af7de4a735b98f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 406, DE 28/06/2006
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 FAÇO SABER QUE A CÂMARA MUNICIPAL MANTEVE E EU PROMULGO, NOS TERMOS DA LEI ORGÂNICA DO MUNICÍPIO DE ILHABELA, A SEGUINTE LEI:

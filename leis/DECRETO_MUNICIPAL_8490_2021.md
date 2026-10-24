@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8490
   - Decreto Municipal 8490
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108490"
-coletado_em: "2026-10-11"
-sha256_raw: db0a571e6fd5cfe394cce7cf79ca76cd0bae6dc184ccc85bc07beabbb8b776d5
+coletado_em: "2026-10-24"
+sha256_raw: ad8528b05fe8f2fb156c4aca7446e383dc14cc18e3df8774d79ba256cd3507bf
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.490, DE 08/03/2021
 DISPÕE SOBRE A FASE VERMELHA DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais;

@@ -16,16 +16,10 @@ aliases:
   - Portaria 190
   - Portaria nº 190
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023190"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "453075d08db9c6bb0e22abc93ef19b23a63cd223b78d402811ca759007e069d4"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 190, DE 22/02/2023
 DISPÕE SOBRE A NOMEAÇÃO DE ALESSANDRA ROMEIRA GINES OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 (Revogada pela

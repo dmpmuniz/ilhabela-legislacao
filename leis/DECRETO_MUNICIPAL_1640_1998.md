@@ -17,17 +17,11 @@ aliases:
   - Decreto nº 1640
   - Decreto Municipal nº 1640
   - Decreto Municipal 1640
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=199801640&NroLei=1.640&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "6997537f1c3104813106d0f8add75dd5c7e899a68eb99fdc0ddf9469a9a92fec"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=199801640"
+coletado_em: "2026-10-24"
+sha256_raw: "68c7b9f9efa97e6aa4d8fce8cfc68c77dff38ef1201daddc210b11d14e2d2cf4"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 1.640, DE 20/05/1998
 REGULAMENTA A LEI MUNICIPAL Nº 641, DE 16 DE JULHO DE 1997, INSTITUI A FUNDACI - FUNDAÇÃO CULTURAL DE ILHABELA, APROVA O SEU ESTATUTO E DÁ OUTRAS PROVIDÊNCIAS.
 NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições que lhe são conferidas pelo

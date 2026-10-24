@@ -15,19 +15,11 @@ aliases:
   - Lei nº 913/2011
   - Lei 913
   - Lei nº 913
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110913&NroLei=913&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: fba9538b8cf8ace939df77a1b4f88ef9e4dc10c8cdb50d9e3b9365eac974a4f6
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110913"
+coletado_em: "2026-10-24"
+sha256_raw: "5b8ca5991dc388fa0a395bf6ef2c914a0564a9ea0615edcfd508e35bde375d8d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL913, de 17/11/2011
-2ª Versão corresponde a LEI MUNICIPAL913, de 17/11/2011
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 913, DE 17/11/2011
 CRIA A GRATIFICAÇÃO POR DESEMPENHO DE ATIVIDADE DELEGADA, NOS TERMOS QUE ESPECIFICA, A SER PAGA AOS POLICIAIS MILITARES E CIVIS QUE EXERÇAM ATIVIDADE MUNICIPAL DELEGADA AO ESTADO DE SÃO PAULO POR MEIO DE CONVÊNIO CELEBRADO COM O MUNICÍPIO DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais,

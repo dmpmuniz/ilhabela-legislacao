@@ -27,16 +27,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209596"
-coletado_em: "2026-10-11"
-sha256_raw: "131ff41b093e5b4c963dcf20fb5066d1dba11d19f6a89360c291d7875942d8ba"
+coletado_em: "2026-10-24"
+sha256_raw: "1226409063c3bcf5f5f1c7bbeb8db620bc73001b491d0f8da0b87abb88ccd6af"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.596, DE 28/12/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A AMPLIAÇÃO DO PAÇO MUNICIPAL E CONSTRUÇÃO DE ESTACIONAMENTO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

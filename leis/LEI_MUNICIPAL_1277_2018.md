@@ -16,17 +16,10 @@ aliases:
   - Lei 1277
   - Lei nº 1277
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181277"
-coletado_em: "2026-10-11"
-sha256_raw: "97304b7fc050680912d2f1db4dd2fed591538d7676cb172d6e3fd2f6fabab7dc"
+coletado_em: "2026-10-24"
+sha256_raw: "2041f814c43372fd1ec0d0fe6b62ab5f2ca9ae0c33d18176df664e20f9f17d2b"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.277, de 28/05/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.277, DE 28/05/2018
 CRIA A CASA DOS CONSELHOS, DESTINADA A ORGANIZAR O FUNCIONAMENTO E PROMOVER A DIVULGAÇÃO DA ATUAÇÃO DOS CONSELHOS MUNICIPAIS, E O FUNDO MUNICIPAL DA PARTICIPAÇÃO SOCIAL (FMPS) E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

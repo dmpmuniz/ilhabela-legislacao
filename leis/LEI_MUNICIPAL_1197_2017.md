@@ -16,18 +16,10 @@ aliases:
   - Lei 1197
   - Lei nº 1197
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171197"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "938f7795f048d1e42dc4aefef21dbd6754695e6f6aa27cfae66f2bc8b79b3337"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.197, de 30/06/2017
-2ª Versão corresponde a LEI MUNICIPAL1.197, de 30/06/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.197, DE 30/06/2017
 CRIA NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA O PROGRAMA BOLSA ATLETA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogada pela

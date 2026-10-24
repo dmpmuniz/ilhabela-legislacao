@@ -15,18 +15,11 @@ aliases:
   - Lei nº 903/2011
   - Lei 903
   - Lei nº 903
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110903&NroLei=903&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "33ea913c1a280a0ab654da2ae89b5fd09e8d72307b61782626ed3c0f160f9931"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110903"
+coletado_em: "2026-10-24"
+sha256_raw: "42def2376f342515271a5a4cad4425ced6b980ec0e82b48c75f8ca841af2e35d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL903, de 06/10/2011
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 903, DE 06/10/2011
 DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DA JUVENTUDE - CMJ, NO MUNICÍPIO DE ILHABELA, E DÁ OUTRAS PROVIDÊNCIAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais

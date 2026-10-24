@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8606
   - Decreto Municipal 8606
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108606"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "972629a7028c905e56105ca75f10bc202d32bbaf3c8cba872517d3159f23044a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.606, de 04/05/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.606, DE 04/05/2021
 DISPÕE SOBRE A NOMEAÇÃO DE MEMBROS PARA A COMISSÃO DOS CONSELHOS, PREVISTA NO ART. 4º DA LEI MUNICIPAL N. 1.277/2018, QUE CRIA A CASA DOS CONSELHOS.
 (Revogado pelo

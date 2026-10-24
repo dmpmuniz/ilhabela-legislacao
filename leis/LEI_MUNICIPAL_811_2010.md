@@ -15,17 +15,11 @@ aliases:
   - Lei nº 811/2010
   - Lei 811
   - Lei nº 811
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100811&NroLei=811&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "61aaa46edd42ec71ba663e1568952b8bf805f0a8265006e523f971a0851b6899"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100811"
+coletado_em: "2026-10-24"
+sha256_raw: "3e9537fe87afb5e27a40db39d4860062c8a4a3eada7141009146fd086f21ffb7"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 811, DE 04/05/2010
 AUTORIZA O EXECUTIVO MUNICIPAL A PERMITIR A COLOCAÇÃO DE CANCELAS E GUARITAS EM RUAS SEM SAÍDAS E DÁ OUTRAS PROVIDÊNCIAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais

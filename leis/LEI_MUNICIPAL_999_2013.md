@@ -25,18 +25,11 @@ tags_auto:
   - cultura
   - turismo
   - patrimonio
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20130999&NroLei=999&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a058617c338f490392305a34931ffcc71f978f7a15dac4bb985a89b6f39f1555
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20130999"
+coletado_em: "2026-10-24"
+sha256_raw: d08df91ba6d24f734c8b2f9be48ab323cebf371a622e01b334915f66b925d0a2
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL999, de 06/05/2013
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 999, DE 06/05/2013
 DISPÕE SOBRE A CONCESSÃO DE HOMENAGEM AOS CAIÇARAS QUE PRESTAREM RELEVANTES SERVIÇOS À CULTURA REGIONAL E DÁ OUTRAS PROVIDÊNCIAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

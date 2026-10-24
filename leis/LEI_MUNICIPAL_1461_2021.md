@@ -16,16 +16,10 @@ aliases:
   - Lei 1461
   - Lei nº 1461
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20211461"
-coletado_em: "2026-10-11"
-sha256_raw: "97421d850c814dc438bce74afe7bed5ab359c34ae5654cfd0a36a9103ab4de14"
+coletado_em: "2026-10-24"
+sha256_raw: "891993762f831d0ade6c41ae5d3e9104d1c8de3f975cf0e460864c4fcdddfcc6"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.461, DE 31/03/2021
 INSTITUI AUXÍLIO FINANCEIRO EMERGENCIAL, EM PECÚNIA, PARA ALIMENTAÇÃO DA POPULAÇÃO DE BAIXA RENDA DO MUNICÍPIO, VISANDO MITIGAR OS EFEITOS ECONÔMICOS DA SEGUNDA ONDA DA PANDEMIA PELO NOVO CORONAVIRUS (COVID-19), E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9803
   - Decreto Municipal 9803
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309803"
-coletado_em: "2026-10-11"
-sha256_raw: "0a33f27a8b66080f6a1500c855bd2b0bfeb99c23941feef2ecf81fd5a4dd468b"
+coletado_em: "2026-10-24"
+sha256_raw: e8567c5a416e75c6b34dfe98aa765c8dd4b31ce312bbc38ca463ce48d50df1f4
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.803, de 03/04/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.803, DE 03/04/2023
 DISPÕE SOBRE A INSTAURAÇÃO DA COMISSÃO SINDICANTE TRANSITÓRIA, A DESIGNAÇÃO DE SEUS MEMBROS, NOS TERMOS DA LEI MUNICIPAL Nº 1.326/2018, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

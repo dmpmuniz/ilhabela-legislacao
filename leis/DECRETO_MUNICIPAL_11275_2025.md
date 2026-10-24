@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11275
   - Decreto Municipal 11275
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511275"
-coletado_em: "2026-10-11"
-sha256_raw: f724e63c69313ea59fc3ebfdcffaf27982f4cb8da0cbe8b0baa04738fdf9707d
+coletado_em: "2026-10-24"
+sha256_raw: "37d4f601baace27cc72514ae2b0c85071b7e233349ec3d4afc63815d7cba537a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.275, DE 03/04/2025
 DISPÕE SOBRE A INSTAURAÇÃO DA COMISSÃO SINDICANTE TRANSITÓRIA, A DESIGNAÇÃO DE SEUS MEMBROS, NOS TERMOS DA LEI MUNICIPAL Nº 1.326/2018, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

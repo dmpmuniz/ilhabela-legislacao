@@ -16,16 +16,10 @@ aliases:
   - Lei 1287
   - Lei nº 1287
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181287"
-coletado_em: "2026-10-11"
-sha256_raw: "113e570530586959a8b6213cb80967e5cea022b7044b97331677ca13918ae9b3"
+coletado_em: "2026-10-24"
+sha256_raw: "91b8669870d947497845d16effa0d07bc88e05c885ee0426504f03d387b80a0d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.287, DE 29/06/2018
 DISPÕE SOBRE A CRIAÇÃO E A CONCESSÃO DE GRATIFICAÇÃO ESPECIAL AOS POLICIAIS CIVIS, QUE ESTEJAM LOTADOS E EM SERVIÇO NO MUNICÍPIO DE ILHABELA, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

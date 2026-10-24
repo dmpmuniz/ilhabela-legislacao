@@ -28,16 +28,10 @@ tags_auto:
   - turismo
   - patrimonio
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108534"
-coletado_em: "2026-10-11"
-sha256_raw: "32ec535d9a4f34b475db4e7e683ed491f39edfef58dcc3a897e80cf8c2000e0d"
+coletado_em: "2026-10-24"
+sha256_raw: dbb3019826f52091c02a8dce3a4acfe71f21dc0f486b53bd500792092e3a0082
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.534, DE 26/03/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO CURADOR DA FUNDAÇÃO ARTE E CULTURA DE ILHABELA, NOS TERMOS DA LEI MUNICIPAL Nº 641, DE 16 DE JULHO DE 1997.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

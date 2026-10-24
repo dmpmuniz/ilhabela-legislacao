@@ -27,16 +27,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907309"
-coletado_em: "2026-10-11"
-sha256_raw: b3e1714a86d26b3ac88da3e90885f625ed329ca294d1506603ec2948cdd867f5
+coletado_em: "2026-10-24"
+sha256_raw: "302f02a4f7c70b03d1a9cac61614491517c0f70b30fedf3182dbb8bfa51fcf49"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.309, DE 04/02/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS INDICADOS PARA COMPOR A COMISSÃO DE ACOMPANHAMENTO DA REVISÃO DO PLANO MUNICIPAL DE SANEAMENTO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das atribuições legais que lhe são conferidas por Lei e;

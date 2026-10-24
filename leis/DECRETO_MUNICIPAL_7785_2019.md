@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 7785
   - Decreto Municipal 7785
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907785"
-coletado_em: "2026-10-11"
-sha256_raw: bc87f4267734e69d303bc2871550912b2cf1a7b377e66d4800f31f7305aa6e0a
+coletado_em: "2026-10-24"
+sha256_raw: c51cc062160dc360dfcdf00c7483c9f09157d8602f4e77b2b65e22336b3dd68f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.785, de 06/11/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.785, DE 06/11/2019
 DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO DE ALIMENTAÇÃO ESCOLAR - CAE.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei e;

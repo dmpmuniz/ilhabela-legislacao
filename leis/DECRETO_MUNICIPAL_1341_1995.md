@@ -27,9 +27,9 @@ palavras_chave_auto:
 tags_auto:
   - orcamento
   - financas
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19951341&NroLei=1.341&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "164a4a67d711860e03097aff12f4b93e5736d657a7b584e15e4e891aed47660b"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19951341"
+coletado_em: "2026-10-24"
+sha256_raw: "924168efe025520e79eab14e20352623da9db176ee4a2ac58e2cde15be40f696"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 1.341, DE 05/07/1995
@@ -40,8 +40,7 @@ ou está revogado por norma posterior.
 (
 VIDE ATO NA ÍNTEGRA
 )
-MACRO EXECUTADA!!! --->
-Y
+MACRO EXECUTADA!!! ---> Y
 o
 Y
 Prefeitura Municipal da Estância Balneária de Ilhabela

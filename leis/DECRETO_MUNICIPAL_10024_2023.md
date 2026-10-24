@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 10024
   - Decreto Municipal 10024
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310024"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "2e4ae4357cc4423a239860cac1681719be103852018d5739dcdbe039a209e35f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.024, de 15/09/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.024, DE 15/09/2023
 DISPÕE SOBRE A NOMEAÇÃO DE MARIE ZEITLER PARA EXERCER FUNÇÃO DE CONFIANÇA DA CLASSE DE GESTÃO EDUCACIONAL DE DIRETOR DE UNIDADE ESCOLAR.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei,

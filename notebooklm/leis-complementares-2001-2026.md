@@ -47,7 +47,7 @@
 outras, complementar, institui, codigo, tributo municipal, iptu, iss, aliquota, isencao fiscal, lancamento tributario, exercicio, posturas, saneamento, estancia, balnearia, imposto, dispositivos, predial, territorial, urbano, inciso, acrescenta, modifica, plano, 5292007, valores, lancamento, basico, programa, 1562002
 
 ## Período
-2001 a 2026 · 60 normas · ~112.665 palavras de texto
+2001 a 2026 · 60 normas · ~112.501 palavras de texto
 
 
 ## Status
@@ -4031,12 +4031,6 @@ LISTA DE SERVIÇOS A QUE SE REFERE O
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171223
 > **Palavras-chave:** tributo municipal, IPTU, ISS, alíquota, isenção fiscal, lançamento tributário
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.223, DE 02/10/2017
 ALTERA A PLANTA GENÉRICA DE VALORES E MÉTODOS DE AVALIAÇÃO DA PROPRIEDADE IMOBILIÁRIA, PARA EFEITO DE LANÇAMENTO DO IMPOSTO PREDIAL E TERRITORIAL URBANO PARA O EXERCÍCIO DE 2018 E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO TENORIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
@@ -4827,12 +4821,6 @@ Registrada em Livro Próprio e afixada na data supra no lugar de costume. AGM/VS
 > **Ementa:** CRIA O FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI, DISPÕE SOBRE SUA ESTRUTURA, FONTES DE RECURSOS E FORMAS DE APLICAÇÃO E DÁ OUTRAS PROVIDÊNCIAS
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181333
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.333, DE 21/11/2018
 CRIA O FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI, DISPÕE SOBRE SUA ESTRUTURA, FONTES DE RECURSOS E FORMAS DE APLICAÇÃO E DÁ OUTRAS PROVIDÊNCIAS
 MÁRCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balnearia de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara de Vereadores aprovou e ele sanciona a seguinte Lei:
@@ -5061,12 +5049,6 @@ Prefeita Municipal
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191397
 > **Palavras-chave:** meio ambiente, licenciamento ambiental, resíduos sólidos, saneamento básico, poluição
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.397, DE 28/11/2019
 INSTITUI A POLÍTICA MUNICIPAL DE SANEAMENTO BÁSICO - PMSB, CRIA A AUTARQUIA MUNICIPAL SANEAMENTO DE ILHABELA - SANEILHA E O CONSELHO MUNICIPAL DE SANEAMENTO BÁSICO, INSTITUI O FUNDO MUNICIPAL DE SANEAMENTO AMBIENTAL E INFRAESTRUTURA - FMSAI E DÁ OUTRAS PROVIDÊNCIAS.
 Maria das Graças Ferreira dos Santos Souza, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:
@@ -6222,12 +6204,6 @@ Registrada em Livro próprio e afixada na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20211483
 > **Palavras-chave:** tributo municipal, IPTU, ISS, alíquota, isenção fiscal, lançamento tributário
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.483, DE 04/08/2021
 CONCEDE MORATÓRIA EM CARÁTER GERAL PARA PRORROGAR O PRAZO DE PAGAMENTO DAS TAXAS MUNICIPAIS ESPECIFICADAS, DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISS) E DO IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU), NO ANO EXERCÍCIO DE 2021, EM RAZÃO DOS IMPACTOS NA ECONOMIA DECORRENTES DA PANDEMIA PELO NOVO CORONAVIRUS (COVID-19), E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
@@ -6609,16 +6585,6 @@ Registrada em Livro próprio e afixada na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221517
 > **Palavras-chave:** estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-2ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-3ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-4ª Versão corresponde a LEI COMPLEMENTAR1.517, de 03/02/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.517, DE 03/02/2022
 DISPÕE SOBRE A
 ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
@@ -9901,12 +9867,6 @@ Prefeito Municipal
 > **Ementa:** DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO DE OBRAS E CONSTRUÇÕES IRREGULARES E/OU NÃO AUTORIZADAS NO MUNICÍPIO DE ILHABELA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20251752
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.752, DE 04/12/2025
 DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO DE OBRAS E CONSTRUÇÕES IRREGULARES E/OU NÃO AUTORIZADAS NO MUNICÍPIO DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:

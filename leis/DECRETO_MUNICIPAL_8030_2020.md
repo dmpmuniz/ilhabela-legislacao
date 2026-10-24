@@ -27,31 +27,10 @@ tags_auto:
   - saude
   - servicos_publicos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008030"
-coletado_em: "2026-10-11"
-sha256_raw: f880ace4f36f2e581ea1eb200f74a270fa6e928fad88e8ac923eb150a709432b
+coletado_em: "2026-10-24"
+sha256_raw: "35658c59a005dcc5c3342294384debefc9898e22948c4372f9b62ef170ad5efd"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-4ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-5ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-6ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-7ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-8ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-9ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-10ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-11ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-12ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-13ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-14ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-15ª Versão corresponde a DECRETO MUNICIPAL8.030, de 20/03/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.030, DE 20/03/2020
 DECRETA ESTADO DE CALAMIDADE PARA ENFRENTAMENTO DA EMERGÊNCIA NA SAÚDE PÚBLICA E ESTABELECE MEDIDAS EXCEPCIONAIS DE CONTENÇÃO À PANDEMIA PROVOCADA PELO NOVO CORONAVÍRUS (COVID-19), REGULAMENTANDO O LICENCIAMENTO E HORÁRIO DE FUNCIONAMENTO DO COMÉRCIO E DOS PRESTADORES DE SERVIÇOS NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, E DÁ OUTRAS PROVIDÊNCIAS.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

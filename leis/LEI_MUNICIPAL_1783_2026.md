@@ -26,16 +26,10 @@ tags_auto:
   - orcamento
   - financas
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20261783"
-coletado_em: "2026-10-11"
-sha256_raw: e7d693f2aec563b95a206e61a1b868339632a435cb41a2498749ca53ee01a430
+coletado_em: "2026-10-24"
+sha256_raw: "260dd473b3749af0e39fc13dbd1fb3ce8f849dfa922e96fcdd7742aa5ba6c409"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.783, DE 19/05/2026
 AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR NO ORÇAMENTO DO MUNICÍPIO DE ILHABELA, COM RECURSOS PROVENIENTES DO SUPERÁVIT FINANCEIRO DO EXERCÍCIO ANTERIOR OBTIDO JUNTO AO FUNDO SOBERANO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - FSMI, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:

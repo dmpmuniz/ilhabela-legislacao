@@ -27,16 +27,10 @@ tags_auto:
   - tributos
   - fiscalizacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20211483"
-coletado_em: "2026-10-11"
-sha256_raw: "474ed9ce10d74079452e7716eb2689f4bdd9ef74a63c65a09a547ebeb69aeba1"
+coletado_em: "2026-10-24"
+sha256_raw: "06e8cb5d268d7636f883b46bfd61a72b2a9d8cd903d136e4ad816e122328cd2f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.483, DE 04/08/2021
 CONCEDE MORATÓRIA EM CARÁTER GERAL PARA PRORROGAR O PRAZO DE PAGAMENTO DAS TAXAS MUNICIPAIS ESPECIFICADAS, DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISS) E DO IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU), NO ANO EXERCÍCIO DE 2021, EM RAZÃO DOS IMPACTOS NA ECONOMIA DECORRENTES DA PANDEMIA PELO NOVO CORONAVIRUS (COVID-19), E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

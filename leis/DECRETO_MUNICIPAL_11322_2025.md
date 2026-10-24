@@ -28,16 +28,10 @@ tags_auto:
   - orcamento
   - financas
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511322"
-coletado_em: "2026-10-11"
-sha256_raw: "823fb61a3820410ae0bc06044fbb8cd9d9d5b7502b92bba95ef2bf83b985834f"
+coletado_em: "2026-10-24"
+sha256_raw: "927ada4b8d005142a8aa378027008768ac423af7e42d5d246c29e766313274f6"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.322, DE 20/05/2025
 PROMOVE A REPROGRAMAÇÃO DE EMENDAS IMPOSITIVAS LEGISLATIVAS COM A REALOCAÇÃO DE RECURSOS ATRAVÉS DE TRANSPOSIÇÃO, TRANSFERÊNCIA E REALOCAÇÃO DE RECURSOS ENTRE UNIDADES ORÇAMENTÁRIAS E ÓRGÃOS DO PODER EXECUTIVO, AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E ESPECIAL, AUTORIZADO PELA LEI MUNICIPAL Nº 1.698 DE 16 DE MAIO DE 2025, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

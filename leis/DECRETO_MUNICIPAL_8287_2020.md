@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8287
   - Decreto Municipal 8287
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008287"
-coletado_em: "2026-10-11"
-sha256_raw: "5d974007ff271f282a27c7e5c2ce839b9530bb77610383a4d6d18fc2ff97a75b"
+coletado_em: "2026-10-24"
+sha256_raw: b120ec3acd3724722182af146e4a16dc8e9f5e9467b32bfc4f59efd41208c14d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.287, DE 05/11/2020
 REGULAMENTA O DIÁRIO OFICIAL ELETRÔNICO DO MUNICÍPIO - D.O.M., INSTITUÍDO PELA LEI MUNICIPAL Nº 1.354/2019, E DÁ OUTRAS PROVIDÊNCIAS.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, PREFEITA MUNICIPAL do Município da Estância Balneária de Ilhabela, no uso da atribuição que lhe confere o

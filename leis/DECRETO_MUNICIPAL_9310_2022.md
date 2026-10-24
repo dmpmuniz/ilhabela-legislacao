@@ -27,16 +27,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209310"
-coletado_em: "2026-10-11"
-sha256_raw: d7605080a367292aec567ec79472ab635a607fb8d58f28f49b142b42af8b2a43
+coletado_em: "2026-10-24"
+sha256_raw: "8706cc5c76e4d265cac03564ecdba696753bf38f0eb5017bfd74712e4dd87fe0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.310, DE 22/06/2022
 DISPÕE SOBRE A EXONERAÇÃO DE FERNANDO DOS SANTOS FREITAS QUE OCUPAVA A FUNÇÃO DE CONFIANÇA DE COODENADOR DE CADASTRO TÉCNICO, LOTADO NA SECRETARIA MUNICIPAL DE OBRAS E PLANEJAMENTO URBANO
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

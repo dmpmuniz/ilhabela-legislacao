@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 151, DE 04/05/2001"
-ementa: "DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENOS LOCALIZADOS NA FAZENDA ENGENHO D&RSQUO;ÁGUA."
+ementa: DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENOS LOCALIZADOS NA FAZENDA ENGENHO D’ÁGUA.
 aliases:
   - Decreto 151/2001
   - Decreto nº 151/2001
@@ -17,13 +17,13 @@ aliases:
   - Decreto nº 151
   - Decreto Municipal nº 151
   - Decreto Municipal 151
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100151&NroLei=151&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "5e4f1ea13f9944e50b0e539006beb3f598848c3dfc13d173c3c385eefe66b9c0"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100151"
+coletado_em: "2026-10-24"
+sha256_raw: "31b57c1b40f958cdcec4274d835bdaeac7319792cac7d8f8457a1268cf480de7"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 151, DE 04/05/2001
-DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENOS LOCALIZADOS NA FAZENDA ENGENHO D&RSQUOÁGUA.
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENOS LOCALIZADOS NA FAZENDA ENGENHO D’ÁGUA.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais; com fundamento no
 Decreto-Lei nº 3365
 de 21 de junho de 1941 e demais legislações atinentes a espécie, e

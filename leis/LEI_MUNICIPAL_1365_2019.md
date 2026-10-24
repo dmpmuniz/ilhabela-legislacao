@@ -16,21 +16,10 @@ aliases:
   - Lei 1365
   - Lei nº 1365
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191365"
-coletado_em: "2026-10-11"
-sha256_raw: "7df984e317febc630c87ab15e926bb4c45b9c5e4e65871c23040fbc300ead78a"
+coletado_em: "2026-10-24"
+sha256_raw: e6054aaf3bc083d1f0f2d416f4d43297c2bea3e34da81b6f1f7645d4dfd1004d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.365, de 30/05/2019
-2ª Versão corresponde a LEI MUNICIPAL1.365, de 30/05/2019
-3ª Versão corresponde a LEI MUNICIPAL1.365, de 30/05/2019
-4ª Versão corresponde a LEI MUNICIPAL1.365, de 30/05/2019
-5ª Versão corresponde a LEI MUNICIPAL1.365, de 30/05/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.365, DE 30/05/2019
 AUTORIZA O PODER EXECUTIVO A CONCEDER BOLSA DE ESTUDOS E AUXÍLIO TRANSPORTE INTERMUNICIPAL E DÁ PROVIDÊNCIAS CORRELATAS.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita Municipal da Estância Balneária de Ilhabela, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:

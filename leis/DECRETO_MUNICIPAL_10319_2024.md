@@ -26,16 +26,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410319"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "4d4d25a78bdaab396230abda0b2acd77e3aced1abf10d203610a84aa40f11915"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.319, DE 01/04/2024
 DISPÕE SOBRE A DESIGNAÇÃO DE PEDRO INÁCIO OLIVEIRA DE ANDRADE PARA EXERCER A FUNÇÃO DE CONFIANÇA DE SUPERVISOR DE ARQUIVO, LOTADA NA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO.
 (Revogado tacitamente pelo

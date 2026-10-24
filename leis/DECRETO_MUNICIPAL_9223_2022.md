@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9223
   - Decreto Municipal 9223
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209223"
-coletado_em: "2026-10-11"
-sha256_raw: "895e3ecde6e73dd0d8169719d1b7b100c5c761f8fb82a50db6ce2b5bd46ea199"
+coletado_em: "2026-10-24"
+sha256_raw: dfd801bc6407889f102d4a92e9ffccbd5e0d88bd4397cf9d8c8bc16e2db259c9
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.223, DE 02/05/2022
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

@@ -16,13 +16,16 @@ aliases:
   - Lei Complementar 789
   - Lei Complementar nº 789
   - LC 789/2010
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100789&NroLei=789&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "46fe58188910316e15a0f65a7ce6c7b3d30c2af61f856187d1c00365d63fdd92"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100789"
+coletado_em: "2026-10-24"
+sha256_raw: aedad028e7f2a894260d478fd6bdc0a0bace9777b8e36046dc83170fe8200309
 versao_formato: "1.1"
 ---
 LEI COMPLEMENTAR Nº 789, DE 31/03/2010
 ALTERA O INCISO V, DO ART. 103, DA LEI Nº 529/07, QUE INSTITUI O CÓDIGO DE POSTURAS DO MUNICÍPIO DE ILHABELA.
+(Revogada tacitamente pela
+Lei Municipal nº 1.825
+, de 26.08.2026)
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais
 Faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
 ##### Art. 1º

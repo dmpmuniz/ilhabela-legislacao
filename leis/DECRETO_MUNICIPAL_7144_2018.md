@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7144
   - Decreto Municipal 7144
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807144"
-coletado_em: "2026-10-11"
-sha256_raw: "792db1d438f6ee532244e7eacc38c83881423c759e7317a5782ed5fe8f516942"
+coletado_em: "2026-10-24"
+sha256_raw: "9865e8f21715182c1b7cd957393e304ed99ec4bb218bbf66cbf13472594f61bb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.144, DE 01/10/2018
 ALTERA OS MEMBROS DO COMITÊ ESPECIAL DE REGULARIZAÇÃO FUNDIÁRIA A QUE ALUDE A LEI MUNICIPAL Nº 1.165/2016 E O DECRETO MUNICIPAL Nº 5.582/2016.
 MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais

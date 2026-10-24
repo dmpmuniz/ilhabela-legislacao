@@ -104,7 +104,14 @@ todas as 35.776 com `--tudo`, sem depender de pessoa.
 **Correção da defasagem (24/10/2026):** `npm run atualizar -- --refazer`
 rebaixa o corpo de todas as normas a partir do manifesto, preserva a
 curadoria e só rebaixa status — norma fora de vigor nunca volta a `em_vigor`
-sem revisão humana.
+sozinha.
+
+**Revisão por IA (24/10/2026):** não há etapa humana. Quando a página do
+diploma e a listagem discordam, o `verificar:cespro` decide pela listagem ou
+pela nota expressa no corpo, com regra assimétrica: local `em_vigor` contra
+portal fora de vigor é sempre erro; local fora de vigor contra diploma
+`em vigor` passa se a listagem ou a nota confirmarem a saída. Os 11 casos
+reais foram conferidos um a um e todos os status locais estavam corretos.
 
 ## ADR-12 — Referências cruzadas na fase 2
 

@@ -15,9 +15,9 @@ aliases:
   - Lei nº 785/2010
   - Lei 785
   - Lei nº 785
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100785&NroLei=785&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "94104490bc01df986d1ed6f19db4a4535d29a18b7c15539e16405bc7d075a4f8"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100785"
+coletado_em: "2026-10-24"
+sha256_raw: "60c81e516b38382543b4138dea899b22ba560e8aea01d83f6412f6a0d26c6d7e"
 versao_formato: "1.1"
 ---
 LEI MUNICIPAL Nº 785, DE 10/03/2010
@@ -33,6 +33,10 @@ fica acrescida do seguinte dispositivo:
 O
 ##### art. 103 da Lei nº 529/07
 fica acrescido do seguinte parágrafo:
+➭
+(Vide
+LM 1.825/2026
+)
 "Art. 103 (...)
 (...)
 § 3º Não será empecilho para a expedição de Alvará de Licença e Funcionamento a constatação da existência de outra empresa cadastrada no mesmo endereço, devendo ficar comprovado, no caso, o encerramento de fato das atividades anteriores."

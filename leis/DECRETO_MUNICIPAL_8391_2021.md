@@ -25,17 +25,10 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108391"
-coletado_em: "2026-10-11"
-sha256_raw: "0bf43f4f6b48f81b5e0e309aafbf4ced143e0e5cf17fea03a9993071eb569e96"
+coletado_em: "2026-10-24"
+sha256_raw: b07ed0a9a86f3f3bfc0cd992e61b95ae228da8e1a46685c8c6a61bd70f02e1fe
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.391, de 07/01/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.391, DE 07/01/2021
 DESIGNA OS GESTORES DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

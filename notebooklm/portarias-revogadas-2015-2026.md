@@ -47,7 +47,7 @@
 cargo, nomeacao, provimento, efetivo, professor, educacao, educacao municipal, ensino fundamental, merenda escolar, creche, basica, agente, auxiliar, primeira, infancia, inclusiva, publica, administracao, concede, monitor, alunos, servidora, infantil, ferias, geografia, analista, engenheiro, alimentacao, escolar, historia
 
 ## Período
-2015 a 2026 · 392 normas · ~100.388 palavras de texto
+2015 a 2026 · 392 normas · ~100.322 palavras de texto
 
 
 ## Status
@@ -1337,12 +1337,6 @@ Advogado-Geral do Município
 > **Ementa:** DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR O COMITÊ EMERGENCIAL DE POSTURAS - COVID 19, PARA TRATAR E DELIBERAR SOBRE SITUAÇÕES RELACIONADAS AO ENFRENTAMENTO À PANDEMIA DO CORONAVIRUS - COVID 19, EM ATENÇÃO AO ART. 25 "CAPUT", DO DECRETO MUNICIPAL Nº 8.030/2020, e § 2º e 3º, DO ARTIGO 1º, DO DECRETO MUNICIPAL Nº 8.031/2020, E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20201474
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 1.474, DE 23/03/2020
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR O COMITÊ EMERGENCIAL DE POSTURAS - COVID 19, PARA TRATAR E DELIBERAR SOBRE SITUAÇÕES RELACIONADAS AO ENFRENTAMENTO À PANDEMIA DO CORONAVIRUS - COVID 19, EM ATENÇÃO AO ART. 25 "CAPUT", DO DECRETO MUNICIPAL Nº 8.030/2020, e § 2º e 3º, DO ARTIGO 1º, DO DECRETO MUNICIPAL Nº 8.031/2020, E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogada pela
@@ -2819,12 +2813,6 @@ DGP/jma/2023.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE FABIO HILDEBRANDO RIBEIRO DELADEA PARA OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AGENTE DE ADMINISTRAÇÃO PÚBLICA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023168
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 168, DE 22/02/2023
 DISPÕE SOBRE A NOMEAÇÃO DE FABIO HILDEBRANDO RIBEIRO DELADEA PARA OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AGENTE DE ADMINISTRAÇÃO PÚBLICA.
 (Revogada pela
@@ -3147,12 +3135,6 @@ DGP/ijsd/2023
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE ALESSANDRA ROMEIRA GINES OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2023190
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 PORTARIA Nº 190, DE 22/02/2023
 DISPÕE SOBRE A NOMEAÇÃO DE ALESSANDRA ROMEIRA GINES OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 (Revogada pela

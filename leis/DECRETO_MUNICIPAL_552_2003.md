@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 552, DE 05/05/2003"
-ementa: "DISPÕE SOBRE A NOMEAÇÃO DO SENHOR NELSON DE SANT&RSQUO;ANNA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS CAT I."
+ementa: "DISPÕE SOBRE A NOMEAÇÃO DO SENHOR NELSON DE SANT’ANNA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS CAT I."
 aliases:
   - Decreto 552/2003
   - Decreto nº 552/2003
@@ -17,13 +17,13 @@ aliases:
   - Decreto nº 552
   - Decreto Municipal nº 552
   - Decreto Municipal 552
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300552&NroLei=552&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "3c39006b4b5af20b9ce00b3cb5118181d5f99206c1635693551a1237de50e753"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300552"
+coletado_em: "2026-10-24"
+sha256_raw: "45955ee6383d737640a00c6a41b7b2499b51520877a682548a2a15b02c8bc525"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 552, DE 05/05/2003
-DISPÕE SOBRE A NOMEAÇÃO DO SENHOR NELSON DE SANT&RSQUOANNA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS CAT I.
+DISPÕE SOBRE A NOMEAÇÃO DO SENHOR NELSON DE SANT’ANNA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS CAT I.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
 DECRETA:
 ##### Art. 1º

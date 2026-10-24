@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11238
   - Decreto Municipal 11238
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511238"
-coletado_em: "2026-10-11"
-sha256_raw: "5c83ef9781ed65e0abea1fa4f3feb44aa6c7c6ae53f2114d488631fb4b2db7b9"
+coletado_em: "2026-10-24"
+sha256_raw: "10f9f012185f7524a35204b1de7709ac0f502f3214f88ac1e37f41265a53d12a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.238, DE 25/02/2025
 DISPÕE SOBRE A NOMEAÇÃO DO CONSELHO MUNICIPAL DO IDOSO DE ILHABELA - CMI.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

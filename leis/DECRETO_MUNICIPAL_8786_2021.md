@@ -18,23 +18,10 @@ aliases:
   - Decreto Municipal nº 8786
   - Decreto Municipal 8786
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108786"
-coletado_em: "2026-10-11"
-sha256_raw: f58b6456194b8bcded2178f67d47cfe018377541793819b69b36f2f41a46a392
+coletado_em: "2026-10-24"
+sha256_raw: dea208a1bf550607d8c86ad0f4087af86393ea7cb5f7c040fd462a181d10997f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-3ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-4ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-5ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-6ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-7ª Versão corresponde a DECRETO MUNICIPAL8.786, de 27/08/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.786, DE 27/08/2021
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR A COMISSÃO DE MONITORAMENTO E AVALIAÇÃO, EM OBSERVÂNCIA AO DISPOSTO NO ART. 58 DA LEI FEDERAL Nº 13.019/2014 E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei;

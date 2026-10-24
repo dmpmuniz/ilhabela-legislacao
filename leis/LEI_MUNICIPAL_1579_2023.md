@@ -16,16 +16,10 @@ aliases:
   - Lei 1579
   - Lei nº 1579
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20231579"
-coletado_em: "2026-10-11"
-sha256_raw: "5e20f1680569a72255b11e7aa185f020f670e454d21e0b2c80e4eab04f957eab"
+coletado_em: "2026-10-24"
+sha256_raw: "64f2446b6242a492023141471257e301843ca3c3ba45b9a0eb2274a06d0c8cb6"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.579, DE 22/02/2023
 CONCEDE REAJUSTE AOS VENCIMENTOS DOS SERVIDORES ATIVOS, INATIVOS E PENSIONISTAS DO PODER EXECUTIVO MUNICIPAL, FUNDAÇÕES E AUTARQUIAS E AUTORIZA A CONCESSÃO DE ABONO SALARIAL PROVISÓRIO E ESTENDE A REPOSIÇÃO ÀS VANTAGENS QUE ESPECIFICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI,

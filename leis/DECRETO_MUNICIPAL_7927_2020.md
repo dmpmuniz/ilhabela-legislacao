@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7927
   - Decreto Municipal 7927
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007927"
-coletado_em: "2026-10-11"
-sha256_raw: "508fa57db98ff6c231f0a5ef41642f4c11c78862fb0bd2194dbbd423b4df8ccc"
+coletado_em: "2026-10-24"
+sha256_raw: "3515b9816c28b4bdb6837849321ec93f2f79d8ad7e24afee31f785afd8d852d6"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.927, DE 10/01/2020
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

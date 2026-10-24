@@ -34,17 +34,10 @@ tags_auto:
   - cargos
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310046"
-coletado_em: "2026-10-11"
-sha256_raw: "1c69686877daba2a404993b6b7dbf0b8fcdd0f6a82d8fb70386905f8a63e9ab6"
+coletado_em: "2026-10-24"
+sha256_raw: "4c582a4e3ff24a9f58b94a0d5bd640cbd2f090b9e51071b18c8712e7368c5cd2"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.046, de 02/10/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.046, DE 02/10/2023
 DISPÕE SOBRE A INSTITUIÇÃO DA COMISSÃO ESPECIAL DE CONCURSO PÚBLICO PARA PROVIMENTO DE CARGO EFETIVO DE PROFESSORES DE EDUCAÇÃO BÁSICA E A DESIGNAÇÃO DE SEUS MEMBROS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e,

@@ -28,17 +28,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007971"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "4cdd2446611e438707e5dd896955dcd71c77c214481a753d24209dad30cc6851"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.971, de 31/01/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.971, DE 31/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, BEM COMO ESTABELECE A IMPLEMENTAÇÃO DO PREGÃO ELETRÔNICO.
 (Revogado pelo

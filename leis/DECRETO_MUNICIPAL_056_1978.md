@@ -21,16 +21,10 @@ aliases:
   - Decreto Municipal nº 056
   - Decreto Municipal 56
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=197800056"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "8e34486849f4a3073e85c532c67ac68323b2eb6a019769ceb836d07318e1047a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 056, DE 20/09/1978
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA
 EURÍPEDES DA SILVA FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições que lhe são conferidas por Lei,

@@ -31,17 +31,11 @@ tags_auto:
   - patrimonio
   - administracao_publica
   - estrutura
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110882&NroLei=882&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "7376bfdc961d0a21c970741f6a43571158c09f582820992eb189fb1d1d1c39c1"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20110882"
+coletado_em: "2026-10-24"
+sha256_raw: "8bc02d34192ce6744e9b78db651cbd9d7461084b463b63b11412065fca022735"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 882, DE 09/06/2011
 CRIA CARGOS NA ESTRUTURA ADMINISTRATIVA DA FUNDACI - FUNDAÇÃO ARTE E CULTURA DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais,

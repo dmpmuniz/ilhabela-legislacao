@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9853
   - Decreto Municipal 9853
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309853"
-coletado_em: "2026-10-11"
-sha256_raw: c2df6cc3bc81effd8ef0742ecfbcde8ca972f8abd17e64b44ba0e60da84f704d
+coletado_em: "2026-10-24"
+sha256_raw: aa7831ca64b0381bc6e3c9aeffb15f73b9df923d43aa4985f1b8edc37290d904
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.853, DE 15/05/2023
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA - COMPCI, CRIADO PELA LEI MUNICIPAL Nº 1.405, DE 14 DE JANEIRO DE 2020.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

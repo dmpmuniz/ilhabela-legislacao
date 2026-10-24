@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 8190
   - Decreto Municipal 8190
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008190"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: c01b77dc8700420a59a0bc39c36b3bde4ab69cfc5cb078c3ec59227927221ceb
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.190, de 03/08/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.190, de 03/08/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.190, DE 03/08/2020
 DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DOS MEMBROS DO COMITÊ ESPECIAL DE REGULARIZAÇÃO FUNDIÁRIA A QUE ALUDE A LEI MUNICIPAL Nº 1.165/2016
 E DECRETO MUNICIPAL Nº 5.582/2016.

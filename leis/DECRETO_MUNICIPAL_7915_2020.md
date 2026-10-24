@@ -28,16 +28,10 @@ tags_auto:
   - rh
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007915"
-coletado_em: "2026-10-11"
-sha256_raw: "1656c11c1434ac176d6b264605c31b064d249a22b07442172203990920a797fe"
+coletado_em: "2026-10-24"
+sha256_raw: a0eb314dccd37a171edb518c8472e2b2f20250a92e7a427fbfb95d603faa0c4f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.915, DE 06/01/2020
 DEFINE A COMPOSIÇÃO DA CHEFIA IMEDIATA E MEDIATA PARA FINS DE AVALIAÇÃO DE DESEMPENHO DO PLANO DE CARGOS, CARREIRAS E VENCIMENTOS DO QUADRO GERAL DA PREFEITURA MUNICIPAL DE ILHABELA, REFERENTE AO PRIMEIRO PROCESSO DE EVOLUÇÃO FUNCIONAL APLICÁVEL AO ANO DE 2019.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei;

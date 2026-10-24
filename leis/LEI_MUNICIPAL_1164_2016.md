@@ -16,16 +16,10 @@ aliases:
   - Lei 1164
   - Lei nº 1164
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20161164"
-coletado_em: "2026-10-11"
-sha256_raw: e8c250a5fdecf0b64a1088c06b5f788c69cae617c9c4cd008727b8fdccbb3acd
+coletado_em: "2026-10-24"
+sha256_raw: "1258d998f3303c76ecbf0df71ff59532fa447c11d1a727afd20e24ee4f0d31e1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.164, DE 04/07/2016
 CRIA, NOS TERMOS DO
 § 14 DO ARTIGO 31 DA LEI ORGÂNICA MUNICIPAL

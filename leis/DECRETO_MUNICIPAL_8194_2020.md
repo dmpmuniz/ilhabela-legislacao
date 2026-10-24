@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 8194
   - Decreto Municipal 8194
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008194"
-coletado_em: "2026-10-11"
-sha256_raw: e2d72f8fc6347a736e17f669d7b76266c57924c21f2132cb195ca91f3b257d68
+coletado_em: "2026-10-24"
+sha256_raw: "722ef66435518a96212678af1a3b121af0cf6b858f78587b679232110f9912aa"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.194, de 07/08/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.194, de 07/08/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.194, de 07/08/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.194, DE 07/08/2020
 REGULAMENTA O FUNCIONAMENTO DE RESTAURANTES, LANCHONETES, PADARIAS, BARES, QUIOSQUES E SIMILARES DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais e;

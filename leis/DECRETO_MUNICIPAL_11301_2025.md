@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11301
   - Decreto Municipal 11301
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511301"
-coletado_em: "2026-10-11"
-sha256_raw: f47d8f457fd2e5edf1452ad2737dc692ff0c44db3731780e88777fea53c9f9bb
+coletado_em: "2026-10-24"
+sha256_raw: "71b340c962126c3ec32e29d16700932210adc591abbc53a68ecb645a127ec79d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.301, DE 23/04/2025
 DISPÕE SOBRE A NOMEAÇÃO DOS REPRESENTANTES DA COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES E ASSÉDIO (CIPA) PARA O BIÊNIO 2025/2026.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

@@ -15,17 +15,11 @@ aliases:
   - Lei nº 345/2005
   - Lei 345
   - Lei nº 345
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20050345&NroLei=345&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "7115a3d5f77ccaaa3b7bd757d9346022364c9746bda967f327506f329a001a02"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20050345"
+coletado_em: "2026-10-24"
+sha256_raw: f9861040df1f63cb3c7e0cfbe5c3c68ac4d48598c881bd7f5e356c31c5b41064
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 345, DE 17/11/2005
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

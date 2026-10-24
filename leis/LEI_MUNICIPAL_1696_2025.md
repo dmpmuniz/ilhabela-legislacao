@@ -27,16 +27,10 @@ tags_auto:
   - orcamento
   - financas
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20251696"
-coletado_em: "2026-10-11"
-sha256_raw: "9343af0d811ec65099ffa20d0464e55a50d7c217454ac9c484a08bda2a995287"
+coletado_em: "2026-10-24"
+sha256_raw: a62d1f8c6164c2e6d905bc85600a2028bf14c7cbf9d293236e0977614c2b9726
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.696, DE 29/04/2025
 PROMOVE ADEQUAÇÃO ORÇAMENTÁRIA NO ÂMBITO DO MUNICÍPIO DE ILHABELA E AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO ANUAL DE 2025, ADVINDOS DA LEI Nº 14.399, DE 08 DE JULHO DE 2022, QUE INSTITUI A POLÍTICA NACIONAL ALDIR BLANC, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das suas atribuições legais, e considerando o disposto nos arts. 165, § 5º e 167, inciso V, da

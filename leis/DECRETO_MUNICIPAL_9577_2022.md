@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 9.577, DE 22/12/2022"
-ementa: "DECLARA DE UTILIDADE PÚBLICA, PARA FINS DE DESAPROPRIAÇÃO, A ÁREA QUE ESPECÍFICA, DESTINADA A CONSTRUÇÃO DE UNIDADE ESCOLAR, NA RUA DOS CARIJÓS, NO BAIRRO ZABUMBA, NESTE MUNICÍPIO. ➭ (NR DM 9.577/2022 )"
+ementa: DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A CONSTRUÇÃO DE UNIDADE ESCOLAR NA RUA DOS CARIJÓS NO BAIRRO BARRA VELHA.
 aliases:
   - Decreto 9577/2022
   - Decreto nº 9577/2022
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9577
   - Decreto Municipal 9577
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209577"
-coletado_em: "2026-10-11"
-sha256_raw: "6c973291c6afc40a808ed3425451ee8568a2852d68ab70de38993a445ede7356"
+coletado_em: "2026-10-24"
+sha256_raw: "0c32f56370bc0238e6db18394cecfea4046405e657154e0d02d63750bd67eb0e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.577, DE 22/12/2022
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO A ÁREA QUE ESPECÍFICA DESTINADA A CONSTRUÇÃO DE UNIDADE ESCOLAR NA RUA DOS CARIJÓS NO BAIRRO BARRA VELHA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

@@ -15,17 +15,11 @@ aliases:
   - Lei nº 1033/2014
   - Lei 1033
   - Lei nº 1033
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141033&NroLei=1.033&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "476397bd4946ac3d1b77f992565c3af899e5c88b685b5b067887ac22079c9013"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141033"
+coletado_em: "2026-10-24"
+sha256_raw: a81fafad573938563283dd0d2537131405ad0b9a3bdfff88212e43e9313ebd77
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.033, DE 14/04/2014
 DISPÕE SOBRE A DESINCORPORAÇÃO DA CLASSE DE BENS DE USO PÚBLICO E TRANSFERÊNCIA PARA A DE BENS PATRIMONIAIS, TERRENOS MUNICIPAIS, E AUTORIZA A DOAÇÃO AO GOVERNO DO ESTADO DE SÃO PAULO.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

@@ -28,16 +28,10 @@ tags_auto:
   - orcamento
   - financas
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209273"
-coletado_em: "2026-10-11"
-sha256_raw: e2f964047bb5a911e10f6eb8bfae62a4cef4033b3e80365321371c6940455566
+coletado_em: "2026-10-24"
+sha256_raw: "9079569690a83430a8053e3695ef198f9cc54aad95fc23eb8f982aeafbad5de3"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.273, DE 25/05/2022
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR E REMANEJA RECURSOS ENTRE ÓRGÃOS NO ORÇAMENTO MUNICIPAL VIGENTE, AUTORIZADO PELA LEI MUNICIPAL Nº 1.517 DE 03 DE FEVEREIRO DE 2022 E DÁ OUTRAS PROVIDÊNCIAS.
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, e nos termos do

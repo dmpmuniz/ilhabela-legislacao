@@ -18,19 +18,10 @@ aliases:
   - Decreto Municipal nº 8292
   - Decreto Municipal 8292
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008292"
-coletado_em: "2026-10-11"
-sha256_raw: "9323c7153fba3fa7a52b3b025de4aec57882933c4bb158d8bdb2ef50d260ee82"
+coletado_em: "2026-10-24"
+sha256_raw: "7fbfbbf6d6b3f22a7cece3f0c7a7de8edda0640e5cea88053e1ba86e1eb74ecc"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.292, de 10/11/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.292, de 10/11/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.292, de 10/11/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.292, DE 10/11/2020
 DISPÕE SOBRE A INSTITUIÇÃO DA COMISSÃO MUNICIPAL PARA ACOMPANHAMENTO DAS ATIVIDADES DO CONVÊNIO DO PROJETO ESTADUAL DO LEITE "VIVALEITE" E DÁ OUTRAS PROVIDÊNCIAS.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

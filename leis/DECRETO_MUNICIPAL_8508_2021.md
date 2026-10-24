@@ -7,7 +7,7 @@ ano: 2021
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 titulo: "DECRETO MUNICIPAL Nº 8.508, DE 16/03/2021"
 ementa: "DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE MEIO AMBIENTE - CMMA, PARA O BIÊNIO 2020/2021, EM VIRTUDE DE SUBSTITUIÇÃO DE MEMBROS."
 aliases:
@@ -27,22 +27,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108508"
-coletado_em: "2026-10-11"
-sha256_raw: a0c1ee31ae4971732449d0d2318c40e93f219ac3e4ee6ece2856ac7f2927cc95
+coletado_em: "2026-10-24"
+sha256_raw: "1eb8a54da9a186320f4fdf56c4990da5615339edf57b237206fa55bac694871b"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.508, de 16/03/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.508, de 16/03/2021
-3ª Versão corresponde a DECRETO MUNICIPAL8.508, de 16/03/2021
-4ª Versão corresponde a DECRETO MUNICIPAL8.508, de 16/03/2021
-5ª Versão corresponde a DECRETO MUNICIPAL8.508, de 16/03/2021
-6ª Versão corresponde a DECRETO MUNICIPAL8.508, de 16/03/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.508, DE 16/03/2021
 DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE MEIO AMBIENTE - CMMA, PARA O BIÊNIO 2020/2021, EM VIRTUDE DE SUBSTITUIÇÃO DE MEMBROS.
 (Revogado pelo

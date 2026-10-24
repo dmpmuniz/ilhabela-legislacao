@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 10189
   - Decreto Municipal 10189
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310189"
-coletado_em: "2026-10-11"
-sha256_raw: "43182dff6bcf53ae01eb902c97f36170fa074f4f2a4e89395134aad0762ab94e"
+coletado_em: "2026-10-24"
+sha256_raw: e58253f1dd4e990e219bb5aed95020faf9316041e5f72c488945ae02a377912a
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.189, de 20/12/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.189, DE 20/12/2023
 DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DE ILHABELA - CMDCAI.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

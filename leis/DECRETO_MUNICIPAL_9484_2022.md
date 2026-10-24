@@ -28,16 +28,10 @@ tags_auto:
   - rh
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209484"
-coletado_em: "2026-10-11"
-sha256_raw: "1f91ad0fdd5281d971e1d464335d88cc93875601433ab19430091c8189ec91fa"
+coletado_em: "2026-10-24"
+sha256_raw: b3fd7f21816d05e5eaee6b4763796b82432738261373a0674f340921e1c41644
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.484, DE 20/10/2022
 DISPÕE SOBRE A INSTITUIÇÃO DA COMISSÃO ESPECIAL DE CONCURSO PÚBLICO, A NOMEAÇÃO DE SEUS MEMBROS E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

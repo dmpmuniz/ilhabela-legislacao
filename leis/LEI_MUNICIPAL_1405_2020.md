@@ -16,16 +16,10 @@ aliases:
   - Lei 1405
   - Lei nº 1405
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20201405"
-coletado_em: "2026-10-11"
-sha256_raw: a7ebd4e56e4b9ee1c59f893023f1be69d8d21e8f677bd1de81116c90526eb279
+coletado_em: "2026-10-24"
+sha256_raw: "1f313a321b9758a981aac8d8f5e730ab4d6111d4d8fb63e56de68544fb4f5f90"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.405, DE 14/01/2020
 DISPÕE SOBRE O FUNDO MUNICIPAL DE POLÍTICAS CULTURAIS (FUMPCI) E SOBRE O CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS (COMPCI), REVOGANDO AS LEIS MUNICIPAIS Nº 803/2010 e 804/2010 E DÁ OUTRAS PROVIDÊNCIAS.
 Maria das Graças Ferreira dos Santos Souza, Prefeita Municipal de Ilhabela, faz saber que a Câmara de Vereadores de Ilhabela aprovou e ela sanciona e promulga a seguinte Lei:

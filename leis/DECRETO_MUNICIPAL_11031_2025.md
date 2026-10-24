@@ -19,17 +19,10 @@ aliases:
   - Decreto Municipal nº 11031
   - Decreto Municipal 11031
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511031"
-coletado_em: "2026-10-11"
-sha256_raw: bd34ec6e40d92728c46bddb4b2329a568c02a85a8c1d7f8d02516c7bc142e57c
+coletado_em: "2026-10-24"
+sha256_raw: "14648942ccfebf02ef5a5ce26bd6b2d5c00af7a643f716d707c3115342035b75"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.031, de 17/01/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.031, DE 17/01/2025
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR A JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES - JARI.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

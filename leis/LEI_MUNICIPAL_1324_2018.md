@@ -16,16 +16,10 @@ aliases:
   - Lei 1324
   - Lei nº 1324
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181324"
-coletado_em: "2026-10-11"
-sha256_raw: b4aa277f5b405cbfea125c742e7870cc314b3685665d88abb8f3540b3e270e40
+coletado_em: "2026-10-24"
+sha256_raw: bd1e87b9c16937f15f20b0d5e09906faf02a584d2b893ebd5201648e609dba0d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.324, DE 11/10/2018
 DISPÕE SOBRE O ALINHAMENTO E A RETIRADA DE FIOS EM DESUSO E DESORDENADOS EXISTENTES EM POSTES DE ENERGIA ELÉTRICA E DÁ OUTRAS PROVIDÊNCIAS.
 MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

@@ -16,16 +16,10 @@ aliases:
   - Lei 1475
   - Lei nº 1475
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20211475"
-coletado_em: "2026-10-11"
-sha256_raw: "36b8dacafaf5651833fbb6ca20a2c24db7c74d567c57b0a9270db9deef930efa"
+coletado_em: "2026-10-24"
+sha256_raw: "9bc0fe44a84c6ebf259d739cdd597a8729500560ab05a8fe845078351d91c738"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.475, DE 26/05/2021
 INSTITUI A CONTRIBUIÇÃO PARA CUSTEIO DOS SERVIÇOS DE ILUMINAÇÃO PÚBLICA - COSIP, PREVISTA NO ARTIGO 149-A DA CONSTITUIÇÃO DA REPÚBLICA E DÁ OUTRAS PROVIDÊNCIAS.
 O Prefeito Municipal da Estância Balneária de Ilhabela, ANTONIO LUIZ COLUCCI, no uso das atribuições que lhe são conferidas pelo ordenamento jurídico, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

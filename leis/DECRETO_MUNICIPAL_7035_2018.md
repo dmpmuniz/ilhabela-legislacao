@@ -18,8 +18,8 @@ aliases:
   - Decreto Municipal nº 7035
   - Decreto Municipal 7035
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807035"
-coletado_em: "2026-10-11"
-sha256_raw: "7cdbb1dcf17eacfc493fce63fca7de7e729545f3fe2569bd9cfb424d2de53e25"
+coletado_em: "2026-10-24"
+sha256_raw: "88489c117a39c00211b85029a209471cd78e4106198c1f28e906175c8af1df5d"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 7.035, DE 29/05/2018
@@ -149,3 +149,28 @@ Ilhabela, 29 de maio de 2018.
 MARCIO TENÓRIO
 Prefeito Municipal
 Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VSJ/ea
+<!--
+ANEXO I
+SOLICITAÇÃO DE REGIME DE ADIANTAMENTO - Nº /2017-
+Servidor:
+Matrícula:
+Cargo:
+Secretaria:
+Depto:
+Email:
+Fone:
+Valor Total Solicitado: R$
+À Secretaria de Gestão Financeira,
+Com fundamento nos
+##### art. 65 e 68, da Lei Federal 4.320/64
+, na
+Lei Municipal 804/99
+e nos Decretos Municipais pertinentes, solicito a disponibilização de numerário nos valores e condições acima dispostos, a fim de cobrir despesas que não possam se subordinar ao processo normal de aplicação, conforme esclarecimentos que se seguem:
+REDUZIDO
+DESCRIÇÃO
+JUSTIFICATIVA
+VALOR
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+DIÁRIAS
+MATERIAL DE CONSUMO
+PASSAGENS E DESPESAS COM LOCOMOÇÃO

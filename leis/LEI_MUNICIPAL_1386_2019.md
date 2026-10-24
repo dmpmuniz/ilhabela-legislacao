@@ -16,16 +16,10 @@ aliases:
   - Lei 1386
   - Lei nº 1386
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191386"
-coletado_em: "2026-10-11"
-sha256_raw: "131e71742ef54ee63554115a476c9f6b195f843ab8175052acce7ede38f2458e"
+coletado_em: "2026-10-24"
+sha256_raw: "2d96e97d40c28a24efd1e3ac2a0bfe14bc9aaf83d9a91b8894f7f0e90d95751d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.386, DE 21/10/2019
 DISPÕE SOBRE AS LIGAÇÕES DE ÁGUA E ENERGIA ELÉTRICA PELAS RESPECTIVAS CONCESSIONÁRIAS NO ÂMBITO DO MUNICÍPIO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 FAÇO SABER QUE A CÂMARA APROVOU E EU, NOS TERMOS DO

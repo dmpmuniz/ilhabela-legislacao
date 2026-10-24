@@ -16,16 +16,10 @@ aliases:
   - Lei 1355
   - Lei nº 1355
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191355"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: f77f7bd78a51c2615c54e1b1dabb7dbf638e3c70a1c3d2848b7a035daf490051
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.355, DE 02/05/2019
 DISPÕE SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO DO PLANO DE CUSTEIO E DOS APORTES PARA EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogada pela

@@ -27,16 +27,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511403"
-coletado_em: "2026-10-11"
-sha256_raw: fb6b612d2dd1fc2200d6dc4b2cc033cd547a21b0c438bff3e207689321aa4f0e
+coletado_em: "2026-10-24"
+sha256_raw: "8b0059a64e7c4bc1c6ed297200a02f219db0b1dde863a4fdfcdc86ed753b37ad"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.403, DE 28/07/2025
 DISPÕE SOBRE O CADASTRO, O RECADASTRAMENTO, A CONFECÇÃO E A UTILIZAÇÃO DO CARTÃO BILHETE ELETRÔNICO RECARREGÁVEL DO SISTEMA DE TRANSPORTE PÚBLICO COLETIVO NOS MODAIS VIÁRIO E AQUAVIÁRIO DO MUNICÍPIO DE ILHABELA, DEFINE AS CATEGORIAS TARIFÁRIAS E ESTABELECE AS REGRAS DE INTEGRAÇÃO TARIFÁRIA, EM CONFORMIDADE COM A LEGISLAÇÃO E DECISÕES JUDICIAIS VIGENTES.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

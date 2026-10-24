@@ -25,16 +25,10 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008298"
-coletado_em: "2026-10-11"
-sha256_raw: "128090f44e78c74572d0858034515736f445ff1a28e85a22f906f56529312d2a"
+coletado_em: "2026-10-24"
+sha256_raw: "8bc46c546d916c5c10aff3b5d0ecde8e814fa4ee3643387d9e3576032122e1aa"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.298, DE 17/11/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL - CMAS, PARA O BIÊNIO DE 2020-2022.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso das atribuições que lhe são conferidas por Lei;

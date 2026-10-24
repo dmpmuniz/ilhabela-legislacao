@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 3.983, DE 03/11/2014"
-ementa: "DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE PARTE DO TERRENO LOCALIZADO NO BAIRRO ENGENHO D&RSQUO;ÁGUA."
+ementa: DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE PARTE DO TERRENO LOCALIZADO NO BAIRRO ENGENHO D’ÁGUA.
 aliases:
   - Decreto 3983/2014
   - Decreto nº 3983/2014
@@ -17,13 +17,13 @@ aliases:
   - Decreto nº 3983
   - Decreto Municipal nº 3983
   - Decreto Municipal 3983
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201403983&NroLei=3.983&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "9a7b05298db5ae78e62c40be3f8d98cba42199993f557bb0b740dfc237efa9af"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201403983"
+coletado_em: "2026-10-24"
+sha256_raw: dd5fef7af3127e787588bc58764e069cdfa62a6799cc3c657cd3ebece9bd946b
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 3.983, DE 03/11/2014
-DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE PARTE DO TERRENO LOCALIZADO NO BAIRRO ENGENHO D&RSQUOÁGUA.
+DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE PARTE DO TERRENO LOCALIZADO NO BAIRRO ENGENHO D’ÁGUA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais; com fundamento no
 Decreto-Lei nº 3.365
 , de 21 de junho de 1941 e demais legislações atinentes a espécie,

@@ -26,16 +26,10 @@ tags_auto:
   - orcamento
   - financas
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20251698"
-coletado_em: "2026-10-11"
-sha256_raw: "184c31aab98004e6c1f3b16b9a46490ccf380eefbeab8cfaa67a2a77c300bd1a"
+coletado_em: "2026-10-24"
+sha256_raw: fddf1d2f753c7e98a2641282d1acf77009bdae85780868e5709fa98b33d1587b
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.698, DE 16/05/2025
 AUTORIZA A REPROGRAMAÇÃO DE EMENDAS IMPOSITIVAS LEGISLATIVAS COM A REALOCAÇÃO DE RECURSOS ATRAVÉS DE TRANSPOSIÇÃO, TRANSFERÊNCIA E REALOCAÇÃO DE RECURSOS ENTRE UNIDADES ORÇAMENTÁRIAS E ÓRGÃOS DO PODER EXECUTIVO, AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E ESPECIAL, ALTERA A LEI MUNICIPAL Nº 1.684 DE 20 DE DEZEMBRO DE 2024, LEI ORÇAMENTÁRIA PARA O EXERCÍCIO DE 2025 E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:

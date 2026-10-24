@@ -28,18 +28,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209059"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "971b697a2e8c9688d542a27626c266a83e8609d4b1875b06897cbdb4dcd6dd3d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.059, de 23/02/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.059, de 23/02/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.059, DE 23/02/2022
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo

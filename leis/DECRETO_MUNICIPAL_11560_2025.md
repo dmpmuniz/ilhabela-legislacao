@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 11.560, DE 11/11/2025"
-ementa: DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA MUNICIPAL DE CULTURA E DÁ OUTRAS PROVIDÊNCIAS. ➭ (NR DM 11.926/2026 )
+ementa: DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA MUNICIPAL DE CULTURA E DÁ OUTRAS PROVIDÊNCIAS.
 aliases:
   - Decreto 11560/2025
   - Decreto nº 11560/2025
@@ -34,16 +34,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511560"
-coletado_em: "2026-10-11"
-sha256_raw: "40487b1f6388a7b12dbf801725b7dfec4c034af9898eda7b0cbab8a0d4c744d3"
+coletado_em: "2026-10-24"
+sha256_raw: e989d8de353ce4146e1c714bc5d472949baead48be2d81a507fb045319022020
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.560, DE 11/11/2025
 DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA MUNICIPAL DE CULTURA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

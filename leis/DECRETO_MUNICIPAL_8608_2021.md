@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8608
   - Decreto Municipal 8608
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108608"
-coletado_em: "2026-10-11"
-sha256_raw: "873420e3ce5ff2dca5a7b5ca6b326ed882540783ad2380daf94e42dbba6d42c8"
+coletado_em: "2026-10-24"
+sha256_raw: "3966b1786f6444b97439e40b953768a4d1847bd563ae8dc6842cd2b03bf81724"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.608, de 05/05/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.608, DE 05/05/2021
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES DAS RESPECTIVAS SECRETARIAS MUNICIPAIS QUE FICARÃO RESPONSÁVEIS PELO CONTROLE PATRIMONIAL E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

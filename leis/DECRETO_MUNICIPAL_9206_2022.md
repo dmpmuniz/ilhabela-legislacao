@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9206
   - Decreto Municipal 9206
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209206"
-coletado_em: "2026-10-11"
-sha256_raw: "2ab174477c1c1d5c4c2ef963a4d4b022c3da7615209e9352488c3ba1fbb3888d"
+coletado_em: "2026-10-24"
+sha256_raw: "3520f3cf51ca91751f41de27ce3129bf73c949a4e44552b8f8ed378590183f70"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.206, DE 13/04/2022
 DISPÕE SOBRE A PERMISSÃO DE USO DE IMÓVEL E VEÍCULOS MUNICIPAIS, NOS TERMOS DO ARTIGO 13, § 3º, B, DA LEI ORGÂNICA MUNICIPAL, À ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS - APAE.
 O Prefeito Municipal da Estância Balneária de Ilhabela, ANTONIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

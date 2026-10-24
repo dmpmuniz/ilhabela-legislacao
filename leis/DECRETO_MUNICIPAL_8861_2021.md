@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8861
   - Decreto Municipal 8861
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108861"
-coletado_em: "2026-10-11"
-sha256_raw: "1bb7f47d08a186783992056fe7b1eb292c3aa1916f3a1770d1bc66842e5231f0"
+coletado_em: "2026-10-24"
+sha256_raw: "4e594d195f5f3fd35bdb562c2ec3b85ea27670eee0a29037100715a760912f40"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.861, DE 19/10/2021
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO O IMÓVEL QUE ESPECIFICA, DESTINADO À REVITALIZAÇÃO DO CAMPO DE AVIAÇÃO, NO BAIRRO SACO DA CAPELA, NESTE MUNICÍPIO.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7982
   - Decreto Municipal 7982
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007982"
-coletado_em: "2026-10-11"
-sha256_raw: af502418470d15785c8a4e367167df10e59fb269c21e321d1686ed09eb4819a1
+coletado_em: "2026-10-24"
+sha256_raw: c0e470b7960c564da142f0717a42264abe9106befbd99791eea34e35869e7889
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.982, DE 03/02/2020
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

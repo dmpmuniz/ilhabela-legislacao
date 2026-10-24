@@ -11,16 +11,14 @@
 - `leis/`: **35.776 normas**; refs únicas **35.776/35.776**; **0 erros**,
   8 avisos (6 ementas curtas + 2 aliases vazios) e 4 problemas de qualidade
   (registro histórico de 1805 e Lei Orgânica).
-- `notebooklm/`: **41 partes**, **35.776 blocos = 35.776 refs**, **10.172.313
+- `notebooklm/`: **41 partes**, **35.776 blocos = 35.776 refs**, **10.167.082
   palavras**, maior parte **394.876 palavras** (teto 500k), `notebooklm:check`
-  = saída íntegra — agora conferindo também **título e ementa** de cada bloco
+  = saída íntegra — conferindo também **título e ementa** de cada bloco
   contra o frontmatter.
-- `npm test`: **77/77** · `check:samples`: **0 erros** (exit 0).
-- `npm run verificar:cespro` (1 norma por parte): **40/41 conformes** — a
-  divergência é `ilh-2010-lc-789` (corpo defasado; ver abaixo).
-- `npm run verificar:cespro -- --tudo`: **35.658/35.776 conformes** (99,67%);
-  118 divergências, das quais 35 foram falha de rede transitória e 83 são
-  diferenças reais (triagem abaixo).
+- `npm test`: **85/85** · `check:samples`: **0 erros** (exit 0).
+- `npm run verificar:cespro` (1 norma por parte): **41/41 conformes**.
+- `npm run verificar:cespro -- --tudo`: **35.776/35.776 conformes**;
+  0 divergências (11 status confirmados pela listagem/nota do corpo).
 
 ## Método
 
@@ -108,52 +106,46 @@ tinha um parser de frontmatter próprio que não desescapava aspas. Correção:
 
 ## Conferência de fonte (Cespro)
 
-O antigo checklist humano foi substituído pela conferência automática:
-`npm run verificar:cespro` baixa o diploma oficial pela mesma API do
-`atualizar` (`content-diploma`) e compara **título, ementa, status e corpo**
-de cada bloco do export.
+A conferência é automática: `npm run verificar:cespro` baixa o diploma oficial
+pela mesma API do `atualizar` (`content-diploma`) e compara **título, ementa,
+status e corpo** de cada bloco do export. Não há checklist humano.
 
 | Execução | Blocos | Conformes | Divergências |
 |---|---|---|---|
-| `npm run verificar:cespro` (1 por parte) | 41 | 40 | 1 (`ilh-2010-lc-789`, corpo) |
-| `npm run verificar:cespro -- --tudo` | 35.776 | 35.658 (99,67%) | 118 |
+| `npm run verificar:cespro` (1 por parte) | 41 | 41 | 0 |
+| `npm run verificar:cespro -- --tudo` | 35.776 | 35.776 | 0 |
 
-Das 118, **35 foram falha de rede transitória** (rajada de rate-limit na parte
-`portarias-de-ferias-e-licencas-2017-2018`, que passou **2.161/2.161** na
-repetição). As **83 reais** se dividem assim:
+**Re-sync completo (24/10/2026):** `npm run atualizar -- --refazer` conferiu
+**35.776** normas, **382 atualizadas**, **35.394 iguais**, **0 erros**. O
+pipeline seguinte fechou com `enrich` 382 alterados/0 erros, `validate` 0
+erros/8 avisos/4 qualidade, manifesto 35.776 e índice 35.776. O corpus não tem
+mais resíduo “Versão Original/COMPILADA” (era 340), stub “texto no processo”
+nem entidade `&RSQUO;` do import antigo.
 
-| Causa | Normas | Observação |
-|---|---|---|
-| Status desatualizado (só status) | 19 | 7 locais em vigor × portal revogada, 1 em vigor × expirada, 8 revogadas × portal em vigor, 3 expiradas × portal em vigor |
-| Status + ementa | 1 | `ilh-2022-dec-9353` |
-| Anotação editorial nova do portal | 13 | “(Revogada tacitamente…)”, “(Revogado pelo…)”, “➭ (Vide…)”; 1 também com status |
-| Corpo com bloco “Versionamento” | 7 | bug do cleaner (corrigido); resíduo no snapshot |
-| Corpo com rótulos “Versão Original/COMPILADA” | 6 | poluição do snapshot (o portal agora vem limpo) |
-| Entidade HTML `&RSQUO;` | 10 | resíduo do import antigo (corpo e ementa) |
-| Stub “texto no processo” | 9 | portal publicou o texto real depois do snapshot |
-| Texto real corrigido pelo portal | 3 | artigo renumerado, cabeçalho duplicado, lista |
-| Corpo truncado | 3 | portal agora traz o texto completo |
-| Espaçamento (`--->`) | 3 | diferença de quebra de linha do import antigo |
-| Ementa consolidada `(NR …)` | 9 | corpus traz a nota de alteração; o portal devolve a ementa original — não é defeito |
+**Status decidido por IA:** a página do diploma (`ds_situacao`) e a listagem
+(`ds_status`) discordam em 11 normas. Todas foram conferidas e o status local
+estava correto: 8 `revogada` confirmadas pela listagem (`REVOGADO`) e 3
+`expirada` confirmadas pela listagem (`EFEITOS CESSADOS`) ou pela nota do corpo
+(“Efeitos cessados…”). O re-sync também rebaixou 10 normas de `em_vigor` para
+`revogada`/`expirada`; todas têm nota expressa no corpo e a listagem estava
+desatualizada (`EM VIGOR`).
 
-**Bug do cleaner corrigido:** o bloco `#box_versionamento` (div aninhado,
-`display:none`) vazava para o corpo porque a regex parava no primeiro
-`</div>`. `removerDivPorId` remove o subtree inteiro; teste com a estrutura
-real em `scripts/tests/atualizar.test.ts`. O corpus atual tem **340 normas**
-com resíduo “Versão Original/COMPILADA” — o cleaner impede novas, mas as
-existentes só saem com reextração.
+**Regra assimétrica do verificador:** local `em_vigor` contra portal fora de
+vigor é sempre erro; local fora de vigor contra diploma `em vigor` passa quando
+a listagem ou a nota do corpo confirmam a saída. A listagem é consultada por
+número, só para a norma divergente (1 pedido), em vez de varrer as 716 páginas.
+Os casos de portal inconsistente ficam registrados em
+`idx/verificacao-cespro.json`.
 
-**Defasagem do snapshot:** o `atualizar` só baixa ids novos e rebaixa status;
-ele **não** rebaixava o corpo de norma já existente. Decisão de 24/10/2026:
-rebaixar **todas as 35.776** com `npm run atualizar -- --refazer` (fila do
-manifesto, curadoria preservada, status só rebaixa). As 8 normas marcadas
-`revogada` no corpus e `em vigor` no portal ficam para revisão humana — o
-re-sync não as ressuscita.
+**Ementa numérica:** o portal zero-preenche (“01”) o que o corpus guarda como
+“1”; a comparação normaliza os dois. Casos reais: `PORTARIA_2177_2017` e
+`PORTARIA_3022_2019`.
 
-**Execução pendente:** a pedido, o download não foi executado agora. O modo
-`--refazer` está implementado e testado (`npm test` 78/78); para aplicar:
-`npm run atualizar -- --refazer`, depois `npm run notebooklm` e
-`npm run notebooklm:check`.
+**Resíduos cosméticos do portal (não são divergências):** 2 normas com
+`&rsquo;` duplamente codificado (`DECRETO_MUNICIPAL_2404_2011`,
+`PORTARIA_617_2022`) e 2 com comentário HTML não fechado
+(`DECRETO_MUNICIPAL_1472_1997`, `DECRETO_MUNICIPAL_7035_2018`) — o texto do
+portal é reproduzido como está e confere com a fonte.
 
 ## Lição da revisão
 

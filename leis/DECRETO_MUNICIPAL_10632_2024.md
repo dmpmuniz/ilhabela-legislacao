@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10632
   - Decreto Municipal 10632
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410632"
-coletado_em: "2026-10-11"
-sha256_raw: "765d8cc9ab75725eb5d6333bbcd35b50ff020825eee22b3b979101f4a40d391f"
+coletado_em: "2026-10-24"
+sha256_raw: "94b06f90ed4c013358ced74bf32bd1a12d5771e8f21fe972e244dee666e5a9e0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.632, DE 09/08/2024
 DISPÕE SOBRE A CRIAÇÃO E DELIMITAÇÃO DE NÚCLEO DE REGULARIZAÇÃO FUNDIÁRIA DE INTERESSE SOCIAL, NESTE MUNICÍPIO, CONFORME ESPECIFICA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

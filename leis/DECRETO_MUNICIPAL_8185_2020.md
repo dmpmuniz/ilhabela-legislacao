@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8185
   - Decreto Municipal 8185
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008185"
-coletado_em: "2026-10-11"
-sha256_raw: "3a6734d524f4ed1e8adc5ce8ba52906903e2ba430e498c0ce7532a7693429d34"
+coletado_em: "2026-10-24"
+sha256_raw: "113d619c07ff4598f5c3fac01d0cc38063a68047a025bd09d7a2f625b89bbf96"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.185, DE 28/07/2020
 REGULAMENTA O ATENDIMENTO PRESENCIAL NO PAÇO MUNICIPAL DURANTE A PANDEMIA DO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais e;

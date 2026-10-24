@@ -3,51 +3,51 @@
 ## O que contém
 - DECRETO MUNICIPAL Nº 1.443, DE 02/01/1997 (ilh-1997-dec-1443, revogada)
 - DECRETO MUNICIPAL Nº 1.901, DE 30/03/2000 (ilh-2000-dec-1901, revogada)
-- DECRETO MUNICIPAL Nº 227, DE 17/09/2001 (ilh-2001-dec-227, revogada)
-- DECRETO MUNICIPAL Nº 641, DE 11/09/2003 (ilh-2003-dec-641, revogada)
+- DECRETO MUNICIPAL Nº 248, DE 05/11/2001 (ilh-2001-dec-248, revogada)
+- DECRETO MUNICIPAL Nº 652, DE 10/10/2003 (ilh-2003-dec-652, revogada)
 - DECRETO MUNICIPAL Nº 906, DE 06/01/2005 (ilh-2005-dec-906, revogada)
 - DECRETO MUNICIPAL Nº 1.170, DE 24/04/2006 (ilh-2006-dec-1170, revogada)
-- DECRETO MUNICIPAL Nº 1.360, DE 27/07/2007 (ilh-2007-dec-1360, revogada)
-- DECRETO MUNICIPAL Nº 1.812, DE 16/01/2009 (ilh-2009-dec-1812, revogada)
-- DECRETO MUNICIPAL Nº 2.073, DE 18/01/2010 (ilh-2010-dec-2073, revogada)
-- DECRETO MUNICIPAL Nº 2.356, DE 03/11/2010 (ilh-2010-dec-2356, revogada)
-- DECRETO MUNICIPAL Nº 2.674, DE 24/05/2011 (ilh-2011-dec-2674, revogada)
-- DECRETO MUNICIPAL Nº 3.285, DE 02/01/2013 (ilh-2013-dec-3285, revogada)
-- DECRETO MUNICIPAL Nº 3.762, DE 13/12/2013 (ilh-2013-dec-3762, revogada)
-- DECRETO MUNICIPAL Nº 4.046, DE 19/01/2015 (ilh-2015-dec-4046, revogada)
-- DECRETO MUNICIPAL Nº 4.652, DE 25/05/2015 (ilh-2015-dec-4652, revogada)
-- DECRETO MUNICIPAL Nº 5.325, DE 01/03/2016 (ilh-2016-dec-5325, revogada)
-- DECRETO MUNICIPAL Nº 5.829, DE 04/01/2017 (ilh-2017-dec-5829, revogada)
-- DECRETO MUNICIPAL Nº 6.225, DE 04/04/2017 (ilh-2017-dec-6225, revogada)
-- DECRETO MUNICIPAL Nº 6.504, DE 07/08/2017 (ilh-2017-dec-6504, revogada)
+- DECRETO MUNICIPAL Nº 1.379, DE 20/08/2007 (ilh-2007-dec-1379, revogada)
+- DECRETO MUNICIPAL Nº 1.817, DE 19/01/2009 (ilh-2009-dec-1817, revogada)
+- DECRETO MUNICIPAL Nº 2.080, DE 01/02/2010 (ilh-2010-dec-2080, revogada)
+- DECRETO MUNICIPAL Nº 2.383, DE 20/12/2010 (ilh-2010-dec-2383, revogada)
+- DECRETO MUNICIPAL Nº 2.680, DE 01/06/2011 (ilh-2011-dec-2680, revogada)
+- DECRETO MUNICIPAL Nº 3.286, DE 02/01/2013 (ilh-2013-dec-3286, revogada)
+- DECRETO MUNICIPAL Nº 3.763, DE 13/12/2013 (ilh-2013-dec-3763, revogada)
+- DECRETO MUNICIPAL Nº 4.136, DE 11/02/2015 (ilh-2015-dec-4136, revogada)
+- DECRETO MUNICIPAL Nº 4.752, DE 22/06/2015 (ilh-2015-dec-4752, revogada)
+- DECRETO MUNICIPAL Nº 5.337, DE 10/03/2016 (ilh-2016-dec-5337, revogada)
+- DECRETO MUNICIPAL Nº 5.986, DE 11/01/2017 (ilh-2017-dec-5986, revogada)
+- DECRETO MUNICIPAL Nº 6.226, DE 04/04/2017 (ilh-2017-dec-6226, revogada)
+- DECRETO MUNICIPAL Nº 6.506, DE 07/08/2017 (ilh-2017-dec-6506, revogada)
 - DECRETO MUNICIPAL Nº 6.656, DE 25/09/2017 (ilh-2017-dec-6656, revogada)
 - DECRETO MUNICIPAL Nº 6.865, DE 30/01/2018 (ilh-2018-dec-6865, revogada)
 - DECRETO MUNICIPAL Nº 7.041, DE 29/05/2018 (ilh-2018-dec-7041, revogada)
 - DECRETO MUNICIPAL Nº 7.185, DE 31/10/2018 (ilh-2018-dec-7185, revogada)
-- DECRETO MUNICIPAL Nº 7.251, DE 02/01/2019 (ilh-2019-dec-7251, revogada)
+- DECRETO MUNICIPAL Nº 7.250, DE 02/01/2019 (ilh-2019-dec-7250, revogada)
 - DECRETO MUNICIPAL Nº 7.431, DE 20/03/2019 (ilh-2019-dec-7431, revogada)
 - DECRETO MUNICIPAL Nº 7.604, DE 07/06/2019 (ilh-2019-dec-7604, revogada)
 - DECRETO MUNICIPAL Nº 7.749, DE 01/10/2019 (ilh-2019-dec-7749, revogada)
-- DECRETO MUNICIPAL Nº 7.834, DE 22/11/2019 (ilh-2019-dec-7834, revogada)
-- DECRETO MUNICIPAL Nº 7.992, DE 13/02/2020 (ilh-2020-dec-7992, revogada)
+- DECRETO MUNICIPAL Nº 7.835, DE 22/11/2019 (ilh-2019-dec-7835, revogada)
+- DECRETO MUNICIPAL Nº 7.996, DE 14/02/2020 (ilh-2020-dec-7996, revogada)
 - DECRETO MUNICIPAL Nº 8.183, DE 24/07/2020 (ilh-2020-dec-8183, revogada)
-- DECRETO MUNICIPAL Nº 8.367, DE 02/01/2021 (ilh-2021-dec-8367, revogada)
+- DECRETO MUNICIPAL Nº 8.366, DE 02/01/2021 (ilh-2021-dec-8366, revogada)
 - DECRETO MUNICIPAL Nº 8.415, DE 27/01/2021 (ilh-2021-dec-8415, revogada)
-- DECRETO MUNICIPAL Nº 8.566, DE 06/04/2021 (ilh-2021-dec-8566, revogada)
-- DECRETO MUNICIPAL Nº 8.765, DE 12/08/2021 (ilh-2021-dec-8765, revogada)
-- DECRETO MUNICIPAL Nº 8.926, DE 06/01/2022 (ilh-2022-dec-8926, revogada)
-- DECRETO MUNICIPAL Nº 9.051, DE 21/02/2022 (ilh-2022-dec-9051, revogada)
-- DECRETO MUNICIPAL Nº 9.102, DE 04/03/2022 (ilh-2022-dec-9102, revogada)
-- DECRETO MUNICIPAL Nº 9.140, DE 14/03/2022 (ilh-2022-dec-9140, revogada)
-- DECRETO MUNICIPAL Nº 9.221, DE 02/05/2022 (ilh-2022-dec-9221, revogada)
-- DECRETO MUNICIPAL Nº 9.280, DE 30/05/2022 (ilh-2022-dec-9280, revogada)
-- … e mais 691 normas (lista completa no corpo)
+- DECRETO MUNICIPAL Nº 8.563, DE 05/04/2021 (ilh-2021-dec-8563, revogada)
+- DECRETO MUNICIPAL Nº 8.742, DE 16/07/2021 (ilh-2021-dec-8742, revogada)
+- DECRETO MUNICIPAL Nº 8.924, DE 03/01/2022 (ilh-2022-dec-8924, revogada)
+- DECRETO MUNICIPAL Nº 9.044, DE 18/02/2022 (ilh-2022-dec-9044, revogada)
+- DECRETO MUNICIPAL Nº 9.092, DE 04/03/2022 (ilh-2022-dec-9092, revogada)
+- DECRETO MUNICIPAL Nº 9.137, DE 14/03/2022 (ilh-2022-dec-9137, revogada)
+- DECRETO MUNICIPAL Nº 9.212, DE 18/04/2022 (ilh-2022-dec-9212, revogada)
+- DECRETO MUNICIPAL Nº 9.279, DE 30/05/2022 (ilh-2022-dec-9279, revogada)
+- … e mais 696 normas (lista completa no corpo)
 
 ## Temas frequentes
-nomeacao, cargo, comissao, funcao, membros, quadro, decreto, funcionarios, estrutura administrativa, secretaria municipal, criacao de orgao, estrutura organizacional, conselho, permanentes, publica, cultura, turismo, outras, professor, licitacao, auxiliar, confianca, patrimonio historico, tombamento, evento cultural, utilidade, infancia, primeira, educacao municipal, ensino fundamental
+nomeacao, cargo, comissao, funcao, membros, quadro, decreto, funcionarios, conselho, estrutura administrativa, secretaria municipal, criacao de orgao, estrutura organizacional, permanentes, publica, cultura, turismo, outras, professor, licitacao, auxiliar, confianca, patrimonio historico, tombamento, evento cultural, utilidade, infancia, primeira, educacao municipal, ensino fundamental
 
 ## Período
-1997 a 2022 · 731 normas · ~299.685 palavras de texto
+1997 a 2022 · 736 normas · ~298.285 palavras de texto
 
 Parte 1 de 2
 
@@ -8129,13 +8129,6 @@ SAJ/LHHA/dabsj.
 > **Ementa:** REGULAMENTA O ART. 141, DA LEI Nº 529/2007 , DISPONDO SOBRE A UTILIZAÇÃO DE MESAS, CADEIRAS E SIMILARES NAS PRAIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201102404
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL2.404, de 14/01/2011
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 2.404, DE 14/01/2011
 REGULAMENTA O
 ##### ART. 141, DA LEI Nº 529/2007
@@ -13562,6 +13555,39 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. SAJ/VS
 
 ---
 
+# DECRETO MUNICIPAL Nº 6.059, DE 31/01/2017
+
+> **Ref:** ilh-2017-dec-6059 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** revogada
+> **Ementa:** DESIGNA OS GESTORES DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706059
+> **Palavras-chave:** assistência social, CRAS, benefício socioassistencial, vulnerabilidade social
+
+DECRETO MUNICIPAL Nº 6.059, DE 31/01/2017
+DESIGNA OS GESTORES DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E DÁ OUTRAS PROVIDÊNCIAS.
+(Revogado pelo
+Decreto Municipal nº 8.391
+, de 07.01.2021)
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Ficam designados, para efetuar a Gestão Financeira dos Recursos do Fundo Municipal de Assistência Social, de conformidade com o
+##### artigo 3º da Lei nº 666
+de 10 de setembro de 1997, os seguintes:
+I -
+NILCE SIGNORINI, Secretária Municipal de Desenvolvimento Social, portadora da Cédula de Identidade RG nº 4.158.683-9 SSP/SP e do CPF/MF nº 228.570.108-00;
+II -
+TIAGO DA SILVA CORREA, Secretário Municipal de Finanças, portador da Cédula de Identidade RG nº 28.628.057-7 SSP/SP e do CPF/MF nº 282.449.508-11.
+##### Art. 2º
+Este decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no Átrio do Paço Municipal.
+##### Art. 3º
+Revogam-se as disposições em contrário.
+Ilhabela, 31 de janeiro de 2017.
+MARCIO TENÓRIO
+Prefeito Municipal
+Registrado em Livro Próprio e afixado na data supra no lugar de costume. SAJ/VSJ/dabsj.
+
+---
+
 # DECRETO MUNICIPAL Nº 6.062, DE 31/01/2017
 
 > **Ref:** ilh-2017-dec-6062 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** revogada
@@ -17977,12 +18003,6 @@ SUB
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706579
 > **Palavras-chave:** estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.579, DE 17/08/2017
 DISPÕE SOBRE A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SECRETARIA MUNICIPAL DE PLANEJAMENTO E GESTÃO ESTRATÉGICA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo
@@ -18952,13 +18972,6 @@ SUB
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706583
 > **Palavras-chave:** educação municipal, ensino fundamental, professor, merenda escolar, creche, estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.583, de 17/08/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.583, DE 17/08/2017
 DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo
@@ -19516,14 +19529,6 @@ SUB
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706584
 > **Palavras-chave:** estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.584, de 17/08/2017
-2ª Versão corresponde a DECRETO MUNICIPAL6.584, de 17/08/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.584, DE 17/08/2017
 DISPÕE SOBRE A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SECRETARIA MUNICIPAL DE SAÚDE E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais;
@@ -19993,6 +19998,49 @@ Ilhabela, 18 de setembro de 2017.
 MARCIO TENÓRIO
 Prefeito Municipal
 Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VSJ/dabsj
+
+---
+
+# DECRETO MUNICIPAL Nº 6.618, DE 18/09/2017
+
+> **Ref:** ilh-2017-dec-6618 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** revogada
+> **Ementa:** FICA INSTITUÍDA A COMISSÃO PARA ACOMPANHAMENTO DAS ATIVIDADES DO CONVÊNIO, DO PROJETO ESTADUAL DO LEITE "VIVA LEITE" E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706618
+
+DECRETO MUNICIPAL Nº 6.618, DE 18/09/2017
+FICA INSTITUÍDA A COMISSÃO PARA ACOMPANHAMENTO DAS ATIVIDADES DO CONVÊNIO, DO PROJETO ESTADUAL DO LEITE "VIVA LEITE" E DÁ OUTRAS PROVIDÊNCIAS.
+(Revogado pelo
+Decreto Municipal nº 8.292
+, de 10.11.2020)
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+Fica instituída a comissão para acompanhamento das atividades do convênio no Município de Ilhabela no PROJETO ESTADUAL DO LEITE "VIVALEITE", desenvolvido por meio de convênio entre a Prefeitura Municipal de Ilhabela e a Secretaria de Desenvolvimento Social do Estado de São Paulo, conforme disposto no Decreto nº 44.569/99
+alterado pelo Decreto nº 45.014/2000 e alterações posteriores, as seguintes representatividades:
+I -
+Representante da Secretaria de Desenvolvimento Social do Estado de São Paulo
+Titular:
+Sueli Leite da Silva - RG nº 11.173.932-9 - CPF/MF nº 304.921.978-57
+Suplente:
+Ariadna Soares Pereira - RG nº 53.429.708-0 - CPF/MF nº 035.611.776-62
+II -
+Representante da Secretaria Municipal de Saúde
+Titular:
+Marcio Russo Nakasone - RG nº 32.058.402-1 - CPF nº 216.987.198-50
+Suplente:
+Fernanda Garcez - RG nº 22.799.491-7 SSP/SP - CPF nº 140.061.068-07
+III -
+Representante do Conselho Municipal dos Direitos da Criança e do Adolescente de Ilhabela
+Titular:
+Leticia Souto Maior - RG nº 23.332.318-1 SSP/SP - CPF nº 116.382.918-88
+Suplente:
+Evellin Keith da Colina - RG nº 25.099.007-6 SSP/SP - CPF nº 229.970.628-73
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no átrio do Paço Municipal, revogadas as disposições em contrário.
+Ilhabela, 18 de setembro de 2017.
+MARCIO TENÓRIO
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VSJ/dabsj.
 
 ---
 
@@ -22653,6 +22701,70 @@ Registrado em Livro Próprio e afixado na data supra, no lugar de costume.AGM/VS
 
 ---
 
+# DECRETO MUNICIPAL Nº 6.807, DE 02/01/2018
+
+> **Ref:** ilh-2018-dec-6807 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** revogada
+> **Ementa:** NOMEIA A COMISSÃO MUNICIPAL DE AVALIAÇÃO DE BENS INSERVÍVEIS, COM A ATRIBUIÇÃO DE IDENTIFICAR E AVALIAR BENS INSERVÍVEIS DO MUNICÍPIO DE ILHABELA.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806807
+
+DECRETO MUNICIPAL Nº 6.807, DE 02/01/2018
+NOMEIA A COMISSÃO MUNICIPAL DE AVALIAÇÃO DE BENS INSERVÍVEIS, COM A ATRIBUIÇÃO DE IDENTIFICAR E AVALIAR BENS INSERVÍVEIS DO MUNICÍPIO DE ILHABELA.
+(Revogado pelo
+Decreto Municipal nº 8.448
+, de 12.02.2021)
+MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais;
+CONSIDERANDO a possibilidade da existência de bens públicos móveis de propriedade do Município de Ilhabela em precário estado de conservação.
+CONSIDERANDO que a Administração Pública Municipal deve nortear suas ações pelos princípios da eficiência e da economicidade.
+CONSIDERANDO o disposto no
+##### art. 53 da Lei Federal nº 8.666/1993
+.
+DECRETA
+##### Art. 1º
+Ficam nomeados para compor a Comissão Municipal de Avaliação de Bens Inservíveis, com a atribuição de identificar e avaliar bens inservíveis de propriedade do Município de Ilhabela, com fundamento no
+##### art. 17 da Lei Federal nº 8.666/1993
+, na seguinte conformidade:
+I -
+Marco Antonio Zerbeto
+, Diretor do Departamento de Gestão da Frota Municipal, na qualidade de Presidente;
+II -
+Leonardo de Pinho
+, Diretor do Departamento de Controle de Trânsito e Transportes, na qualidade de membro;
+III -
+José Carlos de Oliveira
+, Diretor do Departamento de Materiais e Patrimônio, na qualidade de membro.
+##### Art. 2º
+Compete à Comissão Municipal de Avaliação de Bens Inservíveis:
+I -
+verificar o estado de conservação dos bens públicos móveis que lhes forem indicados pelas Secretarias Municipais como genericamente inservíveis, classificando-os como:
+a)
+ocioso
+: quando, embora em perfeitas condições de uso, não estiver sendo aproveitado;
+b)
+recuperável
+: quando sua recuperação for possível e orçar, no âmbito, a cinquenta por cento de seu valor de mercado;
+c)
+antieconômico
+: quando sua manutenção for onerosa, ou seu rendimento precário, em virtude de uso prolongado, desgaste prematuro ou obsoletismo;
+d)
+irrecuperável
+: quando não mais puder ser utilizado para o fim a que se destina devido à perda de suas características ou em razão da inviabilidade econômica de sua recuperação.
+II -
+avaliar os bens genericamente declarados inservíveis e classificados como antieconômicos ou irrecuperáveis;
+III -
+emitir relatório circunstanciado com sugestões de providências, sendo recomendável o reaproveitamento dos bens classificados como ociosos ou recuperáveis e a alienação, pela modalidade licitatória de leilão, dos bens classificados como antieconômicos ou irrecuperáveis.
+##### Art. 3º
+Provocada a Comissão, esta terá o prazo de 45 (quarenta e cinco) dias para encerrar seus trabalhos.
+##### Art. 4º
+A função dos integrantes da Comissão ora instituída, honorífica e não remunerada, é considerada de relevante interesse público.
+##### Art. 5º
+Este Decreto entra em vigor na data de sua publicação, revogadas disposições em contrário, em especial o Decreto Municipal nº 5.318/2016.
+Ilhabela, 02 de janeiro de 2018.
+MARCIO TENÓRIO
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VSJ/LEATG.
+
+---
+
 # DECRETO MUNICIPAL Nº 6.855, DE 15/01/2018
 
 > **Ref:** ilh-2018-dec-6855 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** revogada
@@ -24250,13 +24362,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ementa:** REGULAMENTA A LEI MUNICIPAL Nº 1.267/2018, QUE INSTITUIU O VALE-REFEIÇÃO AOS SERVIDORES PÚBLICOS EFETIVOS DO PODER EXECUTIVO MUNICIPAL, DAS AUTARQUIAS E FUNDAÇÕES MUNICIPAIS DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807192
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.192, de 06/11/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.192, DE 06/11/2018
 REGULAMENTA A LEI MUNICIPAL Nº 1.267/2018, QUE INSTITUIU O VALE-REFEIÇÃO AOS SERVIDORES PÚBLICOS EFETIVOS DO PODER EXECUTIVO MUNICIPAL, DAS AUTARQUIAS E FUNDAÇÕES MUNICIPAIS DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo
@@ -25543,13 +25648,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907406
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.406, de 11/03/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.406, DE 11/03/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV.
 (Revogado pelo
@@ -25602,16 +25700,6 @@ Registrado em Livro Próprio e afixado na data supra, no lugar de costume. AGM/V
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO FISCAL DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907407
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-2ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-3ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-4ª Versão corresponde a DECRETO MUNICIPAL7.407, de 11/03/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.407, DE 11/03/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO FISCAL DO INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV.
 (Revogado pelo
@@ -25661,12 +25749,6 @@ Registrado em Livro Próprio e afixado na data supra, no lugar de costume. AGM/V
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907419
 > **Palavras-chave:** educação municipal, ensino fundamental, professor, merenda escolar, creche
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.419, DE 14/03/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE EDUCAÇÃO - CME PARA O BIÊNIO 2019/2021.
 (Revogado pelo
@@ -26126,13 +26208,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907533
 > **Palavras-chave:** licitação, pregão, edital de licitação, dispensa de licitação, contrato administrativo
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.533, de 06/04/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.533, DE 06/04/2019
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo
@@ -27855,13 +27930,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907829
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.829, de 22/11/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.829, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;
@@ -28288,12 +28356,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/JC
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO TUTELAR DO MUNICÍPIO DE ILHABELA PARA O QUADRIÊNIO 2020/2024.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007916
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.916, DE 10/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO TUTELAR DO MUNICÍPIO DE ILHABELA PARA O QUADRIÊNIO 2020/2024.
 (Revogado pelo
@@ -28397,13 +28459,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/JC
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS ELEITOS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL DO MUNICÍPIO DE ILHABELA - CMPDSA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007950
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.950, de 23/01/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.950, DE 23/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS ELEITOS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL DO MUNICÍPIO DE ILHABELA - CMPDSA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;
@@ -28564,13 +28619,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007971
 > **Palavras-chave:** licitação, pregão, edital de licitação, dispensa de licitação, contrato administrativo
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.971, de 31/01/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.971, DE 31/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, BEM COMO ESTABELECE A IMPLEMENTAÇÃO DO PREGÃO ELETRÔNICO.
 (Revogado pelo
@@ -28702,6 +28750,44 @@ Ilhabela, 13 de fevereiro de 2020.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA
 Prefeita Municipal
 Registrado em Livro Próprio e afixado na data supra no lugar de costume.
+
+---
+
+# DECRETO MUNICIPAL Nº 7.996, DE 14/02/2020
+
+> **Ref:** ilh-2020-dec-7996 · **Tipo:** Decreto · **Ano:** 2020 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DA COMISSÃO DE MONITORAMENTO E AVALIAÇÃO, NOS TERMOS DA LEI FEDERAL Nº 13.019/2019, PARA ATUAÇÃO NAS PARCERIAS CELEBRADAS COM ORGANIZAÇÕES DA SOCIEDADE CIVIL.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007996
+
+DECRETO MUNICIPAL Nº 7.996, DE 14/02/2020
+DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DA COMISSÃO DE MONITORAMENTO E AVALIAÇÃO, NOS TERMOS DA LEI FEDERAL Nº 13.019/2019, PARA ATUAÇÃO NAS PARCERIAS CELEBRADAS COM ORGANIZAÇÕES DA SOCIEDADE CIVIL.
+(Revogado pelo
+Decreto Municipal nº 8.786
+, de 27.08.2021)
+A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei;
+DECRETA
+##### Art. 1º
+Ficam nomeados os seguintes servidores efetivos como membros da Comissão de Monitoramento e Avaliação de parcerias firmadas entre a Administração Pública Municipal e as Organizações da Sociedade Civil:
+I -
+presidente: Clélia Cristina da Luz Sant’Ana, da Secretaria Municipal de Gestão Financeira;
+II -
+membro: Eloisa Gomes Mariano, da Secretaria Municipal de Desenvolvimento e Inclusão Social;
+III -
+membro: Ronaldo Martins Santana, da Secretaria Municipal de Gestão Financeira;
+IV -
+suplente: Danilo Barbosa Sales, da Secretaria Municipal de Educação;
+V -
+suplente: Luiz Mário de Almeida Matarazzo, da Secretaria Municipal de Saúde.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no Átrio do Paço Municipal, retroagindo seus efeitos a 1º de fevereiro de 2020.
+##### Art. 3º
+Revogam-se as disposições em contrário, em especial o
+Decreto nº 7.433
+, de 20 de março de 2019.
+Ilhabela, 14 de fevereiro de 2020.
+MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA
+Prefeita Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/JCM/ea.
 
 ---
 
@@ -29024,15 +29110,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A SUSPENSÃO DE ATENDIMENTO AO PÚBLICO NAS REPARTIÇÕES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DIRETA E INDIRETA E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008028
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.028, de 18/03/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.028, de 18/03/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.028, de 18/03/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.028, DE 18/03/2020
 DISPÕE SOBRE A SUSPENSÃO DE ATENDIMENTO AO PÚBLICO NAS REPARTIÇÕES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DIRETA E INDIRETA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo
@@ -29483,14 +29560,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** REGULAMENTA O ATENDIMENTO PRESENCIAL NO PAÇO MUNICIPAL DURANTE A PANDEMIA DO NOVO CORONAVÍRUS (COVID-19).
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008146
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.146, de 16/06/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.146, de 16/06/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.146, DE 16/06/2020
 REGULAMENTA O ATENDIMENTO PRESENCIAL NO PAÇO MUNICIPAL DURANTE A PANDEMIA DO NOVO CORONAVÍRUS (COVID-19).
 (Revogado pelo
@@ -29626,12 +29695,6 @@ Prefeita Municipal
 > **Efeitos a partir de:** 2020-07-15
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008164
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.164, DE 10/07/2020
 REGULAMENTA O FUNCIONAMENTO DE RESTAURANTES, LANCHONETES, PADARIAS, BARES E SIMILARES DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 (Revogado pelo
@@ -29715,13 +29778,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Efeitos a partir de:** 2020-07-20
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008174
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.174, de 16/07/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.174, DE 16/07/2020
 ALTERA E REVOGA DISPOSITIVOS DO DECRETO MUNICIPAL Nº 8.146/2020, QUE REGULAMENTA O ATENDIMENTO PRESENCIAL NO PAÇO MUNICIPAL DURANTE A PANDEMIA DO NOVO CORONAVÍRUS (COVID-19).
 (Revogado pelo
@@ -29833,14 +29889,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DOS MEMBROS DO COMITÊ ESPECIAL DE REGULARIZAÇÃO FUNDIÁRIA A QUE ALUDE A LEI MUNICIPAL Nº 1.165/2016 E DECRETO MUNICIPAL Nº 5.582/2016.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008190
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.190, de 03/08/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.190, de 03/08/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.190, DE 03/08/2020
 DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DOS MEMBROS DO COMITÊ ESPECIAL DE REGULARIZAÇÃO FUNDIÁRIA A QUE ALUDE A LEI MUNICIPAL Nº 1.165/2016
 E DECRETO MUNICIPAL Nº 5.582/2016.
@@ -32170,6 +32218,112 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 
 ---
 
+# DECRETO MUNICIPAL Nº 8.508, DE 16/03/2021
+
+> **Ref:** ilh-2021-dec-8508 · **Tipo:** Decreto · **Ano:** 2021 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE MEIO AMBIENTE - CMMA, PARA O BIÊNIO 2020/2021, EM VIRTUDE DE SUBSTITUIÇÃO DE MEMBROS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108508
+> **Palavras-chave:** meio ambiente, licenciamento ambiental, resíduos sólidos, saneamento básico, poluição
+
+DECRETO MUNICIPAL Nº 8.508, DE 16/03/2021
+DISPÕE SOBRE A ATUALIZAÇÃO DA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE MEIO AMBIENTE - CMMA, PARA O BIÊNIO 2020/2021, EM VIRTUDE DE SUBSTITUIÇÃO DE MEMBROS.
+(Revogado pelo
+Decreto Municipal nº 9.737
+, de 07/03/2023)
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o
+##### art. 43, V, da Lei Orgânica do Município
+e,
+CONSIDERANDO a necessidade de atualização da composição do Conselho Municipal de Meio Ambiente - CMMA, para o biênio 2020/2021, principalmente com relação aos representantes do Poder Público Municipal, haja vista a alteração na estrutura funcional de algumas secretarias:
+DECRETA
+##### Art. 1º
+Fica atualizada a nomeação dos membros que compõem o Conselho Municipal de Meio Ambiente - CMMA, para o biênio 2020/2021, nos termos da
+Lei nº 1.100
+de 10 de setembro de 2015, dos respectivos órgãos e seguimentos:
+I -
+Representante do Parque Estadual de Ilhabela:
+a)
+Winny Luiz Midões da Silva - titular;
+b)
+Maria Inez M. Fazzini Biondi - suplente.
+II -
+Representante da Secretaria Municipal de Educação:
+a)
+Laurelena Penha Garcia - titular;
+b)
+Danilo Barbosa de Sales - suplente.
+III -
+Representante da Secretaria Municipal de Desenvolvimento Econômico e do Turismo:
+a)
+Aurélio Rufo Silva - titular;
+b)
+Luiz Gustavo de Oliveira - suplente.
+IV -
+Representante da Secretaria Municipal de Meio Ambiente:
+a)
+Francisco Graziano Neto - titular;
+b)
+Sérgio Heitor Marques - suplente.
+V -
+Representante da Secretaria Municipal de Planejamento Urbano, Obras e Habitação:
+a)
+Kátia Regina Freire dos Santos - titular;
+b)
+Frederico Corrêa Andries - suplente.
+VI -
+Representante da Secretaria Municipal de Saúde:
+a)
+Adilson Luiz dos Santos - titular;
+b)
+Carina Felipe Lima - suplente.
+VII -
+Representante de Entidades Empresariais Ligadas ao Turismo (Ilhabela Convention Bureau):
+a)
+Michael Joseph Coleman - titular;
+b)
+Valdir de Arruda Barbosa Junior - suplente.
+VIII -
+Representante do Setor Comercial (Associação Comercial de Ilhabela):
+a)
+Alexandre Gustavo Gandini - titular;
+b)
+Carolina Falluh Aldrigue - suplente.
+IX -
+Representante das Comunidades Tradicionais:
+a)
+Benedita Aparecida Leite Costa - titular;
+b)
+Felipe Garcia dos Santos - suplente.
+X -
+Representante de Associação de Bairro (Associação de Moradores e Amigos do Bairro do Sul da Ilhabela):
+a)
+Ana Lúcia Vidigal Lopes da Silva - titular;
+b)
+Maria Regina Baptista Pereira - suplente.
+XI -
+Representante de Organizações de ONGs Socioambientais (Instituto Ilhabela Sustentável):
+a)
+Carlos Roberto Nunes - titular;
+b)
+Gilda Helena Leôncio Nunes - suplente.
+XII -
+Representante de Organizações de ONGs Socioambientais (APA-Ilha):
+a)
+Silvana de Oliveira Santos - titular;
+b)
+Araci Pisa - suplente.
+##### Art. 2º
+Este Decreto entra em vigor na data de sua publicação, com eficácia a partir de sua fixação no Átrio do Paço Municipal.
+##### Art. 3º
+Revogam-se as disposições em contrário, em especial o
+Decreto nº 8.210
+, de 17 de agosto de 2020.
+Ilhabela, 16 de março de 2021.
+ANTÔNIO LUIZ COLUCCI
+Prefeito Municipal
+Registrado em Livro próprio e afixado na data supra no lugar de costume.
+
+---
+
 # DECRETO MUNICIPAL Nº 8.513, DE 17/03/2021
 
 > **Ref:** ilh-2021-dec-8513 · **Tipo:** Decreto · **Ano:** 2021 · **Status:** revogada
@@ -32203,14 +32357,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOR O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER DE ILHABELA PARA MANDATO DE 02 (DOIS) ANOS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108515
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.515, de 18/03/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.515, de 18/03/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.515, DE 18/03/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOR O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER DE ILHABELA PARA MANDATO DE 02 (DOIS) ANOS.
 (Revogado pelo
@@ -32310,12 +32456,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108563
 > **Palavras-chave:** licitação, pregão, edital de licitação, dispensa de licitação, contrato administrativo
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.563, DE 05/04/2021
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o
@@ -32412,15 +32552,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE NOVAS REGRAS DA FASE EMERGENCIAL DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108567
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.567, de 07/04/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.567, de 07/04/2021
-3ª Versão corresponde a DECRETO MUNICIPAL8.567, de 07/04/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.567, DE 07/04/2021
 DISPÕE SOBRE NOVAS REGRAS DA FASE EMERGENCIAL DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 (Revogado pelo
@@ -32665,12 +32796,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108577
 > **Palavras-chave:** cultura, turismo, patrimônio histórico, tombamento, evento cultural
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.577, DE 15/04/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE TURISMO DE ILHABELA - COMTUR, PARA MANDATO DE 2 (DOIS) ANOS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;
@@ -32827,12 +32952,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108602
 > **Palavras-chave:** educação municipal, ensino fundamental, professor, merenda escolar, creche
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.602, DE 29/04/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE EDUCAÇÃO - CME PARA MANDATO DE 2 (DOIS) ANOS.
 (Revogado pelo
@@ -32983,13 +33102,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MEMBROS PARA A COMISSÃO DOS CONSELHOS, PREVISTA NO ART. 4º DA LEI MUNICIPAL N. 1.277/2018, QUE CRIA A CASA DOS CONSELHOS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108606
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.606, de 04/05/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.606, DE 04/05/2021
 DISPÕE SOBRE A NOMEAÇÃO DE MEMBROS PARA A COMISSÃO DOS CONSELHOS, PREVISTA NO ART. 4º DA LEI MUNICIPAL N. 1.277/2018, QUE CRIA A CASA DOS CONSELHOS.
 (Revogado pelo
@@ -33307,6 +33419,247 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 
 ---
 
+# DECRETO MUNICIPAL Nº 8.735, DE 08/07/2021
+
+> **Ref:** ilh-2021-dec-8735 · **Tipo:** Decreto · **Ano:** 2021 · **Status:** revogada
+> **Ementa:** DISPÕE SOBRE NOVAS REGRAS DE TRANSIÇÃO ENTRE AS FASES VERMELHA E LARANJA DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108735
+
+DECRETO MUNICIPAL Nº 8.735, DE 08/07/2021
+DISPÕE SOBRE NOVAS REGRAS DE TRANSIÇÃO ENTRE AS FASES VERMELHA E LARANJA DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
+(Revogado pelo
+Decreto Municipal nº 8.771
+, de 18.08.2021)
+O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEARIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais;
+DECRETA:
+##### Art. 1º
+As atividades comerciais e os prestadores de serviços essenciais poderão funcionar, observando-se o horário de funcionamento do respectivo alvará e os protocolos intersetorial e setorial específicos do Plano São Paulo.
+§ 1º
+Para fins do presente Decreto, são consideradas atividades essenciais:
+I -
+Hospitais, clinicas médicas, odontológicas e similares;
+II -
+Farmácias;
+III -
+Estabelecimentos de saúde animal;
+IV -
+Supermercados;
+V -
+Minimercados;
+VI -
+Padarias;
+VII -
+Armazéns;
+VIII -
+Açougues;
+IX -
+Peixarias;
+X -
+Quitandas;
+XI -
+Feiras livres de alimentos;
+XII -
+Postos de combustíveis;
+XIII -
+Distribuidoras e revenda de gás;
+XIV -
+Oficinas de veículos automotores, de motocicletas e de bicicletas;
+XV -
+Serviços bancários e lotéricas;
+XVI -
+Hotéis, pousadas e hostels (com quartos individuais ou integrantes do mesmo grupo familiar);
+XVII -
+Lavanderias;
+XVIII -
+Serviços de limpeza, manutenção de zeladoria e similares;
+XIX -
+Transportadoras;
+XX -
+Estabelecimentos e empresas de locação de veículos;
+XXI -
+Transporte público coletivo;
+XXII -
+Táxis e aplicativos de transporte;
+XXIII -
+Serviços de entrega;
+XXIV -
+Estacionamentos e garagens náuticas;
+XXV -
+Assistência técnica de produtos eletroeletrônicos;
+XXVI -
+Serviços de can center,
+XXVII -
+Bancas de jornais;
+XXVIII -
+Meios de comunicação social, inclusive eletrônica, executados por empresas jornalísticas e de radiodifusão sonora e de sons e imagens;
+XXIX -
+Construção civil e similares;
+XXX -
+Internet e telefonia;
+XXXI -
+Agência dos Correios;
+XXXII -
+Serviços de segurança pública e privada;
+XXXIII -
+Concessionárias de serviços de água e de energia elétrica;
+XXXIV -
+Serviços funerários;
+XXXV -
+Estabelecimentos de ensino (escolas);
+XXXVI -
+Prefeitura Municipal da Estância Balneária de Ilhabela.
+§ 2º
+Para fins desse Decreto, considera-se atividade essencial aquele estabelecimento que exerça de forma preponderante alguma das atividades elencadas no rol do parágrafo anterior.
+§ 3º
+Fica permitido o funcionamento de restaurantes, bares e áreas comuns dos hotéis, das pousadas e dos hostels, observando-se o distanciamento mínimo de 1,5 metro entre as mesas e cadeiras e a capacidade de uso dos espaços limitada a 60% (sessenta por cento), adotando-se os protocolos intersetorial e setorial do Plano São Paulo.
+§ 4º
+Fica proibida a venda de bebidas alcoólicas, por qualquer estabelecimento comercial, das 00hs às 06hs.
+§ 5º
+As merinas podem funcionar para a manutenção preventiva e corretiva de embarcações, sendo permitido o uso das embarcações somente para integrantes do mesmo grupo familiar.
+§ 6º
+Fica proibida qualquer atividade que possa gerar aglomerações.
+§ 7º
+Ficam permitidas as atividades culturais com capacidade de 60% (sessenta por cento) do espaço físico destinado ao público, observando-se, no que couber, os protocolos sanitários do art. 2º deste Decreto, bem como os protocolos sanitários intersetoriais e setoriais do Plano São Paulo.
+##### Art. 2º
+Os estabelecimentos comerciais e os prestadores de serviços essenciais deverão observar, além das normas de vigilância sanitária, as seguintes regras:
+I -
+a obrigatoriedade do uso de máscaras de proteção individual por todos os colaboradores e consumidores no interior do estabelecimento e eventuais filas internas e/ou externas;
+II -
+o número de consumidores no interior do estabelecimento comercial e de prestação de serviço deverá ser limitado para até 60% (sessenta por cento) da sua capacidade;
+III -
+deverá ser mantido pelo menos um colaborador identificado na entrada do estabelecimento, com a atribuição de organização de fila externa, bem como orientação quanto à distância mínima de 1,5 metro entre as pessoas, e higienização das mãos;
+IV -
+na entrada e salda, assim como no interior do estabelecimento, deverão ser disponibilizados meios adequados para higienização das mãos dos consumidores e colaboradores, como álcool em gel 70% ou pia com água e sabão;
+V -
+as filas internas dos caixas para pagamentos e balcões de atendimento aos consumidores deverão ser organizadas com fitas de isolamento ou marcação indicativa no chão para posicionamento das pessoas, observando-se a distância mínima de 1,5 metro entre os consumidores;
+VI -
+todas as máquinas de cartão de crédito e de débito deverão ser revestidas com filme plástico e ter o teclado higienizado imediatamente após a utilização por cada consumidor, garantindo que o próprio consumidor introduza e retire o seu cartão das máquinas;
+VII -
+limpeza e desinfecção frequente dos sistemas de ar condicionado;
+VIII -
+garantia de circulação de ar com, no mínimo, uma porta ou uma janela aberta;
+IX -
+caixas e guichês, preferencialmente, com proteção de vidro ou policarbonato para separar funcionários de consumidores;
+X -
+recomenda-se a aferição de temperatura na entrada de todos os estabelecimentos comerciais.
+Parágrafo único.
+Os estabelecimentos comerciais e os prestadores de serviços essenciais também deverão observar os protocolos de operação intersetorial e setorial do Plano São Paulo.
+##### Art. 3º
+Os restaurantes, as lanchonetes, os bares e os quiosques poderão funcionar, com a capacidade limitada a 60% (sessenta por cento), até às 00hs (zero horas) observando-se os protocolos sanitários intersetorial e setorial do Plano São Paulo, tais como:
+I -
+a obrigatoriedade do uso de máscaras de proteção individual por todos os colaboradores e consumidores no interior do estabelecimento;
+II -
+a limpeza e a higienização de mesas e cadeiras deverá ocorrer após cada ciclo de uso;
+III -
+venda de bebidas alcóolicas até às 00hs (zero horas);
+IV -
+posicionamento das mesas com o distanciamento mínimo de 1,5 metro entre os assentos de cada mesa;
+V -
+na entrada e salda, assim como no interior do estabelecimento, deverão ser disponibilizados meios adequados para higienização das mãos dos consumidores e colaboradores, como álcool em gel 70% ou pia com água e sabão;
+VI -
+garantia de circulação de ar com portas e janelas abertas;
+VII -
+todas as máquinas de cartão de crédito e de débito deverão ser revestidas com filme plástico e ter o teclado higienizado imediatamente após a utilização por cada consumidor, garantindo que o próprio consumidor introduza e retire o seu cartão das máquinas;
+VIII -
+limpeza e desinfecção frequente dos sistemas de ar condicionado.
+Parágrafo único.
+Fica permitida a apresentação de artistas e músicos até às 00hs, em lugares abertos, apenas para o público dos estabelecimentos do
+caput
+deste artigo, desde que observadas as seguintes regras:
+a)
+distanciamento de 1,5 metro entre os músicos (todos os integrantes da banda);
+b)
+uso obrigatório de máscara para todos os músicos;
+c)
+distanciamento mínimo de 3 metro entre os integrantes da banda e o público;
+d)
+manutenção do volume sonoro no máximo em 60 decibéis;
+e)
+obrigatoriamente o público deve permanecer sentado durante a apresentação de artistas e músicos.
+##### Art. 4º
+Ficam estabelecidos procedimentos específicos para o funcionamento de salões de belezas e barbearias, objetivando a prevenção dos riscos de disseminação do Novo Coronavirus (COVID-16), nos seguintes termos:
+I -
+observar o horário de funcionamento do alvará;
+II -
+observar a lotação de até 60% (sessenta por cento) do espaço físico de atendimento ao consumidor;
+III -
+fixar em local visível, na entrada do estabelecimento, a lotação máxima autorizada;
+IV -
+observar a distância mínima entre estações de trabalho, que deve ser de 1,5 metro;
+V -
+exigir a utilização pelos funcionários e/ou prestadores de serviços de equipamentos de proteção individual, tais como luvas, máscaras ou face shie/ds e avental;
+VI -
+exigir o uso obrigatório de máscaras pelos consumidores no interior do estabelecimento comercial;
+VII -
+manter locais de circulação e áreas comuns com o sistema de ar condicionado limpo (filtros e dutos) e, obrigatoriamente, manter janelas abertas de modo a contribuir para a renovação de ar;
+VIII -
+a obrigatoriedade das máquinas de cartão de crédito e de débito serem revestidas com filme plástico e ter o teclado higienizado imediatamente após a utilização por cada consumidor, garantindo que o próprio consumidor introduza e retire o seu cartão das máquinas;
+IX -
+cumprir os protocolos sanitários intersetorial e setorial do Plano São Paulo do Governo do Estado de São Paulo.
+##### Art. 5º
+Ficam estabelecidos procedimentos específicos para o funcionamento dos ambulantes, objetivando a prevenção dos riscos de disseminação do Novo Coronavirus (COVID-19), nos seguintes termos:
+I -
+exerceras respectivas atividades até às 00hs (zero horas);
+II -
+a obrigatoriedade do uso de máscaras de proteção individual por todos os colaboradores;
+III -
+a limpeza e a higienização de mesas e cadeiras deverá ocorrer após cada ciclo de uso
+IV -
+a disponibilização de meios adequados para higienização das mãos dos consumidores e colaboradores, como álcool em gel 70% ou pia com água e sabão;
+V -
+a obrigatoriedade das máquinas de cartão de crédito e de débito serem revestidas com filme plástico e ter o teclado higienizado imediatamente após a utilização por cada consumidor, garantindo que o próprio consumidor introduza e retire o seu cartão das máquinas.
+##### Art. 6º
+Ficam estabelecidos os procedimentos específicos para o funcionamento de academias e estabelecimentos similares, objetivando a prevenção dos riscos de disseminação do Novo Coronavirus (COVID-19), nos seguintes termos: - observar o horário de funcionamento do alvará;
+II -
+observar a lotação de até 60% (sessenta por cento) do espaço físico do estabelecimento;
+III -
+fixar em local visível, na entrada do estabelecimento, a lotação máxima autorizada;
+IV -
+disponibilizar o uso de máscara, que será obrigatório para todos empregados, prestadores de serviços e terceirizados;
+V -
+exigir o uso obrigatório de máscaras pelos alunos no interior do estabelecimento comercial;
+VI -
+manter os ambientes do imóvel arejados, com todas as janelas e portas abertas;
+VII -
+cumprir os protocolos sanitários intersetorial e de academia do Plano São Paulo do Governo do Estado de São Paulo.
+##### Art. 7º
+Os estabelecimentos comerciais não essenciais poderão funcionar com a capacidade limitada a 60% (sessenta por cento), observando-se o horário de funcionamento do respectivo alvará, e, no que couber, os protocolos sanitários do art. 2º deste Decreto, bem como os protocolos sanitários intersetoriais e setoriais do Plano São Paulo.
+##### Art. 8º
+As bibliotecas municipais poderão funcionar, preferencialmente, com a capacidade limitada a 60% (sessenta por cento), observando-se os protocolos sanitários intersetoriais e setoriais do Plano São Paulo.
+##### Art. 9º
+A partir das 14h das sextas-feiras até às 1411 dos domingos, visitantes somente poderão ingressar no Município com a apresentação de RT-PCR ou similar, realizado no máximo 48h (quarenta e oito) horas antes do embarque no sistema travessia litorânea operada pela Dersa (balsa e catamarã).
+§ 1º
+Não se aplica o
+caput
+deste artigo aos moradores do arquipélago, às pessoas imunizadas com a 2º dose da vacina, aos prestadores de serviços e aos trabalhadores de estabelecimentos comerciais previstos neste Decreto.
+§ 2º
+Para fins deste Decreto, considera-se morador aquele que possuir um dos seguintes documentos em seu nome: comprovante de endereço (conta de água, de luz, de telefone, de internet, de cartão bancário e congêneres), comprovante de matrícula dos filhos na rede pública ou privada do Município, contrato de locação, carnê de IPTU e título de eleitor.
+§ 3º
+Para fins deste Decreto, consideram-se prestadores de serviços e trabalhadores de estabelecimentos comerciais aqueles que possuírem um dos seguintes documentos: Carteira de Trabalho e da Previdência Social (CTPS), crachá da empresa, holerite, contrato de prestação de serviço e congêneres.
+##### Art. 10.
+A fiscalização do ingresso ao Município da Estância Balnearia de Ilhabela será realizada no bolsão de embarque da travessia litorânea operada pelo DERSA e contará com apoio da Policia Militar, em especial os policiais em atividade delegada.
+##### Art. 11.
+Ficam permitidas as expedições de senhas de autorização somente para veículos de fretamento turístico com destino a hotéis, pousadas e hotéis regulares com hospedagem comprovada para mais de um dia de duração.
+##### Art. 12.
+Os velórios e sepultamentos realizados nos cemitérios municipais deverão ter duração máxima de uma hora, podendo permanecer no local até 15 (quinze) pessoas, respeitando-se o distanciamento mínimo de 1,5 metro entre pessoas, desde que a causa do óbito não seja a COVID-19 ou que não seja caso suspeito do referido vírus.
+##### Art. 13.
+A fiscalização de posturas e da vigilância sanitária municipais remeterão relatórios semanais das notificações, das autuações, das multas, das interdições e de outras sanções à Comissão Técnica de Prevenção e Controle Ao Novo Coronavirus (COVID-19).
+##### Art. 14.
+O descumprimento das medidas previstas neste Decreto implicará, podendo ser cumulativas, nas penalidades de advertência, multa, interdição parcial ou total da atividade e cassação de alvará de localização e funcionamento, consoante disposições da
+Lei Municipal nº 529/2007
+, do Código Sanitário Estadual e das legislações correlatas.
+##### Art. 15.
+A flexibilização será avaliada diariamente em razão do cumprimento das normas e da análise dos dados do Boletim Coronavirus emitido pela Secretaria Municipal de Saúde de Ilhabela.
+##### Art. 16.
+Este Decreto entra em vigor a partir da data de sua publicação, revogadas as disposições em contrário, especialmente o
+Decreto Municipal nº 8.567/2021
+.
+Ilhabela, 08 de julho de 2021.
+ANTONIO LUIZ COLUCCI
+Prefeito Municipal
+
+---
+
 # DECRETO MUNICIPAL Nº 8.736, DE 16/07/2021
 
 > **Ref:** ilh-2021-dec-8736 · **Tipo:** Decreto · **Ano:** 2021 · **Status:** revogada
@@ -33406,13 +33759,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA- COMPCI, CRIADO PELA LEI MUNICIPAL Nº 1.405, DE 14 DE JANEIRO DE 2020.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108765
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.765, de 12/08/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.765, DE 12/08/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA- COMPCI, CRIADO PELA LEI MUNICIPAL Nº 1.405, DE 14 DE JANEIRO DE 2020.
 (Revogado pelo
@@ -33565,6 +33911,9 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 
 DECRETO MUNICIPAL Nº 8.837, DE 07/10/2021
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
+(Revogado pelo
+Decreto Municipal nº 12.100
+, de 29.09.2026)
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o
 ##### art. 43, V, da Lei Orgânica do Município
 ,
@@ -33675,13 +34024,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Efeitos a partir de:** 2021-11-20
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108879
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.879, de 19/11/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.879, DE 19/11/2021
 DISPÕE SOBRE MEDIDA DESTINADA AO ENFRENTAMENTO DA PANDEMIA PELA COVID-19 EM RAZÃO DA ATUAL SITUAÇÃO EPIDEMIOLÓGICA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo
@@ -33779,13 +34121,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** REGULAMENTA A UTILIZAÇÃO DE EQUIPAMENTOS E A RENOVAÇÃO DAS AUTORIZAÇÕES DOS AMBULANTES NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, NOS TERMOS DO ART. 121, PARÁGRAFO ÚNICO, DA LEI MUNICIPAL Nº 529/2007 (CÓDIGO DE POSTURAS DO MUNICÍPIO).
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108892
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.892, de 03/12/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.892, DE 03/12/2021
 REGULAMENTA A UTILIZAÇÃO DE EQUIPAMENTOS E A RENOVAÇÃO DAS AUTORIZAÇÕES DOS AMBULANTES NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, NOS TERMOS DO ART. 121, PARÁGRAFO ÚNICO, DA LEI MUNICIPAL Nº 529/2007 (CÓDIGO DE POSTURAS DO MUNICÍPIO).
 (Revogado pelo
@@ -34863,12 +35198,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE RAYSSA DOMITH DE PAIVA ALVES PARA OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209002
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.002, DE 07/02/2022
 DISPÕE SOBRE A NOMEAÇÃO DE RAYSSA DOMITH DE PAIVA ALVES PARA OCUPAR O CARGO DE PROVIMENTO EFETIVO DE AUXILIAR DA PRIMEIRA INFÂNCIA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o
@@ -35283,14 +35612,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209059
 > **Palavras-chave:** licitação, pregão, edital de licitação, dispensa de licitação, contrato administrativo
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.059, de 23/02/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.059, de 23/02/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.059, DE 23/02/2022
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 (Revogado pelo
@@ -36391,13 +36712,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DE ILHABELA - CMDCAI, PARA O BIÊNIO 2022/2024.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209151
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.151, de 17/03/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.151, DE 17/03/2022
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DE ILHABELA - CMDCAI, PARA O BIÊNIO 2022/2024.
 (Revogado pelo
@@ -38380,280 +38694,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 SAJ/LHHA/AAOF
 ANEXO I
 RELAÇÃO DE CARGOS POLÍTICOS, EM COMISSÃO E DE CONFIANÇA DA SECRETARIA DE ASSUNTOS JURÍDICOS
-Denominação
-Quantidade
-Referência
-Vencimento
-AGENTES POLÍTICOS
-Secretário
-1
-SUB
-
----
-
-# DECRETO MUNICIPAL Nº 9.280, DE 30/05/2022
-
-> **Ref:** ilh-2022-dec-9280 · **Tipo:** Decreto · **Ano:** 2022 · **Status:** revogada
-> **Ementa:** DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA DE GESTÃO FINANCEIRA E DÁ OUTRAS PROVIDÊNCIAS.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209280
-
-DECRETO MUNICIPAL Nº 9.280, DE 30/05/2022
-DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA DE GESTÃO FINANCEIRA E DÁ OUTRAS PROVIDÊNCIAS.
-(Revogado pelo
-Decreto Municipal nº 11.573
-, de 11.11.2025)
-O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais, e:
-CONSIDERANDO a adequação da estrutura administrativa da Secretaria de Gestão Financeira à reforma implantada pela
-Lei Complementar nº 1.517/2022
-;
-CONSIDERANDO que o
-Inciso VI do artigo 33 do Lei Orgânica do Município
-da Estância Balneária de Ilhabela estabelece como atribuição e responsabilidade do Prefeito a de "dispor sobre a organização e funcionamento da administração, na forma da Lei";
-CONSIDERANDO a necessidade de formular o organograma da Secretaria de Gestão Financeira, com o escopo de atender com excelência os Princípios da Administração Pública, notadamente o da legalidade, impessoalidade, moralidade, publicidade e eficiência;
-CONSIDERANDO que o
-##### artigo 2º da nº 1.517/2022
-define como atribuição central da Secretaria de Gestão Financeira a de prestar assistência e assessoramento direto e imediato ao Chefe do Poder Executivo Municipal no suporte organizativo, logístico e secretarial necessários para o cumprimento de suas atribuições institucionais, e ainda;
-CONSIDERANDO que o
-##### artigo 3 da Lei Complementar nº 1.517/2022
-define a estrutura organizacional básica da Secretaria de Gestão Financeira,
-DECRETA:
-### CAPÍTULO I - DO REGIMENTO INTERNO
-##### Art. 1º
-Instituir o Regimento Interno da Secretaria de Gestão Financeira.
-##### Art. 2º
-O Regimento Interno da Secretaria de Gestão Financeira define sua estrutura organizacional interna, descreve as atribuições das respectivas unidades organizativas; caracteriza as relações hierárquicas e de autoridade; detalha o quadro demonstrativo dos Cargos em Comissão e das Funções Gratificadas; especifica as funções de direção, Gestão, Coordenação e Supervisão, e fixa os princípios gerais da ação administrativa.
-##### Art. 3º
-A competência estabelecida neste Regimento Interno, para o exercício das atribuições específicas, implica a efetiva responsabilidade pela sua execução, sob pena das cominações legais.
-### CAPÍTULO II - DOS FUNDAMENTOS DA AÇÃO ADMINISTRATIVA
-##### Art. 4º
-As atividades da Administração Municipal sujeitar-se, em caráter efetivo, aos fundamentos estabelecidos no
-##### artigo 37,
-caput
-da Constituição Federal
-e aos seguintes princípios gerais:
-I -
-Planejamento da gestão institucional;
-II -
-Coordenação e articulação entre os Departamentos e demais agentes envolvidos;
-III -
-Descentralização com delegação de competências;
-VI -
-Transparência na gestão administrativa;
-V -
-Racionalização, aperfeiçoamento e eficácia na prestação dos serviços públicos.
-##### Art. 5º
-O planejamento, instituído como um processo permanente da Administração, é um sistema integrado que visa promover o desenvolvimento sustentável do Município, compreendendo a seleção dos objetivos, diretrizes, programas e outros procedimentos determinados em função da realidade local.
-Parágrafo único.
-O planejamento atenderá aos anseios, problemas e necessidades da população do Município.
-##### Art. 6º
-As atividades administrativas e a execução de planos e programas serão resultantes de efetiva coordenação entre os Departamentos e demais órgãos e agentes envolvidos de cada nível hierárquico.
-##### Art. 7º
-A descentralização será realizada no sentido de liberar os dirigentes das rotinas de execução e das tarefas de mera formalização de atos administrativos, para concentrarem-se nas atividades de planejamento, supervisão e controle.
-##### Art. 8º
-A delegação de competência será utilizada como instrumento de descentralização administrativa, objetivando assegurar maior rapidez e eficácia às decisões.
-##### Art. 9º
-A Administração Municipal, além dos controles formais de obediência a preceitos legais, disporá de sistemas e procedimentos de monitoramento, acompanhamento e avaliação dos resultados da gestão institucional das secretarias, departamentos e demais órgãos e agentes públicos.
-##### Art. 10.
-O controle das atividades da Administração Municipal será exercido, compreendendo:
-I -
-O controle, pela chefia competente, da execução dos programas e da observância das normas que disciplinam as atividades específicas do órgão controlado;
-II -
-O controle da utilização, guarda e aplicação de dinheiro, valores e bens públicos.
-##### Art. 11.
-Os agentes da administração pública atuaram sob os princípios constitucionais de legalidade, impessoalidade, moralidade, publicidade e eficiência, buscando o bem comum no exercício de suas competências, garantindo a eficácia e qualidade na prestação dos serviços públicos essenciais e o atendimento oportuno dos problemas e necessidades da população de Ilhabela.
-### CAPÍTULO III - DA ESTRUTURA ORGANIZACIONAL DA SECRETARIA DE GESTÃO FINANCEIRA
-##### Art. 12.
-A Secretaria de Gestão Financeira tem a seguinte estrutura organizacional:
-I -
-Secretaria Adjunta;
-II -
-Assessoria;
-III -
-Diretoria de Gestão Financeira e Contábil; e
-IV -
-Diretoria de Gestão de Receita.
-### CAPÍTULO IV - DA COMPETÊNCIA DOS ÓRGÃOS DA SECRETARIA DE GESTÃO FINANCEIRA
-#### Seção I - Das Competências Do Gabinete Do Secretário De Gestão Financeira
-##### Art. 13.
-O Gabinete do Secretário de Gestão Financeira, para cumprimento de suas atribuições, terá a seguinte estrutura organizacional:
-I -
-Supervisão de Suporte ao Gabinete.
-##### Art. 14.
-A Supervisão de Suporte ao Gabinete tem como principais atribuições a de coordenar e gerenciar os procedimento e atividades de suporte administrativo da Secretaria; gerenciar, coordenar e supervisionar os processos e atividades relacionadas ao protocolo interno, à tramitação interna de processos administrativos, à digitalização de documentos e à manutenção do arquivo físico da Secretaria; controlar o estoque dos materiais e verificar o funcionamento dos equipamentos necessários ao desempenho das atividades da Secretaria, determinando a confecção das respectivas requisições; organizar o acesso de pessoas na Secretaria, desde o primeiro atendimento na recepção; administrar os bens patrimoniais da Secretaria, registrando as entradas e saídas dos patrimônios e relacionar os bens inservíveis para as respectivas baixas; gerenciar os fluxos de arquivamento, determinando que seja realizado regularmente e verificando o espaço de armazenamento apto a atender toda a demanda, seja em arquivo interno ou externo, podendo delegar a atribuição; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Secretário.
-#### Seção II - Das Competências da Secretaria Adjunta
-##### Art. 15.
-A Secretaria Adjunta tem por atribuições:
-I -
-Substituir o Secretário quando necessário e auxiliá-lo no exercício de suas atribuições preservando a fidelidade com o plano de governo;
-II -
-Coordenar e supervisionar, sob orientação do Secretário, as atividades de planejamento, organização e execução das funções desenvolvidas pela Secretaria;
-III -
-Promover a integração e interação entre os diversos órgãos da Secretaria, as políticas e as ações de governo definidas em todas as áreas;
-IV -
-Coordenar o relacionamento entre o Secretário e os Dirigentes dos Órgãos da Secretaria, acompanhando o desenvolvimento dos programas, projetos e ações da pasta; e
-V -
-Executar outras atividades correlatas de confiança ou que lhe venham a ser atribuídas pelo Secretário ou Prefeito.
-#### Seção III - Das Competências da Assessoria
-##### Art. 16.
-A Assessoria tem por atribuições:
-I -
-Assessorar a alta administração no planejamento de ações e na implementação das propostas contidas no Plano de Governo;
-II -
-Assistir ao Prefeito e demais superiores nas relações entre o poder público e a sociedade civil, na harmonização das iniciativas dos diferentes órgãos e na discussão de medidas de interesse comum, articulando e avaliando, suas solicitações e respostas, para a consecução das políticas públicas de governo;
-III -
-Subsidiar o Prefeito e os Secretários para o fomento das políticas públicas intersetoriais e transversais;
-IV -
-Presidir reuniões colegiadas a fim de alinhar as áreas para a consecução do plano de governo e das diretrizes proferidas pelo Prefeito e Secretários; e
-V -
-Executar outras atividades correlatas de confiança ou que lhe venham a ser atribuídas ou delegadas pelo Secretário de Gestão Financeira ou pelo Prefeito.
-#### Seção IV - Das Competências da Diretoria de Gestão Financeira e Contábil
-##### Art. 17.
-A Diretoria de Gestão Financeira e Contábil tem por atribuições:
-I -
-Coordenar e supervisionar, sob orientação do Secretário, a equipe responsável pelas atividades de planejamento, organização e execução sob o viés orçamentário, financeiro e contábil;
-II -
-Administrar os recursos financeiros do Município, garantindo o equilíbrio de caixa;
-III -
-Gerenciar a aplicação dos recursos financeiros, visando manter as melhores condições de mercado;
-IV -
-Suprir diariamente a Secretaria de Gestão Financeira com informações atualizadas sobre a situação financeira do Município, considerando as receitas provenientes dos royalties do petróleo e gás;
-V -
-Prever e provisionar recursos para despesas a curto, médio e longo prazo;
-VI -
-Desenvolver as atividades de auditoria governamental, controladoria, correição, ouvidoria e fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Poder Executivo Municipal, além de apoiar a Controladoria Geral no exercício de sua missão institucional;
-VII -
-Atuar na área econômica e financeira, observando a consecução, dos objetivos administrativos;
-VIII -
-Avaliar se há eventual abuso orçamentário e tomar as medidas cabíveis, quando necessário;
-IX -
-Garantir o cumprimento dos objetivos pretendidos, assegurando sua continuidade, conforme o planejado pela Administração Municipal;
-X -
-Analisar os dados a serem enviados ao Tribunal de Contas, estabelecer a consolidação de dados e cuidar do fechamento do Balanço anual com todos Os Anexos exigidos pela
-Lei Federal nº 4.320/1964
-; e
-XI -
-Executar outras atribuições afins que lhe forem determinadas pelo Secretário ou pelo Prefeito.
-##### Art. 18.
-A Diretoria de Gestão Financeira e Contábil, para cumprimento de suas atribuições, terá a seguinte estrutura organizacional:
-I -
-Coordenação de Processamento Contábil:
-a)
-Supervisão de Processamento e Programação Orçamentária.
-II -
-Coordenação de Controle e Transparência da Gestão Orçamentária;
-III -
-Coordenação Orçamentária:
-a)
-Supervisão de Processamento e Programação Financeira;
-b)
-Supervisão de Peças Orçamentárias.
-IV -
-Coordenação de Movimentação Financeira.
-##### Art. 19.
-A Coordenação de Processamento Contábil tem como principais atribuições a de coordenar e gerenciar a execução dos processos e atividades pertinentes ao processamento da despesa e da manutenção dos registros e dos controles contábeis da administração financeira, orçamentária e patrimonial do Município; coordenar e gerenciar os procedimentos relacionados com classificação, registro e controle, em todos os seus aspectos, da dívida pública municipal, incluindo os serviços da dívida, resultantes ou independentes da execução do orçamento- coordenar e gerenciar a execução das atividades relacionadas à elaboração de balanços, balancetes e outros demonstrativos legais e a consolidação com as entidades da administração direta e indireta, com fundamento nas normas gerais de direito financeiro e instrumentos legais; zelar pelo cumprimento da legislação contábil, e
-Lei de Responsabilidade Fiscal
-, articulando-se com os órgãos da administração direta e indireta do Município; atender e dar orientação técnica em expedientes e processos às unidades, contribuintes, auditorias, interna e externa, e outros órgãos externos; elaborar, em coordenação com a Tesouraria, o boletim sintético do movimento de caixa, evidenciadas as disponibilidades e os depósitos bancários; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Diretor do Departamento.
-##### Art. 20.
-A Supervisão de Processamento e Programação Orçamentária tem como principais atribuições a de supervisionar e gerenciar os procedimentos e atividades relativas à verificação dos lançamentos de Decretos de abertura de créditos adicionais com os relatórios gerados pelo sistema orçamentário da Administração Municipal; analisar e conferir as solicitações de antecipação de cotas orçamentárias dos órgãos municipais; emitir relatórios gerenciais para acompanhamento da execução orçamentária; lançar no sistema orçamentário os créditos adicionais e as antecipações de cotas orçamentárias; elaborar demonstrativo para o acompanhamento e controle de abertura de créditos adicionais suplementares, observando o limite autorizado pela Lei orçamentária anual; controlar a evolução mensal da despesa com pessoal, observando os percentuais determinados pela legislação em vigor e elaborar demonstrativo do comportamento do elemento; acompanhar e arquivar as publicações no diário oficial do Município dos Decretos de abertura de créditos adicionais e outros documentos do processo de execução orçamentária; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Coordenador.
-##### Art. 21.
-A Coordenação de Controle e Transparência da Gestão Orçamentária tem como principais atribuições a de coordenar e gerenciar a execução de processos e atividades pertinentes à auditoria governamental, controladoria, correição, ouvidoria e fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Poder Executivo Municipal, além de apoiar a Controladoria Geral no exercício de sua missão institucional; avaliar, periodicamente, a observância das políticas relativas à Gestão Orçamentária, Financeira e de Custos; apurar os custos dos projetos e atividades, de forma a evidenciar os resultados da gestão, considerando as informações financeiras da execução orçamentária e as informações detalhadas sobre a execução física; coordenar e zelar pelo eficaz e oportuno atendimento ao Tribunal de Contas do Estado; promover a disseminação das informações orçamentárias, financeiras e de custos nas secretarias e unidades organizacionais da Administração Municipal; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Diretor do Departamento.
-##### Art. 22.
-A Coordenação Orçamentária tem como principais atribuições a de coordenar e gerenciar os processos e atividade relacionados com a formulação, monitoramento e avaliação das peças de planejamento do Município, como o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA), interagindo com todos os órgãos da administração direta e indireta do Município e fomentando a participação popular e zelando pelo cumprimento das diretrizes estratégicas do governo relacionadas com Plano de Governo e a política fiscal do Município; coordenar, orientar e avaliar a execução orçamentária, inclusive os remanejamentos internos, créditos suplementares, antecipação e contingenciamentos; realizar a análise prévia das solicitações de despesa e posterior empenho, em conformidade com a legislação e as normas técnicas aplicáveis; fornecer subsídios para a análise do impacto orçamentário, relacionado aos projetos de Lei de criação de cargos e funções e de alteração da estrutura e aumento da remuneração; elaborar demonstrativo periódico sobre a execução das dotações orçamentárias para obras e aquisições de imóveis, evidenciando, quando for o caso, as causas da não execução dos créditos e as respectivas providências adotadas; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Diretor do Departamento.
-##### Art. 23.
-A Supervisão de Processamento e Programação financeira tem como principais atribuições a de supervisionar e avaliar a execução das atividades relativas à programação financeira e da liberações de recursos financeiros; monitorar e avaliar o fluxo financeiro do Município por fonte de recursos; apresentar proposta para a programação financeira para o cronograma de execução mensal de desembolso, observados os limites de atuação definidos pela LOA; supervisionar a execução da programação financeira e o cronograma de execução mensal de desembolso aprovados, bem como promover sua reavaliação periódica, mediante apresentação de proposta para o Relatório Bimestral de Avaliação de Receitas e Despesas Primárias; acompanhar e avaliar a realização das despesas de que trata o cronograma mensal de desembolso; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Coordenador.
-##### Art. 24.
-A Supervisão de Peças Orçamentárias tem como principais atribuições a de supervisionar a programação e execução das atividades relacionados com a formulação, monitoramento e avaliação das peças de planejamento do Município, como o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA), interagindo com todos os órgãos da administração direta e indireta do Município e fomentando a participação popular e zelando pelo cumprimento das diretrizes estratégicas do governo relacionadas com Plano de Governo e a política fiscal do Município; Supervisar os procedimentos de levantamento e alimentação dos Relatório de Atividades de seguimento dos indicadores do PPA no sistema AUDESP do Tribunal de Contas do Estado; oferecer informações de forma oportuna, eficaz e sistemática sobre as principais causas do cumprimento, êxito ou fracasso na execução do PPA e de seus respectivos objetivos, metas, ações, produtos e despesas orçamentárias planejadas, propondo decisões e correções para fazer frente às falhas identificadas; oferecer informações de forma oportuna e eficaz que permita a avaliação e análise da contribuição dos diferentes programas que conformam o PPA no cumprimento dos Objetivos de Desenvolvimento Sustentável-ODS de acordo com as diretrizes e orientações definidas pelo TCE-SP; oferecer informações de forma oportuna e eficaz sobre o avanço da execução dos programas que compõem o PPA e o cumprimento de seus respectivos objetivos, metas, ações, produtos e despesas orçamentárias com a finalidade de fundamentar a formulação da LDO e da LOA em cada vigência.; levantar e oferecer informação oportuna, confiável e sistemática que permita a avaliação do desempenho dos diferentes gestores na implantação de seus respectivos programas, ações, atividades e projetos do PPA; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Coordenador.
-##### Art. 25.
-A Coordenação de Movimentação Financeira tem como principais atribuições a de coordenar e gerenciar os processos e atividade relacionados com a execução e controle das disponibilidades financeiras, a programação dos pagamentos a serem realizados pela Administração Municipal, mantendo os serviços de Tesouraria em pleno funcionamento; coordenar e controlar os processos relacionados com a guarda e a movimentação dos recursos financeiros e outros valores pertencentes ou confiados à Fazenda Municipal, zelando sempre pelo cumprimento da legislação no que tange a responsabilidade fiscal, articulando-se com os órgãos da administração direta e indireta do Município; coordenar e executar os processos de elaboração da ordem cronológica de pagamentos; de emissão de cheques ou ordens de pagamento para efetivação da execução das despesas, de acordo com a programação financeira e disponibilidade de recursos; coordenar e controlar os processos de movimentação e controle das contas financeiras e de movimentações bancárias, efetuando as conciliações em geral, observando a legislação vigente e as normas de delegação de competências da Administração Municipal; manter em dia as escriturações pertinentes aos movimentos de caixa e financeiros; proceder ao balanço de todos os valores da tesouraria efetuando sua tomada de contas, sempre que entender conveniente e, obrigatoriamente, no último dia de cada exercício financeiro; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Diretor do Departamento.
-#### Seção V - Das Competências da Diretoria de Gestão da Receita
-##### Art. 26.
-A Diretoria de Gestão da Receita tem por atribuições:
-I -
-Coordenar e atualizar o sistema municipal de gestão da receita, zelando pela sua articulação com os demais sistemas municipais de planejamento e gestão financeira e orçamentária com a finalidade de assegurar o cumprimento de objetivos e metas do Plano de Governo e das responsabilidades institucionais da Administração Municipal;
-II -
-Coordenar e avaliar a implantação das políticas e diretrizes para a modernização e operação do sistema de gestão dos tributos imobiliários e mobiliários dentro das normas vigentes e das diretrizes gerais da Administração Municipal;
-III -
-Coordenar e avaliar a execução da política tributária do Município, de acordo com as normas vigentes e as diretrizes gerais da Administração Municipal;
-IV -
-Coordenar e avaliar a implantação e atualização permanente do sistema de processos de arrecadação e fiscalização dos tributos do Município de acordo com as normas vigentes e as diretrizes gerais da Administração Municipal;
-V -
-Acompanhar as competências relacionadas com a administração tributária municipal, em especial com as atividades de tributação, fiscalização, lançamento, cobrança, arrecadação, recolhimento e controle dos tributos, contribuições e taxas, buscando medidas de aperfeiçoamento da legislação tributária municipal;
-VI -
-Administrar, avaliar e promover a permanente atualização e modernização dos procedimentos relacionados à gestão dos tributos e taxas a cargo do Município como o fornecimento de certidão negativa de tributos municipais e quaisquer outras relativas às demais rendas; a expedição de certidões de lançamento e quitação de tributos municipais; a execução do lançamento, a arrecadação e a fiscalização dos tributos devidos ao Município; a fiscalização das atividades comerciais, industriais e de prestação de serviços no Município; a concessão e controle do parcelamento dos débitos tributários não inscritos na dívida ativa; o encaminhamento dos créditos tributários para inscrição na Dívida Ativa; os lançamentos de ofício, cobrança e parcelamento de impostos, taxas e contribuições administrados pela Secretaria Gestão Financeira; o lançamento de multas por descumprimento de obrigações acessórias;
-VII -
-Desenvolver estudos relativos à cobrança e ao recolhimento do crédito tributário, bem como o combate à inadimplência;
-VIII -
-Promover atividades de integração entre o fisco e o contribuinte, bem como de educação tributária, propondo a divulgação de informações tributárias; e
-IX -
-Interpretar e aplicar a legislação fiscal e propor a edição de atos normativos e instruções necessárias à sua execução;
-X -
-Executar outras atribuições afins que lhe forem determinadas pelo Secretário ou pelo Prefeito.
-##### Art. 27.
-A Diretoria de Gestão da Receita, para cumprimento de suas atribuições, terá a seguinte estrutura organizacional:
-I -
-Coordenação de Assuntos Imobiliários; e
-II -
-Coordenação de Assuntos Mobiliários.
-##### Art. 28.
-A Coordenação de Assuntos Imobiliários tem por atribuições principais a de coordenar e atualizar o sistema municipal de gestão dos tributos imobiliários, zelando pela sua articulação com os demais sistemas municipais de planejamento e gestão financeira e orçamentária com a finalidade de assegurar o cumprimento de objetivos e metas do Plano de Governo e das responsabilidades institucionais da Administração Municipal; coordenar e avaliar a implantação e atualização permanentemente do sistema e processos de arrecadação e fiscalização dos tributos imobiliários do Município de acordo com as normas vigentes e as diretrizes gerais da Admiração Municipal; coordenar e acompanhar a realização das operações relacionadas com a execução, orientação, controle, avaliação e atualização do cadastro de imóveis no Município; coordenar e gerenciar as competências relacionadas com a análise e decisão em primeira instância administrativa das reclamações sobre cadastro de imóveis, que não se refiram a impugnação de lançamento; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Diretor do Departamento.
-##### Art. 29.
-A Coordenação de Assuntos Mobiliários tem por atribuições principais a de coordenar e atualizar o sistema municipal de gestão dos tributos mobiliários, zelando pela sua articulação com os demais sistemas municipais de planejamento e gestão financeira e orçamentária com a finalidade de assegurar o cumprimento de objetivos e metas do Plano de Governo e das responsabilidades institucionais da Administração Municipal; coordenar e avaliar a implantação das políticas e diretrizes para a modernização e operação do sistema de gestão dos tributos mobiliários dentro das normas vigentes e das diretrizes gerais da Administração Municipal; coordenar e avaliar a implantação e atualização permanentemente do sistema e processos de arrecadação e fiscalização dos tributos mobiliários do Município de acordo com as normas vigentes e as diretrizes gerais da Admiração Municipal; coordenar, gerenciar e acompanhar as competências relacionadas com a Administração Tributária municipal, em especial com as atividades de tributação, julgamento, fiscalização, lançamento, cobrança, arrecadação, recolhimento e controle dos tributos, contribuições e taxas administrados pelo Município buscando medidas de aperfeiçoamento, regulamentação e a consolidação da legislação tributária municipal, de acordo com a legislação vigente; desenvolver estudos relativos à cobrança e ao recolhimento do crédito tributário, bem como o combate à inadimplência; e demais atividades correlatas que lhe venham a ser atribuídas ou delegadas pelo Diretor do Departamento.
-### CAPÍTULO V - DAS ATRIBUIÇÕES DOS AGENTES POLÍTICOS
-##### Art. 30.
-Em observância do
-##### art. 53 da Lei Complementar nº 1.517/2022
-compete ao Secretário de Gestão Financeira desenvolver as atribuições de Direção Superior da Secretaria de Gestão Financeira, reportando-se diretamente ao Chefe do Poder Executivo Municipal para o desempenho de suas funções.
-### CAPÍTULO VI - DAS ATRIBUIÇÕES DOS CARGOS DE PROVIMENTO EM COMISSÃO
-#### Seção I - Das Atribuições do Secretário Adjunto
-##### Art. 31.
-Ao Secretário Adjunto compete desenvolver as atribuições estabelecidas no
-##### art. 54 da Lei Complementar nº 1.517/2022
-, reportando-se diretamente ao Secretário de Gestão Financeira para o desempenho de suas funções.
-#### Seção II - Das Atribuições do Assessor
-##### Art. 32.
-Ao Assessor compete desenvolver dentro da Secretaria de Gestão Financeira as competência e atribuições expressamente definidas no
-##### art. 57 da Lei Complementar nº 1.517/2022
-, reportando-se diretamente ao Secretário de Gestão Financeira para o desempenho de suas funções.
-#### Seção III - Das Atribuições dos Diretores
-##### Art. 33.
-Aos Diretores compete dirigir, controlar e avaliar a execução das funções definidas para sua respectiva diretoria observando expressamente as competências definidas no
-##### art. 56 da Lei Complementar nº 1.517/2022
-, reportando-se diretamente ao Secretário de Gestão Financeira para o desempenho de suas funções.
-### CAPÍTULO VII - DAS ATRIBUIÇÕES DAS FUNÇÕES DE CONFIANÇA
-#### Seção I - Das Atribuições dos Coordenadores
-##### Art. 34.
-Aos Coordenadores compete exercer as atribuições de coordenação e gerenciamento da execução e controle dos processos e atividades de tipo técnico-administrativas relativas às funções definidas para sua respectiva Coordenação observando expressamente as competências definidas no
-##### art. 56 da Lei Complementar nº 1.205/2017
-, reportando-se diretamente a seu chefe imediato definido no organograma constante no Anexo II deste Decreto.
-#### Seção II - Das Atribuições dos Supervisores
-##### Art. 35.
-Aos Supervisores compete exercer as atribuições de supervisionar a execução e controle dos processos e atividades de tipo técnico-administrativas relativas às funções definidas para sua respectiva Supervisão observando expressamente as competências definidas no
-##### art. 57 da Lei Complementar nº 1.205/2017
-, reportando-se diretamente a seu chefe imediato definido no organograma constante no Anexo II deste Decreto.
-### CAPÍTULO VIII - DAS DISPOSIÇÕES GERAIS
-##### Art. 36.
-Aos dirigentes compete realizar atividades e tarefas específicas, definidas por este instrumento e de acordo com as normas gerais estabelecidas na
-Lei Complementar nº 1.517/2022
-, bem como nos demais dispositivos legais e administrativos afetos a sua área de atuação e ainda as atribuições e tarefas designadas pela chefia imediata.
-##### Art. 37.
-Os casos omissos e as dúvidas surgidas na aplicação do presente Regimento Interno serão solucionados pelo Chefe do Poder Executivo Municipal.
-##### Art. 36.
-O Secretário de Gestão Financeira é ordenador de despesa, podendo estabelecer, mediante ato administrativo, delegação de competência aos detentores de cargo de Diretor, Coordenador, Supervisor e a servidores com estabilidade na administração pública municipal, para ordenar despesas.
-##### Art. 38.
-Fica aprovado o Quadro Demonstrativo dos Agentes Políticos, Cargos em Comissão e das Funções Gratificadas da Secretaria de Gestão Financeira na forma do Anexo I deste Decreto.
-##### Art. 39.
-Fica aprovada a Estrutura Organizativa da Secretaria de Gestão Financeira, na forma do Anexo II deste Decreto.
-##### Art. 40.
-Este Decreto entra em vigor na data de sua publicação e revogam-se as disposições em contrário, em especial o
-Decreto Municipal nº 6.639/2017
-.
-Ilhabela, 30 de maio de 2022
-ANTÔNIO LUIZ COLUCCI
-Prefeito Municipal
-Registrado em Livro próprio e afixado na data supra no lugar de costume.
-SAJ/LHHA/AAOF
-ANEXO I
-RELAÇÃO DE CARGOS POLÍTICOS, EM COMISSÃO E DE CONFIANÇA DA SECRETARIA DE GESTÃO FINANCEIRA
 Denominação
 Quantidade
 Referência

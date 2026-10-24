@@ -19,17 +19,10 @@ aliases:
   - Decreto Municipal nº 8499
   - Decreto Municipal 8499
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108499"
-coletado_em: "2026-10-11"
-sha256_raw: "364252cb5b33c16268084d0b79ff3c66d76cf8d83a35590b8552d654f2407be7"
+coletado_em: "2026-10-24"
+sha256_raw: "3f4d43581003fec9b74250e7a712d12123f69a21a28d4fb0131eb8c9b630fb99"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.499, de 12/03/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.499, DE 12/03/2021
 DISPÕE SOBRE A FASE EMERGENCIAL DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais;

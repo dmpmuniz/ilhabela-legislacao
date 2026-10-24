@@ -16,16 +16,10 @@ aliases:
   - Lei 1512
   - Lei nº 1512
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221512"
-coletado_em: "2026-10-11"
-sha256_raw: b063561d40feb245ba43ea196a727036bb0920cd092f6d03f934766eeeb0d05b
+coletado_em: "2026-10-24"
+sha256_raw: "60eed0e58972da9a65868085d427468f0965e31b8297ddd8fe43d25d13a19e15"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.512, DE 05/01/2022
 FIXA A DATA BASE PERMANENTE PARA REVISÃO GERAL ANUAL, CONCEDE REAJUSTE, A PARTIR DE 1º JANEIRO DE 2022, AOS VENCIMENTOS DOS SERVIDORES PÚBLICOS ATIVOS, INATIVOS E PENSIONISTAS DO PODER EXECUTIVO MUNICIPAL, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

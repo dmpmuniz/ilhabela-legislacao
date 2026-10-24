@@ -27,18 +27,10 @@ tags_auto:
   - rh
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181328"
-coletado_em: "2026-10-11"
-sha256_raw: "4437f841b54bd4b4f1d4eeccfaad4b339b764c259cdb6aa24c399ec13f019072"
+coletado_em: "2026-10-24"
+sha256_raw: "7ac9fe5b7e4d1d22f1a864eb84fb75ef5577b76d40df8c570f958400063a2093"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.328, de 26/10/2018
-2ª Versão corresponde a LEI MUNICIPAL1.328, de 26/10/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.328, DE 26/10/2018
 DISPÕE SOBRE A IMPLANTAÇÃO DO
 PLANO DE CARGOS, CARREIRAS E VENCIMENTOS DO QUADRO GERAL DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA

@@ -7,7 +7,7 @@ ano: 2022
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: expirada
 titulo: "DECRETO MUNICIPAL Nº 9.572, DE 21/12/2022"
 ementa: "DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2023/2024."
 aliases:
@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9572
   - Decreto Municipal 9572
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209572"
-coletado_em: "2026-10-11"
-sha256_raw: "5b1bddd79a0220ce5d4a85685a20e552f2a6fe69774ad7e55e35872cc2b170b6"
+coletado_em: "2026-10-24"
+sha256_raw: "86dad201de8031876efc263ac99f22c29767c0cda29ad00c745dd13d1f23b9e1"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.572, de 21/12/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.572, DE 21/12/2022
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO DA APLICAÇÃO DOS ROYALTIES - CONFIRO, MANDATO 2023/2024.
 (vigência esgotada)

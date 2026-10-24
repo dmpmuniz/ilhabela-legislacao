@@ -16,18 +16,10 @@ aliases:
   - Lei 1375
   - Lei nº 1375
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191375"
-coletado_em: "2026-10-11"
-sha256_raw: "5f04ca2dc24f07b607d27cd3c3749861739f68555ccc3a71c7f6b8edac386009"
+coletado_em: "2026-10-24"
+sha256_raw: "07151930088b776fee1d88080511030e830d916642027c9ca26632733ac5b5cd"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.375, de 22/07/2019
-2ª Versão corresponde a LEI MUNICIPAL1.375, de 22/07/2019
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.375, DE 22/07/2019
 INSTITUI E DISPÕE SOBRE O PROGRAMA CARONA LEGAL.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

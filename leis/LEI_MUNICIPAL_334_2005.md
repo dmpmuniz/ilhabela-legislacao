@@ -15,17 +15,11 @@ aliases:
   - Lei nº 334/2005
   - Lei 334
   - Lei nº 334
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20050334&NroLei=334&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "338030823a46f2b058afbf42077621ac94e5304e6f744842081407dfecf82ad9"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20050334"
+coletado_em: "2026-10-24"
+sha256_raw: b831afcf48ef1b0ac4ae9cb834305a5c5ad82442c0cd038f700b53bf05ac114e
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 334, DE 05/10/2005
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 FAÇO SABER QUE A CÂMARA APROVOU E EU, NOS TERMOS DO

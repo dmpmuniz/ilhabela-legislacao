@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 9813
   - Decreto Municipal 9813
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309813"
-coletado_em: "2026-10-11"
-sha256_raw: "82fb11493fbf80840ade555d6744be0e4131e4a69034105ce99b07a1ddfa8535"
+coletado_em: "2026-10-24"
+sha256_raw: "0f6831811d9926ec07c0e73440c95991822838c1c1f95ee230f6cca049663d8a"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.813, de 12/04/2023
-2ª Versão corresponde a DECRETO MUNICIPAL9.813, de 12/04/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.813, DE 12/04/2023
 DISPÕE SOBRE A COMPOSIÇÃO DO CONSELHO MUNICIPAL DE SAÚDE E BEM-ESTAR ANIMAL COMSBEA, DA NOMEAÇÃO DE SEUS MEMBROS NOS TERMOS DO ART. 20 DA LEI MUNICIPAL Nº 658, DE 13 DE OUTUBRO DE 2008, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

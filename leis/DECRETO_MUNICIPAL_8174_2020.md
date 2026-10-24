@@ -19,17 +19,10 @@ aliases:
   - Decreto Municipal nº 8174
   - Decreto Municipal 8174
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008174"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "88dfdd2870af3e66580c8940786cc7251ef62b414890856d243e224c402663e2"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.174, de 16/07/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.174, DE 16/07/2020
 ALTERA E REVOGA DISPOSITIVOS DO DECRETO MUNICIPAL Nº 8.146/2020, QUE REGULAMENTA O ATENDIMENTO PRESENCIAL NO PAÇO MUNICIPAL DURANTE A PANDEMIA DO NOVO CORONAVÍRUS (COVID-19).
 (Revogado pelo

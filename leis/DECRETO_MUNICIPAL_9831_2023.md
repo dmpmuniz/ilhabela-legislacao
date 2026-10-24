@@ -34,16 +34,10 @@ tags_auto:
   - turismo
   - patrimonio
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309831"
-coletado_em: "2026-10-11"
-sha256_raw: a1f2bd43eacad5ee3e0865c52ec601e28f5e21e1716efb97ee11553e280a15e9
+coletado_em: "2026-10-24"
+sha256_raw: f261b8d35b6c2542c1d27dfd97b1e19e08e7b73894a9bc92dd0de5008b0d8709
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.831, DE 19/04/2023
 INSTITUI O GRUPO DE TRABALHO INTERSETORIAL PARA PROPOR INICIATIVAS ESTRATÉGICAS E COORDENADAS DE PREVENÇÃO E ENFRENTAMENTO DA VIOLÊNCIA E PROMOÇÃO DA CULTURA DE PAZ NOS ESTABELECIMENTOS DE ENSINO PÚBLICOS E PRIVADOS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

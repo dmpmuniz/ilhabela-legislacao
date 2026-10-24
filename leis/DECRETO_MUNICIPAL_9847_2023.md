@@ -25,16 +25,10 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309847"
-coletado_em: "2026-10-11"
-sha256_raw: "1b84c20c66bde0f094bf7b19cdb0247ff2a46eddd3bdf8a66358794794878e92"
+coletado_em: "2026-10-24"
+sha256_raw: "8406b0b36b3ec5cbfa40c459f15b7b95e54f0fc4a06e345dd1f68e6661bf67d4"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.847, DE 12/05/2023
 DISPÕE SOBRE A CONVOCAÇÃO DA VIII CONFERÊNCIA MUNICIPAL DA ASSISTÊNCIA SOCIAL.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por Lei e;

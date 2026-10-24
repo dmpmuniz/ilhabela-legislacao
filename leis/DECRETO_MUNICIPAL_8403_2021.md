@@ -19,16 +19,10 @@ aliases:
   - Decreto Municipal nº 8403
   - Decreto Municipal 8403
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108403"
-coletado_em: "2026-10-11"
-sha256_raw: b36bf47276b484c14996e4584842463c4ace5501fcdfcd5a0cd53f6aee39a991
+coletado_em: "2026-10-24"
+sha256_raw: b4724fb20b5ef25ff9f8b9584b8dba2f7a86e8ae9487f1eed0e3719c83a3e4da
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.403, DE 23/01/2021
 DISPÕE SOBRE A FASE VERMELHA DO PLANO SÃO PAULO EM ÂMBITO MUNICIPAL.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso de suas atribuições legais;

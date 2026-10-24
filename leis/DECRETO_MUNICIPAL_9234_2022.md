@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9234
   - Decreto Municipal 9234
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209234"
-coletado_em: "2026-10-11"
-sha256_raw: a47cb829e3baece1d5695b489c3e691a4e42d5491964854484929df6d90daa12
+coletado_em: "2026-10-24"
+sha256_raw: "5238c62deb39ec24919dcdffd3e7e9ee8029bff085d1ed51af862a00aec55537"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.234, DE 02/05/2022
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

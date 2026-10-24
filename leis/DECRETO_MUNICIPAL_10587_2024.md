@@ -19,20 +19,10 @@ aliases:
   - Decreto Municipal nº 10587
   - Decreto Municipal 10587
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410587"
-coletado_em: "2026-10-11"
-sha256_raw: e6fed4eaf9dbc2fde5de1672e37f6b000218081f7b262e67796ef28b263d6f99
+coletado_em: "2026-10-24"
+sha256_raw: e8cf3f5075365fda19cbe29a70504d9a03d52fd6e25a95e7bc99cd0b1396f7ec
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-2ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-3ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-4ª Versão corresponde a DECRETO MUNICIPAL10.587, de 12/07/2024
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.587, DE 12/07/2024
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DE ILHABELA - CMDCAI, PARA O BIÊNIO 2024/2026.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

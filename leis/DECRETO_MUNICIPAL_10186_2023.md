@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10186
   - Decreto Municipal 10186
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310186"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "1483440a20a36a09eef1c0eae5a9519669d1f5dce8c7c9b2400f70a649e07c47"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.186, DE 20/12/2023
 DISPÕE SOBRE ABERTURA DE VAGAS E CONCESSÃO DE AUTORIZAÇÕES TEMPORÁRIAS PARA COMÉRCIO AMBULANTE E LOCAÇÃO DE EQUIPAMENTOS NO MUNICÍPIO, NOS TERMOS DA LEI Nº 529/2007 E DO DECRETO 8.892, DE 03 DE DEZEMBRO DE 2021.
 (Revogado pelo

@@ -18,20 +18,10 @@ aliases:
   - Decreto Municipal nº 9872
   - Decreto Municipal 9872
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309872"
-coletado_em: "2026-10-11"
-sha256_raw: "3d1c23b78ae61e4e4308077da4c0abee19a275d85db5920b2673b25f6cd02717"
+coletado_em: "2026-10-24"
+sha256_raw: "85cebe988226c913013d41bb4731e3fbb4acb2e3384d49223f9752cd8be78cdb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.872, de 23/05/2023
-2ª Versão corresponde a DECRETO MUNICIPAL9.872, de 23/05/2023
-3ª Versão corresponde a DECRETO MUNICIPAL9.872, de 23/05/2023
-4ª Versão corresponde a DECRETO MUNICIPAL9.872, de 23/05/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.872, DE 23/05/2023
 DISPÕE SOBRE A COMPOSIÇÃO DO CONSELHO DE ALIMENTAÇÃO ESCOLAR, A NOMEAÇÃO DE SEUS MEMBROS PARA O QUADRIÊNIO, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

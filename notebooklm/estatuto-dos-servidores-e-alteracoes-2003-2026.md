@@ -24,7 +24,7 @@
 servidores públicos, provimento e carreira, remuneração, licenças, aposentadoria, servidores, estatuto, complementar, publicos, estancia, balnearia, municipais, 13262018, previdencia, inclui, 10522014, instituto, ilhabelaprev, administrativa, reestrutura, regime, proprio, social, titulares, cargo, efetivo, revoga, dispositivos, paragrafos, codigo
 
 ## Período
-2003 a 2026 · 18 normas · ~47.968 palavras de texto
+2003 a 2026 · 18 normas · ~47.812 palavras de texto
 
 
 ## Status
@@ -114,15 +114,8 @@ PJ/kcf
 
 > **Ref:** ilh-2014-lc-1052 · **Tipo:** Lei Complementar · **Ano:** 2014 · **Status:** em vigor
 > **Ementa:** REESTRUTURA O REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL ASSEGURADO AOS SERVIDORES TITULARES DE CARGO EFETIVO DO MUNICÍPIO DE ILHABELA, READEQUANDO-O AOS COMANDOS CONSTITUCIONAIS VIGENTES E CRITÉRIOS DE REGULARIDADE PREVIDENCIÁRIA E DÁ OUTRAS PROVIDÊNCIAS.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141052&NroLei=1.052&Word=&Word2=
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141052
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI COMPLEMENTAR1.052, de 01/09/2014
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.052, DE 01/09/2014
 REESTRUTURA O
 REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL
@@ -1966,25 +1959,6 @@ AGM/VSJ/dabsj
 > **Ementa:** DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS MUNICIPAIS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA .
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181326
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-2ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-3ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-4ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-5ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-6ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-7ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-8ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-9ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-10ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-11ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-12ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-13ª Versão corresponde a LEI COMPLEMENTAR1.326, de 26/10/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.326, DE 26/10/2018
 DISPÕE SOBRE O
 ESTATUTO DOS SERVIDORES PÚBLICOS MUNICIPAIS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA

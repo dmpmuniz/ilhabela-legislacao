@@ -16,16 +16,10 @@ aliases:
   - Lei 1384
   - Lei nº 1384
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191384"
-coletado_em: "2026-10-11"
-sha256_raw: "2d8569988f69331dc1acfb97c833afebe3687995b17bda5ff0ca0cb9752d59e4"
+coletado_em: "2026-10-24"
+sha256_raw: "98fbc3bf80b811e3ac1e99932e4c0d8f34d39f4396d1b8972751472d2c450d9d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.384, DE 30/09/2019
 CRIA O CONSELHO MUNICIPAL DAS COMUNIDADES TRADICIONAIS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:

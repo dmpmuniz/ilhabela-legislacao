@@ -7,7 +7,7 @@ ano: 2017
 cidade: Ilhabela
 estado: SP
 esfera: municipal
-status: em_vigor
+status: revogada
 titulo: "DECRETO MUNICIPAL Nº 6.059, DE 31/01/2017"
 ementa: DESIGNA OS GESTORES DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E DÁ OUTRAS PROVIDÊNCIAS.
 aliases:
@@ -25,17 +25,10 @@ palavras_chave_auto:
 tags_auto:
   - assistencia_social
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706059"
-coletado_em: "2026-10-11"
-sha256_raw: "382fb62e91c975bae38f3e14c3c88a0fc5fd1e1c94193d28b4dd5905ab79bd12"
+coletado_em: "2026-10-24"
+sha256_raw: "394558eda736fddfade8f0d8dfb3ccb6438456ce0b6bfcc75ce2b1f06606d929"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL6.059, de 31/01/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.059, DE 31/01/2017
 DESIGNA OS GESTORES DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogado pelo

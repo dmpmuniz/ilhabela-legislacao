@@ -16,16 +16,10 @@ aliases:
   - Lei 1516
   - Lei nº 1516
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221516"
-coletado_em: "2026-10-11"
-sha256_raw: "85df4a7766696cb6d6c91e6da6ea7ae1ba08dbfe5ddffca3aeac080e50d358b8"
+coletado_em: "2026-10-24"
+sha256_raw: "1d849adc3b527dfe5177ec4fde610f15ce230c98326ab3fd3d9475cbde214012"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.516, DE 07/01/2022
 FIXA O ÍNDICE DE REVISÃO GERAL ANUAL, A PARTIR DE 1º DE JANEIRO DE 2022, AOS SERVIDORES PÚBLICOS ATIVOS, INATIVOS E PENSIONISTAS DO PODER LEGISLATIVO MUNICIPAL, E DÁ OUTRAS PROVIDÊNCIAS.
 ANTÔNIO LUIZ COLUCCI, Prefeito do Município da Estância Balneária de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

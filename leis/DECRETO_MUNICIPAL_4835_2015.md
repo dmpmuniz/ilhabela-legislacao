@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 4835
   - Decreto Municipal 4835
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504835"
-coletado_em: "2026-10-11"
-sha256_raw: "94eb9d9f2de5c9cad3045bb873932a5a8f196eda447fee884a39bcb30ac65285"
+coletado_em: "2026-10-24"
+sha256_raw: "338f81a1a2dba013567fa996d7880f989cf75a0cca524d1fe6c338f6441a7568"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 4.835, DE 13/07/2015
 DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO SITUADO NO BAIRRO ITAQUANDUBA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais; com fundamento no

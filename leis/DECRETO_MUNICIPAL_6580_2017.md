@@ -26,16 +26,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706580"
-coletado_em: "2026-10-11"
-sha256_raw: "938d4ba22e13a5f1d90a653bc1bcd02dc22b9a7ab3676eb8efbbd5d4b61c4d3b"
+coletado_em: "2026-10-24"
+sha256_raw: "9200835581a86d5d9ed06e0580e298c0f14373abfb26bd0b7cdc805588ef7cce"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.580, DE 17/08/2017
 DISPÕE SOBRE A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso de suas atribuições legais;

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11430
   - Decreto Municipal 11430
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511430"
-coletado_em: "2026-10-11"
-sha256_raw: d057191706ce7889c2810f5c224d508f15ce7a8fb9bf4aae6760faf09ba6e795
+coletado_em: "2026-10-24"
+sha256_raw: cc4e124b4447e6c352582cd01982450488a9486e6ddf569f60cee1386ac41f25
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.430, DE 13/08/2025
 DISPÕE SOBRE A REGULAMENTAÇÃO DA CONCESSÃO DE VALE-REFEIÇÃO, INSTITUÍDO PELA LEI MUNICIPAL Nº 1.267/2018 E REVOGA DISPOSITIVOS DO DECRETO Nº 8.358/2020.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

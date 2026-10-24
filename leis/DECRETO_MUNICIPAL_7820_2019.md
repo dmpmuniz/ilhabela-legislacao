@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7820
   - Decreto Municipal 7820
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907820"
-coletado_em: "2026-10-11"
-sha256_raw: bbbd13ff9bb8fa0595ee47c5ffb067c80abe00bc034545f4fa43404518d8fa46
+coletado_em: "2026-10-24"
+sha256_raw: "91463fce7f5b6ff62412dcf51ceeb10f92407057f416380a146a58dc16659824"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.820, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

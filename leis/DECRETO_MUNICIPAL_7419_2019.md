@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907419"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "46d6d27e4dbe10a9bd247b40472b91dd0868b3bb65f252b87a100cdd02bd3aab"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.419, DE 14/03/2019
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE EDUCAÇÃO - CME PARA O BIÊNIO 2019/2021.
 (Revogado pelo

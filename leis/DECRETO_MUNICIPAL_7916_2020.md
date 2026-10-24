@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7916
   - Decreto Municipal 7916
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007916"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "46e83fb487f46b94b1dfa2f61559d0d4858917382f46ce6feb9d5c188dd4fe9c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.916, DE 10/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO TUTELAR DO MUNICÍPIO DE ILHABELA PARA O QUADRIÊNIO 2020/2024.
 (Revogado pelo

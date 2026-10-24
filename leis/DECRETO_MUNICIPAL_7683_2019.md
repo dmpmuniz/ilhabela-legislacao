@@ -28,16 +28,10 @@ tags_auto:
   - tributos
   - fiscalizacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907683"
-coletado_em: "2026-10-11"
-sha256_raw: a4d7b834b0a3a84ac95bd5610aca5fc0372b5aa39186fe0ea51d69ade5ba84d7
+coletado_em: "2026-10-24"
+sha256_raw: "82a976196143a8b8f57a2d1134695222f460449859f391aa44b9cd0d239b1b54"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.683, DE 16/08/2019
 DISPÕE SOBRE A REGULAMENTAÇÃO DO CADASTRO IMOBILIÁRIO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, NOS TERMOS DA LEI MUNICIPAL Nº 156/2002 - CÓDIGO TRIBUTÁRIO MUNICIPAL.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

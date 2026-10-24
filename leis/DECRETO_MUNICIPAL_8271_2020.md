@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 8271
   - Decreto Municipal 8271
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008271"
-coletado_em: "2026-10-11"
-sha256_raw: "036b044ac29807aa4253f2505c5aface02134120ce5963e08ff865da0d0fd75d"
+coletado_em: "2026-10-24"
+sha256_raw: b4230c8f97cbd73c00e34a4d70807da6e1926dec5e8b57aef3b9f28f1eb82750
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.271, DE 22/10/2020
 DISPÕE SOBRE A DESIGNAÇÃO DE SERVIDORES PARA COMPOR A COMISSÃO PREVISTA NO EDITAL Nº 142/2020 - CHAMAMENTO PÚBLICO Nº 006/2020.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, usando das atribuições que lhe são conferidas por lei;

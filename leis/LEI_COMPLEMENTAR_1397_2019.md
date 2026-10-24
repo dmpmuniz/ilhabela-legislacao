@@ -26,16 +26,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191397"
-coletado_em: "2026-10-11"
-sha256_raw: a9ebd9a6d40c5bb09c7b480fae060dc52dfb9e7f85a9ec758be442dba661dbcc
+coletado_em: "2026-10-24"
+sha256_raw: "1e6bb997112d293d54c5905f5fc0b3687ea6b606e0451443f362a7b11fcf11ba"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.397, DE 28/11/2019
 INSTITUI A POLÍTICA MUNICIPAL DE SANEAMENTO BÁSICO - PMSB, CRIA A AUTARQUIA MUNICIPAL SANEAMENTO DE ILHABELA - SANEILHA E O CONSELHO MUNICIPAL DE SANEAMENTO BÁSICO, INSTITUI O FUNDO MUNICIPAL DE SANEAMENTO AMBIENTAL E INFRAESTRUTURA - FMSAI E DÁ OUTRAS PROVIDÊNCIAS.
 Maria das Graças Ferreira dos Santos Souza, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:

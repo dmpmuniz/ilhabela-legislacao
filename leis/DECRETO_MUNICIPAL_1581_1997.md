@@ -17,17 +17,11 @@ aliases:
   - Decreto nº 1581
   - Decreto Municipal nº 1581
   - Decreto Municipal 1581
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=199701581&NroLei=1.581&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: af2cc843d4e71d273ba8507dea7dd249519f1ef6192cec93c63ee750fa573d23
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=199701581"
+coletado_em: "2026-10-24"
+sha256_raw: e0518942f4c9ef628bedf86ca0d890a7ed542b7c196c2145e56b7801ac0fba8d
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 1.581, DE 24/11/1997
 DISPÕE SOBRE O "PROJETO ADOTAR".
 NILCE SIGNORINI, Prefeita Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

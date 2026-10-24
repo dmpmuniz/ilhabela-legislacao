@@ -24,16 +24,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20231608"
-coletado_em: "2026-10-11"
-sha256_raw: "4a0c5155854c5f768cdfa4044dde590a9573da8d73bb04033e194ba5a625aef0"
+coletado_em: "2026-10-24"
+sha256_raw: "99cd0df3c601ec9b7519811da50376ee65d9ff9acbaac011db0375e5f51f151f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.608, DE 28/08/2023
 ALTERA A LEI COMPLEMENTAR Nº 1.517/2022, QUE DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, DEFINE ATRIBUIÇÕES E COMPETÊNCIAS DOS ÓRGÃOS DA ADMINISTRAÇÃO DIRETA, CRIA CARGOS DE PROVIMENTO EM COMISSÃO E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

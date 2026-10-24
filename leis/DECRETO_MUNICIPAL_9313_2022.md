@@ -35,16 +35,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209313"
-coletado_em: "2026-10-11"
-sha256_raw: "189315b9defeeb21fe3caa13beb51063d07cf1aed7b3318b7f7534dc998b6ad1"
+coletado_em: "2026-10-24"
+sha256_raw: "8bf3beffe6b34ec67302a40b1d8c7d3ad5e23cf6927166fc80a61573657572da"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.313, DE 22/06/2022
 DISPÕE SOBRE A EXONERAÇÃO DE SERVIDORES LOTADOS NA SECRETARIA MUNICIPAL DE CULTURA QUE EXERCIA FUNÇÃO DE CONFIANÇA DE COORDENAÇÃO E SUPERVISÃO
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

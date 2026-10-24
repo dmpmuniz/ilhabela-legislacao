@@ -16,22 +16,11 @@ aliases:
   - Lei nº 1079/2015
   - Lei 1079
   - Lei nº 1079
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20151079&NroLei=1.079&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a22ce052fa592bca93003042795c3855e3f193701306fe6d4d3b504c5a17079d
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20151079"
+coletado_em: "2026-10-24"
+sha256_raw: bc812df00e9333d1e22ab6e08f66e450cdce15d4e09fd3a1936e9f0c70fdd438
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.079, de 30/04/2015
-2ª Versão corresponde a LEI MUNICIPAL1.079, de 30/04/2015
-3ª Versão corresponde a LEI MUNICIPAL1.079, de 30/04/2015
-4ª Versão corresponde a LEI MUNICIPAL1.079, de 30/04/2015
-5ª Versão corresponde a LEI MUNICIPAL1.079, de 30/04/2015
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.079, DE 30/04/2015
 DISPÕE SOBRE O CARTÃO ALIMENTAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL da ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais,

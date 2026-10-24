@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 5625
   - Decreto Municipal 5625
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201605625"
-coletado_em: "2026-10-11"
-sha256_raw: "440551c4e6a8356b557263d85d7c5b279e21d02fea40fe1bc26c1c919234faa6"
+coletado_em: "2026-10-24"
+sha256_raw: fab88780e27c8ebff12fa3ae0c3d03eeab8aa9caa63bec7252eef76a312feb5b
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL5.625, de 15/09/2016
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.625, DE 15/09/2016
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS, PARA O BIÊNIO 2016/2018.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso das atribuições legais que lhe são conferidas por Lei;

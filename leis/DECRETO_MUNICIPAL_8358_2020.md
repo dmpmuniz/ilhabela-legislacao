@@ -18,20 +18,10 @@ aliases:
   - Decreto Municipal nº 8358
   - Decreto Municipal 8358
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008358"
-coletado_em: "2026-10-11"
-sha256_raw: a7ab9235bf68f389c8b7b02643a851ea986d43cd30af389a1a2d7c75bf653d39
+coletado_em: "2026-10-24"
+sha256_raw: "56592f4724d8ccfafb33d136f0c68f3c1babc1b149a4b96ea74edfdb0842f6ac"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.358, de 30/12/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.358, de 30/12/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.358, de 30/12/2020
-4ª Versão corresponde a DECRETO MUNICIPAL8.358, de 30/12/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.358, DE 30/12/2020
 REGULAMENTA A CONCESSÃO DE DIÁRIAS, DE AUXÍLIO TRANSPORTE, DE AUXÍLIO ALIMENTAÇÃO E DE AUXÍLIO REFEIÇÃO, NOS TERMOS DO TÍTULO III, CAPÍTULO V, BEM COMO OS EVENTOS DISCIPLINADOS PELOS ARTS. 75, 76 E 77 DA LEI COMPLEMENTAR Nº 1.326, DE 26 DE OUTUBRO DE 2018.
 MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, Prefeita Municipal do Município da Estância Balneária de Ilhabela, no uso de suas atribuições legais,

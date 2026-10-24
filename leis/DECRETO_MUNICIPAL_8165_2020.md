@@ -19,16 +19,10 @@ aliases:
   - Decreto Municipal nº 8165
   - Decreto Municipal 8165
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008165"
-coletado_em: "2026-10-11"
-sha256_raw: "9bcccb95fa8922c73b03a40f42a8f8f0a7edfa6f5b06f9efee4938d7e57e7d69"
+coletado_em: "2026-10-24"
+sha256_raw: "430fee9c0ec52a3aa49d0a44fb1672836d5e0fe21b4abf0e1086fbf12a2e4f65"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.165, DE 10/07/2020
 REGULAMENTA O FUNCIONAMENTO DE SALÕES DE BELEZA, BARBEARIAS, CLÍNICAS DE ESTÉTICA, ESTÚDIOS DE TATUAGENS E SIMILARES DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

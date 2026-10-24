@@ -16,18 +16,11 @@ aliases:
   - Lei Complementar 1052
   - Lei Complementar nº 1052
   - LC 1052/2014
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141052&NroLei=1.052&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "2877d79d99576aa2a8fe8b4293046af566e11f305dd0b06760c25b6c5d923f36"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20141052"
+coletado_em: "2026-10-24"
+sha256_raw: "1a780c1912dac278bf394686f914aef6d30824b89feef47ca60b552cb78685c9"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI COMPLEMENTAR1.052, de 01/09/2014
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI COMPLEMENTAR Nº 1.052, DE 01/09/2014
 REESTRUTURA O
 REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL

@@ -28,20 +28,10 @@ tags_auto:
   - saude
   - servicos_publicos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008031"
-coletado_em: "2026-10-11"
-sha256_raw: c3bef8ed9cab03b349482818883c6a8302a01e8679cb133062ed98edd34ac77c
+coletado_em: "2026-10-24"
+sha256_raw: "91af6e7e1c4abbfb7c0eafab2fe3d94df0d2d5fc4c4647f7c3b3a78304e0c00f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.031, de 20/03/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.031, de 20/03/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.031, de 20/03/2020
-4ª Versão corresponde a DECRETO MUNICIPAL8.031, de 20/03/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.031, DE 20/03/2020
 DISPÕE, DIANTE DO ENFRENTAMENTO DA EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA INTERNACIONAL DECORRENTE DO CORONAVÍRUS (COVID-19), SOBRE A RESTRIÇÃO DE ACESSO AO MUNICÍPIO DE ILHABELA PELO SISTEMA DE TRAVESSIA LITORÂNEA OPERADA PELO DERSA - DESENVOLVIMENTO RODOVIÁRIO S/A.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

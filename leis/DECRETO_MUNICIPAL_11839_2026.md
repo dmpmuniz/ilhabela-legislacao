@@ -19,12 +19,15 @@ aliases:
   - Decreto Municipal nº 11839
   - Decreto Municipal 11839
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611839"
-coletado_em: "2026-10-11"
-sha256_raw: "565596a0ad666f84825e40206724e05b8e5419be7e66c92070778c466cb6ba8c"
+coletado_em: "2026-10-24"
+sha256_raw: "7216cdfe340ea732792db28202f9290ad49ef527d12c70b787b061723b3b25f8"
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 11.839, DE 16/04/2026
 DISPÕE SOBRE A DESIGNAÇÃO DE VIVIAN VENANCIO SANTANA SOUZA PARA EXERCER O CARGO DE GESTÃO EDUCACIONAL DE COORDENADOR PEDAGÓGICO, NOS TERMOS DA LEI 1.327, DE 26 DE OUTUBRO DE 2018 E ALTERAÇÕES.
+(Servidor(a) exonerado(a) pelo
+Decreto Municipal nº 12.083
+, de 17.09.2026)
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,
 DECRETA:
 ##### Art. 1º

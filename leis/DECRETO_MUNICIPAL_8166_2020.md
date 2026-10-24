@@ -19,19 +19,10 @@ aliases:
   - Decreto Municipal nº 8166
   - Decreto Municipal 8166
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008166"
-coletado_em: "2026-10-11"
-sha256_raw: e2387422be7a3760df9fb81f31f219dd82104d24ed677ddfe9a59993e158ba5d
+coletado_em: "2026-10-24"
+sha256_raw: fc62cf52ddbf24cf0b6ce3d7b44cec12f5c2f1515d4c2636b59d88d07638868f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.166, de 10/07/2020
-2ª Versão corresponde a DECRETO MUNICIPAL8.166, de 10/07/2020
-3ª Versão corresponde a DECRETO MUNICIPAL8.166, de 10/07/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.166, DE 10/07/2020
 REGULAMENTA O FUNCIONAMENTO DE HÓTEIS, POUSADAS, HOSTÉIS E SIMILARES DURANTE O ESTADO DE CALAMIDADE PÚBLICA PROVOCADO PELO NOVO CORONAVÍRUS (COVID-19).
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

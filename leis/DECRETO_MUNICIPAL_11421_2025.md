@@ -33,16 +33,10 @@ tags_auto:
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511421"
-coletado_em: "2026-10-11"
-sha256_raw: "9f6526876406575cac424f35d647137b3052e89d9b609fac6525ec61fc08ab6a"
+coletado_em: "2026-10-24"
+sha256_raw: b38ff51db418c180c52beea5c0d8ef673c97c71ac36ae3a5a35b6d81e6013faa
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.421, DE 08/08/2025
 DISPÕE SOBRE A DESIGNAÇÃO DE DOCENTES, SERVIDORES EFETIVOS LOTADOS NA SECRETARIA MUNICIPAL DE EDUCAÇÃO, PARA EXERCER INTERINAMENTE CARGO DE GESTÃO EDUCACIONAL DE DIRETOR DE UNIDADE ESCOLAR E DE COORDENADOR PEDAGÓGICO, NOS TERMOS DA LEI 1.327, DE 26 DE OUTUBRO DE 2018 E ALTERAÇÕES.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

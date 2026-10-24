@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 8765
   - Decreto Municipal 8765
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108765"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: e828040a99caf7e29d0e342a8748863f660ad3cedf99047f65f841d69f07d856
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.765, de 12/08/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.765, DE 12/08/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOSIÇÃO DO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE ILHABELA- COMPCI, CRIADO PELA LEI MUNICIPAL Nº 1.405, DE 14 DE JANEIRO DE 2020.
 (Revogado pelo

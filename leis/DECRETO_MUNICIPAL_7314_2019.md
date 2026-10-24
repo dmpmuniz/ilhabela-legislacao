@@ -9,7 +9,7 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "DECRETO MUNICIPAL Nº 7.314, DE 04/02/2019"
-ementa: "DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JORGE ADRIANO DE OLIVEIRA ALVES, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AUXILIAR DESPORTIVO. (NR LM 7.411/2019 )"
+ementa: "DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JORGE ADRIANO DE OLIVEIRA ALVES, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE INSTRUTOR DESPORTIVO."
 aliases:
   - Decreto 7314/2019
   - Decreto nº 7314/2019
@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7314
   - Decreto Municipal 7314
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907314"
-coletado_em: "2026-10-11"
-sha256_raw: cde741c48f54eb80f54d6d4e78ff9cc106ee86345ef4b2a841448741e39ab019
+coletado_em: "2026-10-24"
+sha256_raw: bd1f027b923147ac56ba571773fd0da156ca6b595bad6afa997d1cc015e811ff
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.314, DE 04/02/2019
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JORGE ADRIANO DE OLIVEIRA ALVES, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE INSTRUTOR DESPORTIVO.
 MARCIO BATISTA TENÓRIO, PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, no uso de suas atribuições legais;

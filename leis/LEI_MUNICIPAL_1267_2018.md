@@ -16,21 +16,10 @@ aliases:
   - Lei 1267
   - Lei nº 1267
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181267"
-coletado_em: "2026-10-11"
-sha256_raw: "9ddfcc900323df862c7a658033a28666e79081ef792c13f4926150a70858203b"
+coletado_em: "2026-10-24"
+sha256_raw: e824dda653e8cdb2d70ad4613884998fbea29fc4cb9f37d1dfcecf68dbbd938b
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.267, de 04/05/2018
-2ª Versão corresponde a LEI MUNICIPAL1.267, de 04/05/2018
-3ª Versão corresponde a LEI MUNICIPAL1.267, de 04/05/2018
-4ª Versão corresponde a LEI MUNICIPAL1.267, de 04/05/2018
-5ª Versão corresponde a LEI MUNICIPAL1.267, de 04/05/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.267, DE 04/05/2018
 INSTITUI VALE REFEIÇÃO PARA SERVIDORES PÚBLICOS EFETIVOS DO PODER EXECUTIVO MUNICIPAL, DAS AUTARQUIAS E FUNDAÇÕES MUNICIPAIS DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei.

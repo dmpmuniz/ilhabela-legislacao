@@ -9,24 +9,25 @@ estado: SP
 esfera: municipal
 status: em_vigor
 titulo: "LEI MUNICIPAL Nº 1.276, DE 28/05/2018"
-ementa: INSTITUI A ’LEI LUCAS BEGALLI ZAMORA’ QUE ESTABELECE DIRETRIZES PARA A INCLUSÃO DA CAPACITAÇÃO EM NOÇÕES BÁSICAS DE PRIMEIROS SOCORROS PARA AS PESSOAS QUE ESPECIFICA. (NR LM 1.492/2021 )
+ementa: "INSTITUI A \"LEI LUCAS BEGALLI ZAMORA\" QUE ESTABELECE DIRETRIZES PARA A INCLUSÃO DA CAPACITAÇÃO EM \"NOÇÕES BÁSICAS DE PRIMEIROS SOCORROS\" PARA OS PROFISSIONAIS DA REDE MUNICIPAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS."
 aliases:
   - Lei 1276/2018
   - Lei nº 1276/2018
   - Lei 1276
   - Lei nº 1276
+palavras_chave_auto:
+  - educação municipal
+  - ensino fundamental
+  - professor
+  - merenda escolar
+  - creche
+tags_auto:
+  - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20181276"
-coletado_em: "2026-10-11"
-sha256_raw: "7956a94bd5f39464e86e97bac99e3fe61af242e551a3021447784dc804251d2e"
+coletado_em: "2026-10-24"
+sha256_raw: "9df6a4b32af05ffd11584246445b0eb74e122c8e81902b3e36f12af5a937e7d0"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.276, de 28/05/2018
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.276, DE 28/05/2018
 INSTITUI A "LEI LUCAS BEGALLI ZAMORA" QUE ESTABELECE DIRETRIZES PARA A INCLUSÃO DA CAPACITAÇÃO EM "NOÇÕES BÁSICAS DE PRIMEIROS SOCORROS" PARA OS PROFISSIONAIS DA REDE MUNICIPAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:

@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7814
   - Decreto Municipal 7814
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907814"
-coletado_em: "2026-10-11"
-sha256_raw: "86bb6b67a6a615290bbcbbb42361c64f6bc857421be8ef898ded5757dcb52d70"
+coletado_em: "2026-10-24"
+sha256_raw: d9f815a033ea0950c37fd1a884df6f0986d9d39c0270e396cfe9e4b5b2559834
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.814, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

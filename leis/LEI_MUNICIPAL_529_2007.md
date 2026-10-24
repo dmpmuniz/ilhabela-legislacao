@@ -15,20 +15,11 @@ aliases:
   - Lei nº 529/2007
   - Lei 529
   - Lei nº 529
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070529&NroLei=529&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "23bedaad1912f11c3b99610c2762ad17dc45369370cf9b12c9dad3501a422e14"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070529"
+coletado_em: "2026-10-24"
+sha256_raw: "88c96fd632059462a4f96228487b791aa78a3d97a21893f42edc069bb6221fb2"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL529, de 13/11/2007
-2ª Versão corresponde a LEI MUNICIPAL529, de 13/11/2007
-3ª Versão corresponde a LEI MUNICIPAL529, de 13/11/2007
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 529, DE 13/11/2007
 INSTITUI O
 CÓDIGO DE POSTURAS DO MUNICÍPIO DE ILHABELA

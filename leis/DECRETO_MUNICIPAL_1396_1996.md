@@ -26,9 +26,9 @@ palavras_chave_auto:
 tags_auto:
   - transporte
   - mobilidade_urbana
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19961396&NroLei=1.396&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: a2b11051dc910be9380e349c5f58aca10b10bd739cf05c8e6bc5d057b9fd6c24
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19961396"
+coletado_em: "2026-10-24"
+sha256_raw: b278f6a333f09ed71adb679288052d87ca7570b138570ba4f911e1eced382448
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 1.396, DE 06/02/1996
@@ -45,8 +45,7 @@ ou está revogado por norma posterior.
 (
 VIDE ATO NA ÍNTEGRA
 )
-MACRO EXECUTADA!!! --->
-ny
+MACRO EXECUTADA!!! ---> ny
 Prefeitura Municipal da Estância Balneária de Ilhabela
 ILHABELA
 CAPITAL DA VELA

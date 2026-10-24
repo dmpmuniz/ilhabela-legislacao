@@ -27,20 +27,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309795"
-coletado_em: "2026-10-11"
-sha256_raw: "81ea176d6ef84d54b07df24dccd674797d4d2e2edb235fa6745d991137b91b8c"
+coletado_em: "2026-10-24"
+sha256_raw: "849138abb1c4c4bd407bf43ceac8f76a8a46d1bbeeb6db65c0a5d13049f8220f"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.795, de 03/04/2023
-2ª Versão corresponde a DECRETO MUNICIPAL9.795, de 03/04/2023
-3ª Versão corresponde a DECRETO MUNICIPAL9.795, de 03/04/2023
-4ª Versão corresponde a DECRETO MUNICIPAL9.795, de 03/04/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.795, DE 03/04/2023
 DISPÕE SOBRE NORMAS DE LICITAÇÃO E CONTRATOS ADMINISTRATIVOS PARA A ADMINISTRAÇÃO PÚBLICA DIRETA, AUTÁRQUICA E FUNDACIONAL DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, NOS TERMOS PREVISTOS NA
 LEI FEDERAL Nº 14.133/2021

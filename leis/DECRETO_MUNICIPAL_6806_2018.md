@@ -18,8 +18,8 @@ aliases:
   - Decreto Municipal nº 6806
   - Decreto Municipal 6806
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806806"
-coletado_em: "2026-10-11"
-sha256_raw: "40c87e6db9dd0e8c22372f142ca3f2040ab679abf300cedbea3ad057c21b324e"
+coletado_em: "2026-10-24"
+sha256_raw: a64dc07eb7232ec476594bdd24440c2ba0d4b8cc571a5e999f389ca39ff215cc
 versao_formato: "1.1"
 ---
 DECRETO MUNICIPAL Nº 6.806, DE 02/01/2018
@@ -29,6 +29,8 @@ DECRETA
 ##### Art. 1º
 Fica declarado de interesse social para fins de desapropriação amigável ou judicial, com o objetivo de promover a justa distribuição da propriedade ou condicionar o seu uso ao bem estar social, os imóveis abaixo descritos, pertencentes a particulares, situado no Bairro Green Park I, na Fazenda da Toca, de inscrições cadastrais nº 5321.0705.1990, nº 5321.0100.0020, nº 5321.0100.0030, nº 5321.0100.0060, nº 5321.0100.0080, nº 5321.0200.0010, nº 5321.0200.0070, nº 5321.0200.0080 e nº 5321.0200.0120:
 "Uma área de terra situada na Fazenda Toca - Green Park I, com 20.000m2 (vinte mil metros quadrados), situado do lado direito da Estrada da Toca; inicia-se na porteira da Fazenda Toca, seguindo a direita pela divisa da cerca, rumo N.W. 37º18´04", numa distância de 200,00m (duzentos metros); daí quebra a esquerda em ângulo de 90º, rumo 62º52´44" N.E., numa distância de 257,64m (duzentos e cinquenta e sete metros e sessenta e quatro centímetros) até encontrar a Estrada da Toca; daí segue a esquerda por esta Estrada numa distância de 388,11 (trezentos e oitenta e oito metros e onze centímetros) até atingir o ponto inicial, objeto das matrículas do Cartório de Registro de Imóveis de São Sebastião de números 25.475; 25.476; 25.477; 25.478; 25.479; 25.480; 25.481; 25.488; 25.489; 25.490; 25.491; 25.492; 25.493; 25.494; 25.495; 25.496; 25.497; 25.498; 26.002; 26.003; 26.004; 26.005 (registro anterior 12.664)."
+##### Art. 2º
+Fica a Advocacia Geral do Município autorizada a providenciar a imissão de posse do terreno, procedendo-se aos atos extrajudiciais e judiciais que se fizerem necessários.
 ##### Art. 3º
 As despesas decorrentes do presente Decreto correrão por conta de verba própria constante do orçamento que serão suplementadas se necessárias.
 ##### Art. 4º

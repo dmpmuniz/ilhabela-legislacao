@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 7950
   - Decreto Municipal 7950
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202007950"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "5c7238f3b5957a0579d76b71dabc13f28f9e46459f4df2ffeffd42a2feb5e508"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL7.950, de 23/01/2020
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.950, DE 23/01/2020
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS ELEITOS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL DO MUNICÍPIO DE ILHABELA - CMPDSA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

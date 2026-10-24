@@ -28,18 +28,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410731"
-coletado_em: "2026-10-11"
-sha256_raw: adae8a9f5b0bcca65b2c08fe40f333d6814d70080e442b6bf277609df336e3dd
+coletado_em: "2026-10-24"
+sha256_raw: e4cc7bf0fa699b3e71319422f28f3839d68ed8c7abe1a533342735dd89be7c6e
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL10.731, de 08/11/2024
-2ª Versão corresponde a DECRETO MUNICIPAL10.731, de 08/11/2024
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.731, DE 08/11/2024
 DISPÕE SOBRE A PERMISSÃO DE USO EM LOGRADOUROS PÚBLICOS PARA UTILIZAÇÃO DE ESTACIONAMENTO REMUNERADO.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

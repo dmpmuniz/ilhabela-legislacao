@@ -27,17 +27,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108583"
-coletado_em: "2026-10-11"
-sha256_raw: b4c93e5229412cbfc2dcc41c0dbe49f7d6544e05b670f6ec7a006055a5fcdb02
+coletado_em: "2026-10-24"
+sha256_raw: "63d87df4df95b0c1aa4f0c1c842758c7eb2c0a8284a53edaa148d9843687d303"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.583, de 20/04/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.583, DE 20/04/2021
 DECLARA DE UTILIDADE PÚBLICA PARA FINS DE INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA PELA COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO - SABESP, FAIXA DE TERRA NECESSÁRIA À IMPLANTAÇÃO DE REDE COLETORA DE ESGOTO SANITÁRIO, PARTE DO SISTEMA DE ESGOTAMENTO SANITÁRIO, ESTAÇÃO DE TRATAMENTO DE ESGOTO - ETE PRAIA GRANDE.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, no uso da atribuição que lhe confere o

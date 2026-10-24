@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7833
   - Decreto Municipal 7833
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907833"
-coletado_em: "2026-10-11"
-sha256_raw: f0ff239ebae492d33884928b623b1b74b210d27d4831962619711bd858e45107
+coletado_em: "2026-10-24"
+sha256_raw: "3fa56569646b4bc38ae23a8b099cfffa71d9990e58351a16c785a9ac74bf1bbb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.833, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

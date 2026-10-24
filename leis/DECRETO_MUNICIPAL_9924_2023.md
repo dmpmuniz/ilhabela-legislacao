@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 9924
   - Decreto Municipal 9924
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309924"
-coletado_em: "2026-10-11"
-sha256_raw: "39d789f80528df82b11b4ece8263e83b1b51249c991160cf2b44ef4252755bee"
+coletado_em: "2026-10-24"
+sha256_raw: be6863ec31ba3bf330ba8ee42d83a291defadf7c736e198fe64d9332e9d24164
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.924, DE 07/07/2023
 DISPÕE SOBRE A ALTERAÇÃO DE DISPOSITIVOS DO DECRETO MUNICIPAL Nº9.688, DE 03 DE ABRIL DE 2023, QUE DISPÕE SOBRE A INSTAURAÇÃO DA COMISSÃO SINDICANTE PERMANENTE, A DESIGNAÇÃO DE SEUS MEMBROS, NOS TERMOS DA LEI MUNICIPAL Nº 1.326/2018, E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTÔNIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

@@ -28,16 +28,10 @@ tags_auto:
   - saude
   - servicos_publicos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008083"
-coletado_em: "2026-10-11"
-sha256_raw: "9b94e5fc854053bebd519054ddffdeaef82d3c2daa623fa46a16360210f1ee52"
+coletado_em: "2026-10-24"
+sha256_raw: "36e27f611f3b07c16c1283eaa89efeb2bc20e9decf637309e482656211c57d29"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.083, DE 08/05/2020
 ALTERA A REDAÇÃO DO "CAPUT" E INCLUI DISPOSITIVO NO ARTIGO 1º DO DECRETO Nº 8.031/2020, QUE DISPÕE, DIANTE DO ENFRENTAMENTO DA EMERGÊNCIA DE SAÚDE PÚBLICA DE IMPORTÂNCIA INTERNACIONAL DECORRENTE DO CORONAVÍRUS (COVID-19), SOBRE A RESTRIÇÃO DE ACESSO AO MUNICÍPIO DE ILHABELA PELO SISTEMA DE TRAVESSIA LITORÂNEA OPERADA PELO DERSA - DESENVOLVIMENTO RODOVIÁRIO S/A.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

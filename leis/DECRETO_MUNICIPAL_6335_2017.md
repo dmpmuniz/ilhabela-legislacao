@@ -27,16 +27,10 @@ tags_auto:
   - meio_ambiente
   - sustentabilidade
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706335"
-coletado_em: "2026-10-11"
-sha256_raw: cea9a93abf7a9240b5b2ddf2aa5abd03c8bf9ede6e0d50dd7f3426d28265dfd1
+coletado_em: "2026-10-24"
+sha256_raw: "991ebb5622abfe803ce66f5e2b47c96ce28a9ec1ec90d0b9c0618b791496666d"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 6.335, DE 30/05/2017
 DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE PARTE DE TERRENO LOCALIZADO NO BAIRRO RIBEIRÃO, INSCRIÇÃO CADASTRAL Nº 0726.0702.2006, NECESSÁRIO À COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO - SABESP.
 MARCIO BATISTA TENÓRIO, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais, com fundamento no

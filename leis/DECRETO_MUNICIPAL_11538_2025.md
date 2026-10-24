@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11538
   - Decreto Municipal 11538
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511538"
-coletado_em: "2026-10-11"
-sha256_raw: e71c5f50add8c8c71f079b59b7ea3bdafa4178f7fc5483532260046e954af0c8
+coletado_em: "2026-10-24"
+sha256_raw: "8353c6cdc23f36ebf711e9aa04546c475587f4c126304e013ab7bcb1f1587c97"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.538, DE 29/10/2025
 ALTERA O DECRETO MUNICIPAL N° 11.509/2025 QUE DISPÕE SOBRE O PROCESSAMENTO DAS CONSIGNAÇÕES EM FOLHA DE PAGAMENTO DOS SERVIDORES DO PODER EXECUTIVO MUNICIPAL.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

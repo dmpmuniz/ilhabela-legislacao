@@ -15,17 +15,11 @@ aliases:
   - Lei nº 1137/2015
   - Lei 1137
   - Lei nº 1137
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20151137&NroLei=1.137&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: "17fddd40a9b7fd67afb3ec3c65292af7c18284be8d46e95a39c3a21508bf4165"
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20151137"
+coletado_em: "2026-10-24"
+sha256_raw: a064d0edf7fdcc963171be6758e5a457d2db674350fabec896985dc47e912485
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.137, DE 22/12/2015
 DISPÕE SOBRE A CONCESSÃO DE VALE REFEIÇÃO AOS SERVIDORES DO PODER LEGISLATIVO DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, NO USO DAS ATRIBUIÇÕES QUE LHE SÃO CONFERIDAS POR LEI, FAZ SABER QUE A CÂMARA MUNICIPAL APROVOU E ELE SANCIONA NA SEGUINTE LEI:

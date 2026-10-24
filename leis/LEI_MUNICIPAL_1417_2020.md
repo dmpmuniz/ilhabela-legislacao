@@ -26,16 +26,10 @@ tags_auto:
   - rh
   - cargos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20201417"
-coletado_em: "2026-10-11"
-sha256_raw: cc5feb28d8942838938d44ccfe1d239c9e430ed84667b9b1220e9f60f9d4f9fb
+coletado_em: "2026-10-24"
+sha256_raw: d4feab00c5f601b1cd9069ea26d82c0f767e70aff3bcedd1a97be30892d029b1
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.417, DE 30/03/2020
 CONCEDE REAJUSTE AO VENCIMENTO DOS SERVIDORES DO PODER LEGISLATIVO.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona e promulga a seguinte Lei:

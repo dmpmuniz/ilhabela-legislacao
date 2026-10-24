@@ -16,16 +16,10 @@ aliases:
   - Lei 1414
   - Lei nº 1414
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20201414"
-coletado_em: "2026-10-11"
-sha256_raw: d8fc5063aceb6ec3df3c0821f7a43de0f6449e668f9d020b98be768b88a3fb28
+coletado_em: "2026-10-24"
+sha256_raw: "4838a41a4bbfc08d01b4af1978bb0c480ee7852ad9ae237ccded038dc40e92f7"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.414, DE 30/03/2020
 CONCEDE REAJUSTE AOS VENCIMENTOS DOS SERVIDORES ATIVOS, INATIVOS E PENSIONISTAS DO PODER EXECUTIVO MUNICIPAL, AUTORIZA A CONCESSÃO DE ABONO SALARIAL PROVISÓRIO E ESTENDE A REPOSIÇÃO ÀS VANTAGENS QUE ESPECIFICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:

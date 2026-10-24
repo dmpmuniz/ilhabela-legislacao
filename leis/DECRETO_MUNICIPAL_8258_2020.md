@@ -26,16 +26,10 @@ palavras_chave_auto:
 tags_auto:
   - educacao
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008258"
-coletado_em: "2026-10-11"
-sha256_raw: "6e53e9cb83d654268560c11b161ad8e9938d709bbdc9d3a75fb8e03b4ac9a5c1"
+coletado_em: "2026-10-24"
+sha256_raw: "75b2e520cdd7cfd36490696961c04ae06061bf40a962f23ea462aa546568f123"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.258, DE 05/10/2020
 DISPÕE SOBRE A RECONDUÇÃO E SUBSTITUIÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DE EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB PARA O BIÊNIO 2020/2022.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

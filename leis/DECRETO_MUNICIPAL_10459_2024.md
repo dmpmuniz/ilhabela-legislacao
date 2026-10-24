@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10459
   - Decreto Municipal 10459
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410459"
-coletado_em: "2026-10-11"
-sha256_raw: "725b171fe8d18f35410f261a5595e66279bb2ceb3fac82e783b158b5a4545bfa"
+coletado_em: "2026-10-24"
+sha256_raw: "07c33521aa49a4097883bd4e9ac559621a5f7c24455e02697e1e28a4877c9136"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.459, DE 05/06/2024
 DISPÕE SOBRE A EXONERAÇÃO DOS SERVIDORES PÚBLICOS NOMEADOS PARA OS CARGOS EM COMISSÃO DE DIRETOR E ASSESSOR.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

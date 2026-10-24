@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 5109
   - Decreto Municipal 5109
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201505109"
-coletado_em: "2026-10-11"
-sha256_raw: "1a5cc940ab3e2c246d04c29d1d6ef5863da4b8d379eb8a4a6042a0253f4e5f75"
+coletado_em: "2026-10-24"
+sha256_raw: "2c0da617431f1deef6454611c93b131d94ad9ab12756b3753c58bcc569bb371c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 5.109, DE 23/09/2015
 DISPÕE SOBRE DECLARAÇÃO DE UTILIDADE PÚBLICA DE TERRENO LOCALIZADO NA PONTA AZEDA.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, no uso de suas atribuições legais; com fundamento no

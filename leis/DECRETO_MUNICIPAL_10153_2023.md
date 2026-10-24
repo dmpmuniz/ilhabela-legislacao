@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 10153
   - Decreto Municipal 10153
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202310153"
-coletado_em: "2026-10-11"
-sha256_raw: "196b0250dd91d3936dcf336b80c9a3bce3c1f85a4a47f9a40cda56fc56c12c7d"
+coletado_em: "2026-10-24"
+sha256_raw: "6bb96f647c270ed3017ac930ca96c519b354ca0009afdef8ccea1a7dc92fe91e"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 10.153, DE 29/11/2023
 DISPÕE SOBRE A PRORROGAÇÃO DO PROGRAMA DE RECUPERAÇÃO FISCAL MUNICIPAL (REFIM), COM A COMPENSAÇÃO E ANISTIA DE JUROS E MULTAS, INSTITUÍDO PELA LEI MUNICIPAL Nº 1.581, DE 24 DE FEVEREIRO DE 2023.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei e;

@@ -25,18 +25,10 @@ tags_auto:
   - transporte
   - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171206"
-coletado_em: "2026-10-11"
-sha256_raw: b484fa04f79b6aec4df085ae0321399986f540cbfce59fae039fc32af0f8b596
+coletado_em: "2026-10-24"
+sha256_raw: e17829aab540248074d423fa6ecb175911fd13947d26ac709216998d17f16921
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.206, de 31/07/2017
-2ª Versão corresponde a LEI MUNICIPAL1.206, de 31/07/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.206, DE 31/07/2017
 DISPÕE SOBRE OS SERVIÇOS DE TÁXI NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 FAÇO SABER QUE A CÂMARA APROVOU E EU, NOS TERMOS DO

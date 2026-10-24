@@ -4,50 +4,50 @@
 - LEI MUNICIPAL Nº 220, DE 04/11/2003 (ilh-2003-lei-220, revogada)
 - LEI MUNICIPAL Nº 252, DE 05/04/2004 (ilh-2004-lei-252, revogada)
 - LEI MUNICIPAL Nº 269, DE 08/06/2004 (ilh-2004-lei-269, revogada)
-- LEI MUNICIPAL Nº 300, DE 16/11/2004 (ilh-2004-lei-300, revogada)
+- LEI MUNICIPAL Nº 314, DE 28/12/2004 (ilh-2004-lei-314, revogada)
 - LEI MUNICIPAL Nº 338, DE 07/11/2005 (ilh-2005-lei-338, revogada)
 - LEI MUNICIPAL Nº 356, DE 08/12/2005 (ilh-2005-lei-356, revogada)
 - LEI MUNICIPAL Nº 371, DE 26/12/2005 (ilh-2005-lei-371, revogada)
 - LEI MUNICIPAL Nº 396, DE 30/05/2006 (ilh-2006-lei-396, revogada)
 - LEI MUNICIPAL Nº 434, DE 14/12/2006 (ilh-2006-lei-434, revogada)
-- LEI MUNICIPAL Nº 460, DE 02/04/2007 (ilh-2007-lei-460, revogada)
+- LEI MUNICIPAL Nº 471, DE 18/05/2007 (ilh-2007-lei-471, revogada)
 - LEI MUNICIPAL Nº 483, DE 19/06/2007 (ilh-2007-lei-483, revogada)
 - LEI MUNICIPAL Nº 500, DE 09/08/2007 (ilh-2007-lei-500, revogada)
 - LEI MUNICIPAL Nº 525, DE 01/11/2007 (ilh-2007-lei-525, revogada)
 - LEI MUNICIPAL Nº 558, DE 26/12/2007 (ilh-2007-lei-558, revogada)
-- LEI MUNICIPAL Nº 602, DE 19/06/2008 (ilh-2008-lei-602, revogada)
-- LEI MUNICIPAL Nº 634, DE 01/09/2008 (ilh-2008-lei-634, revogada)
-- LEI MUNICIPAL Nº 667, DE 14/11/2008 (ilh-2008-lei-667, revogada)
+- LEI COMPLEMENTAR Nº 604, DE 24/06/2008 (ilh-2008-lc-604, revogada)
+- LEI MUNICIPAL Nº 645, DE 15/09/2008 (ilh-2008-lei-645, revogada)
+- LEI MUNICIPAL Nº 673, DE 11/12/2008 (ilh-2008-lei-673, revogada)
 - LEI MUNICIPAL Nº 703, DE 20/05/2009 (ilh-2009-lei-703, revogada)
 - LEI MUNICIPAL Nº 740, DE 25/09/2009 (ilh-2009-lei-740, revogada)
 - LEI MUNICIPAL Nº 774, DE 30/12/2009 (ilh-2009-lei-774, revogada)
-- LEI MUNICIPAL Nº 804, DE 29/04/2010 (ilh-2010-lei-804, revogada)
-- LEI MUNICIPAL Nº 843, DE 27/08/2010 (ilh-2010-lei-843, revogada)
-- LEI MUNICIPAL Nº 880, DE 27/05/2011 (ilh-2011-lei-880, revogada)
+- LEI MUNICIPAL Nº 817, DE 27/05/2010 (ilh-2010-lei-817, revogada)
+- LEI MUNICIPAL Nº 853, DE 10/11/2010 (ilh-2010-lei-853, revogada)
+- LEI MUNICIPAL Nº 881, DE 27/05/2011 (ilh-2011-lei-881, revogada)
 - LEI MUNICIPAL Nº 927, DE 19/12/2011 (ilh-2011-lei-927, revogada)
 - LEI MUNICIPAL Nº 958, DE 29/06/2012 (ilh-2012-lei-958, revogada)
 - LEI MUNICIPAL Nº 991, DE 22/01/2013 (ilh-2013-lei-991, revogada)
-- LEI MUNICIPAL Nº 1.017, DE 29/11/2013 (ilh-2013-lei-1017, revogada)
-- LEI MUNICIPAL Nº 1.051, DE 01/09/2014 (ilh-2014-lei-1051, revogada)
-- LEI MUNICIPAL Nº 1.072, DE 16/03/2015 (ilh-2015-lei-1072, revogada)
-- LEI MUNICIPAL Nº 1.083, DE 30/04/2015 (ilh-2015-lei-1083, revogada)
+- LEI MUNICIPAL Nº 1.037, DE 14/05/2014 (ilh-2014-lei-1037, revogada)
+- LEI MUNICIPAL Nº 1.053, DE 11/09/2014 (ilh-2014-lei-1053, revogada)
+- LEI MUNICIPAL Nº 1.078, DE 30/04/2015 (ilh-2015-lei-1078, revogada)
+- LEI MUNICIPAL Nº 1.092, DE 06/07/2015 (ilh-2015-lei-1092, revogada)
 - LEI MUNICIPAL Nº 1.108, DE 14/10/2015 (ilh-2015-lei-1108, revogada)
-- LEI MUNICIPAL Nº 1.141, DE 29/12/2015 (ilh-2015-lei-1141, revogada)
-- LEI MUNICIPAL Nº 1.173, DE 24/08/2016 (ilh-2016-lei-1173, revogada)
-- LEI MUNICIPAL Nº 1.201, DE 06/07/2017 (ilh-2017-lei-1201, revogada)
-- LEI MUNICIPAL Nº 1.266, DE 04/05/2018 (ilh-2018-lei-1266, revogada)
-- LEI MUNICIPAL Nº 1.280, DE 13/06/2018 (ilh-2018-lei-1280, revogada)
+- LEI MUNICIPAL Nº 1.144, DE 29/02/2016 (ilh-2016-lei-1144, revogada)
+- LEI MUNICIPAL Nº 1.185, DE 08/03/2017 (ilh-2017-lei-1185, revogada)
+- LEI MUNICIPAL Nº 1.216, DE 22/09/2017 (ilh-2017-lei-1216, revogada)
+- LEI MUNICIPAL Nº 1.271, DE 09/05/2018 (ilh-2018-lei-1271, revogada)
+- LEI MUNICIPAL Nº 1.289, DE 04/07/2018 (ilh-2018-lei-1289, revogada)
 - LEI MUNICIPAL Nº 1.367, DE 12/06/2019 (ilh-2019-lei-1367, revogada)
 - LEI MUNICIPAL Nº 1.435, DE 09/09/2020 (ilh-2020-lei-1435, revogada)
 - LEI MUNICIPAL Nº 1.521, DE 07/03/2022 (ilh-2022-lei-1521, revogada)
 - LEI MUNICIPAL Nº 1.644, DE 01/04/2024 (ilh-2024-lei-1644, revogada)
-- … e mais 123 normas (lista completa no corpo)
+- … e mais 124 normas (lista completa no corpo)
 
 ## Temas frequentes
-outras, estancia, balnearia, servidores, institui, publicos, modifica, programa, camara, municipais, vencimentos, publica, salarial, denominacao, estrutura administrativa, secretaria municipal, criacao de orgao, estrutura organizacional, administrativa, aliquota, valores, servidor publico, cargo em comissao, concurso publico, plano de cargos, estrutura, tributo municipal, iptu, iss, isencao fiscal
+outras, estancia, balnearia, servidores, publicos, institui, modifica, programa, camara, municipais, vencimentos, publica, salarial, denominacao, estrutura administrativa, secretaria municipal, criacao de orgao, estrutura organizacional, administrativa, aliquota, valores, servidor publico, cargo em comissao, concurso publico, plano de cargos, estrutura, tributo municipal, iptu, iss, isencao fiscal
 
 ## Período
-2003 a 2024 · 163 normas · ~166.975 palavras de texto
+2003 a 2024 · 164 normas · ~167.350 palavras de texto
 
 Parte 2 de 2
 
@@ -18019,10 +18019,13 @@ Registrada em Livro próprio e afixado na data supra no lugar de costume.
 
 > **Ref:** ilh-2010-lc-789 · **Tipo:** Lei Complementar · **Ano:** 2010 · **Status:** revogada
 > **Ementa:** ALTERA O INCISO V, DO ART. 103, DA LEI Nº 529/07, QUE INSTITUI O CÓDIGO DE POSTURAS DO MUNICÍPIO DE ILHABELA.
-> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100789&NroLei=789&Word=&Word2=
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20100789
 
 LEI COMPLEMENTAR Nº 789, DE 31/03/2010
 ALTERA O INCISO V, DO ART. 103, DA LEI Nº 529/07, QUE INSTITUI O CÓDIGO DE POSTURAS DO MUNICÍPIO DE ILHABELA.
+(Revogada tacitamente pela
+Lei Municipal nº 1.825
+, de 26.08.2026)
 ANTONIO LUIZ COLUCCI, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais
 Faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
 ##### Art. 1º
@@ -30575,14 +30578,6 @@ SAJ/VSJ/dabsj
 > **Ementa:** CRIA NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA O PROGRAMA BOLSA ATLETA E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20171197
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a LEI MUNICIPAL1.197, de 30/06/2017
-2ª Versão corresponde a LEI MUNICIPAL1.197, de 30/06/2017
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.197, DE 30/06/2017
 CRIA NO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA O PROGRAMA BOLSA ATLETA E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogada pela
@@ -31563,12 +31558,6 @@ Registrada em Livro próprio e afixada na data supra no lugar de costume. AGM/VS
 > **Ementa:** DISPÕE SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO DO PLANO DE CUSTEIO E DOS APORTES PARA EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191355
 
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 1.355, DE 02/05/2019
 DISPÕE SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO DO PLANO DE CUSTEIO E DOS APORTES PARA EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE ILHABELA - ILHABELA PREV E DÁ OUTRAS PROVIDÊNCIAS.
 (Revogada pela
@@ -32073,6 +32062,45 @@ ANTONIO MARCOS SILVA BATISTA
 Presidente
 Projeto de Lei nº 06912019
 Autoria: Vereador MATEUS DE OLIVEIRA PESTANA
+
+---
+
+# LEI MUNICIPAL Nº 1.415, DE 30/03/2020
+
+> **Ref:** ilh-2020-lei-1415 · **Tipo:** Lei · **Ano:** 2020 · **Status:** revogada
+> **Ementa:** DISPÕE, EM ATENDIMENTO À EMENDA CONSTITUCIONAL Nº 103/2019, SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO (PLANO DE CUSTEIO), BEM COMO SOBRE O PLANO DE AMORTIZAÇÃO E RESPECTIVOS APORTES PARA O EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - ILHABELAPREV E DÁ OUTRAS PROVIDÊNCIAS.
+> **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20201415
+
+LEI MUNICIPAL Nº 1.415, DE 30/03/2020
+DISPÕE, EM ATENDIMENTO À EMENDA CONSTITUCIONAL Nº 103/2019, SOBRE A ATUALIZAÇÃO DAS ALÍQUOTAS DE CONTRIBUIÇÃO (PLANO DE CUSTEIO), BEM COMO SOBRE O PLANO DE AMORTIZAÇÃO E RESPECTIVOS APORTES PARA O EQUACIONAMENTO DO DÉFICIT TÉCNICO ATUARIAL, DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA - ILHABELAPREV E DÁ OUTRAS PROVIDÊNCIAS.
+(Revogada pela
+Lei Municipal nº 1.488
+, de 18.08.2021)
+A PREFEITA DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:
+##### Art. 1º
+Em atendimento à
+Emenda Constitucional nº 103/2019
+, fica fixada e mantida em 18,68% (dezoito inteiros e sessenta e oito centésimos por cento) a contribuição previdenciária mensal de responsabilidade do Município de Ilhabela, adicionada de 2% (dois por cento) referente a despesas administrativas, incidente sobre o total das remunerações, proventos e pensões dos segurados vinculados ao Regime Próprio de Previdência Social - RPPS, e fixada em 14% (quatorze por cento) a contribuição previdenciária mensal de responsabilidade dos servidores ativos vinculados ao Regime Próprio de Previdência Social - RPPS.
+Parágrafo único.
+Os aposentados e pensionistas, que recebem benefícios que superem o teto do Regime Geral de Previdência Social - RPPS, deverão contribuir sobre este valor o percentual de 14% (quatorze por cento) ao ILHABELAPREV.
+##### Art. 2º
+Os repasses das alíquotas deverão ocorrer mensalmente com o objetivo de manter o equilíbrio financeiro e atuarial e a manutenção do custeio previdenciário.
+##### Art. 3º
+O Regime Próprio de Previdência Social - RPPS não está obrigado a providenciar qualquer notificação ou interpelação para realização dos pagamentos decorrentes da presente Lei.
+##### Art. 4º
+O Município de Ilhabela, por meio de seus órgãos da Administração Pública Direta e Indireta, obriga-se a consignar no orçamento de cada exercício as verbas necessárias ao pagamento das parcelas previdenciárias.
+##### Art. 5º
+Esta Lei entrará em vigor na data de sua publicação, exceto no que tange à majoração da alíquota, mencionada no art. 1º desta Lei, dos servidores ativos vinculados ao Regime Próprio de Previdência Social - RPPS, que deverá obedecer ao princípio da anterioridade nonagesimal, ficando revogadas todas as disposições em contrário, em especial os
+arts. 2º
+e
+3º da Lei Municipal nº 1.355/2019
+.
+Ilhabela, 30 de março de 2020.
+MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA
+Prefeita Municipal
+Projeto de Lei nº 020/2020.
+Autoria: Executivo Municipal
+Registrada em Livro próprio e afixada na data supra no lugar de costume. AGM/JCM/ea.
 
 ---
 

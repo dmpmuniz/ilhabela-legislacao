@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 7810
   - Decreto Municipal 7810
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907810"
-coletado_em: "2026-10-11"
-sha256_raw: e191778456e0c17344a0dc40ab25a74d247b3cb317e1d5065634093bfe7dd7f4
+coletado_em: "2026-10-24"
+sha256_raw: "6a36a29e4e6e9371077bcd34b55981955722e01f9d29249faf56cb1490a5f8a6"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.810, DE 22/11/2019
 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
 A PREFEITA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARIA DAS GRAÇAS FERREIRA DOS SANTOS SOUZA, no uso de suas atribuições legais;

@@ -15,17 +15,11 @@ aliases:
   - Lei nº 132/2002
   - Lei 132
   - Lei nº 132
-url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20020132&NroLei=132&Word=&Word2="
-coletado_em: "2026-10-11"
-sha256_raw: ed99f41685b1681611c207790e03648b8503a2dfeb73bb69da4e36fe40b7f232
+url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20020132"
+coletado_em: "2026-10-24"
+sha256_raw: "6065d06fd65aeae54d2138489dc9751947266d586bb8a375e4ecb70699e7c340"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 LEI MUNICIPAL Nº 132, DE 11/09/2002
 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CELEBRAR CONVÊNIO COM O GOVERNO DO ESTADO DE SÃO PAULO, REGULAMENTANDO A PARTICIPAÇÃO DO MUNICÍPIO NO PROJETO BANCO DO POVO, DESTINADO À CONCESSÃO DE CRÉDITOS A MICRO EMPREENDIMENTOS DO SETOR FORMAL OU INFORMAL, INSTALADOS NO MUNICÍPIO.
 MANOEL MARCOS DE JESUS FERREIRA, Prefeito Municipal da Estância Balneária de Ilhabela, no uso de suas atribuições legais

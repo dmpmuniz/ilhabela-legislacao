@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 9250
   - Decreto Municipal 9250
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209250"
-coletado_em: "2026-10-11"
-sha256_raw: "042a31c3577873ce9e5bc4d528deb0350d06b0e095d215465951d45867409bf4"
+coletado_em: "2026-10-24"
+sha256_raw: "680fc3b85f039c77f88bb82d70a93c019f3ef9d1a9002fdb962a005987691dcb"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.250, de 09/05/2022
-2ª Versão corresponde a DECRETO MUNICIPAL9.250, de 09/05/2022
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.250, DE 09/05/2022
 DISPÕE SOBRE A NOMEAÇÃO DE MEMBROS PARA COMPOR A COMISSÃO DE DESAPROPRIAÇÕES, INSTITUÍDA ATRAVÉS DO DECRETO MUNICIPAL Nº 9.153 DE 22 DE MARÇO DE 2022.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das suas atribuições legais

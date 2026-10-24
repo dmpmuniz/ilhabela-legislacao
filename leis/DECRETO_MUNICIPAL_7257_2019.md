@@ -29,16 +29,10 @@ tags_auto:
   - emergencia
   - risco_geologico
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907257"
-coletado_em: "2026-10-11"
-sha256_raw: "30a174c65ad95322a2128072f13eccd067b9e2f89ffd13ac2320aa0d298eba1e"
+coletado_em: "2026-10-24"
+sha256_raw: "4d4fafef2e353cdc4affc2c3cd4fedc30fa923f444b277f75db7b1e8b86b66fc"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 7.257, DE 18/01/2019
 REGULAMENTA A CONCESSÃO DA GRATIFICAÇÃO PELO EXERCÍCIO DA FUNÇÃO DE AGENTE DE DEFESA CIVIL PREVISTA NO ART. 51, VI, E NO ART. 58 DA LEI COMPLEMENTAR Nº 1.326/2018 E DÁ OUTRAS PROVIDÊNCIAS.
 O PREFEITO MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA, MARCIO BATISTA TENÓRIO, no uso da atribuição que lhe confere o

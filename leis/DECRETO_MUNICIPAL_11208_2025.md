@@ -27,21 +27,10 @@ tags_auto:
   - licitacao
   - contratos
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511208"
-coletado_em: "2026-10-11"
-sha256_raw: "564396f8b664f30d0459dc2b016c0301726c4b1d03c2c507fbfa783d316842dd"
+coletado_em: "2026-10-24"
+sha256_raw: b98d8fb5497315e1cd355ac577872d9fd35040619b02e9913654b44210ce0f9f
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-2ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-3ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-4ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-5ª Versão corresponde a DECRETO MUNICIPAL11.208, de 11/02/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.208, DE 11/02/2025
 DISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO PERMANENTE DE LICITAÇÃO, AGENTE DE CONTRATAÇÃO, PREGOEIROS OFICIAIS E EQUIPE DE APOIO DA PREFEITURA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE ILHABELA.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei,

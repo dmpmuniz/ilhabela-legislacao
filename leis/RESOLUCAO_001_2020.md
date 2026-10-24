@@ -19,16 +19,10 @@ aliases:
   - Resolução nº 1
   - Resolução nº 001
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202000001"
-coletado_em: "2026-10-11"
-sha256_raw: "2336e3ce50e2a89326c151a2a2ff80499e8e3bb641dfd68ec236adb814b77665"
+coletado_em: "2026-10-24"
+sha256_raw: "57eb8fc4405ccf5b060490bf554e4e3e9ad9d32355cebcbf85ba763101f31a83"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 RESOLUÇÃO Nº 001, DE 24/03/2020
 DISPÕE SOBRE OS CASOS OMISSOS RELACIONADOS ÀS RESTRIÇÕES IMPOSTAS PELO DECRETO Nº 8.030 DE 20 DE MARÇO DE 2020.
 O PRESIDENTE DO COMITÊ EMERGENCIAL DE POSTURAS - COVID-19, no uso de suas atribuições e de acordo com o previsto na

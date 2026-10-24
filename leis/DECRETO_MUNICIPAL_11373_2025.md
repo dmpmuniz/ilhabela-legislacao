@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 11373
   - Decreto Municipal 11373
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511373"
-coletado_em: "2026-10-11"
-sha256_raw: "5a80ccbe156316008906a5300226c25b199c0cb4013d1816159722470ba4a7a9"
+coletado_em: "2026-10-24"
+sha256_raw: ec6fb4c4ae77cf4c414a727569fb15210431fe20078f519973142812aae94ec1
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL11.373, de 23/06/2025
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.373, DE 23/06/2025
 DISPÕE SOBRE A ATUALIZAÇÃO DA NOMEAÇÃO DE MEMBROS DO CONSELHO MUNICIPAL DE SAÚDE - COMUS.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;

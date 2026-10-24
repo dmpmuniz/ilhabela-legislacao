@@ -18,17 +18,10 @@ aliases:
   - Decreto Municipal nº 9969
   - Decreto Municipal 9969
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309969"
-coletado_em: "2026-10-11"
-sha256_raw: "50763c12d73fac589c24671241d0dab11fa082d70f75d3b79af06c2020b63724"
+coletado_em: "2026-10-24"
+sha256_raw: "9aea637dfc1d81cc7c92ed784fb7d04f49c2cbbc026e771a32a7f1f286b6c65c"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL9.969, de 14/08/2023
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 9.969, DE 14/08/2023
 DISPÕE SOBRE O REGIMENTO INTERNO DA SECRETARIA DE SAÚDE E DÁ OUTRAS PROVIDÊNCIAS.
 CONSIDERANDO a adequação da estrutura administrativa da Secretaria de Saúde à reforma implantada pela

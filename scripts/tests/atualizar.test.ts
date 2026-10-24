@@ -512,6 +512,26 @@ describe('sincronizar (fetch mockado)', () => {
     assert.match(caida, /status: revogada/);
   });
 
+  it('--refazer recria norma cujo arquivo sumiu do disco', async () => {
+    await rm(join(corpusDir, 'LEI_MUNICIPAL_123_2020.md'));
+    mockarFetch([], {
+      '202000123': {
+        ...DIPLOMA('<b>Art. 1º</b> Texto recriado, com tamanho suficiente para o corte.'),
+        ds_title_diploma: 'LEI MUNICIPAL Nº 123, DE 10/06/2020',
+        content_numeroDiploma: '123',
+        content_anoDiploma: '2020',
+        dados_diploma_original: { ds_situacao: 'em vigor' },
+      },
+    });
+
+    const r = await sincronizar({ corpusDir, idxDir, workers: 1, refazer: true });
+    assert.equal(r.novos, 1);
+    assert.equal(r.vazios, 1); // 124 não tem diploma no mock
+    const recriada = await readFile(join(corpusDir, 'LEI_MUNICIPAL_123_2020.md'), 'utf8');
+    assert.match(recriada, /Texto recriado/);
+    assert.match(recriada, /status: em_vigor/);
+  });
+
   it('respeita --limite (RH e demais atos entram: espelho integral do portal)', async () => {
     mockarFetch({}); // nenhum diploma disponível — nada deve ser baixado
 

@@ -18,18 +18,10 @@ aliases:
   - Decreto Municipal nº 8515
   - Decreto Municipal 8515
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108515"
-coletado_em: "2026-10-21"
+coletado_em: "2026-10-24"
 sha256_raw: "0268ac5e4980644e917b224ca6eff2703b1a0c4d37ab30a173cb505b7223e180"
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-1ª Versão corresponde a DECRETO MUNICIPAL8.515, de 18/03/2021
-2ª Versão corresponde a DECRETO MUNICIPAL8.515, de 18/03/2021
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 8.515, DE 18/03/2021
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS PARA COMPOR O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER DE ILHABELA PARA MANDATO DE 02 (DOIS) ANOS.
 (Revogado pelo

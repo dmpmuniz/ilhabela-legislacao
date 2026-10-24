@@ -18,16 +18,10 @@ aliases:
   - Decreto Municipal nº 11866
   - Decreto Municipal 11866
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202611866"
-coletado_em: "2026-10-11"
-sha256_raw: "67f5e5f4ce84bf0cf259ddf311b4c337bd972f4c9de6e832ca56b336ff67364f"
+coletado_em: "2026-10-24"
+sha256_raw: d7311bccdf52fd3fb20cf1602157bf1e8fe0c8a723e5f2321beaad32d98c6687
 versao_formato: "1.1"
 ---
-Versionamento:
-Clique abaixo, e tenha acesso aos textos atualizados
-conforme as datas e leis de referência:
-Versão Original
-Versão COMPILADA
-Versão CONSOLIDADA
 DECRETO MUNICIPAL Nº 11.866, DE 05/05/2026
 DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO SOCIOAMBIENTAL, NOS TERMOS DO ART. 123 DA LEI MUNICIPAL Nº 421/2006.
 O PREFEITO DO MUNICÍPIO DA ESTÂNCIA BALNEÁRIA DE ILHABELA, ANTONIO LUIZ COLUCCI, usando das atribuições que lhe são conferidas por lei;
