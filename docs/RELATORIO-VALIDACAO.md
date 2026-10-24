@@ -153,6 +153,74 @@ portal é reproduzido como está e confere com a fonte.
 portal. O `htmlParaTexto` passou a removê-los; as duas foram rebaixadas pelo
 `--refazer` e o caso real virou teste (`scripts/tests/atualizar.test.ts`).
 
+## Lote 5 — validação empírica no Gemini Notebook (24/10/2026)
+
+**Escopo desta execução:** forma A (as 10 perguntas-caveira, sem nomear a
+parte). A forma B (medição de dependência de roteamento) fica pendente. As
+respostas citaram as normas por número/ano, **sem** `ref`/`url_fonte` —
+indício de que o custom goal com o texto de `00-INSTRUCOES.md` não estava
+ativo; a auditoria resolveu cada citação manualmente contra o
+`idx/manifest.jsonl` e conferiu os trechos em `leis/`.
+
+**Critérios (plano, Lote 5):**
+
+| Métrica | Meta | Resultado |
+|---|---|---|
+| Acerto por pergunta | ≥80% | **10/10 (100%)** |
+| Citações corretas | ≥90% | **~94%** (8 erros em ~131 afirmações) |
+| Falso negativo | ≤1 | **0** |
+| Ref inexistente | 0 | **0** |
+
+**A forma A passa nos 4 critérios.** Todas as ~140 normas citadas existem no
+acervo; nenhuma ref inventada; nenhuma pergunta ficou sem resposta.
+
+**Erros de conteúdo** (norma existe, descrição não confere):
+
+1. **Lei 649/1997, “art. 46”** — o art. 46 trata do Regime Diferenciado de
+   Trabalho do magistério, não de preferência por readaptação na Educação.
+2. **“Lei Municipal” 1.326/2018** — é **Lei Complementar** 1.326/2018
+   (Estatuto dos Servidores); o art. 19 veio fiel.
+3. **Lei 746/1998** citada como alteração do COMUS — dispõe sobre permuta com
+   a SUCEN; não menciona o Conselho.
+4. **Lei 285/2004** citada como “Estratégia de Mobilidade Urbana” — dispõe
+   sobre parcelamento de multas de trânsito (ver nota abaixo).
+5. **“Transporte gratuito em dias de votação eleitoral”** — sem base no
+   acervo (os decretos “eleitorais” tratam de CIPA e de cessão de bens à
+   Justiça Eleitoral).
+6. **Lei 394/2006** citada como legislação urbanística de “Áreas de
+   Interesse Cultural” — institui o Museu Municipal; a expressão “Área de
+   Interesse Cultural” não existe no acervo.
+7. **“Vila Bela estritamente preservada”** — imposição não existe no acervo
+   (o nome só aparece no registro de 1805 e em listas de conselhos).
+8. **“Procedimento Administrativo de Autorização para Corte de Árvore”** —
+   apresentado como fonte, mas o procedimento descrito (documentos do
+   imóvel, mapeamento dos cortes, vistoria prévia) não está no acervo.
+
+**Omissões de status** (regra 3 das instruções): ~10 normas revogadas/expiradas
+citadas em listas históricas sem o aviso (649/1997, 855/2010, 1.016/2013,
+1.112/2015, 2.789/2011, 3.286/2013, LC 1.463/2021, 740/2009, 853/2010,
+318/2004). Em contrapartida, as revogações-chave foram sinalizadas
+corretamente (1.410/2020, 9.743/2023, 887/2000, 418/1991, códigos
+tributários antigos).
+
+**Fidelidade verificada trecho a trecho (amostra):** Decreto 9.795/2023
+(Capítulo XIV, arts. 127–132), LC 1.326/2018 art. 19, Lei 335/1989 (letra “g”
+do art. 2º da Lei 245/86 — gratuidades), Decreto 11.403/2025 (Tarifa
+Integral/Reduzida, integração, biometria facial), LC 1.397/2019 (PMSB,
+SANEILHA, Conselho, FMSAI, 30 anos), Lei 761/2009 (frota mínima de 15 vans,
+cor branca), Leis 98/1980 e 1.784/2026 (supressão/poda), decretos do COMUS
+(10.562/2024, 10.563/2024, 11.373/2025).
+
+**Nota sobre palavras-chave automáticas:** a Lei 285/2004 (multas de trânsito)
+carrega `mobilidade urbana` em `palavras_chave_auto` porque a regra de
+sinônimos casa “trânsito” (`scripts/schema/sinonimos.pt-BR.json`). O domínio é
+defensável, mas facilitou a atribuição errada (erro 4). Ajuste opcional:
+remover “trânsito” da lista `match` dessa regra e regenerar.
+
+**Pendências do Lote 5:** forma B (as mesmas 10 perguntas nomeando a parte
+provável); ativar o custom goal com o texto de `00-INSTRUCOES.md` para as
+respostas citarem `ref` e `url_fonte` (regra 2).
+
 ## Lição da revisão
 
 O gabarito é o contrato da amostragem: **se ele codifica um gap, a amostra passa

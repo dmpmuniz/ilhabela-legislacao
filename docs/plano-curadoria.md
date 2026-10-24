@@ -7,9 +7,9 @@
 > **Estado (24/10/2026):** as **43 fontes estão geradas e validadas** neste repo
 > (refs únicas 35.776/35.776, 0 erros, 30 normas amostradas em 3 lotes sem
 > falha — protocolo em `VALIDACAO-PARTES.md`). A conferência de fonte é
-> automática: `npm run verificar:cespro` (35.776/35.776 conformes). Pendentes:
-> Lote 5 (upload + 10 perguntas-caveira no Gemini Notebook) e Lote 6 (push;
-> o commit local já foi feito).
+> automática: `npm run verificar:cespro` (35.776/35.776 conformes). Lote 5
+> (forma A) executado em 24/10/2026 — 10/10 acerto. Pendentes: forma B do
+> Lote 5 e Lote 6 (push; o commit local já foi feito).
 > **Aprofundamento teórico (out/2026):** [`RAG-NOTEBOOKLM.md`](RAG-NOTEBOOKLM.md) —
 > como o Gemini Notebook recupera informação e as alavancas do acervo.
 
@@ -134,7 +134,7 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 | 2 | Índice geral | **executado** | inventário completo + mapa assunto → tipo |
 | 3 | Metadados por norma | **executado** | 6.082 com palavras-chave automáticas; 2.467 com data de efeitos; refs `-2`/`-3` |
 | 4 | Instruções v2 | **executado** | 13 regras, 509 palavras |
-| 5 | Validação empírica | **pendente** | 10 perguntas-caveira no NotebookLM; fonte conferida por `verificar:cespro` |
+| 5 | Validação empírica | **forma A executada** | 10/10 perguntas no Gemini Notebook (24/10/2026): 10/10 acerto, ~94% citações, 0 falso negativo, 0 ref inexistente; forma B pendente — ver `RELATORIO-VALIDACAO.md` |
 | 6 | Publicação | **pendente** | commit local feito; push pendente |
 
 ### Lote 5 — metodologia (quando houver upload)
@@ -187,10 +187,10 @@ A conferência de fonte é automática; a interpretação jurídica final é do 
 | Índice geral | ≤5k palavras | **906** |
 | Instruções | ≤3k palavras | **509** |
 | Palavras-chave | normas-chave cobertas | **6.082** (191/191 readaptações) |
-| Acerto nas perguntas-caveira | ≥80% | pendente (Lote 5) |
-| Citações corretas | ≥90% | pendente (Lote 5) |
-| Falso negativo | ≤1 em 10 | pendente (Lote 5) |
-| Ref inexistente | 0 | pendente (Lote 5) |
+| Acerto nas perguntas-caveira | ≥80% | **100% (10/10, forma A)** |
+| Citações corretas | ≥90% | **~94%** (8 erros em ~131, forma A) |
+| Falso negativo | ≤1 em 10 | **0** (forma A) |
+| Ref inexistente | 0 | **0** (forma A) |
 
 ---
 
