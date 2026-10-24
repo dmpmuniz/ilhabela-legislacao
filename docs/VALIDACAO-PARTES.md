@@ -3,8 +3,8 @@
 > **Quem executa:** o agente de código, **após cada `npm run notebooklm`** e
 > antes de commitar/upload. Complementa o que já existe:
 > `verificar-saida.mjs` (barreira **estrutural**: refs, blocos, fontes,
-> períodos, teto) e `REVISAO-HUMANA.md` (conferência **jurídica**, humana).
-> Este protocolo cobre o que só julgamento pega por amostragem:
+> períodos, teto) e `verificar-cespro.mjs` (conferência de **fonte**,
+> automática). Este protocolo cobre o que só julgamento pega por amostragem:
 > **classificação temática** e **integridade do texto da norma**.
 >
 > Princípio: a parte é 100% derivada de `leis/` — **erro nunca se corrige na
@@ -20,10 +20,8 @@ npm run notebooklm:check  # estrutura: cada ref existe, está em 1 parte, fonte 
 
 E mais:
 
-1. `ls notebooklm/*.md | grep -v REVISAO-HUMANA.md | wc -l` == nº de partes +
-   `00-INSTRUCOES.md` + `01-INDICE-GERAL.md` (o checklist humano fica na pasta,
-   mas é ignorado pelo git e não conta como fonte; política de slots: ver
-   `RAG-NOTEBOOKLM.md` §6.1).
+1. `ls notebooklm/*.md | wc -l` == nº de partes + `00-INSTRUCOES.md` +
+   `01-INDICE-GERAL.md` (política de slots: ver `RAG-NOTEBOOKLM.md` §6.1).
 2. Nenhum resto de geração antiga (ex.: `parte-XX.md` do v1) na pasta.
 3. `git status` mostra só o esperado: partes, índice e instruções.
 
@@ -104,8 +102,7 @@ grep -c '^##### ' leis/<arquivo>.md   # nº de artigos no corpus
 
 ## Etapa 2 — varredura por parte (as 41, uma vez por geração)
 
-Para **cada** arquivo de parte (exceto `00-INSTRUCOES.md`, `01-INDICE-GERAL.md`
-e `REVISAO-HUMANA.md`):
+Para **cada** arquivo de parte (exceto `00-INSTRUCOES.md` e `01-INDICE-GERAL.md`):
 
 ```bash
 P=notebooklm/<parte>.md
@@ -197,7 +194,8 @@ Se achar norma fora desta tabela, é bug — não "exceção aceitável".
 
 ## O que este protocolo NÃO cobre
 
-- Conferência **jurídica** do conteúdo (é da `REVISAO-HUMANA.md`, humana).
+- A interpretação **jurídica** do conteúdo (a fonte é conferida pelo
+  `verificar:cespro`; o uso do acervo é do usuário).
 - As respostas do NotebookLM (Lote 5 — protocolo em `RAG-NOTEBOOKLM.md` §9).
 - Se as `url_fonte` abrem no navegador (presença e formato são checados; o
-  link vivo é da revisão humana).
+  link vivo é conferido pelo `verificar:cespro`).

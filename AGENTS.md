@@ -26,8 +26,9 @@ resolve a triagem; o histórico fica junto do vigente.
 4. **Nunca versione dados pessoais** — `Documentos/`, `config.json`, chaves,
    conversas. Não existem neste repo; se aparecerem, ignore.
 5. **pt-BR em tudo que o usuário vê**; comentários de código explicam o porquê.
-6. **Revisão humana obrigatória** — `REVISAO-HUMANA.md` (gerado por
-   `npm run notebooklm:revisao`); script não substitui conferência jurídica.
+6. **Verificação contra o Cespro** — `npm run verificar:cespro` baixa o
+   diploma oficial e compara título, ementa, status e corpo com o export;
+   o antigo checklist humano (`REVISAO-HUMANA.md`) foi removido.
 7. **Todo bug corrigido ganha teste** com o caso real que o revelou.
 
 ## Comandos
@@ -38,10 +39,11 @@ resolve a triagem; o histórico fica junto do vigente.
 | `npm run check:samples` | pipeline na amostra (deve dar 0 erros) |
 | `npm run pipeline` | enrich → validate → manifest → index em `leis/` |
 | `npm run atualizar` | importa pacote bruto + sincroniza novas do Cespro + pipeline |
+| `npm run atualizar -- --refazer` | rebaixa o corpo de todas as normas do acervo (sync completo) |
 | `npm run enrich:force` | reenriquece tudo (o npm engole `-- --force`) |
 | `npm run notebooklm` | gera as 43 fontes a partir de `leis/` |
 | `npm run notebooklm:check` | verifica blocos, refs, fontes, período e teto |
-| `npm run notebooklm:revisao` | gera o checklist humano |
+| `npm run verificar:cespro` | compara 1 norma por parte com o portal; `-- --tudo` compara todas |
 
 ## Onde mora o quê
 
@@ -50,7 +52,7 @@ resolve a triagem; o histórico fica junto do vigente.
 | `scripts/*.ts` + `scripts/lib/` | pipeline: ingest/atualizar/enrich/validate/manifest/index/search |
 | `scripts/gerar-notebooklm-v2.mjs` | gerador das fontes do NotebookLM |
 | `scripts/verificar-saida.mjs` | verificação independente da saída |
-| `scripts/gerar-revisao.mjs` | checklist humano |
+| `scripts/verificar-cespro.mjs` | compara a saída com o diploma oficial do Cespro |
 | `scripts/schema/` | `law.schema.json` + `sinonimos.pt-BR.json` |
 | `scripts/tests/` | testes do pipeline |
 | `scripts/samples/` | amostra pequena para smoke test |

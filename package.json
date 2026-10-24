@@ -21,7 +21,7 @@
     "test": "node --experimental-strip-types --test scripts/tests/**/*.test.ts",
     "notebooklm": "node --experimental-strip-types scripts/gerar-notebooklm-v2.mjs",
     "notebooklm:check": "node --experimental-strip-types scripts/verificar-saida.mjs",
-    "notebooklm:revisao": "node scripts/gerar-revisao.mjs"
+    "verificar:cespro": "node --experimental-strip-types scripts/verificar-cespro.mjs"
   },
   "dependencies": {},
   "devDependencies": {}

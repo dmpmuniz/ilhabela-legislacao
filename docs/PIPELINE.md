@@ -90,8 +90,12 @@ dicionário `scripts/schema/sinonimos.pt-BR.json` (o `enrich` cuida do resto).
 ```bash
 npm run notebooklm        # lê leis/ e escreve as 41 partes + 00 + 01
 npm run notebooklm:check  # confere refs, blocos, fontes e teto de 500k palavras
-npm run notebooklm:revisao # gera o checklist humano
+npm run verificar:cespro  # compara com o diploma oficial (1 por parte; --tudo = todas)
 ```
+
+Para rebaixar o corpo de normas já existentes (defasagem do snapshot), use
+`npm run atualizar -- --refazer`: a fila vem do manifesto, o status só pode
+sair de vigor (nunca volta a `em_vigor` sozinho) e a curadoria é preservada.
 
 O gerador **não** apaga arquivos de mão: ele remove apenas nomes que reconhece
 (partes antigas e `00`/`01`). O plano de curadoria ficará em

@@ -164,6 +164,22 @@ describe('htmlParaTexto', () => {
       '',
     ]);
   });
+
+  it('remove o bloco de versionamento inteiro, inclusive divs aninhados', () => {
+    // estrutura real do htmlContentHeader (só o miolo do box): display:none,
+    // com "Versionamento:", as versões e o link; depois vem o texto da norma.
+    const html = [
+      '<!-- VERSIONAMENTO --><div id="box_versionamento" style="display: none;">',
+      '<div><b>Versionamento:</b> Clique abaixo, e tenha acesso aos textos atualizados</div>',
+      '<div><a href="#"><b>Versão Original</b></a><a href="#"><b>Versão COMPILADA</b></a></div>',
+      '</div>',
+      '<div class="preambulo">LEI MUNICIPAL Nº 1.442, DE 23/10/2020</div>',
+    ].join('\n');
+    assert.deepEqual(htmlParaTexto(html).split('\n'), [
+      'LEI MUNICIPAL Nº 1.442, DE 23/10/2020',
+      '',
+    ]);
+  });
 });
 
 describe('converterHierarquia', () => {
@@ -448,6 +464,52 @@ describe('sincronizar (fetch mockado)', () => {
     assert.equal(r.atualizadas, 1);
     const atual = await readFile(join(corpusDir, 'PORTARIA_999_2026.md'), 'utf8');
     assert.match(atual, /sessenta dias/);
+  });
+
+  it('--refazer rebaixa o corpo e nunca "desrevoga" norma fora de vigor', async () => {
+    // 123 já está revogada no acervo (o portal, por conta própria, diz em vigor)
+    const caminho123 = join(corpusDir, 'LEI_MUNICIPAL_123_2020.md');
+    const texto123 = await readFile(caminho123, 'utf8');
+    await writeFile(caminho123, texto123.replace('status: em_vigor', 'status: revogada'), 'utf8');
+
+    mockarFetch(
+      [[
+        { id: '202000123', ds_title: 'LEI MUNICIPAL Nº 123, DE 10/06/2020', ds_status: 'EM VIGOR', ds_resumo: 'EMENTA DA LEI ANTIGA QUE JÁ ESTÁ NO ACERVO.' },
+        { id: '202000124', ds_title: 'LEI MUNICIPAL Nº 124, DE 11/06/2020', ds_status: 'FORA DE VIGOR', ds_resumo: 'EMENTA DA SEGUNDA LEI ANTIGA DO ACERVO.' },
+      ]],
+      {
+        '202000123': {
+          ...DIPLOMA('<b>Art. 1º</b> Corpo novo da lei 123, com texto suficiente para o corte.'),
+          ds_title_diploma: 'LEI MUNICIPAL Nº 123, DE 10/06/2020',
+          content_numeroDiploma: '123',
+          content_anoDiploma: '2020',
+          dados_diploma_original: { ds_situacao: 'em vigor' },
+        },
+        '202000124': {
+          ...DIPLOMA('<b>Art. 1º</b> Corpo novo da lei 124, com texto suficiente para o corte.'),
+          ds_title_diploma: 'LEI MUNICIPAL Nº 124, DE 11/06/2020',
+          content_numeroDiploma: '124',
+          content_anoDiploma: '2020',
+          dados_diploma_original: { ds_situacao: 'FORA DE VIGOR' },
+        },
+      },
+    );
+
+    const r = await sincronizar({ corpusDir, idxDir, workers: 1, refazer: true });
+    assert.equal(r.atualizadas, 2);
+    assert.equal(r.erros, 0);
+
+    // 123: portal diz "em vigor", mas a norma já estava revogada no acervo —
+    // o re-sync atualiza o texto e NÃO a ressuscita
+    const revogada = await readFile(join(corpusDir, 'LEI_MUNICIPAL_123_2020.md'), 'utf8');
+    assert.match(revogada, /Corpo novo da lei 123/);
+    assert.match(revogada, /status: revogada/);
+    assert.match(revogada, /- defesa civil/);
+
+    // 124: estava em vigor e o portal a tirou de vigor — texto + status
+    const caida = await readFile(join(corpusDir, 'LEI_MUNICIPAL_124_2020.md'), 'utf8');
+    assert.match(caida, /Corpo novo da lei 124/);
+    assert.match(caida, /status: revogada/);
   });
 
   it('respeita --limite (RH e demais atos entram: espelho integral do portal)', async () => {

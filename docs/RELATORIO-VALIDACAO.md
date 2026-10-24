@@ -1,4 +1,4 @@
-# RELATORIO-VALIDACAO.md — 3 lotes de 30 normas + 5 partes inteiras (23/10/2026)
+# RELATORIO-VALIDACAO.md — 3 lotes de 30 normas + 5 partes inteiras + conferência Cespro (23–24/10/2026)
 
 > Execução do protocolo [`VALIDACAO-PARTES.md`](VALIDACAO-PARTES.md) sobre a
 > geração pós-splits (**41 partes + `00-INSTRUCOES.md` + `01-INDICE-GERAL.md` =
@@ -15,7 +15,12 @@
   palavras**, maior parte **394.876 palavras** (teto 500k), `notebooklm:check`
   = saída íntegra — agora conferindo também **título e ementa** de cada bloco
   contra o frontmatter.
-- `npm test`: **70/70** · `check:samples`: **0 erros** (exit 0).
+- `npm test`: **77/77** · `check:samples`: **0 erros** (exit 0).
+- `npm run verificar:cespro` (1 norma por parte): **40/41 conformes** — a
+  divergência é `ilh-2010-lc-789` (corpo defasado; ver abaixo).
+- `npm run verificar:cespro -- --tudo`: **35.658/35.776 conformes** (99,67%);
+  118 divergências, das quais 35 foram falha de rede transitória e 83 são
+  diferenças reais (triagem abaixo).
 
 ## Método
 
@@ -100,6 +105,55 @@ tinha um parser de frontmatter próprio que não desescapava aspas. Correção:
 3. O parser compartilhado devolve campos numéricos como número (`ementa: 1`);
    `fold()` passou a coagir para string, com testes dos casos reais
    (`PORTARIA_2177_2017`, `DECRETO_MUNICIPAL_1217_2006`).
+
+## Conferência de fonte (Cespro)
+
+O antigo checklist humano foi substituído pela conferência automática:
+`npm run verificar:cespro` baixa o diploma oficial pela mesma API do
+`atualizar` (`content-diploma`) e compara **título, ementa, status e corpo**
+de cada bloco do export.
+
+| Execução | Blocos | Conformes | Divergências |
+|---|---|---|---|
+| `npm run verificar:cespro` (1 por parte) | 41 | 40 | 1 (`ilh-2010-lc-789`, corpo) |
+| `npm run verificar:cespro -- --tudo` | 35.776 | 35.658 (99,67%) | 118 |
+
+Das 118, **35 foram falha de rede transitória** (rajada de rate-limit na parte
+`portarias-de-ferias-e-licencas-2017-2018`, que passou **2.161/2.161** na
+repetição). As **83 reais** se dividem assim:
+
+| Causa | Normas | Observação |
+|---|---|---|
+| Status desatualizado (só status) | 19 | 7 locais em vigor × portal revogada, 1 em vigor × expirada, 8 revogadas × portal em vigor, 3 expiradas × portal em vigor |
+| Status + ementa | 1 | `ilh-2022-dec-9353` |
+| Anotação editorial nova do portal | 13 | “(Revogada tacitamente…)”, “(Revogado pelo…)”, “➭ (Vide…)”; 1 também com status |
+| Corpo com bloco “Versionamento” | 7 | bug do cleaner (corrigido); resíduo no snapshot |
+| Corpo com rótulos “Versão Original/COMPILADA” | 6 | poluição do snapshot (o portal agora vem limpo) |
+| Entidade HTML `&RSQUO;` | 10 | resíduo do import antigo (corpo e ementa) |
+| Stub “texto no processo” | 9 | portal publicou o texto real depois do snapshot |
+| Texto real corrigido pelo portal | 3 | artigo renumerado, cabeçalho duplicado, lista |
+| Corpo truncado | 3 | portal agora traz o texto completo |
+| Espaçamento (`--->`) | 3 | diferença de quebra de linha do import antigo |
+| Ementa consolidada `(NR …)` | 9 | corpus traz a nota de alteração; o portal devolve a ementa original — não é defeito |
+
+**Bug do cleaner corrigido:** o bloco `#box_versionamento` (div aninhado,
+`display:none`) vazava para o corpo porque a regex parava no primeiro
+`</div>`. `removerDivPorId` remove o subtree inteiro; teste com a estrutura
+real em `scripts/tests/atualizar.test.ts`. O corpus atual tem **340 normas**
+com resíduo “Versão Original/COMPILADA” — o cleaner impede novas, mas as
+existentes só saem com reextração.
+
+**Defasagem do snapshot:** o `atualizar` só baixa ids novos e rebaixa status;
+ele **não** rebaixava o corpo de norma já existente. Decisão de 24/10/2026:
+rebaixar **todas as 35.776** com `npm run atualizar -- --refazer` (fila do
+manifesto, curadoria preservada, status só rebaixa). As 8 normas marcadas
+`revogada` no corpus e `em vigor` no portal ficam para revisão humana — o
+re-sync não as ressuscita.
+
+**Execução pendente:** a pedido, o download não foi executado agora. O modo
+`--refazer` está implementado e testado (`npm test` 78/78); para aplicar:
+`npm run atualizar -- --refazer`, depois `npm run notebooklm` e
+`npm run notebooklm:check`.
 
 ## Lição da revisão
 

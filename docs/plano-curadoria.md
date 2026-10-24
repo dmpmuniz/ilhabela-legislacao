@@ -8,7 +8,7 @@
 > (refs únicas 35.776/35.776, 0 erros, 30 normas amostradas em 3 lotes sem
 > falha — protocolo em `VALIDACAO-PARTES.md`). Pendentes: Lote 5 (upload +
 > 10 perguntas-caveira no Gemini Notebook, ex-NotebookLM) e Lote 6 (push).
-> Revisão humana obrigatória: `REVISAO-HUMANA.md`.
+> A conferência de fonte é automática: `npm run verificar:cespro`.
 > **Aprofundamento teórico (out/2026):** [`RAG-NOTEBOOKLM.md`](RAG-NOTEBOOKLM.md) —
 > como o Gemini Notebook recupera informação e as alavancas do acervo.
 
@@ -65,7 +65,7 @@ Nome do arquivo, cabeçalho e metadados determinam o que ele consegue achar.
 | HiChunk (ACL 2026) | chunking hierárquico + auto-merge | cabeçalho hierárquico por parte |
 | NotebookLM Guide (2025) | "15–20 fontes relevantes > 50 soltas" | mitigado por nomes/cabeçalhos (ver §3) |
 | Fast.io (2026) | precisão cai perto do limite de fontes | 43 fontes, cada uma ≤500k palavras |
-| Villum Foundation (2025) | bom para resumir, não para extrair detalhe | revisão humana das citações |
+| Villum Foundation (2025) | bom para resumir, não para extrair detalhe | verificação das citações contra o Cespro |
 | Stäbler et al. (IEEE 2025) | janela 512 tokens + overlap preserva estrutura | artigos inteiros, sem corte |
 
 ### 2.3 Limites do NotebookLM (confirmados)
@@ -133,33 +133,35 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 | 2 | Índice geral | **executado** | inventário completo + mapa assunto → tipo |
 | 3 | Metadados por norma | **executado** | 6.081 com palavras-chave automáticas; 2.467 com data de efeitos; refs `-2`/`-3` |
 | 4 | Instruções v2 | **executado** | 13 regras, 509 palavras |
-| 5 | Validação empírica | **pendente** | checklist e 10 perguntas-caveira em `REVISAO-HUMANA.md` |
+| 5 | Validação empírica | **pendente** | 10 perguntas-caveira no NotebookLM; fonte conferida por `verificar:cespro` |
 | 6 | Publicação | **pendente** | push exige token do GitHub |
 
 ### Lote 5 — metodologia (quando houver upload)
 
 1. Enviar as 43 fontes ao NotebookLM.
-2. Fazer as 10 perguntas-caveira do checklist (poda, ZU2, alvará, readaptação,
+2. Fazer as 10 perguntas-caveira (poda, ZU2, alvará, readaptação,
    LC 789/2010, Lei 745/2009, meio ambiente, IPTU, árvores nativas, código de obras).
-3. Comparar com o gabarito do BM25 local (no próprio checklist).
+3. Comparar com o gabarito do BM25 local (`npm run search -- --q "…" --k 3`).
 4. Critérios: ≥80% de acerto, ≥90% de citações corretas, ≤1 falso negativo,
    **zero** ref inexistente.
 
 ### Lote 6 — publicação
 
 1. Gerar as partes (`npm run notebooklm`) e conferir (`npm run notebooklm:check`).
-2. Commitar as 43 fontes, scripts, docs e checklist (as partes são regeneráveis, mas versionadas para o release).
+2. Commitar as 43 fontes, scripts e docs (as partes são regeneráveis, mas versionadas para o release).
 3. Push para o GitHub (`dmpmuniz/ilhabela-legislacao`).
 
 ---
 
-## 5. Revisão humana (não opcional)
+## 5. Verificação contra o Cespro (automática)
 
-**Nenhum lote é "pronto" sem revisão manual em amostra.** O script organiza; o
-humano valida. O checklist é gerado por `scripts/gerar-revisao.mjs`:
+**Nenhum lote é "pronto" sem conferir a fonte oficial.** O
+`npm run verificar:cespro` baixa o diploma do Cespro e compara, bloco a bloco,
+título, ementa, status e corpo com o export. Sem `--tudo`, cobre 1 norma por
+parte (41); com `--tudo`, as 35.776.
 
-> Antes da revisão humana, o agente valida classificação e integridade por
-> lotes de amostragem: [`VALIDACAO-PARTES.md`](VALIDACAO-PARTES.md).
+> Antes da conferência de fonte, o agente valida classificação e integridade
+> por lotes de amostragem: [`VALIDACAO-PARTES.md`](VALIDACAO-PARTES.md).
 
 - **Lote 1:** 1 norma por parte (41) — título, ementa, status, integridade do texto
 - **Lote 2:** índice inteiro — inventário, mapa de assuntos, totais
@@ -167,7 +169,7 @@ humano valida. O checklist é gerado por `scripts/gerar-revisao.mjs`:
 - **Lote 4:** instruções inteiras — regra contraditória ou ambígua?
 - **Lote 5:** todas as 10 respostas do NotebookLM — citação bate com a norma real?
 
-**Curadoria não é opcional em trabalho jurídico.**
+A conferência de fonte é automática; a interpretação jurídica final é do usuário.
 
 ---
 
@@ -259,7 +261,7 @@ Efeito real: **41 → 43 fontes** (2 partes novas; os decretos gerais passaram d
 ## 9. O que não chequei
 
 - O comportamento real do NotebookLM com as 43 fontes (só o upload e o Lote 5 respondem).
-- A revisão humana do checklist (`REVISAO-HUMANA.md`) — é sua, por regra do projeto.
+- A interpretação jurídica final — a conferência de fonte é automática; o uso do acervo é do usuário.
 - O push para o GitHub — depende de token que não existe neste ambiente.
 
 ---

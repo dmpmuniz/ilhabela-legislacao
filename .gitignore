@@ -8,6 +8,3 @@ Thumbs.db
 config.json
 Documentos/
 legislacao_ilhabela/
-
-# gerado pelo `npm run notebooklm:revisao` (regenerável)
-notebooklm/REVISAO-HUMANA.md

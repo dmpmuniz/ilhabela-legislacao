@@ -80,7 +80,7 @@ function cabecalhos(cdMunicipio: string): Record<string, string> {
 }
 
 /** POST na API com retry/backoff — a mesma política do scraper antigo. */
-async function chamarApi(
+export async function chamarApi(
   url: string,
   corpo: unknown,
   cdMunicipio: string,
@@ -219,6 +219,8 @@ export type OpcoesSincronizar = {
   limite?: number
   /** varrer a listagem inteira (captura revogações de leis antigas) */
   completo?: boolean
+  /** rebaixar o corpo de normas já existentes (ignora a parada incremental) */
+  refazer?: boolean
   /** pacote bruto a importar ANTES de sincronizar (ex.: legislacao_ilhabela/) */
   pacoteDir?: string
   cidade?: string
@@ -276,16 +278,20 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
 
   const manifesto = await carregarManifesto(idxDir)
   console.log(`[acervo] ${manifesto.size} normas no manifesto local`)
+  if (opcoes.refazer) console.log("[refazer] rebaixando o corpo de todas as normas do acervo")
 
-  const itens = await varrerListagem(
-    cdMunicipio,
-    new Set([...manifesto.keys(), ...idsImportados]),
-    opcoes.completo ?? false,
-  )
+  const itens = opcoes.refazer
+    // re-sync: a fila vem do manifesto (id + caminho), sem varrer a listagem
+    ? [...manifesto.keys()].map((id) => ({ id, ds_title: "" } as ItemListagem))
+    : await varrerListagem(
+        cdMunicipio,
+        new Set([...manifesto.keys(), ...idsImportados]),
+        opcoes.completo ?? false,
+      )
   resultado.varridos = itens.length
 
   // COMPARAÇÃO — três destinos possíveis para cada item da listagem:
-  const paraBaixar: ItemListagem[] = []
+  const paraBaixar: Array<{ item: ItemListagem; caminho?: string }> = []
   const paraRevogar: Array<{ item: ItemListagem; caminho: string }> = []
   for (const item of itens) {
     // acabou de sair do pacote: já está no corpus — baixar de novo seria
@@ -294,10 +300,13 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
     if (idsImportados.has(item.id)) continue
     const existente = manifesto.get(item.id)
     if (existente) {
+      // re-sync: rebaixa o diploma inteiro e reescreve só o que mudou
+      if (opcoes.refazer) {
+        paraBaixar.push({ item, caminho: join(corpusDir, existente.path) })
+        continue
+      }
       // a lei JÁ ESTÁ no acervo; o que pode ter mudado é o status —
-      // saiu de vigor no portal, não pode continuar "em_vigor" aqui
-      // A lei JÁ ESTÁ no acervo; o que pode ter mudado é o status — saiu de
-      // vigor no portal (revogada, expirada ou anulada), precisa refletir aqui
+      // saiu de vigor no portal (revogada, expirada ou anulada), precisa refletir aqui
       const statusPortal = mapearStatus(item.ds_status)
       if (["revogada", "expirada", "anulada"].includes(statusPortal ?? "") && existente.status === "em_vigor") {
         paraRevogar.push({ item, caminho: join(corpusDir, existente.path) })
@@ -309,11 +318,11 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
     // A triagem fica na camada de USO — o campo `status` (com o mapa do
     // mapearStatus) e as instruções da IA fazem o serviço. As ~14 mil
     // portarias de férias/licença/nomeação entram como atos individuais.
-    paraBaixar.push(item)
+    paraBaixar.push({ item })
   }
 
   const filaBaixar = paraBaixar.slice(0, limite === Infinity ? paraBaixar.length : limite)
-  console.log(`[diff] novos: ${filaBaixar.length}${paraBaixar.length !== filaBaixar.length ? ` (limitado de ${paraBaixar.length})` : ""} | a marcar revogada: ${paraRevogar.length}`)
+  console.log(`[diff] baixar: ${filaBaixar.length}${paraBaixar.length !== filaBaixar.length ? ` (limitado de ${paraBaixar.length})` : ""} | a marcar revogada: ${paraRevogar.length}`)
 
   // -----------------------------------------------------------------------
   // Download + conversão + gravação (pool de workers como no scraper antigo)
@@ -324,12 +333,49 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
 
   async function trabalhadora(): Promise<void> {
     while (indice < filaBaixar.length) {
-      const item = filaBaixar[indice++]
+      const { item, caminho } = filaBaixar[indice++]
       try {
         await sleepJitter()
         const api = await chamarApi(urlDiploma(cdMunicipio, item.id), corpoDiploma(cdMunicipio), cdMunicipio)
-        const norma = extrairDiploma(api, item)
-        const status = mapearStatus(item.ds_status)
+        // re-sync lê o arquivo antes: título/ementa antigos são o fallback se
+        // o diploma vier sem esses campos
+        const existentePre = caminho ? parseFrontmatter(await readText(caminho)) : null
+        const norma = extrairDiploma(api, {
+          ds_title: item.ds_title || String(existentePre?.data.titulo ?? ""),
+          ds_resumo: item.ds_resumo ?? (existentePre?.data.ementa != null ? String(existentePre.data.ementa) : undefined),
+          ds_status: item.ds_status,
+        })
+
+        // destino: re-sync usa o caminho do manifesto (a norma já existe);
+        // norma nova procura o slug e desvia para _2/_3 em caso de colisão
+        let destino = caminho ?? ""
+        let existente = existentePre
+        if (!caminho && norma) {
+          const slugBase = slugNorma(norma.titulo, norma.ano)
+          destino = join(corpusDir, `${slugBase}.md`)
+          for (let sufixo = 2; ; sufixo++) {
+            try {
+              const parsed = parseFrontmatter(await readText(destino))
+              if (String(parsed.data.id ?? "") === item.id) {
+                existente = parsed
+                break
+              }
+              destino = join(corpusDir, `${slugBase}_${sufixo}.md`)
+            } catch {
+              break // não existe: escrever aqui
+            }
+          }
+        }
+
+        // status: o portal manda quando a norma está em vigor; norma que já
+        // saiu de vigor NUNCA volta a em_vigor sem revisão humana. No re-sync
+        // não há listagem — o status vem do próprio diploma.
+        const statusPortal = mapearStatus(item.ds_status ?? api?.dados_diploma_original?.ds_situacao)
+        const statusAtual = existente ? String(existente.data.status ?? "") : ""
+        const status = statusAtual && statusAtual !== "em_vigor"
+          ? statusAtual
+          : (statusPortal ?? statusAtual)
+
         if (!norma || !status) {
           resultado.vazios++
         } else {
@@ -351,25 +397,6 @@ export async function sincronizar(opcoes: OpcoesSincronizar = {}): Promise<Resul
           // hash do corpo LIMPO e trimado — base de comparação estável entre
           // gravação e releitura (serializeFrontmatter normaliza o fim)
           const corpoHash = sha256(norma.corpo.trim())
-          const slugBase = slugNorma(norma.titulo, norma.ano)
-
-          // destino: slug.md; ocupado por OUTRA norma → slug_2, _3… (a mesma
-          // regra do cleaner antigo, que originou os pares de ref duplicada);
-          // ocupado pela MESMA norma (re-download) → atualização no lugar
-          let destino = join(corpusDir, `${slugBase}.md`)
-          let existente: { data: Frontmatter; body: string } | null = null
-          for (let sufixo = 2; ; sufixo++) {
-            try {
-              const parsed = parseFrontmatter(await readText(destino))
-              if (String(parsed.data.id ?? "") === item.id) {
-                existente = parsed
-                break
-              }
-              destino = join(corpusDir, `${slugBase}_${sufixo}.md`)
-            } catch {
-              break // não existe: escrever aqui
-            }
-          }
 
           if (existente) {
             // re-download: só reescreve se o TEXTO mudou no portal (hash do
@@ -488,7 +515,8 @@ export async function main(argv: string[] = process.argv.slice(2)): Promise<void
     idxDir: args.idx,
     workers: args.workers ? parseInt(args.workers, 10) : undefined,
     limite: args.limite != null ? parseInt(args.limite, 10) : undefined,
-    completo: args.completo === "true",
+    completo: args.completo === "true" || args.refazer === "true",
+    refazer: args.refazer === "true",
     pacoteDir,
   })
 

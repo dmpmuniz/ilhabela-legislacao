@@ -204,6 +204,28 @@ export function decodificarEntidades(s: string): string {
 }
 
 /**
+ * Remove um <div id="..."> inteiro, respeitando aninhamento. A regex de bloco
+ * sozinha para no primeiro `</div>` e deixa o resto do subtree no texto — foi
+ * assim que a UI de versionamento (display:none) vazou para o corpo.
+ */
+export function removerDivPorId(html: string, id: string): string {
+  const abertura = new RegExp(`<div\\b[^>]*\\bid\\s*=\\s*["']?${id}["']?[^>]*>`, "i")
+  let s = String(html ?? "")
+  for (let m = abertura.exec(s); m; m = abertura.exec(s)) {
+    const tag = /<div\b[^>]*>|<\/div>/gi
+    tag.lastIndex = m.index + m[0].length
+    let profundidade = 1
+    let t: RegExpExecArray | null
+    while ((t = tag.exec(s))) {
+      profundidade += t[0][1] === "/" ? -1 : 1
+      if (profundidade === 0) break
+    }
+    s = s.slice(0, m.index) + s.slice(t ? tag.lastIndex : s.length)
+  }
+  return s
+}
+
+/**
  * HTML da Cespro → texto puro com UMA linha por trecho.
  *
  * Reproduz fielmente o BeautifulSoup do cleaner.py (get_text("\n")): TODA
@@ -213,7 +235,8 @@ export function decodificarEntidades(s: string): string {
  * segue e que o adapter de leitura focada (rag/adapter.ts) espera.
  */
 export function htmlParaTexto(html: string): string {
-  let s = String(html ?? "")
+  // o bloco de versionamento é um div aninhado com display:none no header
+  let s = removerDivPorId(String(html ?? ""), "box_versionamento")
   for (const [re, rep] of BLOCOS_LIXO) s = s.replace(re, rep)
   // toda marca (inline ou bloco) é fronteira de NavigableString no BS4 → \n
   s = s.replace(/<\/?[a-zA-Z][^>]*>/g, "\n")
@@ -290,4 +313,41 @@ export function extrairDiploma(
     status: status ?? "",
     corpo,
   }
+}
+
+export type BlocoGerado = {
+  titulo: string
+  ementa: string | null
+  status: string
+  corpo: string
+}
+
+const ementaNormalizada = (s: string | null | undefined): string =>
+  !s || s === "(sem ementa)" ? "" : s
+
+/**
+ * Compara um bloco do export com o diploma recém-baixado do Cespro.
+ * Devolve a lista de campos divergentes (vazia = conforme).
+ *
+ * `status` vazio no remoto é ausência de dado, não divergência: o antigo
+ * checklist humano também não tinha como comparar o que o portal não informa.
+ */
+export function compararDiploma(
+  local: BlocoGerado,
+  remoto: DiplomaExtraido | null,
+): string[] {
+  if (!remoto) return ["portal sem conteúdo utilizável"]
+  const erros: string[] = []
+  if (local.titulo !== remoto.titulo) {
+    erros.push(`título: ${JSON.stringify(local.titulo)} != ${JSON.stringify(remoto.titulo)}`)
+  }
+  if (ementaNormalizada(local.ementa) !== ementaNormalizada(remoto.ementa)) {
+    erros.push("ementa")
+  }
+  const statusRemoto = String(remoto.status ?? "").replaceAll("_", " ")
+  if (statusRemoto && String(local.status) !== statusRemoto) {
+    erros.push(`status: ${JSON.stringify(local.status)} != ${JSON.stringify(statusRemoto)}`)
+  }
+  if (local.corpo.trim() !== remoto.corpo.trim()) erros.push("corpo")
+  return erros
 }

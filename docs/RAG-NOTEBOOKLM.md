@@ -254,8 +254,8 @@ fontes**, com ≥2 livres. Dividir temas hoje só para o catch-all evidente
 2. **Script de auditoria de citações** estilo *Grounded in Law*: extrair toda
    `ilh-…-…` das respostas do NotebookLM → conferir existência no
    `idx/manifest.jsonl` → conferir fidelidade contra `leis/`. O repo já tem
-   manifest + BM25; é um `scripts/` pequeno e transforma "revisão humana
-   braçal" em semi-automática. O paper corrigiu 6,5% das respostas antes de
+   manifest + BM25; é um `scripts/` pequeno e transforma a conferência braçal
+   em semi-automática. O paper corrigiu 6,5% das respostas antes de
    entregar com essa camada.
 3. **Nunca usar Deep Research/Fast Research no notebook jurídico.** Fontes
    web misturadas quebram a garantia "acervo municipal só" — o grounding
@@ -300,8 +300,8 @@ fontes**, com ≥2 livres. Dividir temas hoje só para o catch-all evidente
 5. **Critérios** (do plano): ≥80% de acerto · ≥90% de citações corretas ·
    ≤1 falso negativo · **zero** ref inexistente. Falha em qualquer um
    → investigar qual alavanca do §4 falhou antes de mudar o gerador.
-6. **Registrar** tudo no `REVISAO-HUMANA.md` (regenerar com
-   `npm run notebooklm:revisao`).
+6. **Registrar** tudo em `docs/RELATORIO-VALIDACAO.md` e rodar
+   `npm run verificar:cespro` para conferir a fonte.
 
 ## 10. Fontes consultadas
 

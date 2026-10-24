@@ -11,7 +11,7 @@ ferramentas, para agentes de LLM e pessoas trabalharem no próprio acervo).
 **Por quê:** manter ferramenta longe do dado exigia um segundo repositório e
 uma sincronização manual a cada mudança. Com a documentação e os
 scripts no mesmo repo, qualquer agente/clonagem reproduz o pipeline na hora.
-Derivados (`idx/`, `REVISAO-HUMANA.md`) ficam fora do git.
+Derivados (`idx/`) ficam fora do git.
 
 ## ADR-02 — `leis/` é a pasta canônica
 
@@ -91,13 +91,20 @@ estavam no catch-all — decretos de exoneração (1.845), portarias de
 provimento/posse (223), portarias disciplinares (230) e adicionais (358) —
 levando de 41 para 43 fontes, ainda abaixo do teto de 48.
 
-## ADR-11 — Revisão humana obrigatória
+## ADR-11 — Verificação contra o Cespro (substitui o checklist humano)
 
-**Decisão:** nenhuma geração é considerada pronta sem o checklist
-`REVISAO-HUMANA.md` marcado por uma pessoa.
+**Decisão:** a conferência de fonte é automática: `npm run verificar:cespro`
+baixa o diploma oficial e compara título, ementa, status e corpo de cada
+bloco. O antigo `REVISAO-HUMANA.md` foi removido em 24/10/2026.
 
-**Por quê:** curadoria jurídica não é só script; uma classificação errada pode
-levar a uma citação errada.
+**Por quê:** o checklist humano era amostral e não pegava defasagem do
+snapshot. A comparação com o portal cobre 1 norma por parte por padrão e
+todas as 35.776 com `--tudo`, sem depender de pessoa.
+
+**Correção da defasagem (24/10/2026):** `npm run atualizar -- --refazer`
+rebaixa o corpo de todas as normas a partir do manifesto, preserva a
+curadoria e só rebaixa status — norma fora de vigor nunca volta a `em_vigor`
+sem revisão humana.
 
 ## ADR-12 — Referências cruzadas na fase 2
 
