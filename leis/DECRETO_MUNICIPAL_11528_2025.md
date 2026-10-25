@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 11528
   - Decreto Municipal nº 11528
   - Decreto Municipal 11528
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511528"
 coletado_em: "2026-10-21"
 sha256_raw: a673709d8e74043e37b1ae04eb0e60f3f0b0361b64c15139bb732fa606e5c5e4

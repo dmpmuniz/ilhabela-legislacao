@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 147
   - Decreto Municipal nº 147
   - Decreto Municipal 147
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100147&NroLei=147&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "29dc10bec4aaa3b82628caf51cc6e0694f9baec69ebf687d2879335565f596e6"

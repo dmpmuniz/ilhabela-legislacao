@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1958
   - Decreto Municipal nº 1958
   - Decreto Municipal 1958
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001958&NroLei=1.958&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "3663af4872841a131e8864eb9ed955a3180aac0588fc831139131a65c6da02ab"

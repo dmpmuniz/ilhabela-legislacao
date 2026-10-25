@@ -16,17 +16,10 @@ aliases:
   - Lei 734
   - Lei nº 734
 palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
   - segurança pública
   - guarda municipal
   - defesa do consumidor
 tags_auto:
-  - transporte
-  - mobilidade_urbana
   - seguranca
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19980734&NroLei=734&Word=&Word2="
 coletado_em: "2026-10-11"

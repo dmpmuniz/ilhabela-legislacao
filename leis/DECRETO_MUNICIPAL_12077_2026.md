@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 12077
   - Decreto Municipal nº 12077
   - Decreto Municipal 12077
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612077"
 coletado_em: "2026-10-11"
 sha256_raw: ee1a23eadd98bb286142fe35d208523b44665461b9a32d9ed2cff9d18f8294b9

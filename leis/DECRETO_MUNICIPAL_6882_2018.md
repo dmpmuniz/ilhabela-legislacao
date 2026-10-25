@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6882
   - Decreto Municipal nº 6882
   - Decreto Municipal 6882
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806882"
 coletado_em: "2026-10-11"
 sha256_raw: "512b9f369641ca2415a439bbd513633662272e089a00940ebf05ed37ee216582"

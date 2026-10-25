@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1956
   - Decreto Municipal nº 1956
   - Decreto Municipal 1956
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001956&NroLei=1.956&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "04f2f2eaf0ad892476f07bc5a3afc9a837ea0e89f3d09551f8f26e54643afbc5"

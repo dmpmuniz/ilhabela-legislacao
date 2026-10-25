@@ -15,15 +15,6 @@ aliases:
   - Lei nº 1372/2019
   - Lei 1372
   - Lei nº 1372
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20191372"
 coletado_em: "2026-10-11"
 sha256_raw: f87d79c086a2de1c624a7d34e9ec1765744a95c20f2d432fe26fb3c164923b78

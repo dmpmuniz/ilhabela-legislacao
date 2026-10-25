@@ -16,15 +16,6 @@ aliases:
   - Lei nº 942/2000
   - Lei 942
   - Lei nº 942
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20000942"
 coletado_em: "2026-10-21"
 sha256_raw: "9de2e236166096761ebc8413162dae3351eca6014a77f3707c1dd53beb79b0ac"

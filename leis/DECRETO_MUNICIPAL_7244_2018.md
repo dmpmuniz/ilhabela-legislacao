@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 7244
   - Decreto Municipal nº 7244
   - Decreto Municipal 7244
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807244"
 coletado_em: "2026-10-11"
 sha256_raw: "792617eadf42ffbe8619c5255406bfc677a11087544ecd2942c731499c5c74cc"

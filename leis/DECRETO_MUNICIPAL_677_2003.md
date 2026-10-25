@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 677
   - Decreto Municipal nº 677
   - Decreto Municipal 677
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300677&NroLei=677&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "3fe483c69e46b8236a5a6c5680a8c4017f6d98cb0b838e73e2f86b4ae111cbc2"

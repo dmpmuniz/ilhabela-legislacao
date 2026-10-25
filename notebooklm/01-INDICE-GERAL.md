@@ -21,21 +21,21 @@ Cada arquivo cobre o período indicado no inventário abaixo — para uma época
 |---|---|---|---|---|
 | lei-organica-e-emendas-1990.md | Lei Orgânica e Emendas | 1990 | 1 | 15.281 |
 | estatuto-dos-servidores-e-alteracoes-2003-2026.md | Estatuto dos Servidores e Alterações | 2003–2026 | 18 | 49.096 |
-| leis-1956-2003.md | Leis Municipais | 1956–2003 | 664 | 331.408 |
-| leis-2003-2015.md | Leis Municipais | 2003–2015 | 635 | 328.632 |
-| leis-2015-2026.md | Leis Municipais | 2015–2026 | 519 | 326.929 |
+| leis-1956-2003.md | Leis Municipais | 1956–2003 | 664 | 331.368 |
+| leis-2003-2015.md | Leis Municipais | 2003–2015 | 635 | 328.612 |
+| leis-2015-2026.md | Leis Municipais | 2015–2026 | 519 | 326.896 |
 | leis-2026.md | Leis Municipais | 2026 | 52 | 45.608 |
 | leis-complementares-2001-2026.md | Leis Complementares | 2001–2026 | 60 | 116.809 |
-| decretos-1975-2013.md | Decretos Municipais | 1975–2013 | 939 | 343.420 |
-| decretos-2013-2019.md | Decretos Municipais | 2013–2019 | 663 | 330.251 |
-| decretos-2019-2022.md | Decretos Municipais | 2019–2022 | 835 | 342.107 |
-| decretos-2022-2025.md | Decretos Municipais | 2022–2025 | 874 | 351.508 |
-| decretos-2025-2026.md | Decretos Municipais | 2025–2026 | 397 | 247.836 |
-| decretos-de-nomeacao-e-exoneracao-1995-2010.md | Decretos de Nomeação e Exoneração | 1995–2010 | 1.694 | 394.876 |
-| decretos-de-nomeacao-e-exoneracao-2010-2015.md | Decretos de Nomeação e Exoneração | 2010–2015 | 1.868 | 392.368 |
-| decretos-de-nomeacao-e-exoneracao-2015-2017.md | Decretos de Nomeação e Exoneração | 2015–2017 | 1.616 | 380.537 |
-| decretos-de-nomeacao-e-exoneracao-2017-2024.md | Decretos de Nomeação e Exoneração | 2017–2024 | 1.600 | 389.016 |
-| decretos-de-nomeacao-e-exoneracao-2024-2026.md | Decretos de Nomeação e Exoneração | 2024–2026 | 482 | 128.242 |
+| decretos-1975-2013.md | Decretos Municipais | 1975–2013 | 939 | 343.400 |
+| decretos-2013-2019.md | Decretos Municipais | 2013–2019 | 663 | 330.229 |
+| decretos-2019-2022.md | Decretos Municipais | 2019–2022 | 835 | 342.063 |
+| decretos-2022-2025.md | Decretos Municipais | 2022–2025 | 874 | 351.486 |
+| decretos-2025-2026.md | Decretos Municipais | 2025–2026 | 397 | 247.814 |
+| decretos-de-nomeacao-e-exoneracao-1995-2010.md | Decretos de Nomeação e Exoneração | 1995–2010 | 1.694 | 394.497 |
+| decretos-de-nomeacao-e-exoneracao-2010-2015.md | Decretos de Nomeação e Exoneração | 2010–2015 | 1.868 | 392.280 |
+| decretos-de-nomeacao-e-exoneracao-2015-2017.md | Decretos de Nomeação e Exoneração | 2015–2017 | 1.616 | 380.471 |
+| decretos-de-nomeacao-e-exoneracao-2017-2024.md | Decretos de Nomeação e Exoneração | 2017–2024 | 1.600 | 388.941 |
+| decretos-de-nomeacao-e-exoneracao-2024-2026.md | Decretos de Nomeação e Exoneração | 2024–2026 | 482 | 128.215 |
 | portarias-de-readaptacao-2017-2026.md | Portarias de Readaptação | 2017–2026 | 191 | 57.188 |
 | portarias-de-nomeacao-e-exoneracao-2016-2026.md | Portarias de Nomeação e Exoneração | 2016–2026 | 674 | 206.487 |
 | portarias-de-provimento-e-posse-2023-2026.md | Portarias de Provimento e Posse | 2023–2026 | 223 | 67.135 |
@@ -47,17 +47,17 @@ Cada arquivo cobre o período indicado no inventário abaixo — para uma época
 | portarias-de-ferias-e-licencas-2020.md | Portarias de Férias e Licenças | 2020 | 2.111 | 374.788 |
 | portarias-de-ferias-e-licencas-2020-2024.md | Portarias de Férias e Licenças | 2020–2024 | 1.594 | 363.868 |
 | portarias-de-ferias-e-licencas-2024-2026.md | Portarias de Férias e Licenças | 2024–2026 | 881 | 208.545 |
-| portarias-de-designacao-e-comissoes-2015-2025.md | Portarias de Designação e Comissões | 2015–2025 | 959 | 181.898 |
+| portarias-de-designacao-e-comissoes-2015-2025.md | Portarias de Designação e Comissões | 2015–2025 | 959 | 181.843 |
 | portarias-de-gratificacao-e-premios-2015-2026.md | Portarias de Gratificação, Adicionais e Prêmios | 2015–2026 | 794 | 159.465 |
 | portarias-diversas-2015-2020.md | Portarias Diversas | 2015–2020 | 2.080 | 357.713 |
 | portarias-diversas-2020-2026.md | Portarias Diversas | 2020–2026 | 706 | 118.748 |
 | resolucoes-e-atos-especiais-1805-2024.md | Resoluções e Atos Especiais | 1805–2024 | 13 | 6.113 |
 | leis-revogadas-1956-2003.md | Leis Revogadas | 1956–2003 | 356 | 316.476 |
-| leis-revogadas-2003-2024.md | Leis Revogadas | 2003–2024 | 164 | 176.183 |
-| decretos-revogados-1997-2022.md | Decretos Revogados | 1997–2022 | 736 | 335.631 |
-| decretos-revogados-2022-2026.md | Decretos Revogados | 2022–2026 | 391 | 207.104 |
+| leis-revogadas-2003-2024.md | Leis Revogadas | 2003–2024 | 164 | 176.174 |
+| decretos-revogados-1997-2022.md | Decretos Revogados | 1997–2022 | 736 | 335.622 |
+| decretos-revogados-2022-2026.md | Decretos Revogados | 2022–2026 | 391 | 207.075 |
 | portarias-revogadas-2015-2026.md | Portarias Revogadas | 2015–2026 | 392 | 119.907 |
-| normas-expiradas-e-cassadas-1956-2007.md | Normas Expiradas, Anuladas, Inconstitucionais e Suspensas | 1956–2007 | 810 | 338.356 |
+| normas-expiradas-e-cassadas-1956-2007.md | Normas Expiradas, Anuladas, Inconstitucionais e Suspensas | 1956–2007 | 810 | 338.334 |
 | normas-expiradas-e-cassadas-2007-2018.md | Normas Expiradas, Anuladas, Inconstitucionais e Suspensas | 2007–2018 | 379 | 318.782 |
 | normas-expiradas-e-cassadas-2018-2026.md | Normas Expiradas, Anuladas, Inconstitucionais e Suspensas | 2018–2026 | 350 | 180.643 |
 

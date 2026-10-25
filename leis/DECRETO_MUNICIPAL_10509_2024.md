@@ -24,17 +24,10 @@ palavras_chave_auto:
   - concurso público
   - plano de cargos
   - vencimentos
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
 tags_auto:
   - servidor_publico
   - rh
   - cargos
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410509"
 coletado_em: "2026-10-21"
 sha256_raw: "834c808ca6c45bd9190af8418a66d2990e90a09d39a6c4987be494286f18159f"

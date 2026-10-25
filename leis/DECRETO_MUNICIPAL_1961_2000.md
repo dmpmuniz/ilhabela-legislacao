@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1961
   - Decreto Municipal nº 1961
   - Decreto Municipal 1961
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001961&NroLei=1.961&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "236988441dfb40e8c1f69ed4de93aef560694216cf204fb5fc9bfdb8a1c2c839"

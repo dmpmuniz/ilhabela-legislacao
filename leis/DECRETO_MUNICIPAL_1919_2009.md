@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1919
   - Decreto Municipal nº 1919
   - Decreto Municipal 1919
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200901919&NroLei=1.919&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: f7cefa953c0952ccbd70e36f336b936632e03f16756a8f5ca8f76c69311c806c

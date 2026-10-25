@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 664
   - Decreto Municipal nº 664
   - Decreto Municipal 664
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300664&NroLei=664&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: fb0dd69d18d924fbd069f053e92a938affe26fcbcfb381f5e1d06e8794dfcba1

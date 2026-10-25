@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 797
   - Decreto Municipal nº 797
   - Decreto Municipal 797
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200400797&NroLei=797&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "29747f0db3e25a3f3663938405f53f12069187c2fd3ca31ab73d410e6dfd5c9e"

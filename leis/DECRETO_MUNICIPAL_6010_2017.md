@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6010
   - Decreto Municipal nº 6010
   - Decreto Municipal 6010
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706010"
 coletado_em: "2026-10-11"
 sha256_raw: f2b8c4049ef44a51ea8eaaa0c7ee91e846a56e461c1936d85e22d9db85638e23

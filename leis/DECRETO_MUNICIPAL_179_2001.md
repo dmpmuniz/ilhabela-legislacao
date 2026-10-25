@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 179
   - Decreto Municipal nº 179
   - Decreto Municipal 179
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100179&NroLei=179&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "7a66ad2cfe5d5688dfc02dde285d7cb42ee2cc62e0c5e7260cf312852ccfc924"

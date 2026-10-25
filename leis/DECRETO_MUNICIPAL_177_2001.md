@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 177
   - Decreto Municipal nº 177
   - Decreto Municipal 177
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100177&NroLei=177&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "4e97a3cd26270ccff037ef50a4b327f3653948e2bf0616c27f145ba41e21c06e"

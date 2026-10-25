@@ -23,11 +23,6 @@ palavras_chave_auto:
   - concurso público
   - plano de cargos
   - vencimentos
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
   - estrutura administrativa
   - secretaria municipal
   - criação de órgão
@@ -36,8 +31,6 @@ tags_auto:
   - servidor_publico
   - rh
   - cargos
-  - transporte
-  - mobilidade_urbana
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612030"

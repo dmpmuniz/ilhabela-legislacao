@@ -15,15 +15,6 @@ aliases:
   - Lei nº 639/1997
   - Lei 639
   - Lei nº 639
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19970639&NroLei=639&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "27bf5ca4ed3abfd9a5ba85092b00d36c1c754a0f968af28afc15d14a454b5421"

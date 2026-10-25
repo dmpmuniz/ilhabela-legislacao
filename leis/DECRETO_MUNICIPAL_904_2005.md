@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 904
   - Decreto Municipal nº 904
   - Decreto Municipal 904
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200500904&NroLei=904&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "6a856c3d0c1c7f1c99792f332dafb109a88d2c768e17ecf7ada2c01ed83c2828"

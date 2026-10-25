@@ -21,15 +21,8 @@ palavras_chave_auto:
   - professor
   - merenda escolar
   - creche
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
 tags_auto:
   - educacao
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070540&NroLei=540&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: e6ac225b1fba8e9754b0f2d0bc212971b05c997e2af5984d7e9da60f22ec4bce

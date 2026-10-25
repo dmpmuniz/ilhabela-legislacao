@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 5512
   - Decreto Municipal nº 5512
   - Decreto Municipal 5512
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201605512"
 coletado_em: "2026-10-11"
 sha256_raw: "09cc846310e4aa04eae831ef0ee4f1f525dd66c3bdc55fa2974b579e2b98c846"

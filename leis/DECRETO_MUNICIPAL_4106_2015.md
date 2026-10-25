@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 4106
   - Decreto Municipal nº 4106
   - Decreto Municipal 4106
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504106&NroLei=4.106&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "795433739418395d2fc1ed88f85fdaf170c3cf68665195e016347f4108bf5be8"

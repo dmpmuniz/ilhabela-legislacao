@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6434
   - Decreto Municipal nº 6434
   - Decreto Municipal 6434
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706434"
 coletado_em: "2026-10-11"
 sha256_raw: "55f8ffafc603f51573b92bc6a4baba19dd8b4148dfcd2ee0e69513805ba29c29"

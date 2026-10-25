@@ -15,15 +15,6 @@ aliases:
   - Portaria nº 788/2022
   - Portaria 788
   - Portaria nº 788
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022788"
 coletado_em: "2026-10-11"
 sha256_raw: "1e2d1ed70f6869c0c277d8c52b4aa46ae2e4475af3734889b44b6afd98cf0b3e"

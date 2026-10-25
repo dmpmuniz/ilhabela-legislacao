@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 905
   - Decreto Municipal nº 905
   - Decreto Municipal 905
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200500905&NroLei=905&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "6595c27799148585401c6316805d4dd82bc80c4069ba5b5912690d369be82242"

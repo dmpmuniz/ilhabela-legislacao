@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 8126
   - Decreto Municipal nº 8126
   - Decreto Municipal 8126
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202008126"
 coletado_em: "2026-10-11"
 sha256_raw: "60274f9b7f785f0e60da34677e7c14db20e56047ff9d444ab338929ae396d80b"

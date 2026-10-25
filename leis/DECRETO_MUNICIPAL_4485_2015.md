@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 4485
   - Decreto Municipal nº 4485
   - Decreto Municipal 4485
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504485&NroLei=4.485&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "1603d5fba30c0d17913c4e1450e881f14a8cc9fe663c8592e1a5233f7656b59e"

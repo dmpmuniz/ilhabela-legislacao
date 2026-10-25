@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6624
   - Decreto Municipal nº 6624
   - Decreto Municipal 6624
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706624"
 coletado_em: "2026-10-11"
 sha256_raw: "16e23b22a8952992646e514af3ddd9836a280db3f71fc7cacbb7a9946c1b1dbe"

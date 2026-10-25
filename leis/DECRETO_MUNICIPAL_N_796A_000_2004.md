@@ -21,15 +21,6 @@ aliases:
   - Decreto 796/A/2004
   - Decreto 796/A
   - Decreto nº 796/A
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2004007960&NroLei=796/A&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "649b4b33bc4b3cb5c8f434973073374b27ac1ace4ac1f9ceea3ed3ad5a33e6cc"

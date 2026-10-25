@@ -36120,7 +36120,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ref:** ilh-2022-dec-9105 · **Tipo:** Decreto · **Ano:** 2022 · **Status:** revogada
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA OCUPAR O CARGO EM COMISSÃO DE DIRETOR DE TRÂNSITO, LOTADO NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209105
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 9.105, DE 07/03/2022
 DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA OCUPAR O CARGO EM COMISSÃO DE DIRETOR DE TRÂNSITO, LOTADO NA SECRETARIA DE MOBILIDADE E SEGURANÇA.

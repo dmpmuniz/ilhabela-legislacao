@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 10721
   - Decreto Municipal nº 10721
   - Decreto Municipal 10721
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410721"
 coletado_em: "2026-10-11"
 sha256_raw: "111acec3d04b63de4526499d58db4a395740138bd050d806d09661a9baf9cb67"

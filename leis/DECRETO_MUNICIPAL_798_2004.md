@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 798
   - Decreto Municipal nº 798
   - Decreto Municipal 798
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200400798&NroLei=798&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: fa939553977742a3984d55d51411c9df093f8535775d27cdb80a0366a23531d0

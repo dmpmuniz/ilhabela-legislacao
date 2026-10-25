@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 5173
   - Decreto Municipal nº 5173
   - Decreto Municipal 5173
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201505173"
 coletado_em: "2026-10-11"
 sha256_raw: "44d7e9a8d70918859698e9c0d9c66b66be821c46d359292c59e0cc9d6bb3c12a"

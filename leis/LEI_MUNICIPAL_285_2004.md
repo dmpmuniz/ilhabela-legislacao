@@ -15,15 +15,6 @@ aliases:
   - Lei nº 285/2004
   - Lei 285
   - Lei nº 285
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20040285&NroLei=285&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: cbda22d9849a894cc9fadcf51ff548f98db5b93e58617a04cb84b3db7386017d

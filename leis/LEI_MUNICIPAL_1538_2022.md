@@ -15,15 +15,6 @@ aliases:
   - Lei nº 1538/2022
   - Lei 1538
   - Lei nº 1538
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20221538"
 coletado_em: "2026-10-11"
 sha256_raw: "5cd309cc115662fce8f03f027c4f399e2a4498f0457d68656abb9677bee23987"

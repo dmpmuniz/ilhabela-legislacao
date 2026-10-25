@@ -10693,7 +10693,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DE MARCOS GOMES DE OLIVEIRA DO CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, LOTADO NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
 > **Efeitos a partir de:** 2025-10-09
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511522
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 11.522, DE 14/10/2025
 DISPÕE SOBRE A EXONERAÇÃO DE MARCOS GOMES DE OLIVEIRA DO CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, LOTADO NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
@@ -16412,7 +16412,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ref:** ilh-2026-dec-12025 · **Tipo:** Decreto · **Ano:** 2026 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DE MARCEL LUIZ GIORGETI SANTOS DO CARGO DE CHEFE DE DIRETORIA DE TRÂNSITO, LOTADO NA SECRETARIA MUNICIPAL DE MOBILIDADE E SEGURANÇA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612025
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus, estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
+> **Palavras-chave:** estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
 DECRETO MUNICIPAL Nº 12.025, DE 12/08/2026
 DISPÕE SOBRE A EXONERAÇÃO DE MARCEL LUIZ GIORGETI SANTOS DO CARGO DE CHEFE DE DIRETORIA DE TRÂNSITO, LOTADO NA SECRETARIA MUNICIPAL DE MOBILIDADE E SEGURANÇA.
@@ -16542,7 +16542,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ref:** ilh-2026-dec-12030 · **Tipo:** Decreto · **Ano:** 2026 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE EDIMAR ARAUJO DOS SANTOS PARA O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA MUNICIPAL DE MOBILIDADE E SEGURANÇA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612030
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus, estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, estrutura administrativa, secretaria municipal, criação de órgão, estrutura organizacional
 
 DECRETO MUNICIPAL Nº 12.030, DE 12/08/2026
 DISPÕE SOBRE A NOMEAÇÃO DE EDIMAR ARAUJO DOS SANTOS PARA O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA MUNICIPAL DE MOBILIDADE E SEGURANÇA.

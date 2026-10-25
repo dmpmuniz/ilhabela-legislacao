@@ -15,15 +15,6 @@ aliases:
   - Portaria nº 866/2024
   - Portaria 866
   - Portaria nº 866
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024866"
 coletado_em: "2026-10-11"
 sha256_raw: "16ce852a9f3da314512c1ab809fbee26854a418296fb33a67ba04d06965e47f6"

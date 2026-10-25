@@ -16223,7 +16223,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
 > **Efeitos a partir de:** 2025-01-02
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511027
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 11.027, DE 17/01/2025
 DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
@@ -19555,7 +19555,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MARCEL LUIZ GIORGETI SANTOS PARA O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, LOTADO NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
 > **Efeitos a partir de:** 2025-10-10
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511523
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 11.523, DE 14/10/2025
 DISPÕE SOBRE A NOMEAÇÃO DE MARCEL LUIZ GIORGETI SANTOS PARA O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, LOTADO NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
@@ -19584,7 +19584,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ref:** ilh-2025-dec-11528 · **Tipo:** Decreto · **Ano:** 2025 · **Status:** revogada
 > **Ementa:** DISPÕE SOBRE DESIGNAÇÃO DA AUTORIDADE DE TRÂNSITO DO MUNICÍPIO DE ILHABELA.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202511528
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 11.528, DE 20/10/2025
 DISPÕE SOBRE DESIGNAÇÃO DA AUTORIDADE DE TRÂNSITO DO MUNICÍPIO DE ILHABELA.

@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 8759
   - Decreto Municipal nº 8759
   - Decreto Municipal 8759
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108759"
 coletado_em: "2026-10-11"
 sha256_raw: cbcfc1955c55c73f197323ff1cfba6275debc709dddc495c7ed51fc6cd1d1998

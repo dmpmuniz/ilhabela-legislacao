@@ -5893,7 +5893,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4879 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADROALDO CARLOS DE MORAES SILVA, PARA EXERCER EM COMISSÃO O CARGO DE CHEFIA DE FISCALIZAÇÃO DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504879
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.879, DE 13/07/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADROALDO CARLOS DE MORAES SILVA, PARA EXERCER EM COMISSÃO O CARGO DE CHEFIA DE FISCALIZAÇÃO DE TRÂNSITO.
@@ -17734,7 +17733,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2016-dec-5512 · **Tipo:** Decreto · **Ano:** 2016 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DO SENHOR ALEX MAIA CORDEIRO, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201605512
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 5.512, DE 23/06/2016
 DISPÕE SOBRE A EXONERAÇÃO DO SENHOR ALEX MAIA CORDEIRO, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -27613,7 +27611,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. SAJ/VS
 > **Ref:** ilh-2017-dec-6010 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LEONARDO DE PINHO, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706010
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.010, DE 11/01/2017
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LEONARDO DE PINHO, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE TRÂNSITO.
@@ -27753,7 +27750,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. SAJ/VS
 > **Ref:** ilh-2017-dec-6016 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADROALDO CARLOS DE MORAES SILVA, PARA EXERCER EM COMISSÃO O CARGO DE CHEFIA DE FISCALIZAÇÃO DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706016
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.016, DE 11/01/2017
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADROALDO CARLOS DE MORAES SILVA, PARA EXERCER EM COMISSÃO O CARGO DE CHEFIA DE FISCALIZAÇÃO DE TRÂNSITO.
@@ -35858,7 +35854,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. SAJ/VS
 > **Ref:** ilh-2017-dec-6434 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LEONARDO DE PINHO, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE CONTROLE DE TRÂNSITO E TRANSPORTE.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706434
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.434, DE 01/08/2017
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LEONARDO DE PINHO, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE CONTROLE DE TRÂNSITO E TRANSPORTE.
@@ -42099,7 +42094,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ref:** ilh-2017-dec-6624 · **Tipo:** Decreto · **Ano:** 2017 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADROALDO CARLOS DE MORAES, PARA EXERCER EM COMISSÃO O CARGO DE GESTOR DE DIVISÃO DE FISCALIZAÇÃO DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706624
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.624, DE 18/09/2017
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADROALDO CARLOS DE MORAES, PARA EXERCER EM COMISSÃO O CARGO DE GESTOR DE DIVISÃO DE FISCALIZAÇÃO DE TRÂNSITO.

@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 9919
   - Decreto Municipal nº 9919
   - Decreto Municipal 9919
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202309919"
 coletado_em: "2026-10-11"
 sha256_raw: "517c4905ac7bbdae90211985f54607ae5108547d5eb768da9467e83cd7780d3a"

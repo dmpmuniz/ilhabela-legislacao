@@ -11469,7 +11469,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ref:** ilh-2007-lei-474 · **Tipo:** Lei · **Ano:** 2007 · **Status:** revogada
 > **Ementa:** ALTERA A REFERÊNCIA SALARIAL DOS AGENTES MUNICIPAIS DE TRÂNSITO, CONSTANTE DO QUADRO DE PESSOAL - PARTE PERMANENTE E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20070474
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 LEI MUNICIPAL Nº 474, DE 18/05/2007
 ALTERA A REFERÊNCIA SALARIAL DOS AGENTES MUNICIPAIS DE TRÂNSITO, CONSTANTE DO QUADRO DE PESSOAL - PARTE PERMANENTE E DÁ OUTRAS PROVIDÊNCIAS.

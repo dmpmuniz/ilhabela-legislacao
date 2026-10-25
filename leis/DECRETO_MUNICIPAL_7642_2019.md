@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 7642
   - Decreto Municipal nº 7642
   - Decreto Municipal 7642
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201907642"
 coletado_em: "2026-10-11"
 sha256_raw: "84a8aac24653fa0a8b81332858f3eea7ecc44e8f6b2565263848eed7577fada7"

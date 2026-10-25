@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1960
   - Decreto Municipal nº 1960
   - Decreto Municipal 1960
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001960&NroLei=1.960&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: c5ab0b2fb9abb11617473ccf568b9e9298535bde804f603f61ca2d51912bd233

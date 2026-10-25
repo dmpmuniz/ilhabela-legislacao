@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 283
   - Decreto Municipal nº 283
   - Decreto Municipal 283
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200283&NroLei=283&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "5ee89dd79e06dfc239d82c3a8f295917f063bd5330d654b058df027a61b15385"

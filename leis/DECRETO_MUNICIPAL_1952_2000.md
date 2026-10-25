@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1952
   - Decreto Municipal nº 1952
   - Decreto Municipal 1952
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001952&NroLei=1.952&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "74d780a0300a38133e653aaf17937f231162fcaf6c4e56d80a893bf933408db3"

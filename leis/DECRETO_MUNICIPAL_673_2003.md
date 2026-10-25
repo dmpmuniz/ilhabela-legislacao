@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 673
   - Decreto Municipal nº 673
   - Decreto Municipal 673
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300673&NroLei=673&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "1990d1a35d4df4338c2ca4c8968b4a932084ddab3759d1a5d8222256b53c4d05"

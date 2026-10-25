@@ -16,17 +16,10 @@ aliases:
   - Lei 640
   - Lei nº 640
 palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
   - segurança pública
   - guarda municipal
   - defesa do consumidor
 tags_auto:
-  - transporte
-  - mobilidade_urbana
   - seguranca
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19970640&NroLei=640&Word=&Word2="
 coletado_em: "2026-10-11"

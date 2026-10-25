@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 2755
   - Decreto Municipal nº 2755
   - Decreto Municipal 2755
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201102755&NroLei=2.755&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: d9fb6dd4738649fb73d3c0eb27c84665116e321bd856c386d1448679e54ff364

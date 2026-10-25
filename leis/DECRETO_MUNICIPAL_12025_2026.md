@@ -18,18 +18,11 @@ aliases:
   - Decreto Municipal nº 12025
   - Decreto Municipal 12025
 palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
   - estrutura administrativa
   - secretaria municipal
   - criação de órgão
   - estrutura organizacional
 tags_auto:
-  - transporte
-  - mobilidade_urbana
   - administracao_publica
   - estrutura
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202612025"

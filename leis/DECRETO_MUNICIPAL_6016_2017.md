@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6016
   - Decreto Municipal nº 6016
   - Decreto Municipal 6016
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201706016"
 coletado_em: "2026-10-11"
 sha256_raw: "84c53a66e81dd82fc2de9a9755b3f1b79fd735a0ed1dad099137b39fc20ec98f"

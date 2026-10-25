@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 231
   - Decreto Municipal nº 231
   - Decreto Municipal 231
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100231&NroLei=231&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "0dd95a0db41ee1508e6360d874e36b6f6e712d3b058c1072add7c9c5c57e7020"

@@ -20072,7 +20072,6 @@ CPF.
 > **Ref:** ilh-1999-lei-784 · **Tipo:** Lei · **Ano:** 1999 · **Status:** expirada
 > **Ementa:** DISPÕE SOBRE A CONTRATAÇÃO, POR TEMPO DETERMINADO, DE AGENTES MUNICIPAIS DE TRÂNSITO E DÁ OUTRAS PROVIDÊNCIAS.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19990784
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 LEI MUNICIPAL Nº 784, DE 12/04/1999
 DISPÕE SOBRE A CONTRATAÇÃO, POR TEMPO DETERMINADO, DE AGENTES MUNICIPAIS DE TRÂNSITO E DÁ OUTRAS PROVIDÊNCIAS.
@@ -23259,7 +23258,6 @@ CONVÊNIO
 > **Ementa:** AUTORIZA O PODER EXECUTIVO MUNICIPAL A CUSTEAR DESPESAS COM A 306ª CIRCUNSCRIÇÃO REGIONAL DE TRÂNSITO - CIRETRAN DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.
 > **Efeitos a partir de:** 2000-12-31
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20000942
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 LEI MUNICIPAL Nº 942, DE 14/07/2000
 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CUSTEAR DESPESAS COM A 306ª CIRCUNSCRIÇÃO REGIONAL DE TRÂNSITO - CIRETRAN DE ILHABELA E DÁ OUTRAS PROVIDÊNCIAS.

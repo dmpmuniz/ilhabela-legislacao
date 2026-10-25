@@ -2317,7 +2317,7 @@ PJ/ccr/97.
 > **Ref:** ilh-1997-dec-1559 · **Tipo:** Decreto · **Ano:** 1997 · **Status:** em vigor
 > **Ementa:** NOMEIA O SENHOR JAMES ABOUD, PARA EXERCER CARGO EM COMISSÃO, DE DIRETOR DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=199701559&NroLei=1.559&Word=&Word2=
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 1.559, DE 20/10/1997
 NOMEIA O SENHOR JAMES ABOUD, PARA EXERCER CARGO EM COMISSÃO, DE DIRETOR DE TRÂNSITO.
@@ -5977,7 +5977,6 @@ PJ/rcm/00
 > **Ref:** ilh-2000-dec-1952 · **Tipo:** Decreto · **Ano:** 2000 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR EDUARDO NUNES DE SOUZA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001952&NroLei=1.952&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.952, DE 05/06/2000
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR EDUARDO NUNES DE SOUZA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -6090,7 +6089,6 @@ PJ/rcm/00
 > **Ref:** ilh-2000-dec-1956 · **Tipo:** Decreto · **Ano:** 2000 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR FELIPE DO VALE OLIVEIRA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001956&NroLei=1.956&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.956, DE 05/06/2000
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR FELIPE DO VALE OLIVEIRA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -6119,7 +6117,6 @@ PJ/rcm/00
 > **Ref:** ilh-2000-dec-1957 · **Tipo:** Decreto · **Ano:** 2000 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR PAULO CARVALHO MACHADO JUNIOR, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001957&NroLei=1.957&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.957, DE 05/06/2000
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR PAULO CARVALHO MACHADO JUNIOR, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -6148,7 +6145,6 @@ PJ/rcm/00
 > **Ref:** ilh-2000-dec-1958 · **Tipo:** Decreto · **Ano:** 2000 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WAGNER ANTÔNIO GONÇALVES, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001958&NroLei=1.958&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.958, DE 05/06/2000
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WAGNER ANTÔNIO GONÇALVES, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -6206,7 +6202,6 @@ PJ/rcm/00
 > **Ref:** ilh-2000-dec-1960 · **Tipo:** Decreto · **Ano:** 2000 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ANDERSON LUIS DOS SANTOS, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001960&NroLei=1.960&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.960, DE 05/06/2000
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ANDERSON LUIS DOS SANTOS, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -6235,7 +6230,6 @@ PJ/rcm/00
 > **Ref:** ilh-2000-dec-1961 · **Tipo:** Decreto · **Ano:** 2000 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR SÍLVIO DOS SANTOS MELLEGATTI, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001961&NroLei=1.961&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.961, DE 05/06/2000
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR SÍLVIO DOS SANTOS MELLEGATTI, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -9995,7 +9989,7 @@ PJ/rcm
 > **Ref:** ilh-2001-dec-017 · **Tipo:** Decreto · **Ano:** 2001 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LAUDELINO CARLOS DE SOUZA DIAS, PARA EXERCER O CARGO EM COMISSÃO DE DIRETOR DE DIVISÃO DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100017&NroLei=017&Word=&Word2=
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 017, DE 02/01/2001
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LAUDELINO CARLOS DE SOUZA DIAS, PARA EXERCER O CARGO EM COMISSÃO DE DIRETOR DE DIVISÃO DE TRÂNSITO.
@@ -12826,7 +12820,6 @@ PJ/dabsj
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DO SENHOR PAULO CARVALHO MACHADO JUNIOR, QUE EXERCE NO QUADRO DE FUNCIONÁRIOS PERMANENTE A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, NOMEADO ATRAVÉS DO DECRETO Nº 1.957/2000.
 > **Efeitos a partir de:** 2001-04-19
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100147&NroLei=147&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 147, DE 27/04/2001
 DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DO SENHOR PAULO CARVALHO MACHADO JUNIOR, QUE EXERCE NO QUADRO DE FUNCIONÁRIOS PERMANENTE A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, NOMEADO ATRAVÉS DO DECRETO Nº 1.957/2000.
@@ -13410,7 +13403,6 @@ PJ/dabsj
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LEONARDO DE PINHO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Efeitos a partir de:** 2001-05-14
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100177&NroLei=177&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 177, DE 16/05/2001
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LEONARDO DE PINHO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -13440,7 +13432,6 @@ PJ/dabsj
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCELO DO NASCIMENTO ROCHA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Efeitos a partir de:** 2001-05-14
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100178&NroLei=178&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 178, DE 16/05/2001
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCELO DO NASCIMENTO ROCHA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -13470,7 +13461,6 @@ PJ/dabsj
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR RICARDO SEVERINO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Efeitos a partir de:** 2001-05-14
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100179&NroLei=179&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 179, DE 16/05/2001
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR RICARDO SEVERINO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -13733,7 +13723,7 @@ PJ/rcm
 > **Ref:** ilh-2001-dec-203 · **Tipo:** Decreto · **Ano:** 2001 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WILSON ANTÔNIO DA SILVA, PARA EXERCER O CARGO EM COMISSÃO DE CHEFE DE SEÇÃO DE CONFECÇÃO, IMPLANTAÇÃO E MANUTENÇÃO DE SINALIZAÇÃO DE TRÂNSITO - CAT I.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100203&NroLei=203&Word=&Word2=
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 203, DE 04/07/2001
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WILSON ANTÔNIO DA SILVA, PARA EXERCER O CARGO EM COMISSÃO DE CHEFE DE SEÇÃO DE CONFECÇÃO, IMPLANTAÇÃO E MANUTENÇÃO DE SINALIZAÇÃO DE TRÂNSITO - CAT I.
@@ -13951,7 +13941,6 @@ PJ/rcm
 > **Ref:** ilh-2001-dec-231 · **Tipo:** Decreto · **Ano:** 2001 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADILSON AMARAL PEREIRA PARA EXERCER, EM COMISSÃO, O CARGO DE CHEFE DE SEÇÃO DE CONTROLE DE MULTAS DE TRÂNSITO E IPVA - CAT.II.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100231&NroLei=231&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 231, DE 21/09/2001
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ADILSON AMARAL PEREIRA PARA EXERCER, EM COMISSÃO, O CARGO DE CHEFE DE SEÇÃO DE CONTROLE DE MULTAS DE TRÂNSITO E IPVA - CAT.II.
@@ -14409,7 +14398,6 @@ PJ/dabsj
 > **Ref:** ilh-2002-dec-276 · **Tipo:** Decreto · **Ano:** 2002 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LUCIANO DE SOUZA AQUINO, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200276&NroLei=276&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 276, DE 04/01/2002
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LUCIANO DE SOUZA AQUINO, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -14438,7 +14426,6 @@ PJ/dabsj
 > **Ref:** ilh-2002-dec-277 · **Tipo:** Decreto · **Ano:** 2002 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR EDUARDO NASCIMENTO JESUS, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200277&NroLei=277&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 277, DE 04/01/2002
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR EDUARDO NASCIMENTO JESUS, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -14467,7 +14454,6 @@ PJ/dabsj
 > **Ref:** ilh-2002-dec-278 · **Tipo:** Decreto · **Ano:** 2002 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR BENEDITO AMARILDO DA SILVA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200278&NroLei=278&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 278, DE 04/01/2002
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR BENEDITO AMARILDO DA SILVA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -14496,7 +14482,6 @@ PJ/dabsj
 > **Ref:** ilh-2002-dec-279 · **Tipo:** Decreto · **Ano:** 2002 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCO ANTÔNIO VIEIRA DE ARAÚJO, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200279&NroLei=279&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 279, DE 04/01/2002
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCO ANTÔNIO VIEIRA DE ARAÚJO, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -14525,7 +14510,6 @@ PJ/dabsj
 > **Ref:** ilh-2002-dec-280 · **Tipo:** Decreto · **Ano:** 2002 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCIAL FERREIRA DE JESUS, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200280&NroLei=280&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 280, DE 04/01/2002
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCIAL FERREIRA DE JESUS, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -14610,7 +14594,6 @@ PJ/dabsj
 > **Ref:** ilh-2002-dec-283 · **Tipo:** Decreto · **Ano:** 2002 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCOS GOMES DE OLIVEIRA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200283&NroLei=283&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 283, DE 10/01/2002
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCOS GOMES DE OLIVEIRA, PARA EXERCER, NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO, DE ACORDO COM O DECRETO Nº 1.875/2000.
@@ -21743,7 +21726,6 @@ PJ/dabsj
 > **Ref:** ilh-2003-dec-663 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DO SENHOR LAUDELINO CARLOS DE SOUZA DIAS, QUE EXERCE EM COMISSÃO O CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO, NOMEADO ATRAVÉS DO DECRETO Nº 017/2001.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300663&NroLei=663&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 663, DE 17/11/2003
 DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DO SENHOR LAUDELINO CARLOS DE SOUZA DIAS, QUE EXERCE EM COMISSÃO O CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO, NOMEADO ATRAVÉS DO DECRETO Nº 017/2001.
@@ -21769,7 +21751,6 @@ PJ/dabsj
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JAMES ABOUD, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO.
 > **Efeitos a partir de:** 2003-11-18
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300664&NroLei=664&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 664, DE 17/11/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR JAMES ABOUD, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO.
@@ -21896,7 +21877,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-671 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ALEX MAIA CORDEIRO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300671&NroLei=671&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 671, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ALEX MAIA CORDEIRO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -21925,7 +21905,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-672 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR BRUNO LICEN, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300672&NroLei=672&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 672, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR BRUNO LICEN, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -21954,7 +21933,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-673 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR SIDNEI DA SILVA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300673&NroLei=673&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 673, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR SIDNEI DA SILVA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -22010,7 +21988,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-675 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR FLÁVIO CÉSAR DA SILVA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300675&NroLei=675&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 675, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR FLÁVIO CÉSAR DA SILVA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -22066,7 +22043,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-677 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCOS FERNANDES MARCONDES, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300677&NroLei=677&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 677, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCOS FERNANDES MARCONDES, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -22095,7 +22071,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-678 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ANTÔNIO CARLOS LEITE DE SIQUEIRA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300678&NroLei=678&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 678, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ANTÔNIO CARLOS LEITE DE SIQUEIRA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -22124,7 +22099,6 @@ PJ/rcm
 > **Ref:** ilh-2003-dec-679 · **Tipo:** Decreto · **Ano:** 2003 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MAXIMILIANO DOS SANTOS SOUZA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300679&NroLei=679&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 679, DE 04/12/2003
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MAXIMILIANO DOS SANTOS SOUZA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -22849,7 +22823,6 @@ PJ/rcm
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR DANIEL DESIMONE DE OLIVEIRA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Efeitos a partir de:** 2004-01-02
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2004007960&NroLei=796/A&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 796/A, DE 12/05/2004
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR DANIEL DESIMONE DE OLIVEIRA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -24458,7 +24431,6 @@ PJ/rcm
 > **Ref:** ilh-2004-dec-797 · **Tipo:** Decreto · **Ano:** 2004 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ALEXANDRE LUIS DÓRIA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200400797&NroLei=797&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 797, DE 12/05/2004
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ALEXANDRE LUIS DÓRIA, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -24485,7 +24457,6 @@ PJ/rcm
 > **Ref:** ilh-2004-dec-798 · **Tipo:** Decreto · **Ano:** 2004 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ALDO DE JESUS AQUINO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200400798&NroLei=798&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 798, DE 12/05/2004
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR ALDO DE JESUS AQUINO, PARA EXERCER NO QUADRO DE FUNCIONÁRIOS PERMANENTE, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -26066,7 +26037,6 @@ PJ/rcm
 > **Ref:** ilh-2005-dec-904 · **Tipo:** Decreto · **Ano:** 2005 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DO SENHOR JAMES ABOUD, DO CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO, QUE EXERCE EM COMISSÃO, NOMEADO ATRAVÉS DO DECRETO Nº 664/2003.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200500904&NroLei=904&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 904, DE 06/01/2005
 DISPÕE SOBRE A EXONERAÇÃO DO SENHOR JAMES ABOUD, DO CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO, QUE EXERCE EM COMISSÃO, NOMEADO ATRAVÉS DO DECRETO Nº 664/2003.
@@ -26092,7 +26062,6 @@ PJ/rcm
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LAUDELINO CARLOS DE SOUZA DIAS, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO.
 > **Efeitos a partir de:** 2005-01-07
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200500905&NroLei=905&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 905, DE 06/01/2005
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LAUDELINO CARLOS DE SOUZA DIAS, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DIVISÃO DE TRÂNSITO.
@@ -44496,7 +44465,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2009-dec-1919 · **Tipo:** Decreto · **Ano:** 2009 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DO SENHOR BRUNO LICEN, QUE EXERCE NO QUADRO DE FUNCIONÁRIOS PERMANENTE A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200901919&NroLei=1.919&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 1.919, DE 30/06/2009
 DISPÕE SOBRE A EXONERAÇÃO DO SENHOR BRUNO LICEN, QUE EXERCE NO QUADRO DE FUNCIONÁRIOS PERMANENTE A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.

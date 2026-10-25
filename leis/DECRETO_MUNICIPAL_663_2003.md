@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 663
   - Decreto Municipal nº 663
   - Decreto Municipal 663
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300663&NroLei=663&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "2f7422971d121c4b04cd225a8443c8477d1333f9a380d488c64c539b685093a0"

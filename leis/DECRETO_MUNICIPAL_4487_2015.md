@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 4487
   - Decreto Municipal nº 4487
   - Decreto Municipal 4487
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504487&NroLei=4.487&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: ca89c25f8a3d232104e0ede69e5492fe8a79c1fd3ceb232406414eb5c025ada3

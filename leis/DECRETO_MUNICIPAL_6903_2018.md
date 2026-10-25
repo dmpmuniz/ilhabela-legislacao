@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6903
   - Decreto Municipal nº 6903
   - Decreto Municipal 6903
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806903"
 coletado_em: "2026-10-11"
 sha256_raw: "3b434397493e460f6bcfaad92cff46f0f1345c008e1c4ad1f29cee24976e86de"

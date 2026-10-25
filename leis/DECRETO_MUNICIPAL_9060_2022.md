@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 9060
   - Decreto Municipal nº 9060
   - Decreto Municipal 9060
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202209060"
 coletado_em: "2026-10-24"
 sha256_raw: c40b1741c60573891fa09aca22fd9820e9eedc8bd0faa63a062ea2e321fcadc5

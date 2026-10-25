@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 4556
   - Decreto Municipal nº 4556
   - Decreto Municipal 4556
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504556&NroLei=4.556&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: a19db7bf9796f2b434f07798d8ffc6e4cbcc9bbe1b56e7973977a59183a0fb54

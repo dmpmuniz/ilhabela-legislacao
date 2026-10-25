@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 277
   - Decreto Municipal nº 277
   - Decreto Municipal 277
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200277&NroLei=277&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: fa9398755a51586617f3bf68880b8cea4ab744d452061e819717e5bd83810382

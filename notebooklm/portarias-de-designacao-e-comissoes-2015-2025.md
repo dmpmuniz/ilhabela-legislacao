@@ -4300,7 +4300,6 @@ DRH/blr/2018.
 > **Ref:** ilh-2018-port-1111 · **Tipo:** Portaria · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DESIGNA O SENHOR DANIEL DESIMONE DE OLIVEIRA PARA SUBSTITUIR O CARGO DE DIRETOR DE DEPARTAMENTO DE CONTROLE DE TRANSITO E TRANSPORTE.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201801111
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 PORTARIA Nº 1.111, DE 04/07/2018
 DESIGNA O SENHOR DANIEL DESIMONE DE OLIVEIRA PARA SUBSTITUIR O CARGO DE DIRETOR DE DEPARTAMENTO DE CONTROLE DE TRANSITO E TRANSPORTE.
@@ -5516,7 +5515,6 @@ DRH/jma/2018.
 > **Ref:** ilh-2018-port-2609 · **Tipo:** Portaria · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DESIGNA O SENHOR ANTONIEL DOS SANTOS PARA SUBSTITUIR O CARGO DE GESTOR DE DIVISÃO DE FISCALIZAÇÃO DE TRANSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201802609
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 PORTARIA Nº 2.609, DE 26/11/2018
 DESIGNA O SENHOR ANTONIEL DOS SANTOS PARA SUBSTITUIR O CARGO DE GESTOR DE DIVISÃO DE FISCALIZAÇÃO DE TRANSITO.
@@ -15801,7 +15799,6 @@ Registrado em livro próprio e afixado na data supra, no lugar de costume.
 > **Ref:** ilh-2022-port-788 · **Tipo:** Portaria · **Ano:** 2022 · **Status:** em vigor
 > **Ementa:** DESIGNA O SENHOR WANDERSON DE ARAUJO PARA SUBSTITUIR O CARGO DE DIRETOR MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2022788
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 PORTARIA Nº 788, DE 30/11/2022
 DESIGNA O SENHOR WANDERSON DE ARAUJO PARA SUBSTITUIR O CARGO DE DIRETOR MUNICIPAL DE TRÂNSITO.
@@ -20574,7 +20571,6 @@ Diretor de Gestão de Pessoas. (Substituto)
 > **Ref:** ilh-2023-port-1374 · **Tipo:** Portaria · **Ano:** 2023 · **Status:** em vigor
 > **Ementa:** DESIGNA O SENHOR WANDERSON DE ARAUJO PARA SUBSTITUIR O CARGO DE DIRETOR MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20231374
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 PORTARIA Nº 1.374, DE 30/10/2023
 DESIGNA O SENHOR WANDERSON DE ARAUJO PARA SUBSTITUIR O CARGO DE DIRETOR MUNICIPAL DE TRÂNSITO.
@@ -24085,7 +24081,6 @@ DGP/bsv/2024.
 > **Ref:** ilh-2024-port-866 · **Tipo:** Portaria · **Ano:** 2024 · **Status:** em vigor
 > **Ementa:** DESIGNA AO SENHOR WANDERSON DE ARAUJO PARA SUBSTITUIR O CARGO DE DIRETOR MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=2024866
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 PORTARIA Nº 866, DE 11/07/2024
 DESIGNA AO SENHOR WANDERSON DE ARAUJO PARA SUBSTITUIR O CARGO DE DIRETOR MUNICIPAL DE TRÂNSITO.

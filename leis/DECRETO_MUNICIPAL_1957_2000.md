@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 1957
   - Decreto Municipal nº 1957
   - Decreto Municipal 1957
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200001957&NroLei=1.957&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "88ff47cfbea2ef7fb7914fcbd0251ffa54ff2ca327132ae1e5abaaa648adf3c9"

@@ -10714,7 +10714,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2011-dec-2755 · **Tipo:** Decreto · **Ano:** 2011 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO DO SENHOR EDUARDO NASCIMENTO DE JESUS, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201102755&NroLei=2.755&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 2.755, DE 29/09/2011
 DISPÕE SOBRE A EXONERAÇÃO DO SENHOR EDUARDO NASCIMENTO DE JESUS, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -35656,7 +35655,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4106 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCOS GOMES DE OLIVEIRA, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504106&NroLei=4.106&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.106, DE 03/02/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCOS GOMES DE OLIVEIRA, PARA EXERCER EM COMISSÃO O CARGO DE DIRETOR DE DEPARTAMENTO DE TRÂNSITO.
@@ -43906,7 +43904,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4484 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR EDUARDO MOREIRA DE ALCANTARA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504484&NroLei=4.484&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.484, DE 01/04/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR EDUARDO MOREIRA DE ALCANTARA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -43929,7 +43926,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4485 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR DOUGLAS MARTINS DE FARIAS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504485&NroLei=4.485&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.485, DE 01/04/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR DOUGLAS MARTINS DE FARIAS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -43952,7 +43948,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4486 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DA SENHORA LUCIANA RODRIGUES DA CRUZ SOUZA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504486&NroLei=4.486&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.486, DE 01/04/2015
 DISPÕE SOBRE A NOMEAÇÃO DA SENHORA LUCIANA RODRIGUES DA CRUZ SOUZA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -43975,7 +43970,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4487 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR HUGO LEONARDO MENDES RAMOS DE OLIVEIRA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504487&NroLei=4.487&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.487, DE 01/04/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR HUGO LEONARDO MENDES RAMOS DE OLIVEIRA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -43998,7 +43992,6 @@ SAJ/LHHA/dabsj.
 > **Ref:** ilh-2015-dec-4488 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCIO DOS SANTOS FERREIRA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504488&NroLei=4.488&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.488, DE 01/04/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCIO DOS SANTOS FERREIRA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -45284,7 +45277,6 @@ SAJ/LHHA/crbr.
 > **Ref:** ilh-2015-dec-4556 · **Tipo:** Decreto · **Ano:** 2015 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCELO DE PADUA DA SILVA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504556&NroLei=4.556&Word=&Word2=
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 4.556, DE 17/04/2015
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR MARCELO DE PADUA DA SILVA, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES, A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.

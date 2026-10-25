@@ -11,8 +11,8 @@
 - `leis/`: **35.776 normas**; refs únicas **35.776/35.776**; **0 erros**,
   8 avisos (6 ementas curtas + 2 aliases vazios) e 4 problemas de qualidade
   (registro histórico de 1805 e Lei Orgânica).
-- `notebooklm/`: **41 partes**, **35.776 blocos = 35.776 refs**, **10.167.082
-  palavras**, maior parte **394.876 palavras** (teto 500k), `notebooklm:check`
+- `notebooklm/`: **41 partes**, **35.776 blocos = 35.776 refs**, **10.166.100
+  palavras**, maior parte **394.497 palavras** (teto 500k), `notebooklm:check`
   = saída íntegra — conferindo também **título e ementa** de cada bloco
   contra o frontmatter.
 - `npm test`: **84/84** · `check:samples`: **0 erros** (exit 0).
@@ -212,10 +212,31 @@ cor branca), Leis 98/1980 e 1.784/2026 (supressão/poda), decretos do COMUS
 (10.562/2024, 10.563/2024, 11.373/2025).
 
 **Nota sobre palavras-chave automáticas:** a Lei 285/2004 (multas de trânsito)
-carrega `mobilidade urbana` em `palavras_chave_auto` porque a regra de
+carregava `mobilidade urbana` em `palavras_chave_auto` porque a regra de
 sinônimos casa “trânsito” (`scripts/schema/sinonimos.pt-BR.json`). O domínio é
-defensável, mas facilitou a atribuição errada (erro 4). Ajuste opcional:
-remover “trânsito” da lista `match` dessa regra e regenerar.
+defensável, mas facilitou a atribuição errada (erro 4).
+
+**Correções aplicadas em 25/10/2026 (pós-forma A):**
+
+1. **Dicionário:** “trânsito” removido da lista `match` da regra de
+   transporte/mobilidade (`scripts/schema/sinonimos.pt-BR.json`) — a própria
+   descrição do dicionário manda preferir frases a termos genéricos.
+   `npm run enrich:force` reprocessou as 35.776 normas: **92 perderam a
+   palavra-chave equivocada** (231 → 139 normas com “mobilidade urbana”;
+   6.082 → 6.005 com palavras-chave). O caso real virou teste
+   (`scripts/tests/enrich.test.ts`, 86/86 no `npm test`).
+2. **Instruções (`00-INSTRUCOES.md`, 509 → 561 palavras):** a regra 1 passou a
+   exigir que efeito, procedimento ou imposição esteja **escrito** na norma
+   (ataca os erros 1, 3, 5, 6, 7 e 8); a regra 2 passou a exigir o **tipo
+   exato** ao citar (ataca o erro 2); a regra 3 passou a exigir o status junto
+   **inclusive em listas** (ataca as ~10 omissões).
+3. **Revalidação:** `npm test` 86/86 · `pipeline` 0 erros/8 avisos/4 qualidade
+   · `notebooklm` 43 fontes/10.166.100 palavras/maior 394.497 ·
+   `notebooklm:check` íntegro · `check:samples` exit 0.
+
+Os erros 1–3 e 5–8 são do modelo, não do acervo; as instruções mais duras
+reduzem o risco, mas **só a reexecução das perguntas com o custom goal ativo
+confirma** (forma A2 + forma B).
 
 **Pendências do Lote 5:** forma B (as mesmas 10 perguntas nomeando a parte
 provável); ativar o custom goal com o texto de `00-INSTRUCOES.md` para as

@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 2128
   - Decreto Municipal nº 2128
   - Decreto Municipal 2128
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200002128&NroLei=2.128&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "4ed76c63380c3d21193138f798d9e5c93cd8649a353ca2af2dd322122daeb09e"

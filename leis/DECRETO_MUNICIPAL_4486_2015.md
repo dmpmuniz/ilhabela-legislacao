@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 4486
   - Decreto Municipal nº 4486
   - Decreto Municipal 4486
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504486&NroLei=4.486&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "047b3e634cb004e80bb0039ea80c7a202bda4735bd7ee3cd47555b9eb3bf816a"

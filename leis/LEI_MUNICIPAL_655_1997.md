@@ -15,15 +15,6 @@ aliases:
   - Lei nº 655/1997
   - Lei 655
   - Lei nº 655
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=19970655&NroLei=655&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "43270108f7f06034e209bd9bd768e01627384c602a293ec59f6ba9935df6a79c"

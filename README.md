@@ -113,7 +113,7 @@ Detalhes que valem saber:
 
 - **Por que 43 fontes:** o Gemini Notebook limita cada fonte em **500.000 palavras
   ou 200 MB** (o que vier primeiro, em todos os planos). O acervo tem
-  **10.167.082 palavras**, dividido em partes temáticas (a maior tem ~395 mil) —
+  **10.166.100 palavras**, dividido em partes temáticas (a maior tem ~395 mil) —
   as 43 fontes (instruções + índice + 41 partes) cabem num único notebook
   (o plano gratuito aceita 50).
 - **Partes temáticas, não cronológicas:** cada parte reúne um tipo de norma por

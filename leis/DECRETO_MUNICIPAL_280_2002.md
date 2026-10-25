@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 280
   - Decreto Municipal nº 280
   - Decreto Municipal 280
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200280&NroLei=280&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "2ac784854413bd062a69cde6e0c147b4eef66c77e3386f5a8db85636fe830253"

@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 276
   - Decreto Municipal nº 276
   - Decreto Municipal 276
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200276&NroLei=276&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "3cb2b265572cbab31537f28da065f4e384d59842a8e83fc736d4f4d78a1502fa"

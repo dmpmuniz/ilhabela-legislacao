@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 671
   - Decreto Municipal nº 671
   - Decreto Municipal 671
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300671&NroLei=671&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "7c56e2d195995868ffa8f9de589ed8fd1b39bad20996cbf348b6616ba0a73276"

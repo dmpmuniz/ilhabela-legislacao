@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 3709
   - Decreto Municipal nº 3709
   - Decreto Municipal 3709
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201303709&NroLei=3.709&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: bd8e2b3e0b4722eb9c4b667595e10bfab7ba6b43f76c987c8e62a0ffdef14a64

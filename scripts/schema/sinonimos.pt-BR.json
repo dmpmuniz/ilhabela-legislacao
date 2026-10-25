@@ -48,7 +48,7 @@
       "palavras_chave": ["educação municipal", "ensino fundamental", "professor", "merenda escolar", "creche"]
     },
     {
-      "match": ["transporte público", "mobilidade urbana", "trânsito", "estacionamento", "tarifa de ônibus", "táxi", "ciclovia"],
+      "match": ["transporte público", "mobilidade urbana", "estacionamento", "tarifa de ônibus", "táxi", "ciclovia"],
       "tags": ["transporte", "mobilidade_urbana"],
       "palavras_chave": ["transporte público", "mobilidade urbana", "trânsito", "estacionamento", "tarifa de ônibus"]
     },

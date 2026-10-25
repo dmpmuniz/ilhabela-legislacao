@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 4879
   - Decreto Municipal nº 4879
   - Decreto Municipal 4879
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201504879"
 coletado_em: "2026-10-11"
 sha256_raw: "98c28582d549a7a769d7dea03985c1b63ddc83ec70be1860698502071c87cee6"

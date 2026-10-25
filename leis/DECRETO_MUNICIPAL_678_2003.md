@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 678
   - Decreto Municipal nº 678
   - Decreto Municipal 678
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300678&NroLei=678&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: bbfbf649e0fa44f4171d4a4e828ec685f107b44127aad7b8ed278f6707f84c79

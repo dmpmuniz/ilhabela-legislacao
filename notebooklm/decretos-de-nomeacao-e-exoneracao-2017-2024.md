@@ -3226,7 +3226,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ref:** ilh-2018-dec-6881 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WESLEY SALLES DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806881
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.881, DE 06/02/2018
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WESLEY SALLES DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -3248,7 +3247,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ref:** ilh-2018-dec-6882 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR SANDRO ROBERTO DO NASCIMENTO MONTEIRO, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806882
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.882, DE 08/02/2018
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR SANDRO ROBERTO DO NASCIMENTO MONTEIRO, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -3270,7 +3268,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ref:** ilh-2018-dec-6883 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LUIZ CLAIR DE OLIVEIRA JUNIOR, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806883
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.883, DE 08/02/2018
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR LUIZ CLAIR DE OLIVEIRA JUNIOR, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -3596,7 +3593,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume. AGM/VS
 > **Ref:** ilh-2018-dec-6903 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WILSON OLIVEIRA DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806903
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 6.903, DE 28/02/2018
 DISPÕE SOBRE A NOMEAÇÃO DO SENHOR WILSON OLIVEIRA DOS SANTOS, PARA OCUPAR NO QUADRO DE FUNCIONÁRIOS PERMANENTES A FUNÇÃO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -8405,7 +8401,6 @@ Prefeito Municipal
 > **Ref:** ilh-2018-dec-7244 · **Tipo:** Decreto · **Ano:** 2018 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO A PEDIDO DO SENHOR RICARDO SEVERINO, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201807244
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 7.244, DE 26/12/2018
 DISPÕE SOBRE A EXONERAÇÃO A PEDIDO DO SENHOR RICARDO SEVERINO, QUE OCUPA NO QUADRO DE FUNCIONÁRIOS PERMANENTES O CARGO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -26737,7 +26732,6 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ref:** ilh-2021-dec-8759 · **Tipo:** Decreto · **Ano:** 2021 · **Status:** em vigor
 > **Ementa:** DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DO SERVIDOR EDUARDO MOREIRA DE ALCANTARA, DO CARGO DE PROVIMENTO EFETIVO DE AGENTE MUNICIPAL DE TRÂNSITO.
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202108759
-> **Palavras-chave:** transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
 
 DECRETO MUNICIPAL Nº 8.759, DE 30/07/2021
 DISPÕE SOBRE A EXONERAÇÃO, A PEDIDO, DO SERVIDOR EDUARDO MOREIRA DE ALCANTARA, DO CARGO DE PROVIMENTO EFETIVO DE AGENTE MUNICIPAL DE TRÂNSITO.
@@ -45162,7 +45156,7 @@ Registrado em Livro próprio e afixado na data supra no lugar de costume.
 > **Ementa:** DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.
 > **Efeitos a partir de:** 2024-06-06
 > **Fonte:** https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=202410509
-> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos, transporte público, mobilidade urbana, trânsito, estacionamento, tarifa de ônibus
+> **Palavras-chave:** servidor público, cargo em comissão, concurso público, plano de cargos, vencimentos
 
 DECRETO MUNICIPAL Nº 10.509, DE 10/06/2024
 DISPÕE SOBRE A NOMEAÇÃO DE MARCOS GOMES DE OLIVEIRA PARA OCUPAR O CARGO EM COMISSÃO DE CHEFE DE DIRETORIA DE TRÂNSITO, NA SECRETARIA DE MOBILIDADE E SEGURANÇA.

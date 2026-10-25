@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 675
   - Decreto Municipal nº 675
   - Decreto Municipal 675
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300675&NroLei=675&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: "1cfed3f8ff370d8d72077aec404db64924a03726696fb57f2307039cd39fed87"

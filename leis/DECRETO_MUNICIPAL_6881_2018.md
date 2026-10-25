@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 6881
   - Decreto Municipal nº 6881
   - Decreto Municipal 6881
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=201806881"
 coletado_em: "2026-10-11"
 sha256_raw: "8c149dd02fa23172bb27bd6c8251435ec2e1f0c8581eca20fd4afb605a4b9139"

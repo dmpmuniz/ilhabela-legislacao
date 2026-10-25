@@ -15,15 +15,6 @@ aliases:
   - Lei nº 1179/2016
   - Lei 1179
   - Lei nº 1179
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=20161179"
 coletado_em: "2026-10-11"
 sha256_raw: "3f94d319c80b83436e7d680aafeefe480775241542b250547d7ac0afa74bc705"

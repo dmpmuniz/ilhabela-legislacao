@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 278
   - Decreto Municipal nº 278
   - Decreto Municipal 278
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200278&NroLei=278&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: e1e54890667228717ec66d1dacaa2293a4f1d6969d55c194045e1f3582c7343f

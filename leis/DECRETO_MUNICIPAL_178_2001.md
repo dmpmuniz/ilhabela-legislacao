@@ -18,15 +18,6 @@ aliases:
   - Decreto nº 178
   - Decreto Municipal nº 178
   - Decreto Municipal 178
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200100178&NroLei=178&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: f9228e12aad0f6db5a35e57150de26cff815a7540a4ffd003bf36180836f71a0

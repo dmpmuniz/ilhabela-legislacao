@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 679
   - Decreto Municipal nº 679
   - Decreto Municipal 679
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200300679&NroLei=679&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: b37b3e4b9cb70a75f55293767665ad19705ea4099cbbcb06a57aa51c25f9a456

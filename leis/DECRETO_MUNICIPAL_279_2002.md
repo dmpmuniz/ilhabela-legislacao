@@ -17,15 +17,6 @@ aliases:
   - Decreto nº 279
   - Decreto Municipal nº 279
   - Decreto Municipal 279
-palavras_chave_auto:
-  - transporte público
-  - mobilidade urbana
-  - trânsito
-  - estacionamento
-  - tarifa de ônibus
-tags_auto:
-  - transporte
-  - mobilidade_urbana
 url_fonte: "https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=8969&cdDiploma=200200279&NroLei=279&Word=&Word2="
 coletado_em: "2026-10-11"
 sha256_raw: e5f8c2fc346f60e6e6fe998c92f51c8e365d11b8c8cf5a229a90239061cb1bb9
