@@ -286,7 +286,9 @@ fontes**, com ≥2 livres. Dividir temas hoje só para o catch-all evidente
 ## 9. Protocolo de teste de recall (Lote 5 aprofundado)
 
 1. **Preparo:** notebook com as 43 fontes + `00-INSTRUCOES.md` + custom goal
-   com o texto das instruções. Sem fontes web.
+   com o texto das instruções. Sem fontes web. **Não suba o roteiro de teste
+   como fonte:** ele não é norma e contamina a recuperação (a A3 foi rodada
+   com 44 fontes por esse motivo).
 2. **10 perguntas-caveira** (licitação, servidores públicos, zoneamento, meio
    ambiente, tributos municipais, educação, saúde, mobilidade urbana, patrimônio
    histórico, saneamento básico) — cada uma em **duas formas**: sem nome de fonte

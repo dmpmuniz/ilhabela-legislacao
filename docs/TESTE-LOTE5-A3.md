@@ -1,7 +1,11 @@
 # Teste Lote 5 — rodada A3 (5 perguntas)
 
+> **Não suba este arquivo como fonte no notebook.** Ele é roteiro, não norma.
+> Se já subiu, remova antes de rodar: com ele, o notebook fica com 44 fontes e
+> o teste deixa de medir só o acervo.
+
 Re-teste das 43 fontes do NotebookLM depois do endurecimento da regra 2
-(`00-INSTRUCOES.md`, 583 palavras). O objetivo é medir se o **custom goal
+(`00-INSTRUCOES.md`, 630 palavras). O objetivo é medir se o **custom goal
 ativo** elimina os localizadores deduzidos da rodada A2 (artigos e números de
 lei inventados).
 

@@ -309,6 +309,77 @@ leis”. Instruções: 509 → 583 palavras; export regenerado e íntegro
 `00-INSTRUCOES.md` — sem ele as regras 2/6 não são seguidas; (2) re-subir as
 43 fontes (instruções mudaram de novo) e repetir as 5 perguntas; (3) forma B.
 
+## Lote 5 — forma A3 (25/10/2026): 5 perguntas, execução contaminada
+
+**Ressalva de método:** o roteiro `docs/TESTE-LOTE5-A3.md` foi enviado ao
+notebook como **44ª fonte** (a resposta começa confirmando o arquivo), e as 5
+perguntas foram feitas de uma vez, não uma por vez. O teste **não** é uma
+medição limpa das 43 fontes: o roteiro contém as palavras `ref`/`url_fonte` e
+pode ter induzido as citações. Os números abaixo são indicativos; a rodada A4
+precisa ser limpa.
+
+| Métrica | Meta | Resultado |
+|---|---|---|
+| Acerto de conteúdo | ≥80% | **4/5 (80%)** — Q4 falhou |
+| Citações com problema | ≥90% | **5/31 (83,9%)** — reprovado |
+| Falso negativo | ≤1 | **0** |
+| Ref inexistente | 0 | **2** — reprovado |
+| Link `url_fonte` | 100% | **0/31** — reprovado |
+
+*31 citações (29 normas distintas; Lei 421/2006 e Lei 529/2007 aparecem duas
+vezes).*
+
+**O que funcionou:**
+
+- **Q1:** LC 1.326/2018, art. 19 (§§ 1º–3º) e Lei 1.327/2018, art. 33
+  literais; as Portarias 797/2017 e 1.885/2017 existem e são de readaptação.
+- **Q2:** Lei 421/2006, arts. 5º IV, 27 e 63–67 literais (sistema bimodal,
+  TPA, Vila/ Centro Histórico); LC 1.517/2022, arts. 32–33; os três decretos
+  existem e tratam de tarifa/ciclovia.
+- **Q3:** Lei Orgânica, art. 49 literal (Vila Bela); LC 1.595/2023; Lei
+  421/2006, arts. 14 §§ 4º–5º, 27 § 2º e 86; Decreto 8.483/2021; Leis
+  824/2010 e 829/2010.
+- **Q5:** Lei 369/1990, art. 2º e art. 3º “b” literais; Lei 1.279/2018;
+  Lei 529/2007, art. 71 II/III; Lei 1.001/2013.
+
+**Erros:**
+
+1. **`ilh-1990-lom`** — ref inexistente; a Lei Orgânica é
+   **`ilh-1990-lo-000`**.
+2. **`ilh-2007-lc-529`** — ref inexistente e tipo errado; é **Lei
+   Municipal**, `ilh-2007-lei-529` (reincidência do erro 12 da A2).
+3. **Lei 529/2007 como “IPTU Verde”** — é o Código de Posturas; o benefício
+   é da **Lei 1.592/2023**.
+4. **Lei 156/2002** tratada como “antigo Código Tributário revogado” — é o
+   CTM **em vigor**.
+5. **Lei 047/1979** descrita como “referente a isenções” — alterou o art. 72
+   (fato gerador do IPTU), não isenções.
+6. **Imprecisões:** 432/1991 e 697/1997 são PGV (desconto de pagamento e
+   remissão), não “leis de isenção”; os Decretos 7.613/2019 e 3.861/2014 são
+   tarifários, não “sistema”; “Laudo de Conclusão Pericial” não está nas
+   Portarias de 2017 citadas.
+
+**Causa:** o modelo agora **constrói** a ref a partir de tipo/ano/número e
+ignora o link **Fonte** (a instrução pedia `url_fonte`, mas o cabeçalho do
+bloco diz **Fonte**). Exemplos: `ilh-1990-lom` (abreviação inventada) e
+`ilh-2007-lc-529` (tipo errado). O status da Lei 156/2002 foi deduzido pelo
+ano, não copiado do cabeçalho.
+
+**Correção (25/10):** regras 1–3 das instruções:
+
+- regra 1: “nunca invente ... **ref**” e “no texto **da norma citada**”
+  (impede atribuir efeito de uma norma a outra);
+- regra 2: copiar título/**Ref**/**Fonte** do cabeçalho, nunca montar,
+  deduzir ou reformatar; se não houver, dizer que não encontrou;
+- regra 3: copiar o **Status** do cabeçalho, nunca deduzir pelo ano ou tipo.
+
+Instruções: **583 → 630 palavras**; export regenerado; `notebooklm:check`
+íntegro; `npm test` **86/86**.
+
+**Pendências críticas:** (1) **remover `TESTE-LOTE5-A3.md` das fontes**
+(voltar a 43); (2) re-subir as 43 fontes (instruções mudaram) e ativar o
+custom goal; (3) rodada **A4** com uma pergunta por vez; (4) forma B.
+
 ## Lição da revisão
 
 O gabarito é o contrato da amostragem: **se ele codifica um gap, a amostra passa
