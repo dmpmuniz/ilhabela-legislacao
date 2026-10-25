@@ -1,17 +1,13 @@
 # Legislação Municipal de Ilhabela/SP — em Markdown
 
 **35.776 normas do município de Ilhabela/SP** — o **espelho integral** do portal
-público da legislação: leis, decretos, portarias, resoluções, e também os atos
-de pessoal (nomeações, exonerações, readaptações, aposentadorias, férias,
-licenças) e as normas fora de vigor (revogadas, expiradas, anuladas,
-inconstitucionais, suspensas). Cada norma traz o seu `status`, e o histórico
-fica junto do vigente.
+público da legislação: leis, decretos, portarias, resoluções e atos de pessoal
+(nomeações, exonerações, readaptações, aposentadorias, férias, licenças).
+Inclui também as normas que não valem mais (revogadas, expiradas, anuladas,
+inconstitucionais e suspensas), cada uma com o seu `status`.
 
-Pronto para:
-
-- 🔎 **pesquisar** — busca por texto em qualquer editor ou ferramenta, sem portal lento no caminho
-- 🤖 **usar com IA** — pacote pronto para o Google NotebookLM, com arquivo de instruções/persona que ensina a IA a respeitar o `status` de cada norma
-- 📚 **estudar e reaproveitar** — domínio público, use à vontade, sem pedir permissão
+Serve para **pesquisar**, **estudar** e **usar com IA** — inclusive no Google
+NotebookLM (hoje **Gemini Notebook**), com um pacote pronto de 43 arquivos.
 
 **Fonte dos dados:** portal público da legislação de Ilhabela/SP no
 [Cespro](https://www.cespro.com.br/visualizarLegislacao.php?cdMunicipio=8969).
@@ -20,46 +16,158 @@ organização é oferecida sob [CC0 1.0](LICENSE).
 
 > Projeto comunitário, **não oficial** e sem vínculo com a Prefeitura de
 > Ilhabela ou com o Cespro.
+>
+> **Versão atual: v3.1.0 (out/2026).**
 
-> **Versão atual: v3.1.0 (out/2026).** Se você já usou a versão de ~18 mil ou a
-> de 35 mil normas antes das correções, **não misture** as fontes antigas com
-> as novas: siga o [guia de atualização](docs/ATUALIZACAO.md). O NotebookLM não
-> atualiza um `.md` já enviado; é preciso remover as fontes antigas e subir as
-> 43 atuais.
+## Já usou uma versão anterior? Comece por aqui
 
-## O que tem aqui
+Se você já montou um notebook com a versão de **~18 mil** ou de **35 mil
+normas**, as fontes antigas **não servem** para a versão atual. O NotebookLM
+não atualiza um arquivo já enviado: ele fica parado no tempo. Também não
+adianta misturar fontes velhas com novas — isso gera normas duplicadas e
+respostas com `status` errado.
 
-| Pasta | Conteúdo |
-|---|---|
-| `leis/` | **35.776 arquivos** `.md` — uma norma por arquivo, com metadados no cabeçalho |
-| `notebooklm/` | **41 partes temáticas** + `00-INSTRUCOES.md` (persona e regras para a IA) + `01-INDICE-GERAL.md` (mapa do acervo) |
-| `docs/` | documentação do projeto: pipeline, schema, decisões (ADRs) e plano do export |
-| `scripts/` | ferramentas que mantêm o acervo (Node ≥ 22.6, sem dependências) — veja o [AGENTS.md](AGENTS.md) |
+Em resumo, faça assim:
 
-## Composição do acervo (retrato de out/2026)
+1. **Apague todas as fontes antigas** do notebook. Não apague só as que você
+   acha que mudaram: apague todas.
+2. **Baixe o pacote novo** na página de
+   [releases](https://github.com/dmpmuniz/ilhabela-legislacao/releases/latest)
+   (`notebooklm-v3.1.0.zip`).
+3. **Envie as 43 fontes** da pasta `notebooklm/`: `00-INSTRUCOES.md`,
+   `01-INDICE-GERAL.md` e as 41 partes.
+4. **Cole o texto de `00-INSTRUCOES.md`** no campo de instruções do notebook
+   (o “custom goal”).
+5. **Faça uma pergunta de teste** — por exemplo, “A Lei 156/2002 está em
+   vigor?” — e confira se a resposta cita a norma e o link.
+
+O passo a passo completo, com o que fazer se algo der errado, está em
+**[docs/ATUALIZACAO.md](docs/ATUALIZACAO.md)**.
+
+## O que você recebe
+
+- **35.776 normas** em arquivos `.md`, uma norma por arquivo.
+- **43 arquivos prontos** para o NotebookLM: as instruções, o índice e as 41
+  partes temáticas.
+- **O `status` de cada norma**: dá para separar o que vale hoje do que é
+  histórico.
+- **Texto integral** e links para a fonte oficial no Cespro.
+
+### Quanto há de cada tipo
 
 | Status | Quantidade | O que significa |
 |---|---|---|
 | `em_vigor` | 32.198 | Vale integralmente hoje |
 | `revogada` | 2.039 | Foi revogada por outra norma |
-| `expirada` | 1.516 | Vigência esgotada (termo final), sem revogação |
-| `inconstitucional` | 14 | Declarada em ação direta (ADI/ADIN) |
-| `suspensa` | 1 | Eficácia sustada por liminar |
+| `expirada` | 1.516 | A vigência terminou, sem revogação |
+| `inconstitucional` | 14 | Declarada inconstitucional em ação direta |
+| `suspensa` | 1 | Eficácia suspensa por liminar |
 | `anulada` | 8 | Ato anulado pela própria Administração |
 
-E por tipo: **19.717 portarias** (incluindo atos de pessoal: nomeações,
-readaptações, férias, licenças), **12.810 decretos**, **3.158 leis**, **77 leis
-complementares**, **9 portarias conjuntas**, **3 resoluções**, **1 Lei Orgânica**
-e **1 registro histórico de 1805**.
+Por tipo: **19.717 portarias** (incluindo atos de pessoal), **12.810
+decretos**, **3.158 leis**, **77 leis complementares**, **9 portarias
+conjuntas**, **3 resoluções**, **1 Lei Orgânica** e **1 registro histórico de
+1805**.
 
-**Por que o histórico junto do vigente?** Fato antigo julga-se pela lei da época
-(*tempus regit actum*), cadeias de revogação exigem o texto revogado, e direito
-adquirido nasce sob norma que não vale mais. O `status` de cada norma resolve a
-triagem — o campo existe para isso.
+**Por que guardar o histórico junto do que está valendo?** Porque um fato
+antigo é julgado pela lei da época; cadeias de revogação precisam do texto
+revogado; e direitos adquiridos nasceram sob normas que não valem mais. O
+`status` resolve a triagem — o histórico não é lixo, é prova.
 
-## Formato de cada norma
+## Como usar no NotebookLM
 
-Cada arquivo tem um cabeçalho (frontmatter) com os metadados e o texto integral embaixo:
+Você **não precisa saber programar** para esta parte.
+
+1. Crie um notebook em [notebook.google.com](https://notebook.google.com).
+2. Baixe o pacote `notebooklm-v3.1.0.zip` na página de
+   [releases](https://github.com/dmpmuniz/ilhabela-legislacao/releases/latest)
+   e descompacte.
+3. Envie as **43 fontes** da pasta `notebooklm/`:
+   `00-INSTRUCOES.md`, `01-INDICE-GERAL.md` e as 41 partes.
+4. Abra as configurações do notebook e procure o campo **Custom goal**,
+   **Instruções do notebook** ou **Persona**. Cole ali o texto inteiro de
+   `00-INSTRUCOES.md`.
+5. Faça uma pergunta por vez. Para uma resposta mais confiável, peça: “cite a
+   `ref` e o link `url_fonte` de cada norma usada”.
+
+**Não suba a pasta `leis/` no NotebookLM.** Ela tem 35.776 arquivos
+individuais e não cabe no limite de fontes. O pacote do NotebookLM é a pasta
+`notebooklm/`, com 43 arquivos.
+
+### Por que 43 arquivos?
+
+O Gemini Notebook limita cada fonte a **500.000 palavras** (ou 200 MB). O
+acervo tem **10.166.100 palavras**, então foi dividido em 41 partes temáticas
+(a maior tem **394.497 palavras**). Com as instruções e o índice, dá **43
+fontes** — cabe até no plano gratuito, que aceita 50.
+
+A ordem de upload não importa. O nome do arquivo vira o nome da fonte e é o
+que aparece nas citações.
+
+## Como usar sem NotebookLM
+
+Baixe o repositório e abra a pasta `leis/` em qualquer editor. A busca funciona
+em todos os arquivos:
+
+```bash
+# quem fala de licitação?
+grep -ril "licitação" leis/
+
+# o que diz a Lei Orgânica?
+cat leis/LEI_ORGANICA_MUNICIPAL_000_1990.md
+```
+
+## Antes de usar em algo sério
+
+1. **Confira a data.** É um retrato de **outubro/2026** — leis novas e
+   revogações posteriores não estão aqui.
+2. **Confira a fonte.** A conversão foi automática e pode conter erros. Antes
+   de citar, abra o link `url_fonte` da norma; a versão oficial é a do Cespro
+   ou do Diário Oficial.
+3. **Confira com um advogado.** Este material é apoio à pesquisa; não substitui
+   aconselhamento jurídico.
+
+A compilação é oferecida no estado em que se encontra, sem garantias de
+exatidão ou completude — os termos formais estão na [licença CC0](LICENSE).
+
+## Para quem quer clonar ou rodar os scripts (técnico)
+
+Esta parte é para quem vai mexer no pipeline, regerar as fontes ou conferir a
+conversão. Se você só quer usar o NotebookLM, pode parar aqui.
+
+### Estrutura do repositório
+
+| Pasta | Conteúdo |
+|---|---|
+| `leis/` | **35.776 arquivos** `.md` — a fonte de verdade, uma norma por arquivo |
+| `notebooklm/` | **41 partes** + `00-INSTRUCOES.md` + `01-INDICE-GERAL.md` = 43 fontes |
+| `docs/` | pipeline, schema, decisões (ADRs), plano de curadoria e validação |
+| `scripts/` | pipeline, geradores do NotebookLM, schema e testes |
+| `idx/` | manifesto e índice BM25 (gerados; não versionados) |
+
+### Requisitos
+
+- **Node.js 22.6 ou superior**
+- **zero dependências** (`npm install` não é necessário)
+- `npm test` para a suíte automatizada
+
+### Comandos principais
+
+| Comando | Uso |
+|---|---|
+| `npm test` | testes do pipeline, normalização, classificação e conferência Cespro |
+| `npm run check:samples` | pipeline na amostra (deve dar 0 erros) |
+| `npm run pipeline` | enrich → validate → manifest → index em `leis/` |
+| `npm run atualizar` | importa pacote bruto + sincroniza novas do Cespro + pipeline |
+| `npm run atualizar -- --refazer` | rebaixa o corpo de todas as normas do acervo |
+| `npm run enrich:force` | reenriquece tudo |
+| `npm run notebooklm` | gera as 43 fontes a partir de `leis/` |
+| `npm run notebooklm:check` | verifica blocos, refs, fontes, período e teto |
+| `npm run verificar:cespro` | compara 1 norma por parte com o portal; `-- --tudo` compara todas |
+
+### Formato de cada norma
+
+Cada arquivo tem um cabeçalho (frontmatter) e o texto integral embaixo:
 
 ```markdown
 ---
@@ -86,71 +194,22 @@ DECRETO MUNICIPAL Nº 001, DE 01/01/2001
 …
 ```
 
-- `ref` é a referência legível: `{sigla}-{ano}-{tipo}-{número}` (ex.: `ilh-2001-dec-001`)
-- `status`: `em_vigor` · `revogada` · `expirada` · `inconstitucional` · `suspensa` · `anulada`
-- artigos estão marcados como `##### Art. Nº` — facilita localizar e citar
-- arquivos com `_2`/`_3` no nome = **dois atos distintos com mesmo número e ano**,
-  publicados pela fonte em datas diferentes (defeito do dado-fonte, não da
-  conversão). São atos diferentes: confira a data no título antes de citar.
+- `ref` é a referência curta e única: `{sigla}-{ano}-{tipo}-{número}`
+  (ex.: `ilh-2001-dec-001`).
+- `status`: `em_vigor` · `revogada` · `expirada` · `inconstitucional` ·
+  `suspensa` · `anulada`.
+- artigos estão marcados como `##### Art. Nº`.
+- arquivos com `_2`/`_3` no nome são **dois atos distintos com o mesmo número
+  e ano**, publicados em datas diferentes pela fonte. Confira a data antes de
+  citar.
 
-## Como usar
+### Validação desta versão
 
-### Busca local
-
-Qualquer editor busca em 35 mil arquivos. Exemplos:
-
-```bash
-# quem fala de licitação?
-grep -ril "licitação" leis/
-
-# o que diz a Lei Orgânica?
-cat leis/LEI_ORGANICA_MUNICIPAL_000_1990.md
-
-# portarias de readaptação de servidores (todas)?
-grep -ril "readapta" leis/ | grep PORTARIA
-```
-
-### Google NotebookLM
-
-1. Crie um notebook em [notebook.google.com](https://notebook.google.com) — o NotebookLM virou **Gemini Notebook** em jul/2026
-2. Adicione as **43 fontes**: `00-INSTRUCOES.md`, `01-INDICE-GERAL.md` e as 41 partes temáticas
-3. Se você já tinha um notebook das versões anteriores (18 mil/35 mil normas), **não reaproveite as fontes**: siga o [guia de atualização](docs/ATUALIZACAO.md)
-
-Detalhes que valem saber:
-
-- **Por que 43 fontes:** o Gemini Notebook limita cada fonte em **500.000 palavras
-  ou 200 MB** (o que vier primeiro, em todos os planos). O acervo tem
-  **10.166.100 palavras**, dividido em partes temáticas (a maior tem ~395 mil) —
-  as 43 fontes (instruções + índice + 41 partes) cabem num único notebook
-  (o plano gratuito aceita 50).
-- **Partes temáticas, não cronológicas:** cada parte reúne um tipo de norma por
-  período (`leis-2003-2015`, `portarias-de-ferias-e-licencas-2015-2017`,
-  `decretos-revogados-2022-2026`…), com nome descritivo — o nome da fonte
-  aparece na busca e nas citações.
-- **Ordem de upload não importa:** o NotebookLM recupera trechos relevantes de
-  todas as fontes a cada pergunta. O que faz o `00-INSTRUCOES.md` funcionar é o
-  **conteúdo** (regras explícitas), não a posição na fila.
-- **O nome do arquivo vira o nome da fonte** no notebook — na lista de fontes
-  e nas citações.
-- As instruções incluem: nunca inventar número de lei, citar sempre `ref` +
-  `url_fonte`, **respeitar o `status`** (norma revogada/expirada só entra com
-  aviso explícito), acervo municipal não responde federal de memória, atos de
-  pessoal têm valor individual (não são fundamento jurídico de matérias gerais).
-- Se o seu notebook oferecer configuração nativa de instruções/respostas, cole
-  lá também o conteúdo do `00-INSTRUCOES.md` — cinto e suspensório.
-
-### Antes de usar em algo sério, três cuidados
-
-1. **Confira a data.** É um retrato de **outubro/2026** — leis novas e revogações
-   posteriores não estão aqui, e não há compromisso de atualização.
-2. **Confira a fonte.** A conversão foi automática e pode conter erros. Antes de
-   citar, abra o link `url_fonte` da norma — a versão oficial é sempre a do
-   Cespro ou do Diário Oficial do Município.
-3. **Confira com um advogado.** Este material é apoio à pesquisa; não substitui
-   aconselhamento jurídico para decisões.
-
-A compilação é oferecida no estado em que se encontra, sem garantias de exatidão
-ou completude — os termos formais estão na [licença CC0](LICENSE).
+- `npm test`: **86/86**
+- `npm run notebooklm:check`: **35.776 blocos/refs**, saída íntegra
+- `npm run check:samples`: **exit 0**
+- Conferência Cespro: **35.776/35.776** (24/10/2026; nenhuma norma mudou
+  desde então)
 
 ## Créditos
 
