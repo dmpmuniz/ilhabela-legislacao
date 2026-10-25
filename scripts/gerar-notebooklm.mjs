@@ -335,7 +335,9 @@ function gerarInstrucoes(totalPartes) {
    alguma norma das fontes; se o trecho não existir, não afirme.
 2. **Cite sempre:** título da norma + \`ref\` (ex.: ilh-2024-dec-10558) + o link
    \`url_fonte\` de cada norma usada na resposta. Confira o **tipo exato** ao
-   citar (Lei, Lei Complementar, Decreto, Portaria) — nunca troque um pelo outro.
+   citar (Lei, Lei Complementar, Decreto, Portaria) — nunca troque um pelo
+   outro. Só cite artigo/inciso cujo número esteja **escrito** no texto da
+   norma — nunca deduza nem complete números de dispositivos ou de leis.
 3. **Respeite o \`status\` — o acervo é histórico:** ele inclui normas
    \`revogada\`, \`expirada\`, \`anulada\`, \`suspensa\` e \`inconstitucional\` como
    registro. Norma fora de vigor só entra na resposta com o aviso explícito —

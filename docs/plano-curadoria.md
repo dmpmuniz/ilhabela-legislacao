@@ -38,7 +38,7 @@
 - **41 partes temáticas** + `00-INSTRUCOES.md` + `01-INDICE-GERAL.md` = **43 fontes**
 - maior arquivo: **394.497 palavras** (teto de 500k do NotebookLM)
 - 6.005 normas com palavras-chave automáticas (`palavras_chave_auto`; 0 curadas); 2.467 com data de efeitos; 18 refs desempatadas (`-2`/`-3`)
-- índice com 906 palavras; instruções com 561 palavras
+- índice com 906 palavras; instruções com 583 palavras
 - `npm test`: **84/84** · `scripts/verificar-saida.mjs`: saída íntegra (título e ementa conferidos)
 
 ---
@@ -133,8 +133,8 @@ nome de arquivo descritivo, cabeçalho com amostra + temas, `status` por norma e
 | 1 | Partes temáticas | **executado** | 41 partes, 35.776 normas, máx. 395k palavras |
 | 2 | Índice geral | **executado** | inventário completo + mapa assunto → tipo |
 | 3 | Metadados por norma | **executado** | 6.005 com palavras-chave automáticas; 2.467 com data de efeitos; refs `-2`/`-3` |
-| 4 | Instruções v2 | **executado** | 13 regras, 561 palavras |
-| 5 | Validação empírica | **forma A executada** | 10/10 perguntas no Gemini Notebook (24/10/2026): 10/10 acerto, ~94% citações, 0 falso negativo, 0 ref inexistente; forma B pendente — ver `RELATORIO-VALIDACAO.md` |
+| 4 | Instruções v2 | **executado** | 13 regras, 583 palavras (2 endurecimentos pós-Lote 5) |
+| 5 | Validação empírica | **em andamento** | forma A (24/10): 10/10 acerto, ~95% citações · forma A2 (25/10, 5 adversariais, custom goal inativo): 5/5 acerto, **~76% citações (reprovado)** · regra 2 endurecida; falta custom goal ativo + forma B — ver `RELATORIO-VALIDACAO.md` |
 | 6 | Publicação | **pendente** | commit local feito; push pendente |
 
 ### Lote 5 — metodologia (quando houver upload)
@@ -185,12 +185,12 @@ A conferência de fonte é automática; a interpretação jurídica final é do 
 | Normas no acervo | 35.776 | **35.776/35.776** |
 | Refs únicas | 100% | **35.776/35.776** |
 | Índice geral | ≤5k palavras | **906** |
-| Instruções | ≤3k palavras | **561** |
+| Instruções | ≤3k palavras | **583** |
 | Palavras-chave | normas-chave cobertas | **6.005** (191/191 readaptações) |
-| Acerto nas perguntas-caveira | ≥80% | **100% (10/10, forma A)** |
-| Citações corretas | ≥90% | **~94%** (8 erros em ~131, forma A) |
-| Falso negativo | ≤1 em 10 | **0** (forma A) |
-| Ref inexistente | 0 | **0** (forma A) |
+| Acerto nas perguntas-caveira | ≥80% | **100% (10/10 forma A · 5/5 forma A2)** |
+| Citações corretas | ≥90% | **~95% (forma A) · ~76% (forma A2, sem custom goal)** |
+| Falso negativo | ≤1 em 10 | **0** |
+| Ref inexistente | 0 | **0** |
 
 ---
 

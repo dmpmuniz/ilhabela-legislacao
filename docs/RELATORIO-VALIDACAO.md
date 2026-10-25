@@ -167,7 +167,7 @@ ativo; a auditoria resolveu cada citação manualmente contra o
 | Métrica | Meta | Resultado |
 |---|---|---|
 | Acerto por pergunta | ≥80% | **10/10 (100%)** |
-| Citações corretas | ≥90% | **~94%** (8 erros em ~131 afirmações) |
+| Citações corretas | ≥90% | **~95%** (6 erros em ~131; +2 erratas de auditoria) |
 | Falso negativo | ≤1 | **0** |
 | Ref inexistente | 0 | **0** |
 
@@ -188,10 +188,14 @@ acervo; nenhuma ref inventada; nenhuma pergunta ficou sem resposta.
    acervo (os decretos “eleitorais” tratam de CIPA e de cessão de bens à
    Justiça Eleitoral).
 6. **Lei 394/2006** citada como legislação urbanística de “Áreas de
-   Interesse Cultural” — institui o Museu Municipal; a expressão “Área de
-   Interesse Cultural” não existe no acervo.
-7. **“Vila Bela estritamente preservada”** — imposição não existe no acervo
-   (o nome só aparece no registro de 1805 e em listas de conselhos).
+   Interesse Cultural” — institui o Museu Municipal (a lei está errada; o
+   conceito existe no Plano Diretor, Lei 421/2006, art. 154, II).
+   *[Correção de auditoria (25/10): a expressão “Área de Interesse Cultural”
+   EXISTE no acervo — meu grep da rodada 1 foi truncado pelo `head -5`.]*
+7. ~~**“Vila Bela estritamente preservada”**~~ — *[RETIRADO em 25/10: a
+   imposição EXISTE no acervo — Lei Orgânica, art. 49, com o texto exato
+   (“...será preservada e mantida em suas características coloniais...”).
+   O erro era da minha auditoria (mesmo grep truncado), não da resposta.]*
 8. **“Procedimento Administrativo de Autorização para Corte de Árvore”** —
    apresentado como fonte, mas o procedimento descrito (documentos do
    imóvel, mapeamento dos cortes, vistoria prévia) não está no acervo.
@@ -225,7 +229,7 @@ defensável, mas facilitou a atribuição errada (erro 4).
    palavra-chave equivocada** (231 → 139 normas com “mobilidade urbana”;
    6.082 → 6.005 com palavras-chave). O caso real virou teste
    (`scripts/tests/enrich.test.ts`, 86/86 no `npm test`).
-2. **Instruções (`00-INSTRUCOES.md`, 509 → 561 palavras):** a regra 1 passou a
+2. **Instruções (`00-INSTRUCOES.md`, 509 → 583 palavras, em duas rodadas):** a regra 1 passou a
    exigir que efeito, procedimento ou imposição esteja **escrito** na norma
    (ataca os erros 1, 3, 5, 6, 7 e 8); a regra 2 passou a exigir o **tipo
    exato** ao citar (ataca o erro 2); a regra 3 passou a exigir o status junto
@@ -241,6 +245,69 @@ confirma** (forma A2 + forma B).
 **Pendências do Lote 5:** forma B (as mesmas 10 perguntas nomeando a parte
 provável); ativar o custom goal com o texto de `00-INSTRUCOES.md` para as
 respostas citarem `ref` e `url_fonte` (regra 2).
+
+## Lote 5 — forma A2 (25/10/2026): 5 perguntas adversariais
+
+Re-teste mirando os erros da forma A, nas 43 fontes regeneradas (dicionário
+corrigido + instruções endurecidas). **O custom goal continuou inativo** —
+nenhuma resposta citou `ref`/`url_fonte` e a Constituição Federal foi citada
+de memória (violação da regra 6).
+
+| Métrica | Meta | Resultado |
+|---|---|---|
+| Acerto por pergunta | ≥80% | **5/5 (100%)** |
+| Citações corretas | ≥90% | **~76%** (10 normas com problema em 42 citadas) — **reprovado** |
+| Falso negativo | ≤1 | **0** |
+| Ref inexistente | 0 | **0** |
+
+**Vitórias sobre a forma A:**
+
+- **Lei 285/2004 sumiu** da resposta de mobilidade — a correção do
+  dicionário funcionou; a resposta passou a se apoiar no Plano Diretor certo
+  (Lei 421/2006, arts. 63–67 literais, verificados).
+- **Vila Bela:** citação literal do art. 49 da Lei Orgânica (o suposto “erro
+  7” da forma A era da auditoria — ver errata acima).
+- **IPTU:** 17/18 citações perfeitas; separação vigente/revogada/expirada
+  100% conforme o manifesto (ex.: Lei 008/1972, revogada pela Lei 540/1993;
+  Lei 525/1993, art. 16 — exatos).
+- As invenções da forma A (transporte eleitoral, procedimento de corte de
+  árvore, Lei 746/1998 como alteração do COMUS) **não se repetiram**.
+
+**Erros remanescentes — modo de falha “localizadores deduzidos”** (norma
+certa, número de artigo/lei inventado):
+
+1. “Lei Municipal” 1.326/2018 — é **Lei Complementar** (reincidente).
+2. Lei 649/1997, art. 46 (2×) — Regime Diferenciado de Trabalho, não
+   readaptação (reincidente).
+3. Lei 649/1997, arts. 31 e 47 — recondução e vagas de jornada, citados
+   para invalidez e irredutibilidade (o certo, art. 26 §§ 1º/3º, veio junto).
+4. LC 1.326/2018, art. 37 — frequência; a regra de carreira/grupo é o
+   art. 19 § 1º, II (citado certo na mesma linha).
+5. Lei 1.327/2018, arts. 71, 73 e 74 — titulação, prazo regulamentar e
+   anexos; todo o conteúdo citado está no art. 33 (que veio exato).
+6. CF art. 37, XV — fora do acervo (regra 6).
+7. Decreto 11.568/2025, art. 21, IX — o art. 21 é Diretoria de Trânsito (o
+   art. 19, IV, veio literal).
+8. Lei 549/2007, art. 13, § 2º — a lei trata de registro de bens imateriais;
+   CONDEPHAAT só aparece na Lei 421/2006 (art. 154, § 1º, I).
+9. Decreto 8.520/2021 — trata de comitê especial, não da Vila (o Decreto
+   4.665/2015 veio exato).
+10. Lei 432/1991, art. 14 — a lei institui PGV (e o art. 14 trata de
+    parcelamento); a “isenção de aposentados” não está nela.
+11. “Lei 1.670/2024” — o conteúdo citado (multa à SABESP por vazamento em via
+    pública) é da **Lei 1.692/2025** (número trocado).
+12. “Lei Complementar” 529/2007 — é **Lei Municipal** (o art. 71, II/III,
+    veio literal).
+
+**Resposta a isso (25/10):** a regra 2 das instruções ganhou o bloqueio de
+localizadores deduzidos — “só cite artigo/inciso cujo número esteja escrito no
+texto da norma; nunca deduza nem complete números de dispositivos ou de
+leis”. Instruções: 509 → 583 palavras; export regenerado e íntegro
+(`notebooklm:check` ok).
+
+**Pendências críticas:** (1) ativar o custom goal com o texto de
+`00-INSTRUCOES.md` — sem ele as regras 2/6 não são seguidas; (2) re-subir as
+43 fontes (instruções mudaram de novo) e repetir as 5 perguntas; (3) forma B.
 
 ## Lição da revisão
 
