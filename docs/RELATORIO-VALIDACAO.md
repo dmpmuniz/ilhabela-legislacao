@@ -311,10 +311,11 @@ leis”. Instruções: 509 → 583 palavras; export regenerado e íntegro
 
 ## Lote 5 — forma A3 (25/10/2026): 5 perguntas, execução contaminada
 
-**Ressalva de método:** o roteiro `docs/TESTE-LOTE5-A3.md` foi enviado ao
-notebook como **44ª fonte** (a resposta começa confirmando o arquivo), e as 5
-perguntas foram feitas de uma vez, não uma por vez. O teste **não** é uma
-medição limpa das 43 fontes: o roteiro contém as palavras `ref`/`url_fonte` e
+**Ressalva de método:** o roteiro de teste (arquivo removido do repositório
+nesta release) foi enviado ao notebook como **44ª fonte** (a resposta começa
+confirmando o arquivo), e as 5 perguntas foram feitas de uma vez, não uma por
+vez. O teste **não** é uma medição limpa das 43 fontes: o roteiro contém as
+palavras `ref`/`url_fonte` e
 pode ter induzido as citações. Os números abaixo são indicativos; a rodada A4
 precisa ser limpa.
 
@@ -376,7 +377,7 @@ ano, não copiado do cabeçalho.
 Instruções: **583 → 630 palavras**; export regenerado; `notebooklm:check`
 íntegro; `npm test` **86/86**.
 
-**Pendências críticas:** (1) **remover `TESTE-LOTE5-A3.md` das fontes**
+**Pendências críticas:** (1) **remover o roteiro de teste das fontes**
 (voltar a 43); (2) re-subir as 43 fontes (instruções mudaram) e ativar o
 custom goal; (3) rodada **A4** com uma pergunta por vez; (4) forma B.
 

@@ -21,6 +21,12 @@ organização é oferecida sob [CC0 1.0](LICENSE).
 > Projeto comunitário, **não oficial** e sem vínculo com a Prefeitura de
 > Ilhabela ou com o Cespro.
 
+> **Versão atual: v3.1.0 (out/2026).** Se você já usou a versão de ~18 mil ou a
+> de 35 mil normas antes das correções, **não misture** as fontes antigas com
+> as novas: siga o [guia de atualização](docs/ATUALIZACAO.md). O NotebookLM não
+> atualiza um `.md` já enviado; é preciso remover as fontes antigas e subir as
+> 43 atuais.
+
 ## O que tem aqui
 
 | Pasta | Conteúdo |
@@ -108,6 +114,7 @@ grep -ril "readapta" leis/ | grep PORTARIA
 
 1. Crie um notebook em [notebook.google.com](https://notebook.google.com) — o NotebookLM virou **Gemini Notebook** em jul/2026
 2. Adicione as **43 fontes**: `00-INSTRUCOES.md`, `01-INDICE-GERAL.md` e as 41 partes temáticas
+3. Se você já tinha um notebook das versões anteriores (18 mil/35 mil normas), **não reaproveite as fontes**: siga o [guia de atualização](docs/ATUALIZACAO.md)
 
 Detalhes que valem saber:
 
